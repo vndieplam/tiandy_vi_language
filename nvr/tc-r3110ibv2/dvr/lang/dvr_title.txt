@@ -1,0 +1,733 @@
+#name	:	text
+
+DVR_SET_DEV_NAME	:	NVR
+DVR_STARTUP_HINT0	:	Đang khởi động hệ thống
+DVR_STARTUP_HINT1	:	Đang khởi động chip slave
+DVR_STARTUP_HINT2	:	Đang bắt đầu vào giao diện người dùng
+DVR_STARTUP_HINT3	:	Đang khởi tạo cấu hình hệ thống
+DVR_STARTUP_HINT4	:	Đang khởi tạo bộ mã hóa
+DVR_STARTUP_HINT5	:	Đang khởi tạo phát hiện chuyển động
+DVR_STARTUP_HINT6	:	Đang khởi tạo lớp phủ video
+DVR_STARTUP_HINT7	:	Đang khởi tạo bộ mã hóa chính
+DVR_STARTUP_HINT8	:	Đang khởi tạo xem trước video
+DVR_STARTUP_HINT9	:	Đang khởi tạo thời gian hệ thống
+DVR_STARTUP_HINT10	:	Đang khởi tạo module quản lý ổ cứng
+DVR_STARTUP_HINT11	:	Đang khởi tạo module lưu trữ
+DVR_STARTUP_HINT12	:	Đang khởi tạo module nhật ký
+DVR_STARTUP_HINT13	:	Đang khởi tạo module cảnh báo
+DVR_STARTUP_HINT14	:	Đang khởi tạo dịch vụ mạng
+DVR_STARTUP_HINT15	:	Đang khởi tạo giao tiếp PCI
+DVR_STARTUP_HINT16	:	Bắt đầu xem trước video
+DVR_STARTUP_HINT17	:	Bắt đầu bộ mã hóa phụ
+DVR_STARTUP_HINT18	:	Bắt đầu module PTZ
+DVR_STARTUP_HINT19	:	Đang định dạng ổ đĩa %d
+DVR_STARTUP_HINT20	:	Đang quay số PPPOE
+DVR_CBL_HINTS_0001	:	Quá trình ghi đang diễn ra, tắt hoặc khởi động lại có thể gây ra gián đoạn, bạn muốn tiếp tục?
+DVR_CBL_STAT_HINT1	:	Đĩa CD không được sử dụng
+DVR_CBL_STAT_HINT2	:	Đĩa CD bị hư hại, hãy thay cái mới
+DVR_CBL_STAT_HINT3	:	Đĩa CD bị đầy, hãy thay cái mới
+DVR_CBL_STAT_HINT4	:	Đóng gói
+DVR_CBL_STAT_HINT5	:	Thành công
+DVR_CBL_STAT_HINT6	:	Không đĩa CD được chèn
+DVR_CBL_STAT_HINT7	:	Đang kiểm tra đĩa CD
+DVR_CBL_TIMELEFT_HINT	:	CD%d: còn lại %d giờ %d phút 
+DVR_CBL_TIMELONG_HINT	:	%d giờ %d phút
+DVR_INQUEST_START_HINT	:	Thẩm tra một khóa
+DVR_INQUEST_STOP_HINT	:	Kết thúc thẩm tra
+DVR_INQUEST_DISK_HINT	:	Dung lượng ổ đĩa còn trống
+DVR_RECORDER_STOP_HINT	:	Dừng ghi hình
+DVR_POINT_MARK_HINT	:	Điểm đánh dấu chính
+DVR_POINT_MARK_HINT_SUCCESS	:	Đánh dấu thành công
+DVR_STOP_INQUEST_HINT	:	Tác vụ hiện tại không được thực hiện, không thể dừng
+DVR_STOP_INQUEST_HINT1	:	Dừng cuộc thẩm vấn không cho phép nhiều lựa chọn.
+DVR_OPEN_INQUEST_WIN	:	Thẩm vấn có liên quan
+DVR_OPEN_INQUEST_ON	:	Đang được thẩm vấn hoặc ghi chép, xin vui lòng thử lại sau.
+DVR_OPEN_INQUEST_ON_ERR	:	Hãy thử lại sau khi quá trình ghi hoàn thành
+DVR_GUI_CBL_D1_0	:	Tự động lựa chọn thời gian thích hợp
+DVR_GUI_CBL_D1_2	:	D1: không khuyên dùng
+DVR_GUI_CBL_D1_3	:	D1: tốt nhất
+DVR_GUI_CBL_D1_4	:	D1: rất rất tốt
+DVR_GUI_CBL_D1_5	:	D1: rất tốt
+DVR_GUI_CBL_D1_6	:	D1: tốt
+DVR_GUI_CBL_D1_7	:	D1: tốt
+DVR_GUI_CBL_D1_8	:	D1: Chuẩn (khuyên dùng)
+DVR_GUI_CBL_D1_9	:	D1: nghèo nàn
+DVR_GUI_CBL_D1_10	:	D1: rất nghèo nàn
+DVR_GUI_CBL_D1_11	:	D1: xấu
+DVR_GUI_CBL_D1_12	:	D1: xấu
+DVR_GUI_CBL_720p_2	:	720P: rất tốt
+DVR_GUI_CBL_720p_3	:	720P: tốt
+DVR_GUI_CBL_720p_4	:	720P: Chuẩn (khuyên dùng)
+DVR_GUI_CBL_720p_5	:	720P: nghèo nàn
+DVR_GUI_CBL_720p_6	:	720P: rất nghèo nàn
+DVR_GUI_CBL_720p_7	:	720P: rất nghèo nàn
+DVR_GUI_CBL_720p_8	:	720P: xấu
+DVR_GUI_CBL_720p_9	:	720P: xấu
+DVR_GUI_CBL_720p_10	:	720P: rất xấu
+DVR_GUI_CBL_720p_11	:	720P: rất xấu
+DVR_GUI_CBL_720p_12	:	720P: không khuyên dùng
+DVR_GUI_CBL_1080p_2	:	1080P: chuẩn (khuyên dùng)
+DVR_GUI_CBL_1080p_3	:	1080P: xấu
+DVR_GUI_CBL_1080p_4	:	1080P: rất xấu
+DVR_GUI_CBL_1080p_5	:	1080P: không khuyên dùng
+DVR_GUI_CBL_1080p_6	:	1080P: không khuyên dùng
+DVR_GUI_CBL_1080p_7	:	1080P: không khuyên dùng
+DVR_GUI_CBL_1080p_8	:	1080P: không khuyên dùng
+DVR_GUI_CBL_1080p_9	:	1080P: không khuyên dùng
+DVR_GUI_CBL_1080p_10	:	1080P: không khuyên dùng
+DVR_GUI_CBL_1080p_11	:	1080P: không khuyên dùng
+DVR_GUI_CBL_1080p_12	:	1080P: không khuyên dùng
+DVR_DISK_FULL_HINT2	:	ổ đĩa đầy, hãy đổi ổ đĩa
+DVR_DISK_BAD_HINT_2	:	ổ đĩa hỏng, hãy đổi ổ đĩa
+DVR_CALENDER_SUN	:	Chủ Nhật
+DVR_CALENDER_MON	:	Thứ Hai
+DVR_CALENDER_TUE	:	Thứ Ba
+DVR_CALENDER_WED	:	Thứ Tư
+DVR_CALENDER_THU	:	Thứ Năm
+DVR_CALENDER_FRI	:	Thứ Sáu
+DVR_CALENDER_SAT	:	Thứ Bảy
+DVR_CALENDER_XQI	:	Tuần
+DVR_CALENDER_YEAR	:	Năm
+DVR_CALENDER_MONTH	:	Tháng
+DVR_CALENDER_DAY	:	Ngày
+DVR_GUI_USER_COMMOM	:	Khách
+DVR_GUI_USER_PRI	:	Người dùng cơ bản
+DVR_GUI_USER_SUPPER	:	Người dùng cấp cao
+DVR_GUI_USER_ADMIN	:	Người quản lý
+DVR_GUI_USER_DEFAULT	:	Người dùng mặc định
+DVR_CHN_TYPE_LOCAL	:	Kênh Analog
+DVR_CHN_TYPE_IPC	:	Kênh IPC
+DVR_CHN_TYPE_VCHN	:	Kênh ảo
+DVR_GUI_SUB_STREAM	:	Phụ
+DVR_GUI_MAIN_STREAM	:	Chính
+DVR_GUI_SUPER_TAG	:	Nhãn video
+DVR_GUI_SUPER_SYNCPLAYER	:	Phát lại đồng thời
+DVR_LED_CHN_HINT	:	Kênh
+DVR_LED_SNAP_HINT1	:	Chụp ảnh thành công
+DVR_LED_SNAP_HINT2	:	chụp ảnh thất bại
+DVR_GUI_SOONPLAY_NOVIDEO_HINT	:	Phát lại thất bại
+DVR_GUI_TALKSTART_FAILE_HINT	:	Không bật được tính năng liên lạc
+DVR_GUI_TALKSTOP_FAILE_HINT	:	Dừng tính năng liên lạc thất bại
+DVR_GUI_TALKOVER_FAILE_HINT	:	Dừng liên lạc
+DVR_GUI_TALKING_HINT	:	Kênh hiện tại No. %d đang được liên lạc
+DVR_LED_REC_START_HINT	:	Bắt đầu ghi hình thủ công
+DVR_LED_REC_STOP_HINT	:	Dừng ghi hình thủ công
+DVR_LED_REC_START_ERR_HINT	:	Bắt đầu ghi hình thủ công thất bại
+DVR_LED_NOVIDEO_HINT	:	Không có video
+DVR_LED_ALARMTYPE_HINT1	:	Cổng kết nối In/Out báo động
+DVR_LED_ALARMTYPE_HINT2	:	Báo động phát hiện chuyển động
+DVR_LED_ALARMTYPE_HINT3	:	Cảnh báo mất hình 
+DVR_LED_ALARMTYPE_HINT4	:	Cảnh báo mất âm thanh
+DVR_LED_ALARMTYPE_HINT5	:	Cảnh báo sự kiện phân tích video thông minh
+DVR_LED_ALARMTYPE_HINT6	:	Cảnh báo mặt nạ hình ảnh
+DVR_LED_REC_TYPE_HINT1	:	Ghi hình thủ công
+DVR_LED_REC_TYPE_HINT2	:	Ghi hình theo lịch trình
+DVR_LED_REC_TYPE_HINT3	:	Ghi hình theo báo động
+DVR_LED_REC_TYPE_HINT4	:	Tùy chỉnh ghi hình
+DVR_MAIN_CTRL_MV_ACT	:	Đã kích hoạt giao diện người dùng
+DVR_MAIN_CTRL_MV_BNC	:	Chuyển sang giao diện người dùng %s
+DVR_MAIN_CTRL_MV_VGA	:	Chuyển sang giao diện người dùng %s
+DVR_SYSMSG_FULL_DISK	:	Ổ đĩa đầy, vui lòng kiểm tra và sắp xếp lại
+DVR_SYSMSG_NONE_DISK	:	Không tìm thấy ổ cứng, vui lòng liên hệ với quản trị viên
+DVR_SYSMSG_IORW_ERROR	:	Lỗi kết nối In/Out, vui lòng kiểm tra xem đĩa cứng có bị hỏng hay không
+DVR_SYSMSG_ILL_ACCESS	:	Truy cập không được phép, vui lòng liên hệ với quản trị viên
+DVR_SYSMSG_IP_CONFLICT	:	Xung đột địa chỉ IP, vui lòng kiểm tra cài đặt mạng.
+DVR_SYSMSG_NET_ERROR	:	Mạng gián đoạn, vui lòng liên hệ quản trị viên
+DVR_SYSMSG_UI_ISBUSY	:	Giao diện người dùng chậm, bạn nên khởi động lại hệ thống
+DVR_SYSMSG_NO_REDUNDANCYDISK	:	Không có đĩa dự phòng
+DVR_SYSMSG_MAC_CONFLICT	:	Xung đột địa chỉ MAC, vui lòng kiểm tra cài đặt mạng.
+DVR_SYSMSG_RAID_ERROR	:	Các mảng là bất thường, vui lòng kiểm tra các thiết lập ổ cứng
+DVR_SYSMSG_HOTSPARE_ERROR	:	Chế độ chờ nóng bất thường, vui lòng liên hệ quản trị viên
+DVR_SYSMSG_POE_ERROR	:	Nguồn cấp PoE quá tải, vui lòng liên hệ quản trị viên
+DVR_SYSMSG_DISKUPLOAD_ERROR	:	Hiệu suất đĩa cứng xảy ra hiện tượng quá tải bất thường
+DVR_SYSMSG_DISKTEMPE_ERROR	:	Nhiệt độ ổ cứng là bất thường, vui lòng kiểm tra lại
+DVR_SYSMSG_EXCEPTION	:	Hệ thống bất thường!
+DVR_SYSSET_PPPOE_STAT1	:	Đang kết nối…
+DVR_SYSSET_PPPOE_STAT2	:	Đã kết nối
+DVR_SYSSET_PPPOE_STAT3	:	Ngắt kết nối
+DVR_SYSSET_PPPOE_STAT4	:	Trạng thái không xác định
+DVR_VIDEO_PWD_HINT_CHN	:	Kênh hiện tại
+DVR_VIDEO_PWD_HINT_SCR	:	Màn hình
+DVR_VIDEO_PWD_HINT_ALL	:	Tất cả
+DVR_INPUTMETHOD_PINYIN	:	Đánh vần
+DVR_SHOW_TEMPERATURE	:	Nhiệt độ
+DVR_SHOW_HUMIDITY	:	Độ ẩm
+DVR_SHOW_TEMPERATURE_1	:	℃
+DVR_WIN_ERR_HINT	:	Không nhận được thông số, vui lòng thử lại.
+DVR_USER_UI_TIME_OUT	:	Hết thời gian sử dụng
+DVR_MOUSE_ON_BNC	:	Đang điều khiển %s, kích đúp chuột để quay lại màn hình chính
+DVR_MOUSE_ON_VGA	:	Đang điều khiển %s, kích đúp chuột để quay lại màn hình chính
+DVR_CLOSE_SYS_CONFRIM	:	Xác nhận tắt thiết bị
+DVR_REBOOT_SYS_CONFRIM	:	Xác nhận khởi động lại 
+DVR_GUI_REBOOT_HINT	:	Đang khởi động lại
+DVR_GUI_POWER_OFF_HINT	:	Đang tắt thiết bị
+DVR_GUI_POWER_OFF_HINT1	:	Thiết bị đã tắt, hãy tắt nguồn ...
+DVR_TOUCHPAD_ADJ_HINT	:	Hiệu chỉnh màn hình cảm ứng
+DVR_TOUCH_BLOCK_HINT	:	Xin vui lòng chạm vào trung tâm của khối lấp lánh cho đến khi thanh tiến trình đầy
+DVR_TOUCH_SAVE_HINT	:	Hiệu chỉnh màn hình đã hoàn tất, lưu cài đặt?
+DVR_TOUCH_OK_CANCEL	:	Xác nhận hủy
+DVR_TOUCH_EXIT_HINT	:	Nhấn ESC hoặc click chuột để thoát
+DVR_ERROR_TABLE_UNKNOWN	:	Lỗi không xác định
+DVR_PREVIEW_MSG_CHECK1	:	Hiệu suất bị giới hạn, bản xem trước đã bị dừng trên một số kênh, vui lòng nhấp đúp vào biểu tượng ở phía trên bên phải để cài đặt
+DVR_PREVIEW_MSG_CHECK2	:	Kênh này đã được hiển thị trên màn hình
+DVR_PREVIEW_MSG_CHECK3	:	Đã đạt đến giới hạn bit-rate, kết nối kênh kỹ thuật số không thành công
+DVR_CHN_LINKSTAT	:	Bật
+DVR_CHN_UNLINKSTAT	:	Tắt
+DVR_CHN_PRIVATE_PROTOCOL	:	Riêng tư
+DVR_ALARMOUT_LOCAL	:	Khu vực
+DVR_MANUAL_ALARM_TOUCH	:	Kích hoạt
+DVR_MANUAL_ALARM_CLEAR	:	Xóa
+DVR_SE_MA_SET_FAILED	:	Cài đặt thất bại, hãy thử lại
+DVR_SE_WM_SETERR	:	Cài đặt sai
+DVR_SE_WM_SETERRMSG	:	Thiết bị này chỉ có thể kết nối một cổng nối tiếp, vui lòng đặt lại.
+DVR_SET_REBOOT_CONFIRM	:	Khởi động lại để có hiệu lực sau cài đặt, khởi động lại?
+DVR_SYNCPLAYER_HINT1	:	Chọn tối đa %d kênh để phát lại đồng bộ.
+DVR_SYNCPLAYER_HINT2	:	Tệp video không đáp ứng tiêu chí tìm kiếm
+DVR_SYNCPLAYER_HINT3	:	Vui lòng chọn đường dẫn lưu!
+DVR_SYNCPLAYER_HINT4	:	Vui lòng chọn kênh!
+DVR_SYNCPLAYER_HINT5	:	Thời gian bắt đầu lớn hơn hoặc bằng thời gian kết thúc, vui lòng đặt lại thời gian kết thúc!
+DVR_SYNCPLAYER_HINT6	:	Hiệu suất giải mã đạt đến giới hạn và một số kênh sẽ tự động dừng phát lại
+DVR_SYNCPLAYER_HINT7	:	Hiệu suất giải mã đạt đến giới hạn trên và khuếch đại điện tử không được hỗ trợ.
+DVR_CHANNEL_ADDTYPE_CHO	:	Vui lòng chọn thêm quy tắc
+DVR_CHANNEL_ADDTYPE_ERR	:	Thêm quy tắc lỗi
+DVR_GUI_PARAMRESET	:	Khôi phục cài đặt gốc
+DVR_GUI_CNFEXPORT	:	Xuất file cấu hình
+DVR_GUI_CNFINPORT	:	Nhập file cấu hình
+DVR_GUI_DEF_CONFIG_MAN	:	Quản lý cấu hình
+DVR_GUI_CLEAR_AMTY1	:	Loại bỏ cổng báo động
+DVR_GUI_CLEAR_AMTY2	:	Hủy báo động phát hiện chuyển động
+DVR_GUI_CLEAR_AMTY3	:	Hủy báo động mất video
+DVR_GUI_CLEAR_AMTY4	:	Hủy báo động phân tích video thông minh
+DVR_GUI_CLEAR_AMTY5	:	Hủy báo động mất âm thanh
+DVR_GUI_CLEAR_AMTY6	:	Hủy báo động mặt nạ hình ảnh
+DVR_GUI_CLEAR_AMAll	:	Hủy tất cả báo động
+DVR_GUI_CLEAR_DEF	:	Hủy cảnh báo hiện tại thủ công
+DVR_GUI_CBL_HINT	:	Chọn quá %d kênh để ghi, vui lòng chọn lại!
+DVR_DISK_SMART_MSG1	:	Thành công
+DVR_DISK_SMART_MSG2	:	Thất bại
+DVR_DISK_SMART_MSG3	:	Tốt
+DVR_DISK_SMART_MSG4	:	Đã xảy ra sự cố với ổ cứng
+DVR_GUI_VIDEOIN_HINT	:	Kênh này là kênh kỹ thuật số hoặc kênh ảo và định dạng đầu vào không hỗ trợ phát hiện tự động.
+DVR_GUI_TM_SET_ERR	:	Khoảng thời gian không chính xác.
+DVR_GUI_TM_SUPERPOSI	:	Khoảng thời gian bị trùng
+DVR_GUI_TM_OVERLAP	:	Khoảng thời gian bị chồng chéo
+DVR_GUI_TM_INVAILD_HINT	:	Định dạng thời gian bạn đã nhập không hợp lệ. Vui lòng kiểm tra và thử lại.
+DVR_GUI_TM_SET_HINT	:	Giá trị ngày hoặc giờ bạn đã nhập là không hợp lệ. Vui lòng nhập lại.
+DVR_GUI_TM_REMAIN_HINT	:	Thời gian lưu giữ trong khoảng từ 0 đến %d. Vui lòng đặt lại thời gian lưu.
+DVR_GUI_TM_SUBREMAIN_HINT	:	Độ dài thời gian dòng phụ: 0-180, vui lòng đặt lại.
+DVR_GUI_TM_POINT_EQUAL	:	Mốc thời gian đã tồn tại
+DVR_GUI_FILE_DIAG_DIR	:	Thư mục
+DVR_GUI_FILE_DIAG_FILE	:	Tệp tin
+DVR_GUI_FILE_DIAG_OTHER	:	Khác
+DVR_GUI_FILE_DIAG_HINT1	:	Vui lòng lựa chọn file để xóa
+DVR_GUI_CHN_MNT_SET_ERR	:	Thiết lập kênh không thành công, vui lòng quay lại và thử lại!
+DVR_GUI_SET_ERR_HINT	:	Thiết lập không thành công, vui lòng thử lại!
+DVR_GUI_SYMBOL_ERR_HINT	:	Thao tác không thành công: lỗi tham số!
+DVR_GUI_VIDEO_PWD_HINT0	:	Mật khẩu đã nhập không chính xác, vui lòng nhập lại!
+DVR_GUI_VIDEO_PWD_HINT1	:	Cài đặt mật khẩu không thành công, vui lòng đặt lại.
+DVR_GUI_MIXAUDIO_ERR	:	Định dạng mã hóa âm thanh của các kênh âm thanh hỗn hợp phải là G.711A, Âm thanh 1 và Âm thanh 2 chia sẻ cùng một tỷ lệ lấy mẫu âm thanh
+DVR_GUI_MIXAUDIO_NOTONE	:	Kênh âm thanh hỗn hợp không thể giống nhau.
+DVR_GUI_MIXAUDIO_NOTSELF	:	Kênh âm thanh hỗn hợp không thể là kênh hiện tại.
+DVR_GUI_MIXAUDIO_PAD_ERR	:	Định dạng mã hóa âm thanh của các kênh âm thanh hỗn hợp phải là G.711A, Âm thanh 1 và Âm thanh 2 chia sẻ cùng một tỷ lệ lấy mẫu âm thanh
+DVR_GUI_USER_ERR_HINT0	:	Mật khẩu nhập không giống như lần đầu tiên, vui lòng nhập lại.
+DVR_GUI_USER_ERR_HINT1	:	Số ID đã vượt quá giới hạn, tính năng thêm ID mới không khả dụng.
+DVR_GUI_USER_ERR_HINT2	:	Tên ID đã tồn tại, vui lòng thay đổi tên khác.
+DVR_GUI_USER_ERR_HINT3	:	ID và mật khẩu không hợp lệ, tính năng thêm ID mới không khả dụng, vui lòng thử lại.
+DVR_GUI_USER_ERR_HINT4	:	Không thể sửa đổi hồ sơ người dùng được chỉ định hoặc gửi lỗi dữ liệu. Vui lòng thử lại.
+DVR_GUI_USER_ERR_HINT5	:	Không thể xóa người dùng hoặc tên người dùng được chỉ định không tồn tại.
+DVR_GUI_VIDEO_BURN_HINT	:	Không được phép mã hóa trong quá trình ghi đĩa！
+
+DVR_GUI_LOG_TM_ERR	:	Giá trị ngày và thời gian bạn đã nhập là không hợp lệ. Vui lòng nhập lại.
+DVR_GUI_DISK_SET_HINT1	:	Chỉ có thể chọn một ổ cứng!
+DVR_GUI_DISK_SET_HINT2	:	Vui lòng chọn ổ đĩa cứng!
+DVR_GUI_BAKEUP_OK	:	Đã sao chép xong
+DVR_GUI_NFS_SET_HINT1	:	Thiết lập không thành công, vui lòng thử lại
+DVR_GUI_SNATCH_PLAY_ERR	:	Vui lòng chọn một tệp
+DVR_GUI_SYS_NAME_NULL	:	Bí danh trống, vui lòng nhập bí danh
+DVR_GUI_TYPE_NAME_NULL	:	Tên trống, vui lòng nhập tên
+DVR_GUI_SYNC_CLIP_CNT	:	Mỗi kênh có %d clip chưa được lưu, lưu hay không?
+DVR_GUI_SYNC_CLIP_MCNT	:	Số lượng clip của mỗi kênh đã đạt đến giới hạn (%d), lưu hay không?
+
+DVR_GUI_SYNC_CLIP_HINT0	:	Đã lưu clip thành công.
+DVR_GUI_SYNC_CLIP_HINT1	:	Lưu clip không thành công!
+DVR_GUI_SYNC_CLIP_HINT2	:	Đĩa cứng đầy hoặc lỗi Media !
+DVR_GUI_DEV_TEMP	:	°C
+DVR_GUI_SYMBOL_ERR	:	Tham số không hợp lệ
+DVR_GUI_USER_ERR	:	Không được phép, vui lòng thay đổi một ID khác.
+
+DVR_GUI_SMART_ERR	:	Bắt đầu phát hiện S.M.A.R.T. thất bại
+DVR_GUI_DHCPSET_ERR1	:	Địa chỉ bắt đầu và địa chỉ kết thúc không nằm trong cùng một phân đoạn mạng
+DVR_GUI_DHCPSET_ERR2	:	Vùng địa chỉ IP chỉ và IP thiết bị không nằm trên cùng một phân đoạn mạng.
+
+DVR_GUI_PREVIEWCUT_ERR1	:	Lỗi xem trước kênh %d xem trước, vui lòng thử lại.
+DVR_GUI_PREVIEWCUT_ERR2	:	Kênh kỹ thuật số %d không được định cấu hình hoặc tắt.
+DVR_GUI_PREVIEWCUT_ERR3	:	Kênh kỹ thuật số %d không có kết nối video.
+DVR_GUI_PREVIEWCUT_ERR4	:	Lỗi khởi tạo kênh kỹ thuật số %d.
+DVR_GUI_PREVIEWCUT_ERR5	:	Lựa chọn vùng không hợp lệ, vùng được chọn nên chiếm hơn 50% màn hình.
+DVR_GUI_PREVIEWCUT_STR	:	Điểm bắt đầu khu vực xem trước đã được xác nhận, vui lòng chọn điểm cuối.
+DVR_GUI_PREVIEWCUT_END	:	
+
+DVR_GUI_LOG_QUERY	:	Vui lòng kiểm tra nhật ký trước
+DVR_GUI_LOG_SERIAL	:	Số sê-ri
+
+DVR_GUI_SHORT_CUT_PTZ_UP	:	PTZ lên
+DVR_GUI_SHORT_CUT_PTZ_DOWN	:	PTZ xuống
+DVR_GUI_SHORT_CUT_PTZ_LEFT	:	PTZ sang trái
+DVR_GUI_SHORT_CUT_PTZ_RIGHT	:	PTZ sang phải
+DVR_GUI_SHORT_CUT_PTZ_AUTO	:	Tự động quét
+DVR_GUI_SHORT_CUT_REC_START	:	Bắt đầu ghi thủ công
+DVR_GUI_SHORT_CUT_REC_STOP	:	Dừng ghi thủ công
+DVR_GUI_SHORT_REC_STOP_ERR	:	Dừng ghi thủ công không thành công
+DVR_GUI_SHORT_REC_START_ERR	:	Thiết lập ghi thủ công không thành công
+DVR_GUI_SHORT_DIGCHN_EDIT	:	Chỉnh sửa kênh kỹ thuật số
+DVR_GUI_SHORT_MAN_SNATCH	:	Chụp ảnh thủ công
+DVR_GUI_SHORT_VIDO_PLAY	:	Phát lại tức thì
+DVR_GUI_SHORT_MAN_TALK	:	Mở hệ thống liên lạc nội bộ
+DVR_GUI_SHORT_MAN_TALKSTOP	:	Kết thúc liên lạc
+DVR_GUI_SHORT_MAN_EZOOM	:	Khuếch đại điện tử
+DVR_GUI_SHORT_MAN_CODE	:	Thông số luồng
+
+DVR_GUI_SOON_VIDEO_PLAY	:	Phát
+DVR_GUI_SOON_VIDEO_PAUSE	:	Tạm dừng
+DVR_GUI_SOON_VIDEO_EXIT	:	Thoát
+
+DVR_GUI_COMMON_USER_RIGHT	:	Người dùng bình thường chỉ có quyền xem trước, không có quyền cấu hình.
+DVR_GUI_ADMIN_USER_RIGHT	:	Quản trị viên có tất cả các quyền
+DVR_GUI_ADMIN_USER_RIGHT_MANAGE	:	Quản trị không thể cấu hình phân quyền 
+DVR_GUI_HAVE_NOT_PLAY_RIGHT	:	Người dùng hiện tại không có quyền phát lại cho kênh này.
+DVR_GUI_HAVE_NOT_PTZ_RIGHT	:	Người dùng hiện tại không có quyền kiểm soát PTZ cho kênh này.
+DVR_GUI_HAVE_NOT_RIGHT	:	Không đủ quyền để thực hiện việc này
+
+DVR_GUI_MAIN_INQUEST0	:	Xác nhận
+DVR_GUI_MAIN_INQUEST1	:	Hủy bỏ
+DVR_GUI_MAIN_PLANSTATE0	:	Đợi
+DVR_GUI_MAIN_PLANSTATE1	:	
+DVR_GUI_MAIN_PLANSTATE2	:	Kết thúc
+DVR_GUI_MAIN_PLANSTATE3	:	Dừng lại
+
+DVR_GUI_MAIN_BURNSTATE0	:	Không ghi 
+DVR_GUI_MAIN_BURNSTATE1	:	Đang ghi
+DVR_GUI_MAIN_BURNSTATE2	:	Đã ghi
+
+DVR_GUI_VIDEO_CLIP_ERR	:	Vui lòng chọn tệp clip để sao lưu.
+DVR_PREVIEW_LIMIT_MSG	:	Việc hiển thị trước bị giới hạn
+
+DVR_GUI_VCA_ENABLE_CHN_SET_OVER	:	Số lượng kênh có chức năng VCA vượt quá giới hạn, vui lòng chọn lại
+DVR_GUI_VCA_LOCAL_CHN_ERR	:	VCA cục bộ chỉ có thể phân tích %d đường dẫn.
+DVR_GUI_VCA_STATE0	:	Kết thúc
+DVR_GUI_VCA_STATE1	:	Bắt đầu
+DVR_GUI_VCA_TYPE0	:	Không xác định
+DVR_GUI_VCA_TYPE1	:	Người
+DVR_GUI_VCA_TYPE2	:	Đối tượng
+DVR_GUI_VCA_TYPE3	:	Phương tiện
+DVR_GUI_VCA_EVENT0	:	Vạch kẻ
+DVR_GUI_VCA_EVENT1	:	Vạch kẻ đôi
+DVR_GUI_VCA_EVENT2	:	Chu vi
+DVR_GUI_VCA_EVENT3	:	Lảng vảng
+DVR_GUI_VCA_EVENT4	:	Đỗ xe
+DVR_GUI_VCA_EVENT5	:	Đang chạy
+DVR_GUI_VCA_EVENT6	:	Người chuyên sâu
+DVR_GUI_VCA_EVENT7	:	Đối tượng xa lạ
+DVR_GUI_VCA_EVENT8	:	Mất đồ
+DVR_GUI_VCA_EVENT9	:	Nhận diện mặt
+DVR_GUI_VCA_EVENT10	:	Chuẩn đoán video
+DVR_GUI_VCA_EVENT11	:	Chẩn đoán tiếng ồn
+DVR_GUI_VCA_EVENT12	:	Chẩn đoán bất thường
+DVR_GUI_VCA_EVENT13	:	Chẩn đoán độ sáng bất thường
+DVR_GUI_VCA_EVENT14	:	Chẩn đoán bất thường về màu sắc
+DVR_GUI_VCA_EVENT15	:	Chẩn đoán đóng băng màn hình
+DVR_GUI_VCA_EVENT16	:	Chẩn đoán mất tín hiệu
+DVR_GUI_VCA_EVENT17	:	Chẩn đoán thay đổi cảnh
+DVR_GUI_VCA_EVENT18	:	Chuẩn đoán sự can thiệp 
+DVR_GUI_VCA_EVENT19	:	PTZ ngoài tầm kiểm soát
+DVR_GUI_VCA_HINT0	:	Nội dung chẩn đoán video không được để trống.
+
+DVR_GUI_CHN_ALL	:	Tất cả
+DVR_GUI_LOGEXPORT_SUCCESS	:	Nhật ký đã được nhập thành công vào đĩa U
+DVR_GUI_LOGEXPORT_FAILED	:	Xuất nhật ký không thành công
+
+DVR_GUI_SNAPSETTING_ERROR	:	Thông số cài đặt chụp không đúng. Vui lòng thử lại.
+DVR_GUI_VDEC_LIMIT	:	Hiệu suất giải mã đạt đến giới hạn, vui lòng vô hiệu hóa một số kênh theo cách thủ công.
+
+DVR_GUI_ATM_SETSERIAL_WORKMODE	:	Vui lòng đặt tham số và chế độ làm việc nối tiếp trước
+
+DVR_GUI_FORMAT_DISK_ERR	:	Định dạng đĩa
+DVR_GUI_FULL_FRAMRATE	:	Tỷ lệ khung hình đầy đủ
+DVR_GUI_INVALID_IP	:	IP không hợp lệ, vui lòng đặt lại.
+DVR_GUI_CASENUM_MSG	:	-%d tháng %d ngày
+DVR_GUI_DISK_STATE0	:	CD-ROM không hoạt động.
+DVR_GUI_DISK_STATE1	:	CD đang trong quá trình ghi đĩa
+DVR_GUI_DISK_STATE2	:	Sao lưu thành công.
+DVR_GUI_DISK_STATE3	:	Lỗi sao lưu.
+DVR_GUI_DISK_STATE4	:	CD đã đầy, hãy đổi đĩa khác.
+
+DVR_GUI_DVD_STATE1	:	Đang ghi đĩa CD, vui lòng sao lưu sau.
+
+DVR_GUI__BACKUP_STATE1	:	Đang tiến hành sao lưu
+DVR_GUI__BACKUP_STATE2	:	Đã hoàn tất sao lưu!
+DVR_GUI__BACKUP_STATE3	:	Tệp ghi sao lưu không thành công, lỗi phương tiện hoặc đĩa đã đầy.
+DVR_GUI__BACKUP_STATE4	:	Đang ghi đĩa, vui lòng chờ.
+
+DVR_GUI_HOLIDAY_STATE_ENABLE	:	Bắt đầu
+DVR_GUI_HOLIDAY_STATE_DISABLE	:	Đóng
+
+DVR_GUI__BOURNMISSION_ERR1	:	Hoạt động không hợp lệ, sao lưu không được phép, nó chỉ có hiệu lực khi tình trạng kiểm tra hoàn thành
+DVR_GUI__BOURNMISSION_ERR2	:	Hành động không được phép, tiến trình kiểm tra đang diễn ra, không được phép xóa.
+DVR_GUI__BOURNMISSION_ERR3	:	Hành động không được phép, đa tùy chọn không được phép khi đang sao lưu.
+DVR_GUI__BOURNMISSION_ERR4	:	Đang ghi đĩa CD, vui lòng sao lưu sau.
+DVR_GUI__BOURNMISSION_ERR5	:	Không xóa được, vui lòng đóng cửa sổ và thử lại.
+
+DVR_GUI_SETLOCALDSP_ERROR	:	Cài đặt thông số hiển thị cục bộ không thành công, hệ thống đang bận, vui lòng thử lại.
+DVR_GUI__INQUEST_ERR	:	Thông tin về trường hợp này không đầy đủ. Vui lòng nhập thông tin đầy đủ và thử lại sau.
+
+DVR_GUI_DISK_GROUP_CHN_ERR	:	Kênh %s không có đĩa được chỉ định để ghi video, tiếp tục?
+DVR_GUI_DISK_MODE_CAHNGED	:	Khởi động lại để có hiệu lực việc thay đổi chế độ ghi, làm ngay bây giờ?
+DVR_GUI_DISK_QUOTA_CHN_ERR	:	Dung lượng để ghi của kênh hiện tại lớn hơn hạn ngạch được phân bổ, vui lòng xóa một số tệp đã ghi để giải phóng dung lượng, tiếp tục?
+DVR_GUI_DISK_QUOTA_CPCHN_ERR	:	Dung lượng để ghi của kênh %s lớn hơn hạn ngạch được phân bổ, cần phải xóa một số tệp bản ghi, tiếp tục?
+DVR_GUI_DISK_QUOTA_CAP_ERR	:	Dung lượng hạn ngạch được phân bổ nhiều hơn tổng dung lượng của HDD, vui lòng phân bổ lại.
+DVR_GUI_DISK_USAGE_REC	:	Đọc/ghi
+DVR_GUI_DISK_USAGE_REDUNDANCE	:	Dự phòng
+DVR_GUI_DISK_USAGE_BAKEUP	:	Sao lưu
+DVR_GUI_DISK_USAGE_READONLY	:	Chỉ đọc
+DVR_GUI_DISK_TYPE0	:	Ổ cứng cục bộ
+DVR_GUI_DISK_TYPE1	:	Ổ cứng ảo
+
+DVR_GUI_GET_DISKLIST_ERROR	:	Không thể lấy danh sách tệp sao lưu, vui lòng đóng biểu mẫu và thử lại.
+DVR_GUI_SET_CBL_CHN_ERROR1	:	Kênh đã được chọn bởi Đĩa %s để ghi, vui lòng thay đổi kênh.
+DVR_GUI_CBL_MODE0	:	Ghi đĩa đơn
+DVR_GUI_CBL_MODE1	:	Ghi đĩa đôi
+DVR_GUI_CBL_MODE2	:	Ghi đĩa lặp 
+
+DVR_GUI_NEWBUILD_HINT1	:	Thời gian bắt đầu phải sau 3 phút so với thời gian hiện tại, vui lòng nhập lại.
+DVR_GUI_NEWBUILD_HINT2	:	Thời lượng tác vụ không ít hơn 10 phút, vui lòng nhập lại.
+DVR_GUI_NEWBUILD_HINT3	:	Thời lượng tác vụ không dài hơn 12 giờ, vui lòng nhập lại.
+DVR_GUI_NEWBUILD_ERR1	:	Khoảng thời gian bạn nhập bị lặp lại, vui lòng nhập lại.
+DVR_GUI_NEWBUILD_ERR2	:	Khoảng thời gian của trường hợp này không hợp lệ và khoảng thời gian giữa hai đăng ký phải ít nhất 10 phút, vui lòng nhập lại.
+DVR_GUI_NEWBUILD_ERR3	:	Số đăng ký đã tối đa, bạn không thể tiếp tục tạo
+
+DVR_GUI_POP_DISC_ERR	:	Bật ổ đĩa cứng thất bại
+DVR_GUI_CBL_PACKING	:	Vui lòng thử sau khi hoàn thành đóng gói trong quy trình đóng gói.
+
+DVR_PLAYBACK_REVERSE_ERR	:	Thất bại trong hoạt động
+
+DVR_GUI_POWER_LOWER_HINT1	:	pin yếu, xin vui lòng lưu dữ liệu trước.
+DVR_GUI_POWER_LOWER_HINT2	:	pin yếu, xin vui lòng cắm sạc vào trước khi hệ thống buộc tắt máy
+
+DVR_MD_SENSITIVE_ERR	:	Cài đặt thông số độ nhạy không hợp lệ, vui lòng quay lại để thử lại
+DVR_CBL_STOP_HINT	:	Bạn có chắc chắn muốn dừng ghi âm không?
+DVR_TRIAL_STOP_HINT	:	Bạn có chắc chắn muốn ngừng thẩm tra không?
+
+DVR_DATA_SUN	:	Chủ Nhật
+DVR_DATA_MON	:	Thứ Hai
+DVR_DATA_TUE	:	Thứ Ba
+DVR_DATA_WED	:	Thứ Tư
+DVR_DATA_THU	:	Thứ Năm
+DVR_DATA_FRI	:	Thứ Sáu
+DVR_DATA_SAT	:	Thứ bảy
+
+DVR_GUI_MAINTAIN_UPOK_HINT0	:	Tải lên thành công.
+DVR_GUI_MAINTAIN_UPFAILUE_HINT1	:	Tải lên không thành công, vui lòng tải lại.
+
+DVR_GUI_GPS	:	GPS
+DVR_GUI_BEIDU	:	La bàn
+DVR_GUI_AUTO	:	Tự động
+DVR_GUI_GPS_UNLOCATION	:	GPS không được định vị
+DVR_GUI_GPS_LONGITUDE	:	Kinh độ
+DVR_GUI_GPS_LATITUDES	:	Vĩ độ
+DVR_GUI_GPS_SPEED	:	Tốc độ
+DVR_GUI_GPS_HEIGHT	:	Độ cao
+
+DVR_GUI_WIFI_CHANGE1	:	Bật chế độ WIFI, tắt chế độ AP, bấm vào ứng dụng để có hiệu lực.
+DVR_GUI_WIFI_CHANGE2	:	Chế độ AP bật, chế độ WIFI tắt, bấm vào ứng dụng để có hiệu lực.
+DVR_GUI_POWER_ERROR	:	Giá trị báo động điện áp thấp phải lớn hơn giá trị tắt điện áp thấp, xin vui lòng thiết lập lại.
+DVR_SYSMSG_POWER_LOWER	:	Giá trị điện áp điện hiện tại của thiết bị đạt đến giá trị báo động điện áp thấp được thiết lập sẵn.
+
+DVR_GUI_KEYFORMAT1	:	HEX
+DVR_GUI_KEYFORMAT2	:	ASCII
+
+DVR_GUI__Video_TypeTm1	:	Không có hiệu lực
+DVR_GUI__Video_TypeTm2	:	Mẫu thời gian 1
+DVR_GUI__Video_TypeTm3	:	Mẫu thời gian 2
+DVR_GUI_START_REC_CONFIRM	:	Bắt đầu tất cả các kênh tất cả các ngày %s?
+DVR_GUI_START_REC3	:	Lập lịch thời gian
+DVR_GUI_START_REC4	:	Gỡ video tìm kiếm
+
+DVR_GUI_NETSTATCHECK	:	Thẻ mạng %d
+DVR_GUI_NETSTATCHECK1	:	Địa chỉ đích không thể truy cập được!
+DVR_GUI_NETSTATCHECK2	:	Độ trễ trung bình:%d MS; Tỷ lệ mất gói:%d %%
+DVR_GUI_NETSTATCHECK3	:	Quá trình sao lưu ảnh chụp hoàn tất
+DVR_GUI_NETSTATCHECK4	:	Quá trình sao lưu ảnh chụp thất bại
+DVR_GUI_NETSTATCHECK5	:	%s: mạng bình thường
+DVR_GUI_NETSTATCHECK6	:	%s: thẻ mạng không thể truy cập được
+DVR_GUI_NETSTATCHECK7	:	%s: DNS không thể truy cập được
+DVR_GUI_NETSTATCHECK8	:	%s: mạng bên ngoài không thể truy cập được
+
+DVR_GUI_VPTAG_ADD_SUC	:	Đã thêm thẻ thành công.
+DVR_GUI_VPTAG_ADD_MAX_PF	:	Mỗi tệp video thêm tối đa 64 thẻ
+DVR_GUI_OPER_ERR	:	Thao tác không thành công, vui lòng thử lại sau!
+DVR_GUI_VPTAG_ADD_RECING	:	Không thể thêm thẻ vào tệp ghi video
+DVR_GUI_VPTAG_ADD_MAX_PP	:	Thêm tối đa %d thẻ cho mỗi lần phát lại
+DVR_GUI_VPTAG_ADD_ERR	:	Tên thẻ không được để trống
+DVR_GUI_NETSTATCHECK9	:	Truy cập kênh kỹ thuật số
+DVR_GUI_NETSTATCHECK10	:	Xem trước từ xa
+DVR_GUI_NETSTATCHECK11	:	Phát lại và tải xuống từ xa
+DVR_GUI_NETSTATCHECK12	:	Đang nhận mạng
+DVR_GUI_NETSTATCHECK13	:	Đang gửi mạng
+DVR_GUI_REWORKIPERROR	:	Bạn có thể chọn một IPC để thay đổi IP, vui lòng chọn lại IPC.
+DVR_GUI_IPC_PARA_INPUT	:	Nhập các thông số sẽ khiến IPC khởi động lại. Bạn có muốn tiếp tục không?
+DVR_GUI_IPC_PARA_INPUT_CONFIRM	:	Khởi động lại giao diện người dùng
+DVR_GUI_IPC_PARA_INPUT_OK	:	Nhập thông số thành công
+DVR_GUI_DISK_CD1	:	CD-Rom 1:
+DVR_GUI_DISK_CD2	:	CD-Rom 2:
+DVR_GUI_DISK_CD_STA_NOR	:	Bình thường
+DVR_GUI_DISK_CD_STA_EXC	:	Cảnh báo hệ thống
+
+DVR_GUI_VIDEO_BACKUP	:	Sao lưu bản ghi video
+DVR_GUI_PIC_BAKCUP	:	Sao lưu ảnh
+
+DVR_CHN_SRH_ADD	:	không có kênh nào có giá trị, vui lòng xóa thủ công một số kênh
+DVR_GUI_GUIDE_MD	:	Thông số video phát hiện chuyển động
+DVR_GUI_GUIDE_PORT	:	Thông số ghi cổng báo động
+DVR_GUI_GUIDE_VCA	:	Thông số ghi phân tích video thông minh
+
+DVR_GUI_PIC_FIRSTONE	:	Đây là bức ảnh đầu tiên, quay lại ảnh cuối cùng?
+DVR_GUI_PIC_LASTONE	:	Đây là bức ảnh cuối cùng, đi tới bức ảnh đầu tiên?
+DVR_GUI_RETURN_PREVIEW	:	Xem trước
+DVR_GUI_DISK_REC_LEFTTIME	:	Thời lượng video còn lại:
+DVR_GUI_RAID_DISKTYPE1	:	Đĩa trống
+DVR_GUI_RAID_DISKTYPE2	:	mảng đĩa
+DVR_GUI_RAID_DISKTYPE3	:	Mảng dự phòng
+DVR_GUI_RAID_DISKTYPE4	:	Dự phòng toàn cầu
+DVR_GUI_RAID_DISKTYPE5	:	mảng đĩa không hợp lệ
+DVR_GUI_RAID_DISKTYPE6	:	Đĩa lỗi
+
+DVR_GUI_RAID_HINT0	:	Định dạng mảng đĩa một lần click chuộtcần ít nhất 4 đĩa cứng
+DVR_GUI_RAID_HINT1	:	Dung lượng đĩa cứng nhỏ hơn bất kỳ đĩa cứng nào trong mảng và thiết lập dự phòng toàn cầu không thành công.
+DVR_GUI_RAID_HINT2	:	Ổ đĩa cứng lỗi không thể thực hiện được tác vụ này
+DVR_GUI_RAID_HINT3	:	Dung lượng đĩa cứng nhỏ hơn bất kỳ đĩa cứng nào trong mảng và thiết lập dự phòng toàn cầu không thành công.
+DVR_GUI_RAID_HINT4	:	Hạ cấp
+DVR_GUI_RAID_HINT5	:	Hư hại
+DVR_GUI_RAID_HINT6	:	Đang khởi tạo %d%%, Số phút còn lại %d。
+DVR_GUI_RAID_HINT7	:	Đang thiết lập lại %d%%, Số phút còn lại%d。
+DVR_GUI_RAID_HINT8	:	Việc tạo mảng JBOD chỉ có thể chứa một đĩa cứng vật lý, vui lòng chọn lại.
+DVR_GUI_RAID_HINT9	:	Việc tạo RAID0 chứa ít nhất hai đĩa cứng, vui lòng chọn lại.
+DVR_GUI_RAID_HINT10	:	Chỉ có thể chọn hai đĩa để tạo RAID1, vui lòng chọn lại.
+DVR_GUI_RAID_HINT11	:	Việc tạo RAID5 có ít nhất ba đĩa cứng, vui lòng chọn lại.
+DVR_GUI_RAID_HINT11.0	:	Việc tạo RAID6 có ít nhất bốn đĩa cứng, vui lòng chọn lại.
+DVR_GUI_RAID_HINT12	:	Chỉ có thể chọn bốn đĩa để tạo RAID10, vui lòng chọn lại.
+DVR_GUI_RAID_HINT13	:	Vui lòng chọn mảng
+DVR_GUI_RAID_HINT14	:	Tạo tối đa 8 mảng
+DVR_GUI_RAID_HINT15	:	Các mảng bị xuống cấp hoặc bị hỏng chỉ có thể được xây dựng lại theo cách thủ công.
+DVR_GUI_RAID_HINT16	:	Ngoại tuyến
+DVR_GUI_RAID_HINT17	:	Đang sửa %d%%, Số phút còn lại %d。
+DVR_GUI_RAID_HINT18	:	Tạo tối đa 16 đĩa ảo.
+DVR_GUI_RAID_HINT19	:	Vui lòng chọn đĩa ảo.
+DVR_GUI_RAID_HINT20	:	Chỉ có thể sửa chữa các đĩa ảo xuống cấp hoặc ngoại tuyến.
+DVR_GUI_RAID_HINT21	:	Dung lượng tối đa của đĩa ảo được tạo là 8T và dung lượng tối thiểu là 1G.
+DVR_GUI_RAID_HINT22	:	Tên mảng đã tồn tại, vui lòng đổi tên.
+DVR_GUI_RAID_HINT23	:	Định dạng mảng đĩa một lần click chuột thành công
+DVR_GUI_RAID_HINT24	:	Cài đặt đĩa trống của mảng dự phòng nóng thành công
+DVR_GUI_RAID_HINT25	:	mảng cấu hình dự phòng toàn cầu được lưu.
+DVR_GUI_RAID_HINT26	:	Thiết lập dự phòng cục bộ thành công.
+DVR_GUI_RAID_HINT27	:	mảng được tạo thành công.
+DVR_GUI_RAID_HINT28	:	Phút còn lại
+DVR_GUI_RAID_HINT29	:	Thiết lập dự phòng nóng thất bại
+DVR_GUI_RAID_HINT30	:	Thiết lập đĩa trống của dự phòng nóng thất bại
+DVR_GUI_RAID_HINT31	:	Thiết lập dự phòng toàn cầu thất bại
+DVR_GUI_RAID_HINT32	:	Thiết lập dự phòng cục bộ thất bại
+DVR_GUI_RAID_HINT33	:	Mảng được tạo lại thành công
+DVR_GUI_RAID_HINT34	:	Tạo mảng thất bại
+DVR_GUI_RAID_HINT35	:	Mảng được xóa thành công
+DVR_GUI_RAID_HINT36	:	Đĩa ảo được tạo lại thành công
+DVR_GUI_RAID_HINT37	:	Không thể thực hiện cài đặt dự phòng nóng cho mảng đĩa
+DVR_GUI_RAID_HINT38	:	Cảnh báo sức khỏe
+DVR_GUI_RAID_HINT39	:	Dung lượng của đĩa ảo được tạo lớn hơn dung lượng hiện có của mảng hiện tại
+DVR_GUI_RAID_HINT40	:	Vui lòng nhập tên mảng
+DVR_GUI_RAID_HINT41	:	Xóa mảng sau khi xóa đĩa ảo được tạo bởi mảng
+DVR_GUI_RAID_HINT42	:	Trước tiên, hãy xóa đĩa ảo mà có số lớn hơn số đó trong cùng một mảng
+DVR_GUI_RAID_HINT43	:	Đặt mảng bằng một khóa.
+DVR_GUI_RAID_HINT44	:	Tạo mảng thất bại
+DVR_GUI_RAID_HINT45	:	Tạo đĩa ảo không thành công
+DVR_GUI_RAID_HINT46	:	Không cần phải sửa chữa đĩa ảo!
+
+DVR_GUI_HOTSPARE_ONLINE	:	Trực tuyến
+DVR_GUI_HOTSPARE_OFFLINE	:	Ngoại tuyến
+DVR_GUI_HOTSPARE_HINT0	:	Kết nối thất bại
+DVR_GUI_HOTSPARE_HINT1	:	Kết nối thành công
+DVR_GUI_HOTSPARE_HINT2	:	Đồng bộ hóa
+DVR_GUI_HOTSPARE_HINT3	:	Chế độ chờ nóng
+DVR_GUI_HOTSPARE_HINT4	:	Đang sao lưu
+DVR_GUI_HOTSPARE_HINT5	:	Vui lòng chọn mục danh sách trước
+DVR_GUI_HOTSPARE_HINT6	:	Thiết bị đã được thêm
+
+DVR_GUI_IPSAN_HINT1	:	Vui lòng chọn IPSAN.
+DVR_GUI_IPSAN_HINT2	:	Thư mục tồn tại, vui lòng thêm lại.
+DVR_GUI_IPSAN_HINT3	:	Thư mục rỗng, xóa không thành công.
+
+DVR_GUI_CHANNEL_HINT1	:	IPV6 không hỗ trợ IP của đại lý
+
+DVR_GUI_SHORT_DIGCHN_INFOR	:	Thông tin kênh
+DVR_GUI_POE_MSG	:	Công suất định mức POE của thiết bị là
+DVR_PICPLAYER_HINT0	:	Không có hồ sơ nào được tìm thấy.
+DVR_OVERFLOW_4SEGMENTS	:	Hỗ trợ tối đa 4 giai đoạn thời gian cảnh báo
+DVR_PSE_INTERFACE	:	Thẻ LAN POE
+DVR_GUI_NOTSUPPORT_EZOOM	:	E-zoom không khả dụng theo độ phân giải này.
+DVR_GUI_PLAY_REINDEXING	:	Tính năng ghi không khả dụng khi tạo lại chỉ mục.
+
+DVR_GUI_PWD_WEAK	:	Nghèo nàn
+DVR_GUI_PWD_AVERAGE	:	Bình thường
+DVR_GUI_PWD_STRONG	:	Mạnh
+
+DVR_GUI_VP_VCAPLATE_ERR	:	Vui lòng nhập biển số được yêu cầu.
+DVR_GUI_PTZ_LINK_MAXNUM	:	PTZ hỗ trợ lên đến 64 kênh
+DVR_GUI_DISKGROUP_HINT1	:	Không có ổ đĩa cứng để hoạt động
+DVR_GUI_UNLOADDISK_HINT2	:	Thao tác thất bại, KHÔNG kéo đĩa cứng ra.
+
+DVR_VP_VCA_HINT	:	Vui lòng chọn kênh đã ghi.
+DVR_GUI_VCA_SIZE_HINT	:	Khoảng thời gian nhỏ nhất của kẻ vạch phải nằm trong khoảng %d và %d！
+DVR_GUI_VCA_SIZE_HINT0	:	Khoảng thời gian lớn nhất của kẻ vạch phải nằm trong khoảng %d và %d！
+DVR_VP_VCA_PASSWD_HINT	:	Mã hóa dữ liệu!
+
+DVR_GUI_VCA_DRAW_UNFINISH	:	không được lập bản đồ!
+DVR_GUI_VCA_DRAW_AREA	:	Xin vui lòng vẽ khu vực đầu tiên!
+DVR_GUI_VCA_DRAW_CNTLINE	:	Hãy vẽ vạch đếm trong khu vực phát hiện!
+DVR_GUI_VCA_DRAW_VIRCIRCLE	:	Hãy vẽ một vòng lặp ảo trong khu vực phát hiện!
+
+DVR_GUI_MVCOVER_NOCHAN	:	Không có camera nào được thêm vào để hỗ trợ chức năng này!
+DVR_GUI_MVCOVER_MAXAREA	:	Hỗ trợ tối đa 24 vùng!
+
+DVR_GUI_USER_HINT0	:	Mật khẩu bạn đã nhập không chính xác, bị khóa sau%d lần và thời gian khóa là 5 phút!
+DVR_GUI_USER_HINT1	:	Đã bị khóa. Vui lòng thử lại sau!
+DVR_GUI_USER_HINT2	:	Tên đăng nhập không tồn tại!
+
+DVR_GUI_VIDEOR_REDUNANCY_HINT0	:	Lưu ý: Không có video/ảnh chụp dự phòng là khả thi khi không có đĩa dự phòng
+
+DVR_GUI_BUSY_HINT0	:	Đang tìm kiếm ...
+DVR_GUI_BUSY_HINT1	:	Hoàn tất tìm kiếm
+
+DVR_GUI_PASTE	:	Dán
+
+DVR_GUI_RAID_HINT47	:	Mảng RAID%d hỗ trợ tối đa %d khối đĩa cứng.
+DVR_GUI_STMP_SUCCESS	:	Đã gửi thư thành công.
+DVR_GUI_STMP_FILE	:	Không thể gửi thư!
+
+DVR_GUI_BUSY_HINT3	:	Đng lưu dữ liệu, đợi
+DVR_GUI_RAID_HINT48	:	Thu thập thông tin mảng…
+DVR_GUI_EXPORT_OK	:	Xuất thành công
+DVR_GUI_EXPORT_FAILE	:	Xuất không thành công
+
+DVR_GUI_CAMERA_VIODE_HINT1	:	Thời gian mặt trời mọc phải sớm hơn thời gian hoàng hôn!
+DVR_GUI_CAMERA_VIODE_HINT2	:	Phạm vi ngày phải lớn hơn phạm vi ban đêm!
+
+DVR_GUI_MAIN_PREVIEW_HINT1	:	Ứng dụng dành cho thiết bị di động đang hoạt động, cấu hình xem trước cục bộ sẽ được sửa đổi…
+DVR_GUI_MAIN_PREVIEW_HINT2	:	Ứng dụng di động đang hoạt động, cấu hình xem trước cục bộ đã được sửa đổi và khả năng giải mã có thể bị giảm xuống…
+
+DVR_GUI_SHORT_CUT_OSD	:	Điều khiển PTZ
+DVR_GUI_SHORT_CUT_PTZ_Control	:	OSD
+DVR_GUI_PTZ_3D	:	Định vị 3D
+DVR_GUI_PTZ_LIGHT	:	Ánh sáng
+DVR_GUI_PTZ_FOCURS	:	Tập trung một phím
+DVR_GUI_PTZ_ASISS	:	AUX
+
+DVR_GUI_PICSIZE_VCA_SET	:	Độ phân giải nhỏ hơn CIF!
+
+DVR_GUI_CHN_NOCONN_STAT3	:	Lỗi tên người dùng hoặc mật khẩu
+DVR_GUI_CHN_NOCONN_STAT4	:	IP được đeo mặt nạ
+DVR_GUI_CHN_NOCONN_STAT5	:	Tài khoản bị chặn
+DVR_GUI_CHN_NOCONN_STAT6	:	Đạt kết nối tối đa
+DVR_GUI_CHN_NOCONN_STAT7	:	Mạng bất thường
+DVR_GUI_CHN_NOCONN_STAT8	:	Đạt giới hạn băng thông
+DVR_GUI_CHN_NOCONN_STAT9	:	chế độ mã hóa không được hỗ trợ
+DVR_GUI_BACK_QUERY_TIPS	:	Chọn kênh trước!
+DVR_SYSMSG_VIDEO_ERROR	:	Video bất thường, kiểm tra kết nối và cài đặt video.
+DVR_GUI_COLOR_TURN_GRAY_TIME	:	Thời gian trễ hợp lệ là 0 ~ 120s!
+DVR_GUI_CAMERA_CHANGE_IP	:	Địa chỉ IP & NVR ở dải địa chỉ IP khác nhau, tiếp tục thay đổi?
+DVR_GUI_PSE_CHANGE_SWITCH	:	Chế độ cắm là chạy kênh PSE không hỗ trợ điều chỉnh kênh!
+DVR_GUI_PRE_NOT_SUPPORT	:	%s không được hỗ trợ trên 32 màn hình!
+DVR_GUI_PTZ_MOVE	:	Di chuyển
+DVR_GUI_PTZ_MINI	:	Thu nhỏ
+DVR_GUI_PTZ_LASERON	:	Bật laser
+DVR_GUI_PTZ_LASEROFF	:	Đóng laser
+
+DVR_GUI_SET_BUCKUP_ERROR	:	cài đặt chứng nhận sao lưu không thành công
+DVR_GUI_SET_BUCKUP_ERROR1	:	Không có đĩa sao lưu
+DVR_GUI_SET_BUCKUP_ERROR2	:	Xác minh người dùng không thành công, vui lòng thử lại!
+
+DVR_GUI_OLDPSW_EMPTY	:	Mật khẩu ban đầu không được rỗng
+DVR_PLAY_SNAP_ERR	:	Vui lòng cắm thiết bị USB!
+DVR_GUI_SHORT_MAN_VOICEEN	:	Bật âm thanh
+DVR_GUI_SHORT_MAN_VOICEDIS	:	Tắt âm thanh
+
+DVR_GUI_SHORT_MAN_VOICECHANGE	:	Điều chỉnh âm lượng
+DVR_GUI_SHORT_MAN_HIGHSMOOTH	:	Luồng mượt mà
+DVR_GUI_SHORT_MAN_LOWDELAY	:	Độ trễ thấp
+
+DVR_GUI_CHN_MSG1	:	Thiết bị không tồn tại hoặc bị hỏng, vui lòng kiểm tra thiết bị và làm mới
+DVR_GUI_CHN_MSG2	:	Không nhập được
+DVR_GUI_CHN_MSG3	:	Xảy ra
+DVR_GUI_CHN_MSG4	:	Không hỗ trợ
+DVR_GUI_VCA_MAX_FOLLOW_TIME	:	Thời gian theo dõi dài nhất từ 0s đến 300s
+DVR_GUI_VCA_BALLDEV_HEIGHT	:	Chiều cao của mái vòm yêu cầu từ 1 đến 30m
+DVR_GUI_VCA_DES_STOP_TIME	:	Thời gian theo dõi tĩnh từ 2s đến 600s
+
+DVR_GUI_ALM_LINK_TALK	:	%s Đã xảy ra cảnh báo. Có mở cuộc đàm thoại không?
+
+DVR_GUI_ALMTALKSTART_HINT	:	Không thể mở được loa
+DVR_GUI_ALMTALKSTOP_HINT	:	Không dừng được loa
+
+DVR_GUI_DISK_QUOTA_VIDEO_MIN	:	Hạn ngạch tối thiểu của video kênh là 10G, vui lòng đặt lại!
+DVR_GUI_DISK_QUOTA_PIC_MIN	:	Hạn ngạch tối thiểu của hình ảnh kênh là 5G, vui lòng đặt lại!
+
+DVR_GUI_PTZ_LIGHT_ON	:	Bật đèn trắng.
+DVR_GUI_PTZ_LIGHT_OFF	:	Tắt đèn cảnh báo
+
+DVR_GUI_HEATMAP_NOTHING	:	Không có kết quả thống kê!
+DVR_GUI_PWD_ILLEGAL	:	Mật khẩu rủi ro
+
+DVR_GUI_TIME_HINT	:	Khoảng thời gian NTP phải dưới 24 giờ.
+
+DVR_GUI_RAID_HINT49	:	6, 8, 10 và 12 đĩa được yêu cầu để tạo RAID50. Vui lòng chọn lại.
+DVR_GUI_RAID_HINT50	:	Cần có 8, 10 và 12 đĩa để tạo RAID60. Vui lòng chọn lại.
+
+DVR_GUI_RAID_HINT51	:	Chọn một đĩa trong cùng một nhóm đĩa!
+DVR_GUI_RAID_HINT52	:	Nhóm đĩa đầu tiên hiện tại
+DVR_GUI_RAID_HINT53	:	Nhóm đĩa cuối cùng hiện tại
+DVR_GUI_RAID_HINT54	:	Các đĩa vật lý trong mảng hoặc đĩa dự phòng nóng không có trong cùng một thiết bị. Vui lòng chọn lại!
+DVR_GUI_RAID_HINT55	:	Không có đĩa dự phòng nóng trong RAID50 và RAID60.
+
+DVR_GUI_DISK_GROUP_DEV_ERR	:	Các đĩa vật lý trong nhóm đĩa hoặc ổ đĩa ảo không nằm trong cùng một thiết bị. Vui lòng chọn lại.
+DVR_GUI_COGNATE_STAT_CHG_REBOOT	:	Thiết bị cần được đặt lại sau khi sửa đổi thiết bị tương đồng của thiết bị. Có nên khởi động lại không?
+
+DVR_GUI_RAID_ONE_KEY_COMPLETE	:	Hoàn thành bằng cấu hình một khóa.
+DVR_GLOBAL_BAK_DISK_IS_NOT_MAX	:	Vui lòng chọn đĩa có dung lượng lớn nhất để đặt toàn bộ đĩa dự phòng nóng.
+DVR_GUI_SMTP_EMAIL_HINT	:	Địa chỉ thư chính không được để trống.
+DVR_GUI_PWD_INVALID	:	không hợp lệ
+
+DVR_GUI_IPC_INIT	:	Khôi phục mặc định sẽ khởi động lại IPC, tiếp tục hay không?
+
+DVR_GUI_IPC_BroadCast_Import	:	Hoạt động này sẽ kích hoạt tất cả âm thanh báo động IPC, tiếp tục hay không?
+
+DVR_SYSMSG_DISKSMART_ERROR	:	Nếu đĩa bất thường, hãy kiểm tra xem đĩa có bị hỏng hay không.
+
+DVR_SYSMSG_INTERFACE_BOARD_ERROR	:	Bảng giao diện thiết bị bất thường, vui lòng liên hệ với quản trị viên.
+
+DVR_GUI_RAID_HINT56	:	Mảng không hỗ trợ xây dựng lại!
+DVR_GUI_CHN_NOCONN_STAT11	:	Hiệu suất NVR đạt tới giới hạn.
+DVR_GUI_SYS_CloudUpdate	:	Thiết bị đang trong quá trình cập nhật đám mây.
+DVR_GUI_SYS_CloudServer	:	Thời gian chờ phát hiện thấy! Vui lòng kiểm tra xem kết nối mạng có bình thường không
+DVR_PAGE_ERR_HINT	:	Không thể lấy thông số, vui lòng thử lại.
+
+DVR_GUI_BACK_REINDEXING	:	Sao lưu không được hỗ trợ trong quá trình xây dựng lại các chỉ mục
+
+DVR_GUI_SYS_CloudServer4	:	Các truy cập khác đang được phát hiện. Vui lòng thử lại sau.
+DVR_CHN_SRH_FIRST	:	Vui lòng tìm kiếm trong kênh trước
+DVR_GUI_DISK_QUOTA_CHN_PIC_ERR	:	Không gian hình ảnh hiện đang bị chiếm đóng bởi kênh lớn hơn hạn ngạch được phân bổ. Thao tác xóa hình ảnh là bắt buộc. Tiếp tục?
+DVR_GUI_DISK_QUOTA_CPCHN_PIC_ERR	:	Không gian hình ảnh hiện đang bị chiếm bởi kênh% s lớn hơn hạn ngạch được phân bổ. Xóa hình ảnh là bắt buộc. Tiếp tục?
+DVR_SYSMSG_DiskTemHigh_Error	:	Cảnh báo bất thường: nhiệt độ cao
+DVR_SYSMSG_DiskShockHard_Error	:	Cảnh báo bất thường: ổ đĩa bị rung động
+DVR_SYSMSG_DriverShockHard_Error	:	Cảnh báo bất thường: ổ đĩa bị rung quá mức
+DVR_SYSMSG_DiskConnect_Error	:	Phát hiện lỗi: kết nối ổ đĩa có bất thường
+DVR_SYSMSG_HostReset_Error	:	Phát hiện ngoại lệ: khởi động lại thiết bị
+DVR_SYSMSG_Disk_Error	:	Phát hiện lỗi: ổ đĩa cứng bất thường
+
+
