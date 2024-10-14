@@ -1,0 +1,4007 @@
+#tag tab name
+
+__TAG__Main_Video_Var1	Cài đặt mẫu ghi
+__TAG__Main_Video_Var2	Cài đặt chế độ đóng gói tệp ghi
+__TAG__Main_Video_Var3	Cài đặt ghi thủ công
+__TAG__Main_Video_Var4	Phát lại file ghi hình
+__TAG__Main_Video_Var5	Sao lưu / xóa các tập tin ghi
+__TAG__Main_Video_Var6	Xem trước ảnh chụp nhanh
+__TAG__Main_Video_Var7	Xây dựng lại chỉ mục tập tin ghi hình
+__TAG__Main_Video_Var8	Sửa tên loại bản ghi
+__TAG__Main_Video_Var8.0	Tham số chụp nhanh và cài đặt kích hoạt FTP
+__TAG__Main_Video_Var9	Ghi đĩa CD, phát lại tập tin CD
+__TAG__Main_Video_Var10	Cài đặt ghi 
+__TAG__Main_Video_Var11	Đang xóa tệp bản ghi ...
+__TAG__Main_Video_Var12	Tất cả các tệp tin đã bị xóa.
+__TAG__Main_Video_Var13	Đang xóa ảnh chụp nhanh ...
+__TAG__Main_Video_Var14	Tất cả ảnh chụp đã bị xóa.
+__TAG__Main_Video_Var15	Xây dựng lại chỉ mục, vui lòng đợi.
+__TAG__Main_Video_Var16	Chỉ mục xây dựng lại không thành công.
+__TAG__Main_Video_Var17	Chỉ mục xây dựng lại thành công.
+__TAG__Main_Video_Var18	Bật
+__TAG__Main_Video_Var19	Tạm dừng
+__TAG__Main_Video_Var20	Dừng
+__TAG__Main_Video_Var21	Tiến
+__TAG__Main_Video_Var22	Chậm
+__TAG__Main_Video_Var23	Nhanh
+__TAG__Main_Video_Var24	Tệp trước
+__TAG__Main_Video_Var25	Tệp tiếp theo
+__TAG__Main_Video_Var26	Âm thanh tắt
+__TAG__Main_Video_Var27	Âm thanh bật
+__TAG__Main_Video_Var29	Bắt đầu chỉnh sửa
+__TAG__Main_Video_Var30	Kêt thúc chỉnh sửa
+__TAG__Main_Video_Var31	Phát lại vòng lặp danh sách
+__TAG__Main_Video_Var32	Phát lại tệp đơn lẻ
+__TAG__Main_Video_Var33	Ảnh chụp nhanh
+__TAG__Main_Video_Var34	Ngược
+__TAG__Main_Video_Var35	Tạm dừng tua ngược
+__TAG__Main_Video_Var36	Bước quay lại
+__TAG__Main_Video_Var37	Ẩn cửa sổ
+__TAG__Main_Video_Var38	Thêm thẻ mặc định
+__TAG__Main_Video_Var39	Thêm thẻ tùy chỉnh
+__TAG__Main_Video_Var40	30 giây ngược
+__TAG__Main_Video_Var41	Chuyển tiếp 30 giây
+__TAG__Main_Video_Var42	Tìm kiếm theo kẻ vạch
+__TAG__Main_Video_Var43	Tìm kiếm theo chu vi
+	
+__TAG__Main_Video_Icn1	Cài đặt ghi hình
+__TAG__Main_Video_Icn2	Đang ghi
+__TAG__Main_Video_Icn3	Tham số
+__TAG__Main_Video_Icn4	Ghi thủ công
+__TAG__Main_Video_Icn5	Phát lại video
+__TAG__Main_Video_Icn6	Quản lý video
+__TAG__Main_Video_Icn7	Xem trước ảnh chụp nhanh
+__TAG__Main_Video_Icn8	Chỉ mục xây dựng lại
+__TAG__Main_Video_Icn9	Quản lý loại
+__TAG__Main_Video_Icn10	Ghi đĩa CD
+__TAG__Main_Video_Icn11	Cài đặt ghi
+__TAG__Main_Video_Icn12	Cài đặt chụp nhanh
+	
+__TAG__Main_Video_TM_1	Ghi hình
+__TAG__Main_Video_TM_2	Ghi âm
+__TAG__Main_Video_TM_3	Dự phòng
+__TAG__Main_Video_TM_4	Đóng khung video
+__TAG__Main_Video_TM_5	Video luồng phụ
+__TAG__Main_Video_TM_6	Bật ghi ngoại tuyến
+__TAG__Main_Video_Date1	Ngày
+__TAG__Main_Video_Date01	Ngày
+__TAG__Main_Video_Date2	Thứ Hai
+__TAG__Main_Video_Date3	Thứ Ba
+__TAG__Main_Video_Date4	Thứ Tư
+__TAG__Main_Video_Date5	Thứ Năm
+__TAG__Main_Video_Date6	Thứ Sáu
+__TAG__Main_Video_Date7	Thứ Bảy
+__TAG__Main_Video_Date8	Chủ Nhật
+__TAG__Main_Video_Date9	Thời gian
+__TAG__Main_Video_Date10	Thời gian lưu giữ (ngày)
+__TAG__Main_Video_Date10.0	
+__TAG__Main_Video_Type1	Loại bản ghi
+__TAG__Main_Video_Type2	Lịch biểu
+__TAG__Main_Video_Type3	Chuyển động
+__TAG__Main_Video_Type4	Báo động cổng
+__TAG__Main_Video_Type5	Mất video
+__TAG__Main_Video_Type6	Chuyển động / Cổng
+__TAG__Main_Video_Type7	Chuyển động & Cổng
+__TAG__Main_Video_Type8	Báo động mặt nạ
+__TAG__Main_Video_Type9	Mẫu lịch biểu
+__TAG__Main_Video_Senoi	Cài đặt nâng cao
+__TAG__Main_Video_CleanAll	Thiết lập lại
+	
+__TAG__Main_Video_Mode1	Cài đặt nâng cao
+__TAG__Main_Video_Mode2	Đã ghi trước (giây)
+__TAG__Main_Video_Mode3	Không
+__TAG__Main_Video_Mode7	Trì hoãn (giây)
+__TAG__Main_Video_Mode8	Không
+	
+__TAG__Main_Video_Stgy1	Cài đặt chế độ ghi
+__TAG__Main_Video_Stgy2	Chế độ đóng gói tệp
+__TAG__Main_Video_Stgy3	Phần mở rộng tên tệp
+__TAG__Main_Video_Stgy4	SDV
+__TAG__Main_Video_Stgy5	Đóng gói theo kích thước
+__TAG__Main_Video_Stgy6	Đóng gói theo thời gian
+__TAG__Main_Video_Stgy11	10 phút
+__TAG__Main_Video_Stgy12	20 phút
+__TAG__Main_Video_Stgy13	30 phút
+__TAG__Main_Video_Stgy14	1 giờ
+__TAG__Main_Video_Stgy15	Dung lượng đĩa không đủ
+__TAG__Main_Video_Stgy16	Ghi đè tệp
+__TAG__Main_Video_Stgy17	Xóa bản ghi không báo động
+__TAG__Main_Video_Stgy18	Dừng ghi
+	
+__TAG__Main_Video_Hand1	Ghi thủ công
+__TAG__Main_Video_Hand2	Bắt đầu tất cả
+__TAG__Main_Video_Hand3	Dừng lại tất cả
+__TAG__Main_Video_Hand4	Trở lại
+__TAG__Main_Video_Hand5	Không có video & không có bản ghi
+__TAG__Main_Video_Hand6	Video & không có bản ghi
+__TAG__Main_Video_Hand7	Không có video & bản ghi thủ công
+__TAG__Main_Video_Hand8	Video & bản ghi thủ công
+__TAG__Main_Video_Hand9	Không có video, ghi lịch biểu
+__TAG__Main_Video_Hand10	Video, ghi theo lịch biểu
+__TAG__Main_Video_Hand11	Không có video & ghi theo cảnh báo
+__TAG__Main_Video_Hand12	Có video & ghi theo cảnh báo
+__TAG__Main_Video_Hand13	Mô tả
+__TAG__Main_Video_Hand14	Không có video & bản ghi tùy chỉnh
+__TAG__Main_Video_Hand15	Video & bản ghi tùy chỉnh
+	
+__TAG__Main_Video_Kind	Ghi theo sự kiện
+	
+__TAG__Main_Video_Bak1	Quản lý video
+__TAG__Main_Video_Bak1.0	Khóa
+__TAG__Main_Video_Bak2	Loại bản ghi
+__TAG__Main_Video_Bak4	Kích thước
+__TAG__Main_Video_Bak5	Thời gian bắt đầu
+__TAG__Main_Video_Bak6	StopTime
+__TAG__Main_Video_Bak7	Tên tệp
+__TAG__Main_Video_Bak8	Kênh
+__TAG__Main_Video_Bak9	Chuyển đến
+__TAG__Main_Video_Bak10	Trang
+__TAG__Main_Video_Bak11	Nhảy 
+__TAG__Main_Video_Bak12	Tìm kiếm
+__TAG__Main_Video_Bak13	Trang đầu tiên
+__TAG__Main_Video_Bak14	Trang cuối
+__TAG__Main_Video_Bak15	Trang trên
+__TAG__Main_Video_Bak16	Trang dưới
+__TAG__Main_Video_Bak17	Sao lưu
+__TAG__Main_Video_Bak18	Nhanh chóng
+__TAG__Main_Video_Bak19	Phát lại
+__TAG__Main_Video_Bak20	Tìm kiếm bản ghi
+	
+__TAG__Main_Video_Comn1	Kiểu
+__TAG__Main_Video_Comn2	Tất cả
+__TAG__Main_Video_Comn3	Thủ công
+__TAG__Main_Video_Comn4	Cổng
+__TAG__Main_Video_Comn5	Lịch biểu
+__TAG__Main_Video_Comn6	Chuyển động
+__TAG__Main_Video_Comn7	VideoLost
+__TAG__Main_Video_Comn8	Thời gian
+__TAG__Main_Video_Comn9	Mục tiêu
+	
+__TAG__Main_Video_Qry1	Tìm kiếm
+__TAG__Main_Video_Qry2	Kênh
+__TAG__Main_Video_Qry3	Tất cả các
+__TAG__Main_Video_Qry4	Kiểu
+__TAG__Main_Video_Qry5	Hướng dẫn
+__TAG__Main_Video_Qry6	Cổng
+__TAG__Main_Video_Qry7	Lịch biểu
+__TAG__Main_Video_Qry8	Chuyển động
+__TAG__Main_Video_Qry9	Mất video
+__TAG__Main_Video_Qry9.1	Mặt nạ video
+	
+__TAG__Main_Video_Qry10	Phạm vi
+__TAG__Main_Video_Qry11	Ghi tệp
+__TAG__Main_Video_Qry12	Tập tin sao lưu
+__TAG__Main_Video_Qry13	Ngày bắt đầu
+__TAG__Main_Video_Qry14	Ngày cuối
+__TAG__Main_Video_Qry15	Tìm kiếm hôm nay
+__TAG__Main_Video_Qry16	Tìm kiếm
+__TAG__Main_Video_Qry17	Chọn mục tiêu
+__TAG__Main_Video_Qry18	Mục tiêu
+__TAG__Main_Video_Qry19	U-disk
+__TAG__Main_Video_Qry20	USB HDD
+__TAG__Main_Video_Qry21	CD-ROM USB
+__TAG__Main_Video_Qry22	Ứng dụng
+__TAG__Main_Video_Qry23	Thời gian bắt đầu
+__TAG__Main_Video_Qry24	Thời gian kết thúc
+__TAG__Main_Video_Qry25	Mất âm thanh
+	
+__TAG__Main_Video_DayMap1	Clip ghi hình
+__TAG__Main_Video_DayMap2	Ngày trước
+__TAG__Main_Video_DayMap3	Ngày tiếp theo
+__TAG__Main_Video_DayMap4	Bình thường
+__TAG__Main_Video_DayMap5	Sự kiện
+	
+__TAG__Main_Video_Snap1	Xem trước Snaphot
+__TAG__Main_Video_Snap2	Loại
+__TAG__Main_Video_Snap3	Tất cả các
+__TAG__Main_Video_Snap4	Hướng dẫn
+__TAG__Main_Video_Snap5	Cổng
+__TAG__Main_Video_Snap6	Lịch biểu
+__TAG__Main_Video_Snap7	Chuyển động
+__TAG__Main_Video_Snap8	Mất video
+__TAG__Main_Video_Snap8.1	Mặt nạ video
+__TAG__Main_Video_Snap8.0	VCA
+__TAG__Main_Video_Snap9	Thời gian bắt đầu
+__TAG__Main_Video_Snap10	Tìm kiếm
+__TAG__Main_Video_Snap11	Hình ảnh
+__TAG__Main_Video_Snap12	/
+__TAG__Main_Video_Snap13	Trang
+__TAG__Main_Video_Snap14	Nhảy
+__TAG__Main_Video_Snap15	Trước
+__TAG__Main_Video_Snap16	Kế tiếp
+__TAG__Main_Video_Snap17	Loại Ảnh chụp nhanh
+__TAG__Main_Video_Snap19	Kích thước
+__TAG__Main_Video_Snap20	Thời gian bắt đầu
+__TAG__Main_Video_Snap21	Thời gian kết thúc
+__TAG__Main_Video_Snap22	Tên tệp
+__TAG__Main_Video_Snap23	Chọn tất cả
+__TAG__Main_Video_Snap23.0	Đảo ngược
+__TAG__Main_Video_Snap24	Duyệt
+__TAG__Main_Video_Snap26	Thông thoáng
+__TAG__Main_Video_Snap27	Quay lại
+__TAG__Main_Video_Snap28	Xóa ảnh
+__TAG__Main_Video_Snap29	Hình ảnh đã xóa sẽ không được phục hồi, tiếp tục?
+__TAG__Main_Video_Snap30	Đang xóa ảnh ...
+	
+__TAG__Main_Video_Qbak1	Nhanh 
+__TAG__Main_Video_Qbak2	Thời gian bắt đầu
+__TAG__Main_Video_Qbak3	Thời gian kết thúc
+__TAG__Main_Video_Qbak4	Kênh
+__TAG__Main_Video_Qbak5	Tất cả
+__TAG__Main_Video_Qbak5.0	Loại
+__TAG__Main_Video_Qbak5.1	Mục tiêu
+__TAG__Main_Video_Qbak5.2	Phạm vi
+__TAG__Main_Video_Qbak6	Hôm nay
+__TAG__Main_Video_Qbak7	Sao lưu
+__TAG__Main_Video_Qbak8	Sao lưu tất cả các tệp?
+__TAG__Main_Video_Qbak9	Sao lưu NFS
+__TAG__Main_Video_Qbak10	NFS sao lưu có thể làm chậm tốc độ truyền tải mạng, tiếp tục?
+__TAG__Main_Video_Qbak11	Sao lưu bản ghi
+__TAG__Main_Video_Qbak12	Toàn bộ
+__TAG__Main_Video_Qbak13	Làm xong
+__TAG__Main_Video_Qbak14	Lỗi
+__TAG__Main_Video_Qbak15	Đang sao chép
+__TAG__Main_Video_Qbak16	Lỗi sao lưu
+__TAG__Main_Video_Qbak17	Sao lưu không thành công do lỗi / đĩa phương tiện đầy đủ, tên tệp lỗi:
+__TAG__Main_Video_Qbak18	Áp dụng cho tất cả
+__TAG__Main_Video_Qbak19	Thử lại
+__TAG__Main_Video_Qbak20	Bỏ qua
+__TAG__Main_Video_Qbak21	Hủy bỏ
+	
+__TAG__Main_Video_Play1	Phát lại
+__TAG__Main_Video_Play2	0:00:00
+__TAG__Main_Video_Play3	Thời gian
+__TAG__Main_Video_Play4	Kiểu
+__TAG__Main_Video_Play4.1	Luồng
+__TAG__Main_Video_Play5	Tất cả
+__TAG__Main_Video_Play6	Hướng dẫn
+__TAG__Main_Video_Play7	Cổng
+__TAG__Main_Video_Play8	Lịch biểu
+__TAG__Main_Video_Play9	Chuyển động
+__TAG__Main_Video_Play10	Mất hình
+__TAG__Main_Video_Play10.1	Thẻ số 
+__TAG__Main_Video_Play10.2	VCA
+__TAG__Main_Video_Play10.3	Mặt nạ video
+	
+__TAG__Main_Video_Play11	Tìm kiếm
+__TAG__Main_Video_Play12	Danh sách video
+__TAG__Main_Video_Play13	Tìm kiếm bản ghi
+	
+__TAG__Main_Video_Play14	Thẻ số
+__TAG__Main_Video_Play15	Domain
+__TAG__Main_Video_Play16	Hoạt động
+__TAG__Main_Video_Play17	Tìm kiếm
+__TAG__Main_Video_Play18	Rút tiền
+__TAG__Main_Video_Play18.1	Đổi mật khẩu
+__TAG__Main_Video_Play18.2	Chuyển khoản
+__TAG__Main_Video_Play18.3	Đặt cọc
+__TAG__Main_Video_Play18.4	Tìm kiếm số thẻ
+__TAG__Main_Video_Play18.5	Số thẻ tạm ứng
+__TAG__Main_Video_Play18.6	Khác
+__TAG__Main_Video_Play18.7	Chèn
+__TAG__Main_Video_Play18.8	Kéo 
+__TAG__Main_Video_Play19	Số tiền
+__TAG__Main_Video_Play20	Tiền bị nuốt
+__TAG__Main_Video_Play21	Thẻ bị nuốt
+__TAG__Main_Video_Play22	Domain 1
+__TAG__Main_Video_Play23	Domain 2
+__TAG__Main_Video_Play24	Domain 3
+__TAG__Main_Video_Play25	Domain 4
+__TAG__Main_Video_Play25.0	Domain 5
+__TAG__Main_Video_Play26	Cổng
+	
+__TAG__Main_Video_Play27	Kiểu phát lại
+__TAG__Main_Video_Play28	Bình thường
+__TAG__Main_Video_Play29	Nhãn
+__TAG__Main_Video_Play30	Các loại
+__TAG__Main_Video_Play31	Từ khóa
+__TAG__Main_Video_Play32	Nhãn từ khóa
+__TAG__Main_Video_Play33	Phát lại trước
+__TAG__Main_Video_Play34	Phát lại nhanh
+__TAG__Main_Video_Play35	Tối đa
+__TAG__Main_Video_Play36	Thêm thẻ
+__TAG__Main_Video_Play38	Quản lý thẻ
+__TAG__Main_Video_Play39	Chỉnh sửa thẻ
+__TAG__Main_Video_Play40	Tệp bên ngoài
+__TAG__Main_Video_Play41	Tìm kiếm thông minh
+	
+__TAG__Main_VP_ADD_TAG1	Nhãn thời gian
+__TAG__Main_VP_ADD_TAG2	Tên nhãn
+	
+__TAG__Main_Video_Sync1	Phát lại đồng bộ 
+__TAG__Main_Video_Sync2	Cài đặt thời gian
+__TAG__Main_Video_Sync3	Xin lỗi, mã hàng không hỗ trợ chức nắng này
+__TAG__Main_Video_Sync4	Cài đặt
+__TAG__Main_Video_Sync5	Lời nhắc
+__TAG__Main_Video_Sync6	Không có bản ghi!
+__TAG__Main_Video_Sync7	Tối đa chọn tối đa 16 kênh để phát lại đồng bộ hóa.
+__TAG__Main_Video_Sync8	Sao lưu Clip
+__TAG__Main_Video_Sync9	Số clip cho mỗi kênh đạt đến giới hạn (40), lưu?
+	
+__TAG__Main_Video_Sync11	Đường dẫn sao lưu
+__TAG__Main_Video_Sync12	Đang chọn đường dẫn ...
+__TAG__Main_Video_Sync13	Không đủ dung lượng /HDD bị hỏng, vui lòng thử lại trên ổ cứng mới.
+	
+__TAG__Main_Video_Sync15	Tiến trình cắt video
+__TAG__Main_Video_Sync16	Cắt
+__TAG__Main_Video_Sync17.1	Chọn tất cả
+__TAG__Main_Video_Sync18	Phần
+__TAG__Main_Video_Sync19	Tiến độ hiện tại
+__TAG__Main_Video_Sync20	Tạm ngưng
+	
+__TAG__Main_Video_Sync21	Đã sao lưu clip thành công!
+__TAG__Main_Video_Sync22	Sao lưu clip không thành công!
+	
+__TAG__Main_Video_Sync23	Phát lại đồng bộ
+__TAG__Main_Video_Sync24	Ngày giờ
+__TAG__Main_Video_Sync25	Phát
+__TAG__Main_Video_Sync26	Trở lại
+__TAG__Main_Video_Sync27	Cập nhật Ảnh chụp nhanh
+	
+__TAG__Main_Video_Sync28	Danh sách clip
+__TAG__Main_Video_Sync29	ID
+__TAG__Main_Video_Sync31	Thời gian bắt đầu
+__TAG__Main_Video_Sync32	Thời gian kết thúc
+__TAG__Main_Video_Sync33	Tên tệp
+__TAG__Main_Video_Sync34	Kích thước tập tin
+__TAG__Main_Video_Sync35	Chọn tất cả
+__TAG__Main_Video_Sync36	Đảo ngược
+__TAG__Main_Video_Sync37	Sao lưu
+__TAG__Main_Video_Sync38	Thoát
+	
+__TAG__Main_Video_Time1	Cài đặt thời gian
+__TAG__Main_Video_Time2	Cài đặt
+__TAG__Main_Video_Time3	Thời gian bắt đầu
+__TAG__Main_Video_Time4	Thời gian kết thúc
+	
+__TAG__Main_Video_Menu1	Menu nhanh
+__TAG__Main_Video_Menu3	Thoát
+__TAG__Main_Video_Menu4	Menu nhanh
+__TAG__Main_Video_Menu5	Toàn màn hình
+__TAG__Main_Video_Menu6	Thoát
+__TAG__Main_Video_Menu8	Thoát
+__TAG__Main_Video_Menu9	Toàn màn hình
+	
+__TAG__Main_Video_Del1	Tìm kiếm
+__TAG__Main_Video_Del2	Xóa tệp bản ghi
+__TAG__Main_Video_Del3	Bạn có chắc chắn muốn xóa các tệp đã chọn không?
+__TAG__Main_Video_Del4	Đang xóa tệp hồ sơ ...
+__TAG__Main_Video_Del5	Không có tệp bản ghi nào được chọn
+__TAG__Main_Video_Del6	Vui lòng chọn các tệp tin ghi hình trước khi bấm phát.
+	
+__TAG__Main_Video_Indx1	Xây dựng lại chỉ mục
+__TAG__Main_Video_Indx2	Việc xây dựng lại chỉ mục có thể mất một chút thời gian và tạm dừng, bạn có chắc chắn sẽ tiếp tục không?
+__TAG__Main_Video_Indx3	Đang xây dựng lại chỉ mục ...
+	
+__TAG__Main_Video_Type_Man1	Quản lý loại
+__TAG__Main_Video_Type_Man2	Loại số
+__TAG__Main_Video_Type_Man3	Tên loại
+__TAG__Main_Video_Type_Man4	Chỉnh sửa
+	
+__TAG__Main_Video_Edit1	Loại sửa
+__TAG__Main_Video_Edit2	Loại số
+__TAG__Main_Video_Edit3	Tên loại
+	
+__TAG__Main_Video_Disk1	Ghi đĩa CD
+__TAG__Main_Video_Disk2	Đang thu thập tệp video, vui lòng chờ ...
+__TAG__Main_Video_Disk3	Đang ghi, xin vui lòng chờ ...
+__TAG__Main_Video_Disk4	Thử lại
+__TAG__Main_Video_Disk5	Trở lại
+__TAG__Main_Video_Disk6	Làm xong!
+__TAG__Main_Video_Disk7	Không có tệp hồ sơ
+__TAG__Main_Video_Disk8	Không tìm thấy tệp bản ghi nào.
+__TAG__Main_Video_Disk9	Trạng thái đĩa
+	
+__TAG__Main_Video_Pssd1	Mã hóa
+__TAG__Main_Video_Pssd2	Mật khẩu
+__TAG__Main_Video_Pssd3	Dừng lại
+	
+__TAG__Main_Video_SnapSet1	Cài đặt chụp nhanh
+__TAG__Main_Video_SnapSet2	Kênh
+__TAG__Main_Video_SnapSet3	Chế độ chụp nhanh
+__TAG__Main_Video_SnapSet4	Hình ảnh đơn
+__TAG__Main_Video_SnapSet5	Lịch biểu
+__TAG__Main_Video_SnapSet5.0	Liên tục
+__TAG__Main_Video_SnapSet6	Khoảng thời gian (Giây)
+__TAG__Main_Video_SnapSet6.1	Số
+__TAG__Main_Video_SnapSet6.0	(5 ~ 9999)
+__TAG__Main_Video_SnapSet7	Tải lên FTP
+__TAG__Main_Video_SnapSet8	Cài đặt FTP
+__TAG__Main_Video_SnapSet9	Sao chép vào
+__TAG__Main_Video_SnapSet10	Sao chép
+__TAG__Main_BackUp_Prompt	Buộc thoát?
+__TAG__Main_Video_SnapSet11	Tải lên email
+	
+__TAG__Main_holidayPlan	Gói kỳ nghỉ
+__TAG__Main_HolidayName	Tên kỳ nghỉ
+__TAG__Main_HolidayState	Tình trạng
+__TAG__Main_HolidayEnable	Bật kế hoạch kỳ nghỉ
+__TAG__Main_HolidaySet	Cài đặt ngày lễ
+__TAG__Main_HolidayType	Chế độ
+__TAG__Main_Holidaydate	Theo ngày
+__TAG__Main_Holidayweek	Theo tuần
+__TAG__Main_Holidaymonh	Theo tháng
+__TAG__Main_Holidayweek1	Tuần 1
+__TAG__Main_Holidayweek2	Tuần 2
+__TAG__Main_Holidayweek3	Tuần 3
+__TAG__Main_Holidayweek4	Tuần 4
+__TAG__Main_Holidayweek5	Tuần cuối
+__TAG__Main_Holiday	Ngày nghỉ
+	
+__TAG__Main_Video_TmRec_1	Thiết lập ghi hình theo lịch 
+	
+__TAG__Main_Vca_Set0	Cài đặt tham số
+__TAG__Main_Vca_Set1	Cài đặt cảnh báo
+__TAG__Main_Vca_Set2	Cài đặt VCA
+__TAG__Main_Vca_LkRec1	Kích hoạt kênh ghi hình
+__TAG__Main_Vca_All	Chọn tất cả
+__TAG__Main_Vca_LkSnp1	Kích hoạt kênh chụp hình
+__TAG__Main_Vca_LkAout1	Kích hoạt kênh đầu ra cho báo động
+	
+__TAG__Main_Vca_Set3	Cài đặt báo động
+__TAG__Main_Vca_Cldr	Ngày
+__TAG__Main_Vca_Week1	Thứ 2
+__TAG__Main_Vca_Week2	Thứ 3
+__TAG__Main_Vca_Week3	Thứ 4
+__TAG__Main_Vca_Week4	Thứ 5
+__TAG__Main_Vca_Week5	Thứ 6
+__TAG__Main_Vca_Week6	Thứ 7
+__TAG__Main_Vca_Week7	Chủ Nhật
+__TAG__Main_Vca_Time1	Khoảng thời gian 1
+__TAG__Main_Vca_Time2	Khoảng thời gian 2
+__TAG__Main_Vca_Time3	Khoảng thời gian 3
+__TAG__Main_Vca_Time4	Khoảng thời gian 4
+__TAG__Main_Vca_Set4	Sao chép tới
+__TAG__Main_Vca_Set5	Dán
+	
+__TAG__Main_Vca_Ptz1	Kích hoạt tính năng báo động PTZ
+__TAG__Main_Vca_Ptz2	Chọn kênh
+__TAG__Main_Vca_Ptz3	Kích hoạt cài đặt trước
+__TAG__Main_Vca_Ptz4	Kích hoạt hành trình
+__TAG__Main_Vca_Ptz5	Bật chế độ theo dõi
+	
+__TAG__Main_Vca_Line1	Cài đặt khoanh vùng báo động
+__TAG__Main_Vca_Line2	Xác thực kiểu báo động
+__TAG__Main_Vca_Line3	Tất cả
+__TAG__Main_Vca_Line4	Người
+__TAG__Main_Vca_Line5	Xe cộ
+__TAG__Main_Vca_Line6	Người và xe cộ
+__TAG__Main_Vca_Line7	Màu không báo động
+__TAG__Main_Vca_Line8	Mặc định
+__TAG__Main_Vca_Line9	Đỏ
+__TAG__Main_Vca_Line10	Xanh lá
+__TAG__Main_Vca_Line11	Vàng
+__TAG__Main_Vca_Line12	Xanh da trời
+__TAG__Main_Vca_Line13	Màu tím
+__TAG__Main_Vca_Line14	Màu xanh Cerulean
+__TAG__Main_Vca_Line15	Đen
+__TAG__Main_Vca_Line16	Trắng
+__TAG__Main_Vca_Line17	Màu báo động
+__TAG__Main_Vca_Line18	Thời gian tối thiểu
+__TAG__Main_Vca_Line19	0 giây
+__TAG__Main_Vca_Line20	1 giây
+__TAG__Main_Vca_Line21	2 giây
+__TAG__Main_Vca_Line22	3 giây
+__TAG__Main_Vca_Line23	4 giây
+__TAG__Main_Vca_Line24	5 giây
+__TAG__Main_Vca_Line25	Khoảng cách tối thiểu
+__TAG__Main_Vca_Line26	0 pixel
+__TAG__Main_Vca_Line27	10 pixel
+__TAG__Main_Vca_Line28	20 pixel
+__TAG__Main_Vca_Line29	30 pixel
+__TAG__Main_Vca_Line30	40 pixel
+__TAG__Main_Vca_Line31	50 pixel
+__TAG__Main_Vca_Line32	60 pixel
+__TAG__Main_Vca_Line33	70 pixel
+__TAG__Main_Vca_Line34	80 pixel
+__TAG__Main_Vca_Line35	90 pixel
+__TAG__Main_Vca_Line36	100 pixel
+__TAG__Main_Vca_Line37	110 pixel
+__TAG__Main_Vca_Line38	120 pixel
+__TAG__Main_Vca_Line39	130 pixel
+__TAG__Main_Vca_Line40	140 pixel
+__TAG__Main_Vca_Line41	150 pixel
+__TAG__Main_Vca_Line42	160 pixel
+__TAG__Main_Vca_Line43	170 pixel
+__TAG__Main_Vca_Line44	180 pixel
+__TAG__Main_Vca_Line45	190 pixel
+__TAG__Main_Vca_Line46	200 pixels
+__TAG__Main_Vca_Line47	Phương hướng
+__TAG__Main_Vca_Line48	Quy tắc hiển thị
+__TAG__Main_Vca_Line49	Hướng hai chiều
+__TAG__Main_Vca_Line50	Hiển thị số lượng báo động
+	
+__TAG__Main_Vca_Line51	Thiết lập chu vi
+__TAG__Main_Vca_Line52	Chế độ phát hiện
+__TAG__Main_Vca_Line53	Xâm nhập
+__TAG__Main_Vca_Line54	Đi vào
+__TAG__Main_Vca_Line55	Rời khỏi
+__TAG__Main_Vca_Line56	Giới hạn hướng
+__TAG__Main_Vca_Line57	Thống kê báo động
+__TAG__Main_Vca_Line58	Cài đặt nhận diện khuôn mặt
+__TAG__Main_Vca_Line59	Quy tắc hiển thị
+__TAG__Main_Vca_Line60	Hiển thị số lượng báo động
+__TAG__Main_Vca_Line61	Thời gian phát hiện
+	
+__TAG__Main_Vca_Line62	Số kênh
+__TAG__Main_Vca_Line63	Kích hoạt phân tích thông minh
+__TAG__Main_Vca_Line63.1	Vô hiệu hóa
+__TAG__Main_Vca_Line63.2	Kích hoạt NVR VCA
+__TAG__Main_Vca_Line63.3	Kích hoạt VCA
+__TAG__Main_Vca_Line64	Cài đặt
+__TAG__Main_Vca_Line67	Kích thước video
+__TAG__Main_Vca_Line68	Màu mục tiêu
+__TAG__Main_Vca_Line69	Ngẫu nhiên
+__TAG__Main_Vca_Line70	Màu báo động mục tiêu
+__TAG__Main_Vca_Line71	Phát hiện độ nhạy
+__TAG__Main_Vca_Line72	Thấp
+__TAG__Main_Vca_Line73	Trung bình
+__TAG__Main_Vca_Line74	Cao
+__TAG__Main_Vca_Line75	Độ dài theo dõi (0-40)
+__TAG__Main_Vca_Line76	Hiển thị mục tiêu
+__TAG__Main_Vca_Line77	Hiển thị theo dõi
+__TAG__Main_Vca_Line78	Hiển thị tất cả mục tiêu
+__TAG__Main_Vca_Line79	Cài đặt hiệu chuẩn
+__TAG__Main_Vca_Line80	Hiệu chuẩn
+__TAG__Main_Vca_Line81	Chiều cao
+__TAG__Main_Vca_Line83	Số quy tắc
+__TAG__Main_Vca_Line84	Kích hoạt
+__TAG__Main_Vca_Line85	Tên quy tắc
+__TAG__Main_Vca_Line86	Biến cố
+__TAG__Main_Vca_Line87	Vùng báo động
+__TAG__Main_Vca_Line88	Chu vi
+__TAG__Main_Vca_Line89	Phát hiện khuôn mặt
+__TAG__Main_Vca_Line90	Chẩn đoán video
+__TAG__Main_Vca_Line91	Kích hoạt
+__TAG__Main_Vca_Line92	Cấu hình sự kiện
+__TAG__Main_Vca_Line93	Theo dõi cài đặt
+__TAG__Main_Vca_Line94	Thông tin báo động
+__TAG__Main_Vca_Line95	Số quy tắc
+__TAG__Main_Vca_Line96	Cài lại
+__TAG__Main_Vca_Line96.0	Đếm lại
+__TAG__Main_Vca_Line97	Thời gian
+__TAG__Main_Vca_Line98	Kênh
+__TAG__Main_Vca_Line99	ID quy tắc
+__TAG__Main_Vca_Line100	ID mục tiêu
+__TAG__Main_Vca_Line101	Trạng thái
+__TAG__Main_Vca_Line102	Thể loại
+__TAG__Main_Vca_Line103	Biến cố
+	
+__TAG__Main_Vca_Line103.0	Người lạ/ mất đồ
+__TAG__Main_Vca_Line104	Mất đồ
+__TAG__Main_Vca_Line105	Khoảng cách tối đa
+__TAG__Main_Vca_Line106	5K pixel
+__TAG__Main_Vca_Line107	10K pixel
+__TAG__Main_Vca_Line108	15K pixel
+__TAG__Main_Vca_Line109	20K pixel
+__TAG__Main_Vca_Line110	25K pixel
+__TAG__Main_Vca_Line111	30K pixel
+__TAG__Main_Vca_Line112	35K pixel
+__TAG__Main_Vca_Line113	40K pixel
+__TAG__Main_Vca_Line114	45K pixel
+__TAG__Main_Vca_Line115	50K pixel
+__TAG__Main_Vca_Line116	55K pixel
+__TAG__Main_Vca_Line117	60K pixel
+__TAG__Main_Vca_Line118	65K pixel
+__TAG__Main_Vca_Line119	70K pixel
+__TAG__Main_Vca_Line120	75K pixel
+__TAG__Main_Vca_Line121	80K pixel
+__TAG__Main_Vca_Line122	Tiếng ồn
+__TAG__Main_Vca_Line123	Định nghĩa bất thường
+__TAG__Main_Vca_Line124	Độ sáng bất thường
+__TAG__Main_Vca_Line125	Màu sắc bất thường
+__TAG__Main_Vca_Line126	Đóng băng màn hình
+__TAG__Main_Vca_Line127	Mất tín hiệu
+__TAG__Main_Vca_Line128	Chuyển cảnh
+__TAG__Main_Vca_Line129	Giao thoa nhân tạo
+__TAG__Main_Vca_Line130	PTZ mất kiểm soát
+__TAG__Main_Vca_Line131	2000ms
+__TAG__Main_Vca_Line132	6000ms
+__TAG__Main_Vca_Line133	10000ms
+__TAG__Main_Vca_Line134	14000ms
+__TAG__Main_Vca_Line135	18000ms
+__TAG__Main_Vca_Line136	Dấu nhắc chẩn đoán video
+__TAG__Main_Vca_Line138	Thông tin báo động thời gian thực
+__TAG__Main_Vca_Line139	Quy tắc 1
+	
+__TAG__Main_Vca_Alm3	Kích hoạt VCA
+__TAG__Main_Vca_Alm4	Kích hoạt báo động
+__TAG__Main_Vca_Alm5	Kích hoạt
+__TAG__Main_Vca_Alm6	Còi báo
+__TAG__Main_Vca_Alm7	OSD
+__TAG__Main_Vca_Alm8	Kích hoạt ghi âm
+__TAG__Main_Vca_Alm9	Kích hoạt đầu ra
+__TAG__Main_Vca_Alm10	Kích hoạt PTZ
+__TAG__Main_Vca_Alm11	Kích hoạt Ảnh chụp nhanh
+__TAG__Main_Vca_Alm12	Kích hoạt màn hình đơn
+__TAG__Main_Vca_Alm13	Kênh 1
+__TAG__Main_Vca_Alm14	Kênh 2
+__TAG__Main_Vca_Alm15	Kênh 3
+__TAG__Main_Vca_Alm16	Kênh số 4
+__TAG__Main_Vca_Alm17	Kênh 5
+__TAG__Main_Vca_Alm18	Kênh 6
+__TAG__Main_Vca_Alm19	Kênh 7
+__TAG__Main_Vca_Alm20	Kênh 8
+__TAG__Main_Vca_Alm21	Kênh 9
+__TAG__Main_Vca_Alm22	Kênh 10
+__TAG__Main_Vca_Alm23	Kênh 11
+__TAG__Main_Vca_Alm24	Kênh 12
+__TAG__Main_Vca_Alm25	Kênh 13
+__TAG__Main_Vca_Alm26	Kênh 14
+__TAG__Main_Vca_Alm27	Kênh 15
+__TAG__Main_Vca_Alm28	Kênh 16
+__TAG__Main_Vca_Alm29	Kênh 17
+__TAG__Main_Vca_Alm30	Kênh 18
+__TAG__Main_Vca_Alm31	Kênh 19
+__TAG__Main_Vca_Alm32	Kênh 20
+__TAG__Main_Vca_Alm33	Kênh 21
+__TAG__Main_Vca_Alm34	Kênh 22
+__TAG__Main_Vca_Alm35	Kênh 23
+__TAG__Main_Vca_Alm36	Kênh 24
+__TAG__Main_Vca_Alm37	Kênh 25
+__TAG__Main_Vca_Alm38	Kênh 26
+__TAG__Main_Vca_Alm39	Kênh 27
+__TAG__Main_Vca_Alm40	Kênh 28
+__TAG__Main_Vca_Alm41	Kênh 29
+__TAG__Main_Vca_Alm42	Kênh 30
+__TAG__Main_Vca_Alm43	Kênh 31
+__TAG__Main_Vca_Alm44	Kênh 32
+__TAG__Main_Vca_Alm45	Sao chép vào
+__TAG__Main_Vca_Alm46	Cài đặt bộ ba
+__TAG__Main_Vca_Alm47	Cài lại
+__TAG__Main_Vca_Alm48	Thiết lập chu vi
+__TAG__Main_Vca_Alm49	Hiệu chuẩn loại mục tiêu
+__TAG__Main_Vca_Alm50	Lỗi kiểm tra mục tiêu
+__TAG__Main_Vca_Alm51	Số mẫu <3, vui lòng thử lại.
+__TAG__Main_Vca_Alm52	Cài đặt theo dõi đối tượng lạ/mất đồ
+__TAG__Main_Vca_Alm53	Lưu khu vực hiện tại
+__TAG__Main_Vca_Alm54	Thoát
+	
+__TAG__Main_User_Var1	Xác thực hủy bỏ
+__TAG__Main_User_Used	Sử dụng
+	
+__TAG__Main_User_Icn1	Quản lý người dùng
+__TAG__Main_User_Icn2	Danh sách người dùng
+__TAG__Main_User_Icn3	Tên tài khoản
+__TAG__Main_User_Icn4	Nhóm
+__TAG__Main_User_Icn5	Thêm tài khoản
+__TAG__Main_User_Icn6	Xóa tài khoản
+__TAG__Main_User_Icn7	Chỉnh sửa người dùng
+__TAG__Main_User_Icn8	Cài đặt phân quyền
+	
+__TAG__Main_User_Rig1	Quản lý cấp phép người dùng
+__TAG__Main_User_Rig2	Cho phép kênh
+__TAG__Main_User_Rig3	Người dùng hiện tại
+__TAG__Main_User_Rig4	Tùy chọn cho phép
+__TAG__Main_User_Rig5	Giấy phép địa phương
+__TAG__Main_User_Rig6	Quyền từ xa
+__TAG__Main_User_Rig8	Ghi lại thời gian thực / phát lại CD
+__TAG__Main_User_Rig9	Đăng nhập Tìm kiếm
+__TAG__Main_User_Rig15	Tắt máy / Khởi động lại
+__TAG__Main_User_Rig17	Nói chuyện bằng giọng nói
+__TAG__Main_User_Rig18	Xem trước từ xa
+__TAG__Main_User_Rig19	Ghi / Chụp ảnh cục bộ
+__TAG__Main_User_Rig20	Ghi hình / Ảnh chụp từ xa
+__TAG__Main_User_Rig21	Phát lại video / hình ảnh cục bộ
+__TAG__Main_User_Rig22	Phát lại video / hình ảnh từ xa
+__TAG__Main_User_Rig23	Kiểm soát PTZ địa phương
+__TAG__Main_User_Rig24	Điều khiển PTZ từ xa
+	
+__TAG__Main_User_Add1	Thêm người dùng
+__TAG__Main_User_Add2	Thêm vào nhóm
+__TAG__Main_User_Add6	Tên tài khoản
+__TAG__Main_User_Add7	Mật khẩu
+__TAG__Main_User_Add8	Xác nhận mật khẩu
+	
+__TAG__Main_User_Edit1	Chỉnh sửa tài khoản
+__TAG__Main_User_Edit2	Tên tài khoản
+__TAG__Main_User_Edit3	Di chuyển đến nhóm
+__TAG__Main_User_Edit7	Mật khẩu mới
+__TAG__Main_User_Edit8	Xác nhận mật khẩu
+	
+__TAG__Main_User_Del1	Xóa người dùng
+__TAG__Main_User_Del2	Xóa người dùng đã chọn, tiếp tục?
+__TAG__Main_User_Calc	Hủy bỏ
+	
+__TAG__Main_User_Grp25	Không được phép, xin vui lòng chuyển sang người dùng khác.
+__TAG__Main_User_Grp26	Người dùng hiện tại
+__TAG__Main_User_Grp27	tên tài khoản
+__TAG__Main_User_Grp28	Mật khẩu
+__TAG__Main_User_Grp29	Đăng nhập thất bại !
+__TAG__Main_User_Grp30	Tên người dùng / mật khẩu không hợp lệ, vui lòng thử lại.
+__TAG__Main_User_Grp31	Xóa người dùng không thành công
+__TAG__Main_User_Grp32	Không thể xóa người dùng / người dùng được chỉ định không tồn tại.
+__TAG__Main_User_Grp33	Mật khẩu không khớp!
+__TAG__Main_User_Grp34	Mật khẩu không khớp, vui lòng nhập lại.
+__TAG__Main_User_Grp35	Thêm người dùng thất bại
+__TAG__Main_User_Grp36	Tên người dùng / mật khẩu không hợp lệ, không thể thêm người dùng, vui lòng thử lại.
+__TAG__Main_User_Grp37	Thêm người dùng thất bại
+__TAG__Main_User_Grp38	Tên người dùng hiện tại, vui lòng thay đổi tên người dùng khác.
+__TAG__Main_User_Grp39	Thêm người dùng thất bại
+__TAG__Main_User_Grp40	Số người dùng vượt quá giới hạn.
+__TAG__Main_User_Grp41	Sửa đổi thông tin người dùng không thành công
+__TAG__Main_User_Grp42	Không thể sửa đổi thông tin người dùng được chỉ định / gửi thông tin sai, vui lòng thử lại.
+	
+__TAG__Main_User_Online1	Người dùng trực tuyến
+__TAG__Main_User_Online3	Ngắt kết nối
+__TAG__Main_User_Online4	tên tài khoản
+__TAG__Main_User_Online5	IP
+	
+__TAG__Main_Txr_Fail	Lỗi hệ thống
+__TAG__Main_Txr_Data_Fail	Lỗi truyền dữ liệu
+	
+__TAG__Main_Sys_Num	Tên tài khoản
+__TAG__Main_Sys_Num1	ID DDNS
+__TAG__Main_Sys_Pssd	Mật khẩu
+__TAG__Main_Sys_Pssd1	Mật khẩu DDNS
+__TAG__Main_Sys_Used	Ứng dụng
+__TAG__Main_Sys_Naddr	Địa chỉ IP
+__TAG__Main_Sys_Naddr1	Địa chỉ mạng gốc
+__TAG__Main_Sys_Naddr2	Địa chỉ mạng mới
+__TAG__Main_Sys_Mask	Mạng con
+__TAG__Main_Sys_Gway	Cổng
+__TAG__Main_Sys_Mac	Địa chỉ MAC
+	
+__TAG__Main_Sys_Var1	Thông tin
+__TAG__Main_Sys_Var2	Địa chỉ IP và Cài đặt dịch vụ mạng
+__TAG__Main_Sys_Var3	Cài đặt cổng nối tiếp
+__TAG__Main_Sys_Var4	Disk Partition và Formatting
+__TAG__Main_Sys_Var5	Quản lý nhật ký hệ thống
+__TAG__Main_Sys_Var6	Nâng cấp hệ thống thông qua USB / Mạng
+__TAG__Main_Sys_Var7	Cài đặt thông tin bất thường của hệ thống
+__TAG__Main_Sys_Var8	Đặt lại về mặc định của nhà máy
+__TAG__Main_Sys_Var9	Thay đổi tên kênh
+__TAG__Main_Sys_Var9.0	Cài đặt múi giờ và múi giờ
+__TAG__Main_Sys_Var10	Thiết lập hệ thống
+__TAG__Main_Sys_Var11	Định dạng đĩa ...
+__TAG__Main_Sys_Var12	Lỗi định dạng đĩa!
+__TAG__Main_Sys_Var13	Định dạng đĩa xong.
+__TAG__Main_Sys_Var14	Nâng cấp hệ thống không thành công %s, vui lòng thử lại.
+__TAG__Main_Sys_Var15	Thiết bị USB bị ngắt kết nối.
+__TAG__Main_Sys_Var16	Không có kết nối với máy chủ FTP
+__TAG__Main_Sys_Var17	Không có tập tin nâng cấp
+__TAG__Main_Sys_Var18	Thiết bị bất thường hoặc tập tin không tồn tại.
+__TAG__Main_Sys_Var19	Nâng cấp hệ thống ...
+__TAG__Main_Sys_Var20	Hệ thống nâng cấp xong, khởi động lại ...
+__TAG__Main_Sys_Var21	Nâng cấp hệ thống không thành công, vui lòng thử lại.
+__TAG__Main_Sys_Var22	Cài đặt giờ và múi giờ
+__TAG__Main_Sys_Var23	Cài đặt thông tin 3G
+__TAG__Main_Sys_Var24	Thống kê Mạng giám sát tình trạng và tài nguyên mạng
+__TAG__Main_Sys_Var25	Bảo dưỡng thiết bị tự động định kỳ
+__TAG__Main_Sys_Var26	Nâng cấp IPC xong, khởi động lại thành công
+__TAG__Main_Sys_Var27	Cấu hình mảng RAID và đĩa ảo
+__TAG__Main_Sys_Var28	Cài đặt chế độ làm việc và dự phòng
+	
+__TAG__Main_Sys_Icn1	Thiết lập hệ thống
+__TAG__Main_Sys_Icn2	Thông tin hệ thống
+__TAG__Main_Sys_Icn3	Mạng
+__TAG__Main_Sys_Icn4	Nối tiếp
+__TAG__Main_Sys_Icn5	Ổ đĩa
+__TAG__Main_Sys_Icn6	Đăng nhập
+__TAG__Main_Sys_Icn7	Nâng cấp
+__TAG__Main_Sys_Icn8	Cảnh báo hệ thống
+__TAG__Main_Sys_Icn9	Cấu hình
+__TAG__Main_Sys_Icn10	Bí danh
+__TAG__Main_Sys_Icn12	Thời gian
+__TAG__Main_Sys_Icn13	3G
+__TAG__Main_Sys_Icn14	Quản lý mảng
+__TAG__Main_Sys_Icn15	Thiết lập dự phòng nóng
+__TAG__Main_Sys_Icn16	Thông tin thiết bị
+	
+__TAG__Main_Sys_Msg1	Thông tin hệ thống
+__TAG__Main_Sys_Msg2	Tên thiết bị
+__TAG__Main_Sys_Msg3	ID thiết bị
+__TAG__Main_Sys_Msg4	Cài đặt
+__TAG__Main_Sys_Msg5	Nhà sản xuất
+__TAG__Main_Sys_Msg6	Số Serial
+__TAG__Main_Sys_Msg7	Phiên bản phần mềm
+__TAG__Main_Sys_Msg8	Phiên bản mã hóa
+__TAG__Main_Sys_Msg9	Phiên bản web
+__TAG__Main_Sys_Msg10	Phiên bản giao diện người dùng
+__TAG__Main_Sys_Msg11	Thông tin RAM
+__TAG__Main_Sys_Msg12	Đã sử dụng: 2M Miễn phí: 32M
+__TAG__Main_Sys_Msg13	Giờ hệ thống
+__TAG__Main_Sys_Msg14	Thời gian
+__TAG__Main_Sys_Msg15	Nhiệt độ thiết bị
+	
+__TAG__Main_Sys_Time1	Cài đặt thời gian hệ thống
+__TAG__Main_Sys_Time2	Thời gian
+__TAG__Main_Sys_Time3	Lỗi định dạng thời gian
+__TAG__Main_Sys_Time4	Lỗi định dạng thời gian, vui lòng kiểm tra và thử lại.
+__TAG__Main_Sys_Time5	Múi giờ
+	
+__TAG__Main_Sys_Net1	Cài đặt mạng
+__TAG__Main_Sys_Net3	Tự động nhận địa chỉ IP
+__TAG__Main_Sys_Net4	Cài đặt thủ công Địa chỉ IP
+__TAG__Main_Sys_Net5	Hướng dẫn cài đặt DNS
+__TAG__Main_Sys_Net6	DNS ưa thích
+__TAG__Main_Sys_Net7	DNS dành riêng
+__TAG__Main_Sys_Net7.0	DNS
+__TAG__Main_Sys_Net8	PPPOE
+__TAG__Main_Sys_Net9	Tình trạng PPPOE
+__TAG__Main_Sys_Net10	Khởi động tự động quay số
+__TAG__Main_Sys_Net11	Kết nối
+__TAG__Main_Sys_Net12	ngắt kết nối
+__TAG__Main_Sys_Net13	Trạng thái mạng
+__TAG__Main_Sys_Net14	Ngoại tuyến
+__TAG__Main_Sys_Net15	Trực tuyến
+__TAG__Main_Sys_Net16	ESSID
+__TAG__Main_Sys_Net20	DNS
+__TAG__Main_Sys_Net22	Tải lên Wifi
+__TAG__Main_Sys_Net23	Cài đặt wifi
+	
+__TAG__Main_Sys_Net24	Khác
+__TAG__Main_Sys_Net25	Danh sách tên đen trắng
+__TAG__Main_Sys_Net26	Trung tâm đăng ký
+__TAG__Main_Sys_Net27	NTP
+__TAG__Main_Sys_Net28	DDNS
+__TAG__Main_Sys_Net29	Lưu trữ web (NFS)
+__TAG__Main_Sys_Net30	Người phục vụ
+__TAG__Main_Sys_Net31	Danh mục
+__TAG__Main_Sys_Net32	Dịch vụ web
+__TAG__Main_Sys_Net33	Cổng FTP
+__TAG__Main_Sys_Net35	Cổng HTTP
+__TAG__Main_Sys_Net37	Kích hoạt UPnP
+	
+__TAG__Main_Sys_Net38	Khởi động thành công
+__TAG__Main_Sys_Net39	PPPOE được kết nối
+__TAG__Main_Sys_Net40	PPPOE bị ngắt kết nối
+__TAG__Main_Sys_Net41	Thông số bất hợp pháp
+__TAG__Main_Sys_Net42	Số cổng bất hợp pháp, vui lòng kiểm tra và thử lại.
+__TAG__Main_Sys_Net43	Cập nhật thông số IP
+__TAG__Main_Sys_Net44	Tham số mạng thay đổi cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+__TAG__Main_Sys_Net45	Đúng
+__TAG__Main_Sys_Net46	Không
+__TAG__Main_Sys_Net47	Cài đặt lưu trữ mạng
+__TAG__Main_Sys_Net48	Người phục vụ
+__TAG__Main_Sys_Net50	Danh mục
+__TAG__Main_Sys_Net51	Cài đặt cấp phép IP
+	
+__TAG__Main_Sys_Net52	Vô hiệu hóa
+__TAG__Main_Sys_Net53	Danh sách trắng
+__TAG__Main_Sys_Net54	Danh sách đen
+__TAG__Main_Sys_Net55	Thêm vào
+	
+__TAG__Main_Sys_Net56	Dịch vụ DHCP
+__TAG__Main_Sys_Net57	DHCP server
+__TAG__Main_Sys_Net58	Kích hoạt
+__TAG__Main_Sys_Net60	Địa chỉ bắt đầu
+__TAG__Main_Sys_Net61	Địa chỉ kết thúc
+__TAG__Main_Sys_Net62	Địa chỉ thuê nhà (phút)
+__TAG__Main_Sys_Net62.1	(1 ~ 2880)
+__TAG__Main_Sys_Net63	(Không bắt buộc)
+__TAG__Main_Sys_Net64	Tên miền mặc định
+	
+__TAG__Main_Sys_Net65	Khách hàng
+__TAG__Main_Sys_Net65.1	Danh sách khách hàng
+__TAG__Main_Sys_Net66	TÔI
+__TAG__Main_Sys_Net67	Địa chỉ MAC
+__TAG__Main_Sys_Net68	Địa chỉ IP
+__TAG__Main_Sys_Net69	Thời gian có hiệu lực
+__TAG__Main_Sys_Net70	Làm mới
+	
+__TAG__Main_Sys_Net80	Kích hoạt SNMP
+__TAG__Main_Sys_Net81	Phát hiện mạng
+__TAG__Main_Sys_Net84	Tốc độ tải lên
+__TAG__Main_Sys_Net85	Tốc độ tải xuống
+__TAG__Main_Sys_Net86	Tổng lưu lượng tải lên
+__TAG__Main_Sys_Net87	Tổng lưu lượng tải xuống
+	
+__TAG__Main_Sys_Ntp1	Cài đặt NTP
+__TAG__Main_Sys_Ntp2	Địa chỉ IP
+__TAG__Main_Sys_Ntp3	Cài đặt cổng
+__TAG__Main_Sys_Ntp4	Khoảng thời gian (phút)
+__TAG__Main_Sys_Ntp5	Ứng dụng
+	
+__TAG__Main_Sys_Ddns1	DDNS
+__TAG__Main_Sys_Ddns2	Kích hoạt
+__TAG__Main_Sys_Ddns3	Tên miền máy chủ
+__TAG__Main_Sys_Ddns4	Tên miền DDNS
+__TAG__Main_Sys_Ddns5	Cổng
+__TAG__Main_Sys_Ddns6	Cài đặt
+	
+__TAG__Main_Sys_Reg1	Trung tâm đăng ký
+__TAG__Main_Sys_Reg2	Máy chủ 1
+__TAG__Main_Sys_Reg3	Máy chủ2
+__TAG__Main_Sys_Reg4	Tên thiết bị
+__TAG__Main_Sys_Reg5	Cài đặt
+	
+__TAG__Main_Sys_Wifi	WIFI
+__TAG__Main_Sys_Wifi0	Kích hoạt WIFI
+__TAG__Main_Sys_Wifi1	Cài đặt tham số wifi
+__TAG__Main_Sys_Wifi2	ESSID
+__TAG__Main_Sys_Wifi3	Tìm kiếm
+__TAG__Main_Sys_Wifi4	Nhập thủ công
+__TAG__Main_Sys_Wifi5	Bật cài đặt bảo mật
+__TAG__Main_Sys_Wifi6	Loại bảo mật
+__TAG__Main_Sys_Wifi6.1	Mở
+__TAG__Main_Sys_Wifi7	WEP
+__TAG__Main_Sys_Wifi8	WPA-PSK
+__TAG__Main_Sys_Wifi9	WPA2-PSK
+__TAG__Main_Sys_Wifi10	Loại chính
+__TAG__Main_Sys_Wifi11	HEX
+__TAG__Main_Sys_Wifi12	ASCII
+__TAG__Main_Sys_Wifi13	Loại Pwd
+__TAG__Main_Sys_Wifi14	Vô hiệu hóa
+__TAG__Main_Sys_Wifi15	64 bit
+__TAG__Main_Sys_Wifi16	128 bit
+__TAG__Main_Sys_Wifi17	Mã hóa
+__TAG__Main_Sys_Wifi18	TKIP
+__TAG__Main_Sys_Wifi19	AES
+__TAG__Main_Sys_Wifi20	Chọn mật khẩu
+__TAG__Main_Sys_Wifi21	Mật khẩu
+__TAG__Main_Sys_Wifi22	Mật khẩu 2
+__TAG__Main_Sys_Wifi23	Mật khẩu 3
+__TAG__Main_Sys_Wifi24	Mật khẩu 4
+__TAG__Main_Sys_Wifi24.1	Mật khẩu 5
+__TAG__Main_Sys_Wifi24.2	Mật khẩu 6
+__TAG__Main_Sys_Wifi25	Nội dung mật khẩu
+__TAG__Main_Sys_Wifi26	Mô tả mật khẩu
+__TAG__Main_Sys_Wifi27	Trạng thái kết nối
+__TAG__Main_Sys_Wifi28	ngắt kết nối
+__TAG__Main_Sys_Wifi29	Đã kết nối
+__TAG__Main_Sys_Wifi30	Mật khẩu mạng không hợp lệ, mật khẩu hiệu quả là 8-63 ký tự ASCII hoặc 64 hex c
+__TAG__Main_Sys_Wifi32	Mật khẩu mạng không hợp lệ, mật khẩu hiệu quả là 5/13 ký tự ASCII hoặc 10/26 ký tự hex (0-9, A-F).
+__TAG__Main_Sys_Wifi33	Mô tả mật khẩu
+__TAG__Main_Sys_Wifi34	Mô tả độ dài mật khẩu WEP:
+__TAG__Main_Sys_Wifi35	 Nhập 10 ký tự Hex hoặc 5 ký tự ASCII khi chọn mật khẩu 64 bit, nhập 26 ký tự Hex hoặc 13 ký tự ASCII khi chọn mật khẩu 128 bit.
+__TAG__Main_Sys_Wifi36	Mô tả độ dài mật khẩu WPA-PSK / WPA2-PSK:
+__TAG__Main_Sys_Wifi37	Nhập 8-63 ký tự khi chọn ASCII, nhập 64 ký tự khi chọn Hex.
+__TAG__Main_Sys_Wifi38	Cập nhật thông số wifi
+__TAG__Main_Sys_Wifi39	Thông số mạng đã thay đổi!
+__TAG__Main_Sys_Wifi40	Tìm kiếm
+__TAG__Main_Sys_Wifi41	Thay đổi tham số AP
+__TAG__Main_Sys_Wifi42	Thay đổi tham số AP cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+__TAG__Main_Sys_Wifi43	Thay đổi tham số WIFI cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+__TAG__Main_Sys_Wifi44	Thay đổi tham số WIFI
+	
+__TAG__Main_Sys_Com1	Cài đặt cổng nối tiếp
+__TAG__Main_Sys_Com2	Cổng nối tiếp
+__TAG__Main_Sys_Com19	Tốc độ bit
+	
+__TAG__Main_Sys_Com29	Bit dữ liệu
+__TAG__Main_Sys_Com30	7 bit
+__TAG__Main_Sys_Com31	8 bit
+__TAG__Main_Sys_Com32	Dừng bit
+__TAG__Main_Sys_Com33	1 chút
+__TAG__Main_Sys_Com34	2 bit
+__TAG__Main_Sys_Com35	Kiểm tra
+__TAG__Main_Sys_Com36	Không
+__TAG__Main_Sys_Com37	Kiểm tra lẻ
+__TAG__Main_Sys_Com38	Cả chẵn lẽ
+__TAG__Main_Sys_Com39	Chế độ hoạt động
+__TAG__Main_Sys_Com40	Chế độ giao thức
+__TAG__Main_Sys_Com41	Kênh trong suốt
+__TAG__Main_Sys_Com42	Ứng dụng công nghiệp
+__TAG__Main_Sys_Com43	Máy chủ báo động
+__TAG__Main_Sys_Com44	Bàn phím 485
+__TAG__Main_Sys_Com45	GPS xe hơi
+__TAG__Main_Sys_Com46	ATM chuyên dụng
+	
+__TAG__Main_Sys_Disk1	Quản lý đĩa
+__TAG__Main_Sys_Disk2	Danh sách đĩa
+__TAG__Main_Sys_Disk3	Đĩa1
+__TAG__Main_Sys_Disk4	Đĩa2
+__TAG__Main_Sys_Disk5	định dạng
+__TAG__Main_Sys_Disk6	Cài đặt
+__TAG__Main_Sys_Disk7	Thông tin đĩa
+__TAG__Main_Sys_Disk8	Dung lượng
+__TAG__Main_Sys_Disk9	Đã sử dụng
+__TAG__Main_Sys_Disk10	Miễn phí
+	
+__TAG__Main_Sys_Disk11	Quản lý đĩa
+__TAG__Main_Sys_Disk11.1	Cấu hình cơ bản
+__TAG__Main_Sys_Disk11.0	Khóa
+__TAG__Main_Sys_Disk12	Thiết bị
+__TAG__Main_Sys_Disk13	Kích thước
+__TAG__Main_Sys_Disk14	Đã sử dụng
+__TAG__Main_Sys_Disk15	Miễn phí
+__TAG__Main_Sys_Disk16	Vách ngăn
+__TAG__Main_Sys_Disk17	Ngủ
+__TAG__Main_Sys_Disk18	Khởi tạo
+__TAG__Main_Sys_Disk19	Định dạng tự động
+__TAG__Main_Sys_Disk20	Cài đặt đĩa
+__TAG__Main_Sys_Disk21	Định dạng tự động
+__TAG__Main_Sys_Disk22	Thao tác này sẽ khởi động lại hệ thống và tự động khởi tạo tất cả các đĩa không định dạng, tiếp tục?
+__TAG__Main_Sys_Disk23	Định dạng đĩa
+__TAG__Main_Sys_Disk24	Thao tác này sẽ khởi động lại hệ thống và tự động khởi tạo tất cả các đĩa không định dạng, tiếp tục?
+__TAG__Main_Sys_Disk25	Định dạng đĩa
+__TAG__Main_Sys_Disk26	Định dạng đĩa sẽ xóa tất cả dữ liệu, tiếp tục?
+__TAG__Main_Sys_Disk27	Định dạng đĩa ...
+__TAG__Main_Sys_Disk28	Định dạng đĩa xong!
+__TAG__Main_Sys_Disk29	Cài đặt đĩa
+__TAG__Main_Sys_Disk30	Đĩa được sử dụng cho
+__TAG__Main_Sys_Disk30.0	Số đĩa
+__TAG__Main_Sys_Disk31	ghi âm
+__TAG__Main_Sys_Disk32	Sao lưu
+__TAG__Main_Sys_Disk32.0	R / W
+__TAG__Main_Sys_Disk32.1	Dư thừa
+__TAG__Main_Sys_Disk32.2	Chỉ đọc
+__TAG__Main_Sys_Disk33	Vô hiệu hóa
+__TAG__Main_Sys_Disk36	Phân vùng dung lượng còn lại giới hạn dưới
+__TAG__Main_Sys_Disk46	Khởi tạo đĩa
+__TAG__Main_Sys_Disk47	Phân vùng
+__TAG__Main_Sys_Disk49	Thận trọng: Khởi tạo đĩa sẽ xóa tất cả dữ liệu và chiếm phần lớn dung lượng hệ thống, vui lòng đóng các ứng dụng khác, tiếp tục?
+__TAG__Main_Sys_Disk49.1	Khởi tạo đĩa sẽ xóa tất cả dữ liệu, tiếp tục?
+__TAG__Main_Sys_Disk50	Thực hiện
+__TAG__Main_Sys_Disk51	Cài đặt NFS
+__TAG__Main_Sys_Disk52	Thuộc tính
+__TAG__Main_Sys_Disk53	Cài đặt nâng cao
+__TAG__Main_Sys_Disk54	Phát hiện thông minh
+__TAG__Main_Sys_Disk55	Phát hiện đĩa
+__TAG__Main_Sys_Disk56	Thiết bị sẽ phát hiện tất cả các đĩa sau khi tắt nguồn khởi động lại.
+__TAG__Main_Sys_Disk57	Chọn tất cả
+__TAG__Main_Sys_Disk58	Sửa chữa đĩa bị hỏng
+__TAG__Main_Sys_Disk59	Chế độ lựa chọn
+__TAG__Main_Sys_Disk60	Nhóm đĩa
+__TAG__Main_Sys_Disk61	Hạn ngạch
+__TAG__Main_Sys_Disk62	Chọn tất cả các đĩa
+__TAG__Main_Sys_Disk62.0	Kiểm tra tất cả IPSAN.
+__TAG__Main_Sys_Disk63	Chọn tất cả các kênh
+__TAG__Main_Sys_Disk65	Hạn ngạch ghi âm đã sử dụng
+__TAG__Main_Sys_Disk66	Hạn ngạch sử dụng hình ảnh
+__TAG__Main_Sys_Disk67	Tổng dung lượng đĩa
+__TAG__Main_Sys_Disk68	Hạn ngạch ghi (GB)
+__TAG__Main_Sys_Disk69	Hạn ngạch hình ảnh (GB)
+__TAG__Main_Sys_Disk69.1	0 có nghĩa là không giới hạn (tối thiểu là 10G)
+__TAG__Main_Sys_Disk69.2	0 có nghĩa là không giới hạn (tối thiểu là 5G)
+__TAG__Main_Sys_Disk70	Nhóm đĩa %d không có đĩa để ghi, tiếp tục?
+__TAG__Main_Sys_Disk71	Kênh% d không có nhóm đĩa / nhóm đĩa được chỉ định không có đĩa để ghi, tiếp tục?
+__TAG__Main_Sys_Disk72	Không gian ghi cho kênh này vượt quá hạn ngạch được phân bổ, cần xóa một số video ghi, tiếp tục?
+__TAG__Main_Sys_Disk73	Chế độ ghi thay đổi cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+__TAG__Main_Sys_Disk74	Không gian được phân bổ vượt quá dung lượng đĩa tatal, vui lòng phân bổ lại.
+	
+__TAG__Main_Sys_Raid0	Đĩa vật lý
+__TAG__Main_Sys_Raid1	Mảng
+__TAG__Main_Sys_Raid2	Đĩa ảo
+__TAG__Main_Sys_Raid3	Kích hoạt mảng
+__TAG__Main_Sys_Raid4	Thiết lập dự phòng nóng
+__TAG__Main_Sys_Raid5	Cài đặt một phím
+__TAG__Main_Sys_Raid6	Tạo mảng
+__TAG__Main_Sys_Raid7	Không.
+__TAG__Main_Sys_Raid8	Công suất còn lại
+__TAG__Main_Sys_Raid9	Đĩa dự phòng nóng
+__TAG__Main_Sys_Raid10	Bài tập, nhiệm vụ
+__TAG__Main_Sys_Raid11	Xây dựng lại mảng
+__TAG__Main_Sys_Raid11.0	Xóa mảng
+__TAG__Main_Sys_Raid12	Tạo đĩa ảo
+__TAG__Main_Sys_Raid13	Phục hồi đĩa ảo
+__TAG__Main_Sys_Raid13.0	Xóa đĩa ảo
+__TAG__Main_Sys_Raid14	Kích hoạt mảng
+__TAG__Main_Sys_Raid15	Mảng cấu hình một phím
+__TAG__Main_Sys_Raid16	Tên mảng
+__TAG__Main_Sys_Raid17	Dung lượng mảng (GB)
+__TAG__Main_Sys_Raid18	Số đĩa
+__TAG__Main_Sys_Raid19	Xây dựng lại mảng
+__TAG__Main_Sys_Raid20	Mảng đĩa
+__TAG__Main_Sys_Raid21	Vấn đề xung quanh
+__TAG__Main_Sys_Raid22	Bối cảnh (khuyên dùng)
+__TAG__Main_Sys_Raid23	Nhanh
+__TAG__Main_Sys_Raid24	Thông tin về khả năng phục hồi mảng (GB)
+__TAG__Main_Sys_Raid25	Xóa đĩa ảo sẽ xóa tất cả dữ liệu, tiếp tục?
+__TAG__Main_Sys_Raid26	Kiểu mảng
+__TAG__Main_Sys_Raid27	Loại khởi tạo
+__TAG__Main_Sys_Raid28	Phụ tùng toàn cầu
+__TAG__Main_Sys_Raid29	Đĩa miễn phí
+__TAG__Main_Sys_Raid30	Dung lượng đĩa ảo (GB)
+__TAG__Main_Sys_Raid31	Tên đĩa ảo
+__TAG__Main_Sys_Raid32	Kích hoạt / vô hiệu hóa Array cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+__TAG__Main_Sys_Raid33	Xóa mảng sẽ xóa hết dữ liệu, tiếp tục?
+__TAG__Main_Sys_Raid34	Vô hiệu hóa mảng, xin vui lòng xóa tất cả các mảng.
+	
+__TAG__Main_Sys_Ipsan0	IPSAN
+__TAG__Main_Sys_Ipsan1	Không.
+__TAG__Main_Sys_Ipsan2	Cài đặt IPSAN
+	
+__TAG__Main_Sys_BakDev0	Chế độ bình thường
+__TAG__Main_Sys_BakDev1	Chế độ dự phòng nóng
+__TAG__Main_Sys_BakDev2	Tình trạng làm việc
+__TAG__Main_Sys_BakDev3	Lưu ý: Cho phép chức năng dự phòng nóng cần thêm thiết bị làm việc vào chế độ dự phòng nóng, nếu không, thiết bị sẽ không có hiệu lực.
+__TAG__Main_Sys_BakDev4	Cho phép sao lưu nóng
+__TAG__Main_Sys_BakDev5	Danh sách thiết bị làm việc
+__TAG__Main_Sys_BakDev6	Tình trạng thiết bị làm việc
+__TAG__Main_Sys_BakDev7	Thêm thiết bị làm việc
+__TAG__Main_Sys_BakDev8	Không.
+__TAG__Main_Sys_BakDev9	Mật khẩu
+__TAG__Main_Sys_BakDev10	Chế độ làm việc thay đổi cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+	
+__TAG__Main_Sys_Smart1	THÔNG MINH.
+__TAG__Main_Sys_Smart2	Bắt đầu S.M.A.R.T. Phát hiện
+__TAG__Main_Sys_Smart3	Ổ đĩa cứng
+__TAG__Main_Sys_Smart4	THÔNG MINH. Thông tin
+__TAG__Main_Sys_Smart5	ID
+__TAG__Main_Sys_Smart6	ATTRIBUTE_NAME
+__TAG__Main_Sys_Smart7	CỜ
+__TAG__Main_Sys_Smart8	GIÁ TRỊ
+__TAG__Main_Sys_Smart9	TỆ NHẤT
+__TAG__Main_Sys_Smart10	QUA
+__TAG__Main_Sys_Smart11	TRẠNG THÁI
+__TAG__Main_Sys_Smart12	RAW_VALUE
+__TAG__Main_Sys_Smart13	Vô hiệu hóa đĩa S.M.A.R.T. phát hiện: dữ liệu trên đĩa sẽ không được đọc khi đĩa bị hỏng, tiếp tục?
+__TAG__Main_Sys_Smart14	Sức chứa
+__TAG__Main_Sys_Smart15	Mô hình
+__TAG__Main_Sys_Smart16	Số sê-ri
+__TAG__Main_Sys_Smart17	Nhiệt độ (° C)
+__TAG__Main_Sys_Smart18	Thời gian sử dụng (ngày)
+__TAG__Main_Sys_Smart19	Tự đánh giá
+__TAG__Main_Sys_Smart20	Đánh giá tổng thể
+	
+__TAG__Main_Sys_Log1	Quản lý nhật ký
+__TAG__Main_Sys_Log2	Điều kiện truy vấn
+__TAG__Main_Sys_Log3	Thời gian bắt đầu
+__TAG__Main_Sys_Log4	Thời gian kết thúc
+__TAG__Main_Sys_Log6	Tất cả
+__TAG__Main_Sys_Log7	Thể loại
+__TAG__Main_Sys_Log9	Hệ thống
+__TAG__Main_Sys_Log10	Cảnh báo
+__TAG__Main_Sys_Log11	báo động
+__TAG__Main_Sys_Log12	Hoạt động
+__TAG__Main_Sys_Log13	Người dùng
+__TAG__Main_Sys_Log14	Khác
+__TAG__Main_Sys_Log15	Tìm kiếm
+__TAG__Main_Sys_Log16	/
+__TAG__Main_Sys_Log17	Trang
+__TAG__Main_Sys_Log18	Nhảy
+__TAG__Main_Sys_Log19	
+__TAG__Main_Sys_Log20	Thời gian ghi
+__TAG__Main_Sys_Log21	Thể loại
+__TAG__Main_Sys_Log23	Nội dung
+__TAG__Main_Sys_Log24	Trang trên
+__TAG__Main_Sys_Log25	Trang dưới
+__TAG__Main_Sys_Log26	Xóa bỏ
+__TAG__Main_Sys_Log26.0	Xuất khẩu hiện tại
+__TAG__Main_Sys_Log26.1	Xuất khẩu tất cả
+__TAG__Main_Sys_Log27	Thông thoáng
+__TAG__Main_Sys_Log28	Trở lại
+__TAG__Main_Sys_Log28.0	Chi tiết
+__TAG__Main_Sys_Log29	Thông tin đăng nhập
+__TAG__Main_Sys_Log30	Xóa tất cả nhật ký hệ thống, tiếp tục?
+__TAG__Main_Sys_Log31	Xóa nhật ký
+__TAG__Main_Sys_Log32	Xóa tất cả nhật ký hệ thống, tiếp tục?
+__TAG__Main_Sys_Log33	Nhật ký xuất khẩu
+	
+__TAG__Main_Sys_File1	Nâng cấp hệ thống
+__TAG__Main_Sys_File2	Nâng cấp từ địa phương
+__TAG__Main_Sys_File3	Tên tệp
+__TAG__Main_Sys_File4	Các tập tin
+__TAG__Main_Sys_File5	Nâng cấp từ FTP
+__TAG__Main_Sys_File6	Người phục vụ
+__TAG__Main_Sys_File7	tên tài khoản
+__TAG__Main_Sys_File8	Mật khẩu
+__TAG__Main_Sys_File9	Nâng cấp
+__TAG__Main_Sys_File10	Chọn tập tin nâng cấp
+__TAG__Main_Sys_File11	Danh sách tập tin
+__TAG__Main_Sys_File12	Làm mới
+__TAG__Main_Sys_File13	Nâng cấp hệ thống ...
+__TAG__Main_Sys_File14	nâng cấp, vui lòng đợi ...
+__TAG__Main_Sys_File15	Nâng cấp tiến độ
+	
+__TAG__Main_Sys_Cnf1	Cấu hình
+__TAG__Main_Sys_Cnf2	Đặt lại về mặc định
+__TAG__Main_Sys_Cnf3	Xuất khẩu
+__TAG__Main_Sys_Cnf4	Nhập khẩu
+__TAG__Main_Sys_Cnf5	Đặt lại về mặc định của nhà máy
+__TAG__Main_Sys_Cnf6	Khôi phục cài đặt mặc định của nhà máy và khởi động lại, tiếp tục?
+__TAG__Main_Sys_Cnf7	Xuất cấu hình
+__TAG__Main_Sys_Cnf8	Xuất khẩu
+__TAG__Main_Sys_Cnf9	Xuất sang
+__TAG__Main_Sys_Cnf10	USB1
+__TAG__Main_Sys_Cnf11	USB2
+__TAG__Main_Sys_Cnf12	NFS1
+__TAG__Main_Sys_Cnf13	NFS2
+__TAG__Main_Sys_Cnf14	Tên tệp
+__TAG__Main_Sys_Cnf15	Xuất thành công
+__TAG__Main_Sys_Cnf16	Tập tin cấu hình xuất.
+__TAG__Main_Sys_Cnf17	Nhập cấu hình
+__TAG__Main_Sys_Cnf18	Nhập danh sách tập tin
+__TAG__Main_Sys_Cnf19	Nhập khẩu
+__TAG__Main_Sys_Cnf20	Làm tươi
+__TAG__Main_Sys_Cnf21	Nhập thành công
+__TAG__Main_Sys_Cnf22	Cấu hình tập tin nhập, khởi động lại để có hiệu lực?
+__TAG__Main_Sys_Cnf23	Khởi động lại
+__TAG__Main_Sys_Cnf24	Một lát sau
+	
+__TAG__Main_Sys_Err1	Cài đặt thông tin ngoại lệ
+__TAG__Main_Sys_Err1.0	Tình huống ngoại lệ
+__TAG__Main_Sys_Err2	Đĩa đầy
+__TAG__Main_Sys_Err3	Ghi chú
+__TAG__Main_Sys_Err4	Không có đĩa
+__TAG__Main_Sys_Err6	Lỗi đĩa R / W
+__TAG__Main_Sys_Err8	Truy cập bất hợp pháp
+__TAG__Main_Sys_Err10	Xung đột địa chỉ IP
+__TAG__Main_Sys_Err11	Xung đột địa chỉ MAC
+__TAG__Main_Sys_Err12	Mạng bị ngắt kết nối
+__TAG__Main_Sys_Err14	Lỗi chế độ đầu vào
+__TAG__Main_Sys_Err16	Chỉ định ngoại lệ
+__TAG__Main_Sys_Err17	OSD
+__TAG__Main_Sys_Err18	Còi báo
+__TAG__Main_Sys_Err19	Trung tâm tải lên
+__TAG__Main_Sys_Err20	Đĩa dự phòng không có sẵn
+__TAG__Main_Sys_Err21	Điện áp cung cấp thấp
+__TAG__Main_Sys_Err22	Ngoại lệ mảng
+__TAG__Main_Sys_Err23	Ngoại lệ nóng
+__TAG__Main_Sys_Err24	POE quá tải
+	
+__TAG__Main_Sys_Name1	Quản lý bí danh
+__TAG__Main_Sys_Name2	Mục
+__TAG__Main_Sys_Name3	Tên kênh đầu vào video
+__TAG__Main_Sys_Name4	Tên kênh đầu vào báo động
+__TAG__Main_Sys_Name5	Tên kênh đầu ra báo động
+__TAG__Main_Sys_Name6	Kênh
+__TAG__Main_Sys_Name7	Bí danh
+__TAG__Main_Sys_Name8	Biên tập
+__TAG__Main_Sys_Name9	Chỉnh sửa bí danh
+__TAG__Main_Sys_Name10	Kênh
+__TAG__Main_Sys_Name11	Bí danh
+	
+__TAG__Main_Time_Set1	Cài đặt thời gian
+__TAG__Main_Time_Set2	Giờ hệ thống
+__TAG__Main_Time_Set3	Sai thời gian
+	
+__TAG__FirstNet_Interface1	NIC 1
+__TAG__SecondNet_Interface2	NIC 2
+__TAG__FirstNet_Interface	NIC 1
+__TAG__SecondNet_Interface	NIC 2
+__TAG__SecondNet_Interface1	Chế độ trùng hợp (NIC 1 liên kết với cùng một IP)
+__TAG__SecondNet_Mode	Tùy chọn trùng hợp
+__TAG__SecondNet_FirMode	Chế độ dự phòng
+__TAG__SecondNet_SecMode	Chế độ cân bằng tải
+	
+__TAG__Main_Sys_FTP0	FTP
+__TAG__Main_Sys_FTP1	Địa chỉ máy chủ FTP
+__TAG__Main_Sys_FTP2	Số cổng
+__TAG__Main_Sys_FTP2.0	Đường dẫn
+__TAG__Main_Sys_FTP3	Tên tài khoản
+__TAG__Main_Sys_FTP4	Mật khẩu
+	
+__TAG__Main_Sys_SMTP0	E-mail
+__TAG__Main_Sys_SMTP1	Địa chỉ máy chủ email
+__TAG__Main_Sys_SMTP5	Chế độ đăng nhập
+__TAG__Main_Sys_SMTP5_FirMode	tắt
+__TAG__Main_Sys_SMTP5_SecMode	trơn
+__TAG__Main_Sys_SMTP5_ThiMode	cram-md5
+__TAG__Main_Sys_SMTP5_FouMode	tiêu hóa-md5
+__TAG__Main_Sys_SMTP5_FifMode	gssapi
+__TAG__Main_Sys_SMTP5_SixMode	bên ngoài
+__TAG__Main_Sys_SMTP5_SevMode	đăng nhập
+__TAG__Main_Sys_SMTP5_EigMode	ntlm
+__TAG__Main_Sys_SMTP6	Địa chỉ người nhận
+__TAG__Main_Sys_SMTP7	Chủ đề
+	
+__TAG__Main_Sys_AP	AP phù hợp
+__TAG__Main_Sys_AP1	Cài đặt AP / WIFI
+__TAG__Main_Sys_AP2	Tình trạng mạng
+__TAG__Main_Sys_AP3	Kích hoạt dịch vụ DHCP
+__TAG__Main_Sys_AP4	Phạm vi địa chỉ DHCP:
+__TAG__Main_Sys_AP5	Thời gian thuê DHCP (phút)
+__TAG__Main_Sys_AP6	(1 ~ 14400)
+__TAG__Main_Sys_AP7	IP không dây
+__TAG__Main_Sys_AP8	ESSID
+__TAG__Main_Sys_AP9	Loại mã hóa
+__TAG__Main_Sys_AP10	Không được mã hóa
+__TAG__Main_Sys_AP11	Mật khẩu bảo mật
+__TAG__Main_Sys_AP12	 AP
+	
+__TAG__Main_Sys_3G1	Trạng thái thiết bị 3G
+__TAG__Main_Sys_3G2	Loại thiết bị
+__TAG__Main_Sys_3G2.1	WCDMA
+__TAG__Main_Sys_3G2.2	EVDO
+__TAG__Main_Sys_3G3	Trạng thái trực tuyến
+__TAG__Main_Sys_3G4	Ngoại tuyến
+__TAG__Main_Sys_3G5	Trực tuyến
+__TAG__Main_Sys_3G6	Kết nối...
+__TAG__Main_Sys_3G9	Cường độ tín hiệu
+__TAG__Main_Sys_3G10	Quay số thời gian
+__TAG__Main_Sys_3G11	Quay số 3G
+__TAG__Main_Sys_3G12	Chế độ quay số
+__TAG__Main_Sys_3G12.1	Tự động quay số
+__TAG__Main_Sys_3G12.2	SMSDial
+__TAG__Main_Sys_3G12.3	Điện thoại
+__TAG__Main_Sys_3G12.4	Báo động
+__TAG__Main_Sys_3G12.5	Quay số thời gian
+__TAG__Main_Sys_3G13	Phương pháp ngắt kết nối
+__TAG__Main_Sys_3G13.0	Thời gian trực tuyến
+__TAG__Main_Sys_3G13.1	Sáng kiến
+__TAG__Main_Sys_3G13.2	Phương pháp thụ động
+__TAG__Main_Sys_3G14	Thời lượng trực tuyến
+__TAG__Main_Sys_3G14.0	Thời gian ngoại tuyến
+__TAG__Main_Sys_3G14.1	2 phút
+__TAG__Main_Sys_3G14.2	5 phút
+__TAG__Main_Sys_3G14.3	10 phút
+__TAG__Main_Sys_3G14.4	30 phút
+__TAG__Main_Sys_3G14.5	1 giờ
+__TAG__Main_Sys_3G14.6	2 giờ
+__TAG__Main_Sys_3G14.7	3 giờ
+__TAG__Main_Sys_3G14.8	6 tiếng
+__TAG__Main_Sys_3G14.9	12 giờ
+__TAG__Main_Sys_3G14.10	24 giờ
+__TAG__Main_Sys_3G15	 VPDN
+__TAG__Main_Sys_3G16	Quay số
+__TAG__Main_Sys_3G17	Tên tài khoản
+__TAG__Main_Sys_3G19	Quay số
+__TAG__Main_Sys_3G20	Loại thông báo
+__TAG__Main_Sys_3G20.1	Không có thông báo
+__TAG__Main_Sys_3G20.2	Thông báo thành công
+__TAG__Main_Sys_3G20.3	Thông báo lỗi
+__TAG__Main_Sys_3G21	Thông báo tin nhắn
+__TAG__Main_Sys_3G22	Điện thoại1
+__TAG__Main_Sys_3G23	Điện thoại2
+__TAG__Main_Sys_3G24	Điện thoại3
+__TAG__Main_Sys_3G25	Điện thoại4
+__TAG__Main_Sys_3G26	Điện thoại5
+__TAG__Main_Sys_3G27	Setting SIM
+__TAG__Main_Sys_3G28	ID SIM
+__TAG__Main_Sys_3G29	Thay đổi chế độ quay số 3G
+__TAG__Main_Sys_3G30	Thay đổi 3G cần phải khởi động lại để có hiệu lực, khởi động lại?
+__TAG__Main_Sys_3G31	Thay đổi tham số VPDN
+__TAG__Main_Sys_3G32	Thay đổi tham số VPDN cần khởi động lại để có hiệu lực, khởi động lại?
+	
+__TAG__Main_Sys_NetCheck1	Lưu lượng mạng
+__TAG__Main_Sys_NetCheck2	Thống kê tài nguyên mạng
+__TAG__Main_Sys_NetCheck3	Lựa chọn card mạng
+__TAG__Main_Sys_NetCheck4	Kiểm tra mạng
+__TAG__Main_Sys_NetCheck5	Địa chỉ đích
+__TAG__Main_Sys_NetCheck6	Kiểm tra
+__TAG__Main_Sys_NetCheck7	Sao lưu gói
+__TAG__Main_Sys_NetCheck10	Card mạng hiện tại
+__TAG__Main_Sys_NetCheck11	Sao lưu gói
+__TAG__Main_Sys_NetCheck12	Phát hiện trạng thái
+__TAG__Main_Sys_NetCheck13	Băng thông
+	
+__TAG__Main_Sys_AutoMT1	Tự động khởi động lại
+__TAG__Main_Sys_AutoMT2	Tại
+__TAG__Main_Sys_AutoMT3	Không bao giờ
+__TAG__Main_Sys_Reboot_Confirm	Cài đặt sẽ có hiệu lực sau khi khởi động lại, khởi động lại bây giờ?
+	
+__TAG__Main_Pic_Var1	Đầu ra video và cài đặt menu
+__TAG__Main_Pic_Var2	Cài đặt tham số đầu vào video
+__TAG__Main_Pic_Var3	Cài đặt tham số mã hóa video
+__TAG__Main_Pic_Var4	Văn bản trên video và diện tích mặt nạ cài đặt bảo mật
+__TAG__Main_Pic_Var5	Cài đặt khả năng mã hóa video
+__TAG__Main_Pic_Var6	Cài đặt hình ảnh
+__TAG__Main_Pic_Var7	Cài đặt vị trí lớp phủ thời gian
+__TAG__Main_Pic_Var8	Cài đặt vị trí lớp phủ tên kênh
+__TAG__Main_Pic_Var9	Cài đặt vị trí lớp phủ logo
+__TAG__Main_Pic_Var10	Cài đặt vị trí lớp phủ văn bản tùy chỉnh
+__TAG__Main_Pic_Var13	Cài đặt mã hóa video
+__TAG__Main_Pic_Var14	Xem trước cài đặt cắt tỉa
+	
+__TAG__Main_Pic_Icn1	Cài đặt hình ảnh
+__TAG__Main_Pic_Icn2	Thiết lập màn hình
+__TAG__Main_Pic_Icn3	Cài đặt video
+__TAG__Main_Pic_Icn4	Cài đặt luồng
+__TAG__Main_Pic_Icn5	OSD
+__TAG__Main_Pic_Icn6	Cài đặt hình ảnh
+__TAG__Main_Pic_Icn7	Mã hóa
+__TAG__Main_Pic_Icn8	Xem trước cắt tỉa
+	
+__TAG__Main_Pic_HDMI1	Đầu ra HDMI
+__TAG__Main_Pic_VZ1	1280x720 (50HZ)
+__TAG__Main_Pic_VZ2	1280x720 (60HZ)
+__TAG__Main_Pic_VZ3	1920x1080 (25HZ)
+__TAG__Main_Pic_VZ4	1920x1080 (30HZ)
+__TAG__Main_Pic_VZ5	1920x1080 (50HZ)
+__TAG__Main_Pic_VZ6	1920x1080 (60HZ)
+__TAG__Main_Pic_VZ7	1280x800 (60HZ)
+	
+__TAG__Main_Pic_Dsp1	Thiết lập màn hình
+__TAG__Main_Pic_Dsp2	Loại BNC
+__TAG__Main_Pic_Dsp3	PAL
+__TAG__Main_Pic_Dsp4	NTSC
+__TAG__Main_Pic_Dsp5	Khử rung
+__TAG__Main_Pic_Dsp6	%s đầu ra
+__TAG__Main_Pic_Dsp6.1	Chế độ
+__TAG__Main_Pic_Dsp7	800x600 (50HZ)
+__TAG__Main_Pic_Dsp7.1	800x600 (60HZ)
+__TAG__Main_Pic_Dsp8	1024x768 (50HZ)
+__TAG__Main_Pic_Dsp8.1	1024x768 (60HZ)
+__TAG__Main_Pic_Dsp9	1280x1024 (50HZ)
+__TAG__Main_Pic_Dsp9.1	1280x1024 (60HZ)
+__TAG__Main_Pic_Dsp10	1440x900 (50HZ)
+__TAG__Main_Pic_Dsp10.1	1440x900 (60HZ)
+__TAG__Main_Pic_Dsp10.2	1366x768 (60HZ)
+	
+__TAG__Main_Pic_Dsp11	Cài đặt cổng chính
+__TAG__Main_Pic_Dsp12	Tự động phát hiện
+__TAG__Main_Pic_Dsp13	VGA
+__TAG__Main_Pic_Dsp14	BNC
+__TAG__Main_Pic_Dsp14.1	HDMI0
+__TAG__Main_Pic_Dsp15	Cài đặt xem trước
+__TAG__Main_Pic_Dsp15.0	Cài đặt xem trước
+__TAG__Main_Pic_Dsp16	Định dạng thời gian
+__TAG__Main_Pic_Dsp17	Vô hiệu hóa
+__TAG__Main_Pic_Dsp18	yyyy / mm / dd hh: mm: ss
+__TAG__Main_Pic_Dsp19	yyyy / mm / dd hh: mm: ss
+__TAG__Main_Pic_Dsp20	yyyy-mm-dd hh: mm: ss
+__TAG__Main_Pic_Dsp21	dd / mm / yyyy hh: mm: ss
+__TAG__Main_Pic_Dsp22	dd-mm-yyyy hh: mm: ss
+__TAG__Main_Pic_Dsp23	mm / dd / yyyy hh: mm: ss
+__TAG__Main_Pic_Dsp24	mm-dd-yyyy hh: mm: ss
+__TAG__Main_Pic_Dsp25	dd mm yyyy hh: mm: ss
+__TAG__Main_Pic_Dsp26	mm dd yyyy hh: mm: ss
+__TAG__Main_Pic_Dsp27	Thao tác thực đơn
+__TAG__Main_Pic_Dsp28	Minh bạch
+__TAG__Main_Pic_Dsp28.0	Mờ mịt
+__TAG__Main_Pic_Dsp29	Chế độ đầu ra
+__TAG__Main_Pic_Dsp29.1	Nhạt
+__TAG__Main_Pic_Dsp29.2	Sáng chói
+__TAG__Main_Pic_Dsp29.3	Điểm nổi bật
+	
+__TAG__Main_Pic_Dsp36	Độ sáng màn hình
+__TAG__Main_Pic_Dsp37	bảo vệ màn hình Time
+__TAG__Main_Pic_Dsp37.0	Tắt màn hình
+__TAG__Main_Pic_Dsp38	Không bao giờ hết thời gian
+__TAG__Main_Pic_Dsp01	1 phút
+__TAG__Main_Pic_Dsp02	2 phút
+__TAG__Main_Pic_Dsp03	3 Mins
+__TAG__Main_Pic_Dsp04	4 Mins
+__TAG__Main_Pic_Dsp05	5 phút
+__TAG__Main_Pic_Dsp06	10 phút
+__TAG__Main_Pic_Dsp39	15 phút
+__TAG__Main_Pic_Dsp40	30 phút
+__TAG__Main_Pic_Dsp41	1 giờ
+__TAG__Main_Pic_Dsp42	2 giờ
+__TAG__Main_Pic_Dsp43	4 tiếng
+__TAG__Main_Pic_Dsp44	8 giờ
+__TAG__Main_Pic_Dsp45	12 giờ
+__TAG__Main_Pic_Dsp46	24 giờ
+__TAG__Main_Pic_Dsp47	Phong cách
+__TAG__Main_Pic_Dsp48	Cổ điển
+__TAG__Main_Pic_Dsp49	Đẹp
+__TAG__Main_Pic_Dsp50	Ngôn ngữ
+__TAG__Main_Pic_Dsp51	Trang web
+__TAG__Main_Pic_Dsp52	Anh
+__TAG__Main_Pic_Dsp53	Beeper và hiển thị trạng thái
+__TAG__Main_Pic_Dsp54	Bấm Buzzer
+__TAG__Main_Pic_Dsp54.0	Chỉ báo trạng thái
+__TAG__Main_Pic_Dsp54.1	Bật Hướng dẫn khởi động
+__TAG__Main_Pic_Dsp55	báo động
+__TAG__Main_Pic_Dsp56	ghi âm
+__TAG__Main_Pic_Dsp56.0	Giấu màn hình video xem trước và biểu tượng cảnh báo
+__TAG__Main_Pic_Dsp56.1	Tốc độ con trỏ chuột
+__TAG__Main_Pic_Dsp57	Hiệu chỉnh bảng cảm ứng
+__TAG__Main_Pic_Dsp58	Thay đổi hệ thống đầu ra video
+__TAG__Main_Pic_Dsp59	hệ thống đầu ra video thay đổi cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+__TAG__Main_Pic_Dsp60	Đúng
+__TAG__Main_Pic_Dsp61	Không
+__TAG__Main_Pic_Dsp62	Chế độ đầu ra %s đã thay đổi
+__TAG__Main_Pic_Dsp62.1	Thay đổi chế độ đầu ra %s, vui lòng xác nhận.
+__TAG__Main_Pic_Dsp63	Thay đổi chế độ đầu ra %s
+__TAG__Main_Pic_Dsp63.1	Thay đổi chế độ đầu ra %s, vui lòng xác nhận
+__TAG__Main_Pic_Dsp64	Thay đổi hệ thống đầu ra video
+__TAG__Main_Pic_Dsp65	hệ thống đầu ra video thay đổi cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+__TAG__Main_Pic_Dsp66	Hiệu chỉnh bảng cảm ứng
+__TAG__Main_Pic_Dsp67	Hiệu chỉnh bảng cảm ứng trong cổng phụ
+__TAG__Main_Pic_Dsp69	Cài đặt xem trước
+__TAG__Main_Pic_Dsp70	Đầu ra
+__TAG__Main_Pic_Dsp71	VGA
+__TAG__Main_Pic_Dsp72	BNC1
+__TAG__Main_Pic_Dsp73	BNC2
+__TAG__Main_Pic_Dsp74	Hình ảnh tổng hợp
+__TAG__Main_Pic_Dsp75	Xem trước
+__TAG__Main_Pic_Dsp76	Màn hình đơn
+__TAG__Main_Pic_Dsp77_HY	2 màn hình 1
+__TAG__Main_Pic_Dsp77_HY.0	2 màn hình 0
+__TAG__Main_Pic_Dsp77_M	2 màn hình 1 (Trung bình)
+__TAG__Main_Pic_Dsp77_S	2 màn hình 1 (Nhỏ)
+__TAG__Main_Pic_Dsp78_HY	2 màn hình 2
+__TAG__Main_Pic_Dsp78_M	2 màn hình 2 (Trung bình)
+__TAG__Main_Pic_Dsp78_S	2 màn hình 2 (nhỏ)
+__TAG__Main_Pic_Dsp79_HY	2 màn hình 3
+__TAG__Main_Pic_Dsp79_M	2 màn hình 3 (Trung bình)
+__TAG__Main_Pic_Dsp79_S	2 màn hình 3 (nhỏ)
+__TAG__Main_Pic_Dsp80_HY	2 màn hình 4
+__TAG__Main_Pic_Dsp80_M	2 màn hình 4 (Trung bình)
+__TAG__Main_Pic_Dsp80_S	2 màn hình 4 (Nhỏ)
+__TAG__Main_Pic_Dsp77	Pic-in-Pic 1
+__TAG__Main_Pic_Dsp78	Pic-in-Pic 2
+__TAG__Main_Pic_Dsp79	Pic-in-Pic 3
+__TAG__Main_Pic_Dsp80	Pic-in-Pic 4
+__TAG__Main_Pic_Dsp81	3 màn hình 1
+__TAG__Main_Pic_Dsp82	3 màn hình 2
+__TAG__Main_Pic_Dsp83	3 màn hình 3
+__TAG__Main_Pic_Dsp84	3 màn hình 4
+__TAG__Main_Pic_Dsp85	3 màn hình 5
+__TAG__Main_Pic_Dsp86	3 màn hình 6
+__TAG__Main_Pic_Dsp81_M	3 màn hình 1 (Trung bình)
+__TAG__Main_Pic_Dsp82_M	3 màn hình 2 (Trung bình)
+__TAG__Main_Pic_Dsp83_M	3 màn hình 3 (Trung bình)
+__TAG__Main_Pic_Dsp84_M	3 màn hình 4 (Trung bình)
+__TAG__Main_Pic_Dsp85_M	3 màn hình 5 (Trung bình)
+__TAG__Main_Pic_Dsp86_M	3 màn hình 6 (Trung bình)
+__TAG__Main_Pic_Dsp81_S	3 màn hình 1 (Nhỏ)
+__TAG__Main_Pic_Dsp82_S	3 màn hình 2 (nhỏ)
+__TAG__Main_Pic_Dsp83_S	3 màn hình 3 (Nhỏ)
+__TAG__Main_Pic_Dsp84_S	3 màn hình 4 (Nhỏ)
+__TAG__Main_Pic_Dsp85_S	3 màn hình 5 (Nhỏ)
+__TAG__Main_Pic_Dsp86_S	3 màn hình 6 (Nhỏ)
+__TAG__Main_Pic_Dsp87	4 màn hình
+__TAG__Main_Pic_Dsp87.0	4 màn hình0
+__TAG__Main_Pic_Dsp87_1L	4 màn hình 1
+__TAG__Main_Pic_Dsp87_2L	4 màn hình 2
+__TAG__Main_Pic_Dsp87_3L	4 Màn hình 3
+__TAG__Main_Pic_Dsp87_4L	4 Màn hình 4
+__TAG__Main_Pic_Dsp87_1M	1-lớn 3-nhỏ1 (Trung bình)
+__TAG__Main_Pic_Dsp87_2M	1-lớn 3-nhỏ2 (Trung bình)
+__TAG__Main_Pic_Dsp87_3M	1-lớn 3-nhỏ3 (Trung bình)
+__TAG__Main_Pic_Dsp87_4M	1-lớn 3-nhỏ4 (Trung bình)
+__TAG__Main_Pic_Dsp87_1S	1-lớn 3-nhỏ1 (Nhỏ)
+__TAG__Main_Pic_Dsp87_2S	1-lớn 3-nhỏ2 (Nhỏ)
+__TAG__Main_Pic_Dsp87_3S	1-lớn 3-nhỏ3 (Nhỏ)
+__TAG__Main_Pic_Dsp87_4S	1-lớn 3-nhỏ4 (Nhỏ)
+__TAG__Main_Pic_Dsp87_10	Lớn
+__TAG__Main_Pic_Dsp87_11	Trung bình
+__TAG__Main_Pic_Dsp87_12	Nhỏ
+	
+__TAG__Main_Pic_Dsp88	6 màn hình
+__TAG__Main_Pic_Dsp89	8 màn hình
+__TAG__Main_Pic_Dsp90	9 màn hình
+__TAG__Main_Pic_Dsp91	13 màn hình
+__TAG__Main_Pic_Dsp92	16 màn hình
+__TAG__Main_Pic_Dsp93	24 màn hình
+__TAG__Main_Pic_Dsp93.0	25 màn hình
+__TAG__Main_Pic_Dsp94	32 màn hình
+__TAG__Main_Pic_Dsp94.0	36 màn hình
+__TAG__Main_Pic_Dsp94.1	64 màn hình
+__TAG__Main_Pic_Dsp95	Khoảng thời gian (giây)
+__TAG__Main_Pic_Dsp96	Không có chuyển đổi
+__TAG__Main_Pic_Dsp97	2
+__TAG__Main_Pic_Dsp98	3
+__TAG__Main_Pic_Dsp99	5
+__TAG__Main_Pic_Dsp100	10
+__TAG__Main_Pic_Dsp101	15
+__TAG__Main_Pic_Dsp102	30
+__TAG__Main_Pic_Dsp103	60
+__TAG__Main_Pic_Dsp104	Cấu hình tự động
+__TAG__Main_Pic_Dsp105	Trình tự xem trước
+__TAG__Main_Pic_Dsp106	Chọn kênh
+__TAG__Main_Pic_Dsp107	Chuyển đổi hàng đợi
+__TAG__Main_Pic_Dsp108	Thời gian chuyển đổi hình ảnh báo động
+__TAG__Main_Pic_Dsp109	Âm lượng đầu ra
+__TAG__Main_Pic_Dsp110	Âm lượng đầu vào
+__TAG__Main_Pic_Dsp112	Hiển thị dạng sóng âm thanh
+__TAG__Main_Pic_Dsp113	Hiển thị thông tin ghi
+__TAG__Main_Pic_Dsp114	Hiệu ứng xem trước
+__TAG__Main_Pic_Dsp115	Chất lượng hình ảnh tối ưu
+__TAG__Main_Pic_Dsp116	Hiệu suất xem trước tối đa
+__TAG__Main_Pic_Dsp117	Dòng mượt
+__TAG__Main_Pic_Dsp118	Dò từ được
+	
+__TAG__Main_Pic_Vin1	Cài đặt video
+__TAG__Main_Pic_Vin2	độ sáng
+__TAG__Main_Pic_Vin3	Tương phản
+__TAG__Main_Pic_Vin4	Độ bão hòa
+__TAG__Main_Pic_Vin5	Huế
+__TAG__Main_Pic_Vin6	Trở lại
+__TAG__Main_Pic_Vin7	Cài đặt video
+__TAG__Main_Pic_Vin8	Kênh số…
+	
+__TAG__Main_Pic_Vin73	Chế độ N/P
+__TAG__Main_Pic_Vin74	PAL
+__TAG__Main_Pic_Vin75	NTSC
+__TAG__Main_Pic_Vin75.0	Tự động
+__TAG__Main_Pic_Vin76	Thời gian
+__TAG__Main_Pic_Vin81	Nonce
+__TAG__Main_Pic_Vin82	00: 00-23: 59
+__TAG__Main_Pic_Vin83	độ sáng
+__TAG__Main_Pic_Vin84	Độ tương phản
+__TAG__Main_Pic_Vin85	Độ bão hòa màu
+__TAG__Main_Pic_Vin86	Tông màu
+__TAG__Main_Pic_Vin87	Bộ D / N
+__TAG__Main_Pic_Vin88	Tiêu chuẩn
+__TAG__Main_Pic_Vin88.1	Trong nhà
+__TAG__Main_Pic_Vin88.2	Ánh sáng yếu
+__TAG__Main_Pic_Vin88.3	Ngoài trời
+__TAG__Main_Pic_Vin88.4	Tùy chỉnh
+__TAG__Main_Pic_Vin89	Ẩn giấu
+__TAG__Main_Pic_Vin90	Màu sắc
+__TAG__Main_Pic_Vin91	B / W
+__TAG__Main_Pic_Vin92	Tự động (bên trong)
+__TAG__Main_Pic_Vin93	Tự động (bên ngoài)
+__TAG__Main_Pic_Vin94	Tự động (báo động)
+__TAG__Main_Pic_Vin95	Lật video
+	
+__TAG__Main_Pic_Vec1	Cài đặt luồng
+__TAG__Main_Pic_Vec2	Số kênh
+__TAG__Main_Pic_Vec3	Mã hóa
+__TAG__Main_Pic_Vec4	H.264
+__TAG__Main_Pic_Vec5	MPG4
+__TAG__Main_Pic_Vec6	Giải pháp
+__TAG__Main_Pic_Vec6.0	Chế độ hành lang
+__TAG__Main_Pic_Vec7.0	(QXGA) 2048x1536
+__TAG__Main_Pic_Vec7.1	(QHD) 960x540
+__TAG__Main_Pic_Vec7.2	(960H) 960x576 (PAL) / 960x480 (NTSC)
+__TAG__Main_Pic_Vec7.3	(5MP) 2448x2048
+__TAG__Main_Pic_Vec7.4	(5MP) 2560x1920
+__TAG__Main_Pic_Vec7.5	(QSXGA) 2560x2048
+__TAG__Main_Pic_Vec7.6	(4M) 2560x1440
+__TAG__Main_Pic_Vec7	(1080P) 1920x1080
+__TAG__Main_Pic_Vec8	(UXGA) 1600x1200
+__TAG__Main_Pic_Vec9	(960P) 1280x960
+__TAG__Main_Pic_Vec10	(720P) 1280x720
+__TAG__Main_Pic_Vec11	(HVGA) 640x240
+__TAG__Main_Pic_Vec12	(VGA) 640x480
+__TAG__Main_Pic_Vec13	(QVGA) 320x240
+__TAG__Main_Pic_Vec14	(2CIF) 704x288 (PAL) / 704x240 (NTSC)
+__TAG__Main_Pic_Vec15	(4CIF) 704x576 (PAL) / 704x480 (NTSC)
+__TAG__Main_Pic_Vec16	(2CIF) 704x288 (PAL) / 704x240 (NTSC)
+__TAG__Main_Pic_Vec17	(CIF) 352x288 (PAL) / 352x240 (NTSC)
+__TAG__Main_Pic_Vec18	(HCIF) 352x144 (PAL) / 352x120 (NTSC)
+__TAG__Main_Pic_Vec19	(QCIF) 176x144 (PAL) / 176x120 (NTSC)
+	
+__TAG__Main_Pic_Vec20	Tỷ lệ khung hình
+__TAG__Main_Pic_Vec21	Toàn khung hình
+__TAG__Main_Pic_Vec22	30
+__TAG__Main_Pic_Vec23	25
+__TAG__Main_Pic_Vec24	20
+__TAG__Main_Pic_Vec25	15
+__TAG__Main_Pic_Vec26	10
+__TAG__Main_Pic_Vec26.0	7
+__TAG__Main_Pic_Vec27	5
+__TAG__Main_Pic_Vec28	1
+__TAG__Main_Pic_Vec29	Chế độ mã hóa
+__TAG__Main_Pic_Vec30	CBR
+__TAG__Main_Pic_Vec31	VBR
+__TAG__Main_Pic_Vec32	Tốc độ bit
+__TAG__Main_Pic_Vec32.1	(32~16384Kbps)
+__TAG__Main_Pic_Vec33	Chất lượng
+__TAG__Main_Pic_Vec34	Tốt
+__TAG__Main_Pic_Vec35	Tốt hơn
+__TAG__Main_Pic_Vec36	Tốt
+__TAG__Main_Pic_Vec37	Bình thường
+__TAG__Main_Pic_Vec38	Nghèo
+__TAG__Main_Pic_Vec39	Rất nghèo
+__TAG__Main_Pic_Vec40	StreamType
+__TAG__Main_Pic_Vec41	Video
+__TAG__Main_Pic_Vec42	Âm thanh / Video
+__TAG__Main_Pic_Vec43	Khoảng thời gian I-Frame
+__TAG__Main_Pic_Vec43.1	(10 ~ 100)
+__TAG__Main_Pic_Vec44	Âm thanh
+__TAG__Main_Pic_Vec45	ADPCM_DIV4
+__TAG__Main_Pic_Vec46	ADPCM_I
+__TAG__Main_Pic_Vec47	G.711A
+__TAG__Main_Pic_Vec48	G.711U
+__TAG__Main_Pic_Vec49	G726_16
+__TAG__Main_Pic_Vec50	G726_24
+__TAG__Main_Pic_Vec51	G726_32
+__TAG__Main_Pic_Vec52	G726_40
+__TAG__Main_Pic_Vec53	ADPCM_DIV4
+__TAG__Main_Pic_Vec54	ADPCM_IMA
+__TAG__Main_Pic_Vec55	G726_16KBPS
+__TAG__Main_Pic_Vec56	G726_24KBPS
+__TAG__Main_Pic_Vec57	G726_32KBPS
+__TAG__Main_Pic_Vec58	G726_40KBPS
+__TAG__Main_Pic_VecAAC	AAC
+	
+__TAG__Main_Pic_Vec59	Cài đặt mã hóa
+__TAG__Main_Pic_Vec61	Cài đặt mã hóa video
+__TAG__Main_Pic_Vec62	Kênh
+__TAG__Main_Pic_Vec63	Loại mã hóa
+__TAG__Main_Pic_Vec64	H264
+__TAG__Main_Pic_Vec65	MPG4
+__TAG__Main_Pic_Vec66	Giải pháp
+__TAG__Main_Pic_Vec67	D1
+__TAG__Main_Pic_Vec68	HD1
+__TAG__Main_Pic_Vec69	CIF
+__TAG__Main_Pic_Vec70	QCIF
+__TAG__Main_Pic_Vec71	Tỷ lệ khung hình
+__TAG__Main_Pic_Vec72	Đầy
+	
+__TAG__Main_Pic_Vec80	BitRateType
+__TAG__Main_Pic_Vec81	CBR
+__TAG__Main_Pic_Vec82	VBR
+__TAG__Main_Pic_Vec83	BitRate
+__TAG__Main_Pic_Vec84	Chất lượng
+__TAG__Main_Pic_Vec85	Tốt
+__TAG__Main_Pic_Vec86	Tốt hơn
+__TAG__Main_Pic_Vec87	Tốt
+__TAG__Main_Pic_Vec88	Tốt
+__TAG__Main_Pic_Vec89	Bình thường
+__TAG__Main_Pic_Vec90	Nghèo
+__TAG__Main_Pic_Vec91	Rất nghèo
+__TAG__Main_Pic_Vec92	StreamType
+__TAG__Main_Pic_Vec93	Video
+__TAG__Main_Pic_Vec94	Âm thanh / Video
+__TAG__Main_Pic_Vec95	Tôi FrameRate
+__TAG__Main_Pic_Vec96	Mã âm thanh
+__TAG__Main_Pic_Vec97	Bộ mã
+__TAG__Main_Pic_Vec98	512
+__TAG__Main_Pic_Vec99	1024
+__TAG__Main_Pic_Vec100	2048
+__TAG__Main_Pic_Vec101	4096
+__TAG__Main_Pic_Vec102	8192
+	
+__TAG__Main_Pic_Vec103	25
+__TAG__Main_Pic_Vec104	30
+__TAG__Main_Pic_Vec105	75
+__TAG__Main_Pic_Vec106	100
+	
+__TAG__Main_Pic_Vec107	Lịch trình
+__TAG__Main_Pic_Vec108	Biến cố
+__TAG__Main_Pic_Vec109	Dòng con
+__TAG__Main_Pic_Vec110	Trực tiếp
+__TAG__Main_Pic_Vec111	T. mẫu 1
+__TAG__Main_Pic_Vec112	T. mẫu 2
+__TAG__Main_Pic_Vec113	Lịch trình ghi thông số
+__TAG__Main_Pic_Vec114	Mặc định
+	
+__TAG__Main_Pic_Vlay1	OSD
+__TAG__Main_Pic_Vlay2	Kênh
+__TAG__Main_Pic_Vlay3	Tên kênh
+__TAG__Main_Pic_Vlay4	Màu sắc
+__TAG__Main_Pic_Vlay5	Cài đặt vị trí
+__TAG__Main_Pic_Vlay5.0	Bối cảnh trong suốt
+__TAG__Main_Pic_Vlay5.1	Màn hình nền
+__TAG__Main_Pic_Vlay6	Thời gian
+__TAG__Main_Pic_Vlay7	Màu sắc
+__TAG__Main_Pic_Vlay8	Cài đặt vị trí
+__TAG__Main_Pic_Vlay9	định dạng
+__TAG__Main_Pic_Vlay10	LOGO
+__TAG__Main_Pic_Vlay11	Thay đổi biểu tượng
+__TAG__Main_Pic_Vlay12	Cài đặt vị trí
+__TAG__Main_Pic_Vlay13	Văn bản tùy chỉnh
+__TAG__Main_Pic_Vlay14	Cài đặt vị trí
+__TAG__Main_Pic_Vlay15	Bản văn
+__TAG__Main_Pic_Vlay16	Kích hoạt mặt nạ riêng tư
+__TAG__Main_Pic_Vlay17	Thiết lập khu vực
+__TAG__Main_Pic_Vlay_CpCh	Sao chép vào
+__TAG__Main_Pic_Vlay18	Danh sách Logo
+__TAG__Main_Pic_Vlay19	123
+__TAG__Main_Pic_Vlay20	Sự thành công
+__TAG__Main_Pic_Vlay21	Thay đổi logo thành công.
+__TAG__Main_Pic_Vlay22	Cài đặt vị trí
+__TAG__Main_Pic_Vlay23	Tuần
+__TAG__Main_Pic_Vlay24	Hệ thống 12 giờ
+	
+__TAG__Main_Pic_Vlay27	Thiết lập khu vực mặt nạ riêng tư
+__TAG__Main_Pic_Vlay28	Cài đặt thất bại
+__TAG__Main_Pic_Vlay29	Hiển thị cài đặt tham số không thành công, hệ thống bận hoặc lỗi tham số, vui lòng kiểm tra và thử lại.
+	
+__TAG__Main_Pic_Vlay30	Khả năng mã hóa video
+__TAG__Main_Pic_Vlay31	Tốc độ khung hình đã sử dụng
+__TAG__Main_Pic_Vlay32	Kênh
+__TAG__Main_Pic_Vlay33	Độ phân giải tối đa
+__TAG__Main_Pic_Vlay34	D1
+__TAG__Main_Pic_Vlay35	HD1
+__TAG__Main_Pic_Vlay36	CIF
+__TAG__Main_Pic_Vlay37	QCIF
+__TAG__Main_Pic_Vlay38	Tốc độ khung hình tối đa
+__TAG__Main_Pic_Vlay39	Tốc độ khung hình đầy đủ
+__TAG__Main_Pic_Vlay47	Cấu hình tự động
+__TAG__Main_Pic_Vlay48	Ghi chú
+__TAG__Main_Pic_Vlay49	Cấu hình sửa đổi cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+__TAG__Main_Pic_Vlay50	Đúng
+__TAG__Main_Pic_Vlay51	Không
+__TAG__Main_Pic_Vlay52	Ghi chú
+__TAG__Main_Pic_Vlay53	Vượt quá khả năng mã hóa cực đại cho phép, vui lòng đặt lại.
+	
+__TAG__Main_Pic_Pssd1	Mã hóa video
+__TAG__Main_Pic_Pssd2	Nhập mật khẩu
+__TAG__Main_Pic_Pssd3	Xác nhận mật khẩu
+__TAG__Main_Pic_Pssd4	Lỗi mật khẩu
+	
+__TAG__Main_Pic_PreCut1	Xem trước cắt tỉa
+__TAG__Main_Pic_PreCut3	Kích hoạt tính năng xem trước
+__TAG__Main_Pic_PreCut4	Thiết lập khu vực
+	
+__TAG__Main_Pic_Audio1	Kích hoạt trộn âm thanh
+__TAG__Main_Pic_Audio2	Nguồn 1
+__TAG__Main_Pic_Audio3	Nguồn 2
+	
+__TAG__Main_Change_Lang1	Cảnh báo
+__TAG__Main_Change_Lang2	Ngôn ngữ thay đổi cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+__TAG__Main_Change_Lang3	Chuyển đổi ngôn ngữ hoặc mở rộng kênh cần phải được khởi động lại. Hệ thống được khởi động lại bây giờ?
+__TAG__Main_Pic_Overlay1	Xóa bỏ
+__TAG__Main_Pic_Overlay2	Xóa hết
+__TAG__Main_Pic_Overlay3	Thoát
+	
+__TAG__Main_Pic_TVAdjust1	Điều chỉnh TV
+__TAG__Main_Pic_TVAdjust2	Ký quỹ trên
+__TAG__Main_Pic_TVAdjust3	Ký quỹ dưới
+__TAG__Main_Pic_TVAdjust4	Ký quỹ Leftside
+__TAG__Main_Pic_TVAdjust5	Ký quỹ
+__TAG__Main_Pic_TVAdjust6	Mặc định
+	
+__TAG__Main_Change_Audio	Để đảm bảo chất lượng âm thanh, nên khởi động lại sau khi thay đổi tốc độ mẫu âm thanh và chế độ mã hóa âm thanh, khởi động lại ngay bây giờ?
+	
+__TAG__Main_tain_Var	Sửa chữa và bảo trì thiết bị
+__TAG__Main_tain_Icon	Bảo trì thiết bị
+	
+__TAG__Main_tain_btn1	Tải lên
+__TAG__Main_tain_btn3	Cấu hình hình ảnh hàng ngày
+	
+__TAG__Main_tain_Ps0	Sửa chữa người dùng
+__TAG__Main_tain_Ps1	Bảo trì & Sửa chữa
+__TAG__Main_tain_Ps2	Kiểm tra & Bảo trì
+__TAG__Main_tain_Ps3	Quản lý chấp nhận
+__TAG__Main_tain_Ps4	Thiết lập cơ bản
+	
+__TAG__Main_tain_Lab0	Sửa chữa tên hệ thống
+__TAG__Main_tain_Lab1	Sửa chữa loại hệ thống
+__TAG__Main_tain_Lab2	Bảo trì thiết bị
+__TAG__Main_tain_Lab3	Sửa chữa thiết bị
+__TAG__Main_tain_Lab4	Các loại hoạt động
+__TAG__Main_tain_Lab5	Cảnh sát số
+__TAG__Main_tain_Lab6	ID cơ quan
+__TAG__Main_tain_Lab7	Trung tâm giám sát IP
+__TAG__Main_tain_Lab8	Thời gian trước khi chụp (giây)
+__TAG__Main_tain_Lab9	Khoảng thời gian (giây)
+__TAG__Main_tain_Lab10	Thời gian trễ (giây)
+__TAG__Main_tain_Lab11	Cấu hình hình ảnh báo động
+__TAG__Main_tain_Lab12	Mật khẩu
+	
+__TAG__Main_tain_SysCob0	Xây dựng hệ thống liên lạc nội bộ
+__TAG__Main_tain_SysCob1	Hệ thống báo động chu vi
+__TAG__Main_tain_SysCob2	Hệ thống báo động mạng
+__TAG__Main_tain_SysCob3	Hệ thống báo động cục bộ
+__TAG__Main_tain_SysCob4	Giám sát an ninh video
+__TAG__Main_tain_SysCob5	Hệ thống kiểm soát truy cập
+__TAG__Main_tain_SysCob6	Hệ thống tuần tra điện tử
+__TAG__Main_tain_SysCob7	Hệ thống an ninh khác
+	
+__TAG__Main_tain_StyCob0	Lỗi mặt trước
+__TAG__Main_tain_StyCob1	Lỗi thiết bị đầu cuối
+__TAG__Main_tain_StyCob2	Lỗi hệ thống
+	
+__TAG__Main_tain_SerCob0	Bình thường
+__TAG__Main_tain_SerCob1	Sửa chữa bất thường
+__TAG__Main_tain_SerCob2	Bất thường không sửa chữa
+__TAG__Main_tain_SerCob3	Không chọn
+	
+__TAG__Main_tain_TestCob0	Kiểm tra hình ảnh tải lên
+__TAG__Main_tain_TestCob1	Tải lên hình ảnh bảo trì
+	
+__TAG__Main_tain_Cbx0	Kích hoạt trạng thái chạy
+__TAG__Main_tain_Cbx1	Cho phép liên kết báo động
+__TAG__Main_tain_Cbx2	Cho phép hình ảnh hàng ngày
+__TAG__Main_tain_Cbx3	Thời điểm 1
+__TAG__Main_tain_Cbx4	Thời điểm 2
+	
+__TAG__Main_PUset_Icon	Bộ PU
+__TAG__Main_PUset_Lab0	Đăng ký máy chủ
+__TAG__Main_PUset_Lab1	Máy chủ nhịp tim
+__TAG__Main_PUset_Lab2	Máy chủ báo động
+__TAG__Main_PUset_Lab3	ID thiết bị
+__TAG__Main_PUset_Lab4	Tên thiết bị
+__TAG__Main_PUset_Lab5	Cập nhật thông số PU
+__TAG__Main_PUset_Lab6	Thay đổi tham số PU cần khởi động lại để có hiệu lực, khởi động lại bây giờ?
+	
+__TAG__Main_Sure	Xác nhận
+__TAG__Main_Cacl	Hủy bỏ
+__TAG__Main_Cacl1	Hủy bỏ
+__TAG__Main_Exit	Lối ra
+__TAG__Main_Exit1	Lối ra
+__TAG__Main_Back	Trở lại
+__TAG__Main_Copy	Sao chép
+__TAG__Main_Copy1	Sao chép
+__TAG__Main_Clng	Dán
+__TAG__Main_CpTo	Sao chép vào
+__TAG__Main_CpPort	Sao chép vào cổng
+__TAG__Main_Chan	Kênh
+__TAG__Main_All	Tất cả
+__TAG__Main_All_Week	Cả tuần
+__TAG__Main_Del	Xóa bỏ
+__TAG__Main_Del_All	Xóa hết
+__TAG__Main_CpCh	Sao chép vào kênh
+__TAG__Main_Close	Đóng
+	
+__TAG__Main_Var1	Cài đặt tham số video & xem trước cục bộ
+__TAG__Main_Var1.0	Cài đặt nhanh ghi video
+__TAG__Main_Var2	Quản lý tệp bản ghi & Cài đặt bản ghi
+__TAG__Main_Var3	Cài đặt bộ điều khiển và giải mã PTZ
+__TAG__Main_Var4	Cài đặt kích hoạt và kích hoạt báo động
+__TAG__Main_Var5	Cài đặt thông số nâng cao hệ thống
+__TAG__Main_Var6	Quyền của người dùng và quản lý mật khẩu
+__TAG__Main_Var7	Thoát khỏi hệ thống / Đăng xuất người dùng
+__TAG__Main_Var9	Tài liệu trợ giúp
+__TAG__Main_Var10	Thực đơn chính
+__TAG__Main_Var11	Bắt đầu chuyển đổi
+__TAG__Main_Var12	Dừng chuyển đổi
+__TAG__Main_Var13	Cài đặt lớp số thẻ
+	
+__TAG__Main_Icn1	Hình ảnh
+__TAG__Main_Icn1.0	Chỉ dẫn ghi hình
+__TAG__Main_Icn2	Ghi hình
+	
+__TAG__Main_Icn4	Báo động
+__TAG__Main_Icn5	Hệ thống
+__TAG__Main_Icn6	Người dùng
+__TAG__Main_Icn7	Máy ảnh
+__TAG__Main_Icn8	Đăng xuất
+__TAG__Main_Icn9	Trợ giúp
+__TAG__Main_Icn10	Cài đặt ATM
+__TAG__Main_Icn11	Phát lại
+__TAG__Main_Icn12	Sao lưu
+__TAG__Main_Icn13	Camera
+	
+__TAG__Main_Exit_Pic	Thoát bảng điều khiển
+__TAG__Main_Exit_Pic_Msg	Bạn có chắc chắn muốn thoát?
+__TAG__Main_Confirm	Xác nhận
+__TAG__Main_Cancel	Hủy bỏ
+	
+__TAG__Main_System_Inform	Tin nhắn hệ thống
+__TAG__Main_System_Inform1	Tin nhắn hệ thống
+__TAG__Main_System_DonotRemind	Đừng nhắc tôi.
+__TAG__Main_NextItem	Kế tiếp
+	
+__TAG__Main_PopMenu	Menu nhanh
+__TAG__Main_Preview	Cài đặt xem trước
+__TAG__Main_Zoom	Zoom kỹ thuật số
+__TAG__Main_PopChan	Kênh nhanh
+__TAG__Main_PopChannel1	Kênh 1
+__TAG__Main_PopChannel2	Kênh 2
+__TAG__Main_PopChannel3	Kênh 3
+__TAG__Main_PopChannel4	Kênh số 4
+__TAG__Main_PopChannel5	Kênh 5
+__TAG__Main_PopChannel6	Kênh 6
+__TAG__Main_PopChannel7	Kênh 7
+__TAG__Main_PopChannel8	Kênh 8
+__TAG__Main_PopChannel9	Kênh 9
+__TAG__Main_PopChannel10	Kênh 10
+__TAG__Main_PopChannel11	Kênh 11
+__TAG__Main_PopChannel12	Kênh 12
+__TAG__Main_PopChannel13	Kênh 13
+__TAG__Main_PopChannel14	Kênh 14
+__TAG__Main_PopChannel15	Kênh 15
+__TAG__Main_PopChannel16	Kênh 16
+__TAG__Main_PopChannel17	Kênh 17
+__TAG__Main_PopChannel18	Kênh 18
+__TAG__Main_PopChannel19	Kênh 19
+__TAG__Main_PopChannel20	Kênh 20
+__TAG__Main_PopChannel21	Kênh 21
+__TAG__Main_PopChannel22	Kênh 22
+__TAG__Main_PopChannel23	Kênh 23
+__TAG__Main_PopChannel24	Kênh 24
+__TAG__Main_PopChannel25	Kênh 25
+__TAG__Main_PopChannel26	Kênh 26
+__TAG__Main_PopChannel27	Kênh 27
+__TAG__Main_PopChannel28	Kênh 28
+__TAG__Main_PopChannel29	Kênh 29
+__TAG__Main_PopChannel30	Kênh 30
+__TAG__Main_PopChannel31	Kênh 31
+__TAG__Main_PopChannel32	Kênh 32
+	
+__TAG__Main_MultiPic	Đa màn hình
+__TAG__Main_MultiPic1	Màn hình đơn
+__TAG__Main_MultiPic2_1	Pic-in-Pic 1
+__TAG__Main_MultiPic2_2	Pic-in-Pic 2
+__TAG__Main_MultiPic2_3	Pic-in-Pic 3
+__TAG__Main_MultiPic2_4	Pic-in-Pic 4
+__TAG__Main_MultiPic2_1HY	2 màn hình 1
+__TAG__Main_MultiPic2_2HY	2 màn hình 2
+__TAG__Main_MultiPic2_3HY	2 màn hình 3
+__TAG__Main_MultiPic2_4HY	2 màn hình 4
+__TAG__Main_MultiPic3_1	3 màn hình 1
+__TAG__Main_MultiPic3_2	3 màn hình 2
+__TAG__Main_MultiPic3_3	3 màn hình 3
+__TAG__Main_MultiPic3_4	3 màn hình 4
+__TAG__Main_MultiPic3_5	3 màn hình 5
+__TAG__Main_MultiPic3_6	3 màn hình 6
+__TAG__Main_MultiPic4	4 màn hình
+__TAG__Main_MultiPic4_1	4 màn hình 1
+__TAG__Main_MultiPic4_2	4 màn hình 2
+__TAG__Main_MultiPic6	6 màn hình
+__TAG__Main_MultiPic8	8 màn hình
+__TAG__Main_MultiPic9	9 màn hình
+__TAG__Main_MultiPic16	16 màn hình
+__TAG__Main_MultiPic24	24 màn hình
+__TAG__Main_MultiPic32	32 màn hình
+	
+__TAG__Main_Pre_Page	Trang trước
+__TAG__Main_Next_Page	Trang tiếp theo
+__TAG__Main_Start_Switch	Bắt đầu chuyển đổi
+	
+__TAG__Main_Manual_Pic	Chuyển đổi nền
+__TAG__Main_Manual_Video	Ghi chép thủ công
+__TAG__Main_Playback	Phát lại
+__TAG__Main_Sync_Playback	Đồng bộ hóa phát lại
+__TAG__Main_Mirror	Kiểm soát PTZ
+__TAG__Main_System_Info	Thông tin hệ thống
+__TAG__Main_Language	Ngôn ngữ
+__TAG__Main_Language_1	Trang web
+__TAG__Main_Language_2	English
+__TAG__Main_Language_3	繁體中文
+__TAG__Main_Language_4	한국 의
+__TAG__Main_Language_5	Español
+__TAG__Main_Language_6	Italiano
+__TAG__Main_Language_7	ภ ไทย
+__TAG__Main_Cancel_Alarm	Xóa tất cả báo động
+__TAG__Main_Logout	Đăng xuất
+__TAG__Main_Fukou	Cổng phụ
+__TAG__Main_MainPort	Cổng chính
+__TAG__Main_Set_MainPort	Đặt làm Mainport
+__TAG__Main_Start_Record	Bắt đầu thu
+__TAG__Main_Start_Rec3	Lập lịch
+__TAG__Main_Start_Rec4	Ghi hình phát hiện chuyển động
+	
+__TAG__Main_Control_Panel	Bảng điều khiển
+__TAG__Main_LedCheck	Ẩn đèn trạng thái ghi
+__TAG__Main_PreviewLimit	Bị giới hạn bởi hiệu suất, một số kênh đã tự động dừng xem trước
+__TAG__Main_PreviewLimit1	Xem trước hạn chế
+__TAG__Main_PreviewLimit2	AutoDropframe
+__TAG__Main_PreviewLimit3	HandDropframe
+__TAG__Main_PreviewLimit4	Từ chối
+	
+__TAG__Main_Found_New_Dev1	Đã tìm thấy thiết bị mới
+__TAG__Main_Found_New_Dev2	Thiết bị mới đã được tìm thấy, như hình dưới đây
+__TAG__Main_Found_New_Dev3	Địa chỉ MAC của thiết bị
+__TAG__Main_Found_New_Dev4	Thêm vào kênh
+__TAG__Main_Found_New_Dev5	Thay đổi loại Plug-and-play
+__TAG__Main_Found_New_Dev6	Địa chỉ IP của thiết bị
+	
+__TAG__Main_Short_Cut	Bảng điều khiển của tôi
+__TAG__Main_Short_Cut_1	Tùy chọn phím tắt
+__TAG__Main_Short_Cut_2	Chế độ phím tắt
+__TAG__Main_Short_Cut_Cnf	Cấu hình phím tắt
+__TAG__Main_Short_Cut_Edit	Chế độ chỉnh sửa
+__TAG__Main_Short_Cut_Norm	Chế độ bình thường
+__TAG__Main_Short_Cut_Change	Thay đổi
+	
+__TAG__Main_Order	Không.
+__TAG__Main_Found_Badfs	Phát hiện lỗi đĩa, khởi động lại để khôi phục đĩa?
+	
+__TAG__Main_Log_Var1	Vui lòng chọn một mục.
+__TAG__Main_Log_Var2	Dừng hệ thống và tắt nguồn
+__TAG__Main_Log_Var3	Hệ thống khởi động lại
+__TAG__Main_Log_Var4	Đăng xuất người dùng hiện tại
+__TAG__Main_Log_Var5	Khởi động lại GUI
+__TAG__Main_Log_Var6	Sử dụng tên người dùng khác để đăng nhập
+	
+__TAG__Main_Log_Out1	Đăng xuất
+__TAG__Main_Log_Out2	Hoạt động
+__TAG__Main_Log_Out3	Tắt
+__TAG__Main_Log_Out4	Khởi động lại
+__TAG__Main_Log_Out5	Đăng xuất
+__TAG__Main_Log_Out6	Làm mới GUI
+__TAG__Main_Log_Out7	Đăng xuất
+__TAG__Main_Log_Out8	Làm
+__TAG__Main_Log_Out10	Tắt
+__TAG__Main_Log_Out11	Đang Tắt...
+__TAG__Main_Log_Out13	Bạn có chắc chắn để tắt hệ thống?
+__TAG__Main_Log_Out14	Bạn có chắc chắn để khởi động lại hệ thống?
+	
+__TAG__Main_Len_Var1	Cài đặt tham số bộ giải mã
+__TAG__Main_Len_Var2	Cài đặt điều khiển PTZ
+__TAG__Main_Len_Var3	Quản lý giao thức PTZ
+__TAG__Main_Len_Var4	Kiểm soát PTZ
+__TAG__Main_Len_Var5	Khởi đầu
+__TAG__Main_Len_Var6	Dừng lại
+__TAG__Main_Len_Var7	Bắt đầu mô hình
+__TAG__Main_Len_Var8	Dừng mẫu
+__TAG__Main_Len_Var9	Gọi
+__TAG__Main_Len_Var10	Dừng lại
+__TAG__Main_Len_Var11	Kích hoạt
+__TAG__Main_Len_Var12	Vô hiệu hóa
+	
+__TAG__Main_Len_Icn1	Kiểm soát PTZ
+__TAG__Main_Len_Icn2	Decorder
+__TAG__Main_Len_Icn3	Kiểm soát PTZ
+__TAG__Main_Len_Icn4	Quản lý giao thức
+__TAG__Main_Len_Icn5	Kiểm soát PTZ
+	
+__TAG__Main_Len_Dec1	Cài đặt bộ giải mã
+__TAG__Main_Len_Dec2	Kênh
+__TAG__Main_Len_Dec3	Giao thức
+__TAG__Main_Len_Dec5	Pelco_P
+__TAG__Main_Len_Dec6	Pelco_D
+__TAG__Main_Len_Dec7	615_P
+__TAG__Main_Len_Dec8	615_D
+__TAG__Main_Len_Dec9	Địa chỉ nhà
+__TAG__Main_Len_Dec10	Cổng nối tiếp
+__TAG__Main_Len_Dec11	Thuộc tính cổng nối tiếp
+__TAG__Main_Len_Dec12	Tốc độ bit
+	
+__TAG__Main_Len_Dec22	Dữ liệu bit
+__TAG__Main_Len_Dec23	7 bit
+__TAG__Main_Len_Dec24	8 bit
+__TAG__Main_Len_Dec25	Dừng bit
+__TAG__Main_Len_Dec26	1 chút
+__TAG__Main_Len_Dec27	2 bit
+__TAG__Main_Len_Dec28	Kiểm tra bit
+__TAG__Main_Len_Dec29	không ai
+__TAG__Main_Len_Dec30	Kiểm tra lẻ
+__TAG__Main_Len_Dec31	Thậm chí kiểm tra
+__TAG__Main_Len_Ctl1	Kiểm soát PTZ
+__TAG__Main_Len_Ctl3	Nâng cao
+__TAG__Main_Len_Ctl4	Lối ra
+__TAG__Main_Len_Ctl5	-
+__TAG__Main_Len_Ctl6	+
+__TAG__Main_Len_Ctl7	Iris
+__TAG__Main_Len_Ctl8	Tiêu điểm
+__TAG__Main_Len_Ctl9	Thu phóng
+__TAG__Main_Len_Ctl10	Căn bản
+	
+__TAG__Main_Len_Ctl12	Cần gạt
+__TAG__Main_Len_Ctl13	Đèn
+__TAG__Main_Len_Ctl14	AUX
+__TAG__Main_Len_Ctl15	Đặt trước
+__TAG__Main_Len_Ctl16	Gọi
+__TAG__Main_Len_Ctl17	Cài đặt
+__TAG__Main_Len_Ctl18	Tốc độ
+__TAG__Main_Len_Ctl19	L1
+__TAG__Main_Len_Ctl20	L2
+__TAG__Main_Len_Ctl21	L3
+__TAG__Main_Len_Ctl22	L4
+__TAG__Main_Len_Ctl23	Khởi đầu
+__TAG__Main_Len_Ctl24	Khuôn mẫu
+__TAG__Main_Len_Ctl25	Hành trình
+__TAG__Main_Len_Ctl26	Thiết lập hành trình
+__TAG__Main_Len_Ctl27	Hành trình số
+__TAG__Main_Len_Ctl28	Kích hoạt
+__TAG__Main_Len_Ctl29	Gọi
+__TAG__Main_Len_Ctl30	Dừng lại
+__TAG__Main_Len_Ctl31	Điểm hành trình
+__TAG__Main_Len_Ctl32	1
+__TAG__Main_Len_Ctl33	2
+__TAG__Main_Len_Ctl34	3
+__TAG__Main_Len_Ctl35	4
+__TAG__Main_Len_Ctl36	Xóa bỏ
+__TAG__Main_Len_Ctl37	Thuộc tính
+__TAG__Main_Len_Ctl38	Đặt trước
+__TAG__Main_Len_Ctl39	1
+__TAG__Main_Len_Ctl40	2
+__TAG__Main_Len_Ctl41	3
+__TAG__Main_Len_Ctl42	4
+__TAG__Main_Len_Ctl43	Thời gian
+__TAG__Main_Len_Ctl43.1	(1 ~ 60)
+__TAG__Main_Len_Ctl44	Tốc độ
+__TAG__Main_Len_Ctl45	Mới
+__TAG__Main_Len_Ctl46	Cài đặt
+__TAG__Main_Len_Ctl47	Ứng dụng
+	
+__TAG__Main_Len_Mng1	Quản lý giao thức
+__TAG__Main_Len_Mng4	Quản lý giao thức
+__TAG__Main_Len_Mng6	Giao thức tồn tại
+__TAG__Main_Len_Mng7	Giao thức khác
+	
+__TAG__Guide1	Hướng dẫn cấu hình
+__TAG__Guide2	Hướng dẫn cấu hình là giúp bạn thiết lập nhanh cấu hình thiết bị, bạn có muốn chạy nó ngay bây giờ không?
+__TAG__Guide3	Đúng
+__TAG__Guide4	Không
+__TAG__Guide5	Không bao giờ
+__TAG__Guide6	Xác định quyền
+__TAG__Guide7	Đăng nhập với tư cách quản trị viên
+__TAG__Guide8	TÔI
+__TAG__Guide9	Mật khẩu
+__TAG__Guide10	Cài đặt mạng
+__TAG__Guide11	Địa chỉ MAC
+__TAG__Guide12	Tự động lấy địa chỉ IP qua DHCP
+__TAG__Guide13	Hướng dẫn cài đặt địa chỉ IP
+__TAG__Guide14	Địa chỉ IP
+__TAG__Guide15	Mặt nạ mạng con
+__TAG__Guide16	Cổng
+__TAG__Guide17	Hướng dẫn cài đặt DNS
+__TAG__Guide18	DNS ưa thích
+__TAG__Guide19	DNS dành riêng
+__TAG__Guide20	Cài đặt
+__TAG__Guide21	Kế tiếp
+__TAG__Guide22	Định dạng đĩa
+__TAG__Guide23	Thiết bị
+__TAG__Guide24	Kích thước
+__TAG__Guide25	Đã sử dụng
+__TAG__Guide26	Miễn phí
+__TAG__Guide27	Vách ngăn
+__TAG__Guide28	Ngủ
+__TAG__Guide29	Khởi tạo
+__TAG__Guide31	Trở lại
+__TAG__Guide33	Định dạng đĩa
+__TAG__Guide34	Định dạng đĩa sẽ xóa tất cả dữ liệu, tiếp tục?
+	
+__TAG__Guide38	Định dạng đĩa ...
+__TAG__Guide40	Định dạng đĩa xong!
+__TAG__Guide41	Hướng dẫn hoàn thành
+__TAG__Guide42	Hướng dẫn cấu hình đã kết thúc, vui lòng nhấn nút [Hoàn tất] để thoát hoặc nhấn nút [Quay lại] để định cấu hình lại.
+__TAG__Guide43	Không cần hướng dẫn lại.
+__TAG__Guide44	Hoàn thành
+__TAG__Guide46	Đăng nhập thất bại
+__TAG__Guide47	Tên người dùng / Mật khẩu bị lỗi, vui lòng thử lại.
+	
+__TAG__Guide_48	Ngôn ngữ & múi giờ
+__TAG__Guide_49	Ngôn ngữ
+__TAG__Guide_50	Thời gian
+__TAG__Guide_51	Múi giờ
+__TAG__Guide_Set	Ứng dụng
+__TAG__Guide_52	Ngôn ngữ hiện tại
+__TAG__Guide_53	Kế tiếp
+__TAG__Guide_54	Hướng dẫn cài đặt
+__TAG__Guide_55	Độ phân giải tối ưu tự thích ứng
+__TAG__Guide_56	Giải pháp
+__TAG__Guide_57	%s
+	
+__TAG__Main_File_Diag1	Quản lý nguồn tài nguyên
+__TAG__Main_File_Diag2	Cổng USB
+__TAG__Main_File_Diag3	Không gian còn lại
+__TAG__Main_File_Diag4	Tên
+__TAG__Main_File_Diag5	Kích thước
+__TAG__Main_File_Diag6	Thể loại
+__TAG__Main_File_Diag7	Thời gian sửa đổi
+	
+__TAG__Main_File_Diag8	Thư mục mới
+__TAG__Main_File_Diag9	Xóa bỏ
+__TAG__Main_File_Diag10	Xác nhận
+__TAG__Main_File_Diag11	Hủy bỏ
+__TAG__Main_File_Diag12	Làm mới
+	
+__TAG__Main_File_Diag13	Thư mục mới
+__TAG__Main_File_Diag14	Vui lòng đổi tên thư mục mới:
+__TAG__Main_File_Diag15	Xóa tài liệu
+__TAG__Main_File_Diag16	Bạn có chắc chắn để xóa thư mục hoặc tập tin?
+	
+__TAG__Main_File_Diag17	Lỗi:
+__TAG__Main_File_Diag18	Tên tập tin tồn tại, xin vui lòng thay đổi tên khác!
+	
+__TAG__Main_File_Diag20	Thiết bị
+__TAG__Main_File_Diag21	Không gian còn lại
+	
+__TAG__Main_Diag1	lỗi
+__TAG__Main_Diag2	Câu hỏi
+__TAG__Main_Diag3	Ghi chú
+__TAG__Main_Diag4	Cảnh báo
+	
+__TAG__Main_ColrPat1	Bảng màu
+__TAG__Main_TouchPadInput1	Đầu vào TouchPad
+	
+__TAG__Main_Chn_Var1	Địa chỉ thiết bị
+__TAG__Main_Chn_Var2	Miền
+__TAG__Main_Chn_Var3	Số sê ri
+	
+__TAG__Main_Chn_Mng1	Kênh truyền hình
+__TAG__Main_Chn_Mng2	Đã thêm thiết bị
+__TAG__Main_Chn_Mng3	Kênh
+__TAG__Main_Chn_Mng4	Thiết bị
+__TAG__Main_Chn_Mng5	Thuộc tính
+__TAG__Main_Chn_Mng6	Trạng thái
+__TAG__Main_Chn_Mng7	Biên tập
+__TAG__Main_Chn_Mng8	Kích hoạt
+__TAG__Main_Chn_Mng9	Vô hiệu hóa
+__TAG__Main_Chn_Mng10	Plug-and-play
+__TAG__Main_Chn_Mng11	Vô hiệu hóa
+__TAG__Main_Chn_Mng12	Khám phá
+__TAG__Main_Chn_Mng13	Tự động
+__TAG__Main_Chn_Mng15	Trạng thái kết nối
+__TAG__Main_Chn_Mng16	Cho phép tất cả
+__TAG__Main_Chn_Mng17	Vô hiệu hóa tất cả
+__TAG__Main_Chn_Mng18	Băng thông còn lại
+__TAG__Main_Chn_Mng20	Phiên bản
+__TAG__Main_Chn_Mng21	Khởi động lại IPC
+__TAG__Main_Chn_Mng22	Nhập khẩu
+__TAG__Main_Chn_Mng23	Xuất khẩu
+__TAG__Main_Chn_Mng24	Cập nhật
+__TAG__Main_Chn_Mng25	Trưng bày
+__TAG__Main_Chn_Mng26	IPC
+__TAG__Main_Chn_Mng27	NVR
+__TAG__Main_Chn_Mng28	Nâng cao
+__TAG__Main_Chn_Mng30	Biên tập
+__TAG__Main_Chn_Mng31	Bí danh kênh
+	
+__TAG__Main_Chn_Edit1	Chỉnh sửa loại
+__TAG__Main_Chn_Edit2	Kênh
+__TAG__Main_Chn_Edit3	Thể loại
+__TAG__Main_Chn_Edit4	IPC
+__TAG__Main_Chn_Edit5	Kênh tương tự
+__TAG__Main_Chn_Edit6	Kênh ảo
+	
+__TAG__Main_Log_Type1	Cài đặt loại kênh
+__TAG__Main_Chn_Type2	Thay đổi loại kênh sẽ có hiệu lực sau khi khởi động lại, làm gì bây giờ?
+__TAG__Main_Chn_Type3	Đúng
+__TAG__Main_Chn_Type4	Không
+__TAG__Main_Chn_Type5	Cài đặt loại kênh
+__TAG__Main_Chn_Type6	Lỗi thiết lập!
+	
+__TAG__Main_Log_Dig1	Kênh kỹ thuật số
+__TAG__Main_Chn_Dig2	Số kênh
+__TAG__Main_Chn_Dig3	Chế độ kết nối
+__TAG__Main_Chn_Dig4	IP
+__TAG__Main_Chn_Dig5	Tên miền
+__TAG__Main_Chn_Dig6	Sáng kiến
+__TAG__Main_Chn_Dig7	Địa chỉ thiết bị
+__TAG__Main_Chn_Dig7.0	Địa chỉ URL
+__TAG__Main_Chn_Dig8	Proxy IP
+__TAG__Main_Chn_Dig9	Kênh thiết bị
+__TAG__Main_Chn_Dig10	Số cổng
+__TAG__Main_Chn_Dig11	Suối
+__TAG__Main_Chn_Dig12	Xu hướng
+__TAG__Main_Chn_Dig13	Dòng con
+__TAG__Main_Chn_Dig14	Kết nối mạng
+__TAG__Main_Chn_Dig15	TCP
+__TAG__Main_Chn_Dig16	UDP
+__TAG__Main_Chn_Dig17	BC
+__TAG__Main_Chn_Dig18	Giao thức
+__TAG__Main_Chn_Dig19	Xương chậu
+__TAG__Main_Chn_Dig20	Xương chậu
+__TAG__Main_Chn_Dig22	Địa chỉ nhà
+__TAG__Main_Chn_Dig23	Người dùng
+__TAG__Main_Chn_Dig24	quản trị viên
+__TAG__Main_Chn_Dig25	Mật khẩu
+__TAG__Main_Chn_Dig26	Tiểu bang
+__TAG__Main_Chn_Dig27	Kích hoạt
+__TAG__Main_Chn_Dig28	Vô hiệu hóa
+__TAG__Main_Chn_Dig29	Giải mã
+__TAG__Main_Chn_Dig30	Tìm kiếm
+__TAG__Main_Chn_DevType	Loại thiết bị
+__TAG__Main_Chn_Dev1	Giao thức riêng
+__TAG__Main_Chn_Dev2	ONVIF
+__TAG__Main_Chn_Dev3	RTSP
+__TAG__Main_Chn_AptAdd	Thêm thông minh
+__TAG__Main_Chn_Add_type1	Địa chỉ IP tăng dần
+__TAG__Main_Chn_Add_type2	Số kênh tăng dần
+__TAG__Main_Chn_Add_Target	Kênh mục tiêu
+__TAG__Main_Chn_Add	Thêm hàng loạt
+	
+__TAG__Main_Chn_Srch1	Tìm kiếm máy chủ
+__TAG__Main_Chn_Srch2	Địa chỉ IP
+__TAG__Main_Chn_Srch3	Thiết bị
+__TAG__Main_Chn_Srch5	Loại máy chủ
+__TAG__Main_Chn_Srch6	Số sê-ri
+__TAG__Main_Chn_Srch7	Tên máy chủ
+__TAG__Main_Chn_Srch8	Proxy IP
+__TAG__Main_Chn_Srch9	Nhảy tới
+__TAG__Main_Chn_Srch10	/
+__TAG__Main_Chn_Srch11	Trang
+__TAG__Main_Chn_Srch12	Nhảy
+__TAG__Main_Chn_Srch13	Trước đó
+__TAG__Main_Chn_Srch14	Kế tiếp
+__TAG__Main_Chn_CheckAll	Chọn tất cả
+__TAG__Main_Chn_Srch15	Chế độ kết nối
+__TAG__Main_Chn_Srch16	IP
+__TAG__Main_Chn_Srch17	Miền
+__TAG__Main_Chn_Srch18	Sáng kiến
+__TAG__Main_Chn_Srch19	Tìm kiếm
+__TAG__Main_Chn_Srch21	Thêm vào
+__TAG__Main_Chn_Srch22	Sửa đổi IP
+__TAG__Main_Chn_Srch23	Thêm thủ công
+__TAG__Main_Chn_IPC1	Quản lý trung tâm IPC
+	
+__TAG__Main_Cbl_Var1	Ghi đĩa DVD thời gian thực
+__TAG__Main_Cbl_Var2	Phát lại DVD
+__TAG__Main_Cbl_Var3	Đốt và chơi
+	
+__TAG__Main_Cbl_Icn1	Ghi đĩa
+__TAG__Main_Cbl_Icn2	Đốt thời gian thực
+__TAG__Main_Cbl_Icn3	Phát lại DVD
+__TAG__Main_Cbl_Icn4	Đốt và chơi
+	
+__TAG__Main_Cbl_Rtm1	Đốt thời gian thực
+__TAG__Main_Cbl_Rtm2	Căn bản
+__TAG__Main_Cbl_Rtm3	Tất cả
+__TAG__Main_Cbl_Rtm4	Chế độ
+__TAG__Main_Cbl_Rtm5	Đĩa đơn
+__TAG__Main_Cbl_Rtm6	Đĩa đôi
+__TAG__Main_Cbl_Rtm7	Ghi lặp
+__TAG__Main_Cbl_Rtm8	CD1
+__TAG__Main_Cbl_Rtm9	CD2
+	
+__TAG__Main_Cbl_Rtm10	Buộc dừng
+__TAG__Main_Cbl_Rtm11	Khởi đầu
+__TAG__Main_Cbl_Rtm12	Dừng lại
+__TAG__Main_Cbl_Rtm13	Nhãn
+__TAG__Main_Cbl_Rtm14	Hoàn thiện sau khi ghi
+__TAG__Main_Cbl_Rtm15	Tốc độ cháy
+__TAG__Main_Cbl_Rtm16	Đẩy ra sau khi đốt
+__TAG__Main_Cbl_Rtm17.0	Đốt thông minh
+__TAG__Main_Cbl_Rtm17	4X
+__TAG__Main_Cbl_Rtm18	6X
+__TAG__Main_Cbl_Rtm19	8X
+__TAG__Main_Cbl_Rtm20	Tối đa
+	
+__TAG__Main_Cbl_Rtm21	Loại đĩa
+__TAG__Main_Cbl_Rtm22	DVD-R / DVD + R
+__TAG__Main_Cbl_Rtm23	Đĩa xanh
+	
+__TAG__Main_Cbl_Rtm24	Cài đặt nâng cao
+__TAG__Main_Cbl_Rtm25	Lưu ý: Mỗi kênh chỉ có thể được chọn bởi CD1 hoặc CD2 trong Ghi đĩa đơn.
+__TAG__Main_Cbl_PopCD	Tung lên
+	
+__TAG__Main_Cbl_Recordtime_cbl	Thời gian ghi:
+__TAG__Main_Cbl_Recordtime	Thời lượng đĩa đơn
+__TAG__Main_Cbl_Recordtime0	Tự động chọn
+__TAG__Main_Cbl_Recordtime2	2 giờ
+__TAG__Main_Cbl_Recordtime3	3 giờ
+__TAG__Main_Cbl_Recordtime4	4 tiếng
+__TAG__Main_Cbl_Recordtime5	5 giờ
+__TAG__Main_Cbl_Recordtime6	6 tiếng
+__TAG__Main_Cbl_Recordtime7	7 giờ
+__TAG__Main_Cbl_Recordtime8	8 giờ
+__TAG__Main_Cbl_Recordtime9	9 tiếng
+__TAG__Main_Cbl_Recordtime10	10 giờ
+__TAG__Main_Cbl_Recordtime11	11 giờ
+__TAG__Main_Cbl_Recordtime12	12 giờ
+	
+__TAG__Main_Cbl_Videoquality	Chất lượng video ở các độ phân giải khác nhau
+	
+__TAG__Main_Cbl_Hint1	Cảnh báo
+__TAG__Main_Cbl_Hint2	Có thể chọn tối đa 4 kênh, vui lòng chọn lại.
+	
+__TAG__Main_Cbl_Menu1	Menu Qucik
+__TAG__Main_Cbl_Menu2	Thu phóng điện tử
+__TAG__Main_Cbl_Menu3	Thoát
+__TAG__Main_Cbl_Menu4	Toàn màn hình
+	
+__TAG__Main_Cbl_DVD1	Phát lại DVD
+__TAG__Main_Cbl_DVD3	Phát lại DVD
+	
+__TAG__Main_Cbl_Pssd1	Giải mã
+__TAG__Main_Cbl_Pssd2	Mật khẩu
+__TAG__Main_Cbl_Pssd4	Dừng lại
+	
+__TAG__Main_Cbl_Srch1	Tìm kiếm thất bại
+__TAG__Main_Cbl_Srch2	Danh sách tập tin DVD là NULL, vui lòng chỉnh lại.
+	
+__TAG__Main_Cbl_Stop1	Buộc ngừng đốt
+__TAG__Main_Cbl_Stop2	Buộc dừng ghi có thể khiến dữ liệu bị mất hoặc hỏng đĩa, xác nhận để xử lý?
+	
+__TAG__Main_Car_Icn1	Cấu hình xe
+__TAG__Main_Car_Var	Tài liệu tham khảo cấu hình xe
+	
+__TAG__Main_Gps_Set1	Cài đặt GPS
+__TAG__Main_Gps_Set2	Hiển thị GPS
+__TAG__Main_Gps_Set3	Bật thời gian GPS
+__TAG__Main_Gps_Set4	Loại mô-đun
+__TAG__Main_Gps_Set5	Số vệ tinh
+	
+__TAG__Main_Delay_Set1	Quản lý năng lượng
+__TAG__Main_Delay_Set2	Kích hoạt độ trễ khởi động
+__TAG__Main_Delay_Set3	Kích hoạt độ trễ tắt máy
+__TAG__Main_Delay_Set4	Thời gian trì hoãn
+__TAG__Main_Delay_Set4.1	3s
+__TAG__Main_Delay_Set4.2	5 giây
+__TAG__Main_Delay_Set4.3	10 giây
+__TAG__Main_Delay_Set4.4	30s
+__TAG__Main_Delay_Set4.5	1 phút
+__TAG__Main_Delay_Set4.6	5 phút
+__TAG__Main_Delay_Set4.7	10 phút
+__TAG__Main_Delay_Set4.8	15 phút
+__TAG__Main_Delay_Set4.9	30 phút
+__TAG__Main_Delay_Set4.10	1 giờ
+__TAG__Main_Delay_Set5	Tắt máy Vol thấp (0 ~ 36V)
+__TAG__Main_Delay_Set6	Báo động thấp Vol (0 ~ 36V)
+__TAG__Main_Delay_Set7	Kích hoạt bất thường
+__TAG__Main_WifiFtp_Set1	Tải lên WIFI
+__TAG__Main_WifiFtp_Set2	Tự động FTP
+__TAG__Main_WifiFtp_Set3	Tải lên
+__TAG__Main_WifiFtp_Set4	Cài đặt FTP
+	
+__TAG__Main_Car_Info	Tình trạng thiết bị
+__TAG__Main_Car_Info0	Thông tin trạng thái
+__TAG__Main_Car_Info1	Tình trạng WIFI
+__TAG__Main_Car_Info2	Cường độ WIFI
+__TAG__Main_Car_Info3	Trạng thái AP
+__TAG__Main_Car_Info4	Trạng thái 3G
+__TAG__Main_Car_Info5	Cường độ 3G
+__TAG__Main_Car_Info6	Phiên bản SCM
+__TAG__Main_Car_Info8	Điện áp
+__TAG__Main_Car_Info9	Cài đặt WIFI
+__TAG__Main_Car_Info10	Cài đặt AP
+	
+__TAG__Main_Caldar1	Lịch
+__TAG__Main_Caldar2	<
+__TAG__Main_Caldar3	1983
+__TAG__Main_Caldar4	Tháng một
+__TAG__Main_Caldar5	Tháng hai
+__TAG__Main_Caldar6	Tháng ba
+__TAG__Main_Caldar7	Tháng Tư
+__TAG__Main_Caldar8	có thể
+__TAG__Main_Caldar9	Tháng sáu
+__TAG__Main_Caldar10	Tháng 7
+__TAG__Main_Caldar11	Tháng tám
+__TAG__Main_Caldar12	Tháng chín
+__TAG__Main_Caldar13	Tháng 10
+__TAG__Main_Caldar14	Tháng 11
+__TAG__Main_Caldar15	Tháng 12
+	
+__TAG__Main_Atm_Var1	Cài đặt cổng nối tiếp
+__TAG__Main_Atm_Var2	Cài đặt mạng
+	
+__TAG__Main_CardOSD_Set1	Cài đặt ATM
+__TAG__Main_CardOSD_Set2	Chế độ liên lạc
+__TAG__Main_CardOSD_Set3	Nối tiếp
+__TAG__Main_CardOSD_Set4	Mạng
+__TAG__Main_CardOSD_Set5	Giao thức
+__TAG__Main_CardOSD_Set5.1	KHÔNG AI
+__TAG__Main_CardOSD_Set6	Cài đặt
+__TAG__Main_CardOSD_Set7	Cài đặt nối tiếp
+__TAG__Main_CardOSD_Set8	Kênh lớp phủ
+__TAG__Main_CardOSD_Set12	Chế độ lớp phủ
+__TAG__Main_CardOSD_Set13	Xem trước
+__TAG__Main_CardOSD_Set14	Mã hóa
+__TAG__Main_CardOSD_Set15	Vị trí lớp phủ
+__TAG__Main_CardOSD_Set16	Phía trên bên trái
+__TAG__Main_CardOSD_Set17	Phía trên bên phải
+__TAG__Main_CardOSD_Set18	Thấp hơn bên trái
+__TAG__Main_CardOSD_Set19	Thấp hơn bên phải
+	
+__TAG__Main_CardNet_Set20	Cài đặt mạng
+__TAG__Main_CardNet_Set21	ATM IP
+__TAG__Main_CardNet_Set22	Cổng
+__TAG__Main_CardNet_Set23	IP thiết bị
+__TAG__Main_CardNet_Set24	(81 ~ 65535)
+	
+__TAG__Main_Alm_Chn0	-
+__TAG__Main_Alm_Chn1	Chn01
+__TAG__Main_Alm_Chn2	Chn02
+__TAG__Main_Alm_Chn3	Chn03
+__TAG__Main_Alm_Chn4	Chn04
+__TAG__Main_Alm_Chn5	Chn05
+__TAG__Main_Alm_Chn6	Chn06
+__TAG__Main_Alm_Chn7	Chn07
+__TAG__Main_Alm_Chn8	Chn08
+__TAG__Main_Alm_Chn9	Chn09
+__TAG__Main_Alm_Chn10	Chn10
+__TAG__Main_Alm_Chn11	Chn11
+__TAG__Main_Alm_Chn12	Chn12
+__TAG__Main_Alm_Chn13	Chn13
+__TAG__Main_Alm_Chn14	Chn14
+__TAG__Main_Alm_Chn15	Chn15
+__TAG__Main_Alm_Chn16	Chn16
+__TAG__Main_Alm_Chn17	Chn17
+__TAG__Main_Alm_Chn18	Chn18
+__TAG__Main_Alm_Chn19	Chn19
+__TAG__Main_Alm_Chn20	Chn20
+__TAG__Main_Alm_Chn21	Chn21
+__TAG__Main_Alm_Chn22	Chn22
+__TAG__Main_Alm_Chn23	Chn23
+__TAG__Main_Alm_Chn24	Chn24
+__TAG__Main_Alm_Chn25	Chn25
+__TAG__Main_Alm_Chn26	Chn26
+__TAG__Main_Alm_Chn27	Chn27
+__TAG__Main_Alm_Chn28	Chn28
+__TAG__Main_Alm_Chn29	Chn29
+__TAG__Main_Alm_Chn30	Chn30
+__TAG__Main_Alm_Chn31	Chn31
+__TAG__Main_Alm_Alm32	Chn32
+	
+__TAG__Main_Alm_Type1	Cổng báo động
+__TAG__Main_Alm_Type2	Chuyển động
+__TAG__Main_Alm_Type4	VCA
+__TAG__Main_Alm_Type5	Mất video
+__TAG__Main_Alm_Type6	Mặt nạ video
+	
+__TAG__Main_Alm_Set	Lập lịch
+__TAG__Main_Alm_StTm	Ngày
+__TAG__Main_Alm_Cldr	Ngày
+__TAG__Main_Alm_Week1	Thứ hai
+__TAG__Main_Alm_Week2	Thứ ba
+__TAG__Main_Alm_Week3	Thứ Tư
+__TAG__Main_Alm_Week4	Thu
+__TAG__Main_Alm_Week5	Thứ sáu
+__TAG__Main_Alm_Week6	Đã ngồi
+__TAG__Main_Alm_Week7	mặt trời
+__TAG__Main_AIm_AdV	Cài đặt nâng cao
+__TAG__Main_Alm_Time5	Nhấp chuột trái để đặt giai đoạn thời gian báo động
+__TAG__Main_Alm_Time6	Nhấp chuột trái để xóa giai đoạn báo động
+	
+__TAG__Main_Alm_Var1	Cài đặt đầu vào báo động
+__TAG__Main_Alm_Var2	Cài đặt đầu ra báo động
+__TAG__Main_Alm_Var3	Cài đặt kích hoạt báo động
+__TAG__Main_Alm_Var4	Cài đặt báo động mặt nạ video
+__TAG__Main_Alm_Var5	Cài đặt báo động phát hiện chuyển động
+__TAG__Main_Alm_Var6	Cài đặt báo động mất video
+__TAG__Main_Alm_Var7	Hướng dẫn xóa báo động
+__TAG__Main_Alm_Var8	Cài đặt máy chủ báo động
+__TAG__Main_Alm_Var10	Báo động kích hoạt bằng tay
+__TAG__Main_Alm_Var11	Cài đặt VCA
+	
+__TAG__Main_Alm_Icn1	Cài đặt báo động
+__TAG__Main_Alm_Icn2	Đầu vào báo động
+__TAG__Main_Alm_Icn3	Đầu ra báo động
+__TAG__Main_Alm_Icn4	Chuyển động
+__TAG__Main_Alm_Icn5	Mất video
+__TAG__Main_Alm_Icn6	Xóa báo động
+__TAG__Main_Alm_Icn7	Máy chủ báo động
+__TAG__Main_Alm_Icn8	PTZ
+__TAG__Main_Alm_Icn9	Mặt nạ báo động
+__TAG__Main_Alm_Icn11	Báo động bằng tay
+__TAG__Main_Alm_Icn12	VCA
+__TAG__Main_Alm_Icn13	Mất âm thanh
+__TAG__Main_Alm_Icn30	Xóa báo động
+	
+__TAG__Main_Alm_AlmIn1	Cài đặt đầu vào báo động
+__TAG__Main_Alm_AlmIn2	Số cổng đầu vào
+__TAG__Main_Alm_AlmIn3	Loại mạch
+__TAG__Main_Alm_AlmIn4	Thường đóng
+__TAG__Main_Alm_AlmIn5	Thường mở
+__TAG__Main_Alm_AlmIn5.0	Mạch kín
+__TAG__Main_Alm_AlmIn5.1	Mạch mở
+__TAG__Main_Alm_AlmIn5.2	Cả ngày
+__TAG__Main_Alm_AlmIn5.3	Thời gian không báo động
+__TAG__Main_Alm_AlmIn5.4	Dừng ghi hình
+__TAG__Main_Alm_AlmIn6	Bật chế độ đầu vào báo động
+__TAG__Main_Alm_AlmIn8	Kích hoạt
+__TAG__Main_Alm_AlmIn9	Còi báo
+__TAG__Main_Alm_AlmIn10	OSD
+__TAG__Main_Alm_AlmIn12	Đăng nhập
+__TAG__Main_Alm_AlmIn13	Ghi hình
+__TAG__Main_Alm_AlmIn14	Đầu ra báo động
+__TAG__Main_Alm_AlmIn15	Ảnh chụp nhanh, ảnh chụp
+__TAG__Main_Alm_AlmIn16	Màn hình đơn
+__TAG__Main_Alm_AlmIn17	Hình ảnh đính kèm
+__TAG__Main_Alm_LkRec1	Bản ghi kích hoạt Chn
+__TAG__Main_Alm_LkSnp1	Ảnh chụp kích hoạt Chn
+__TAG__Main_Alm_LkAout1	Đầu ra báo động kích hoạt
+	
+__TAG__Main_Alm_HndClr2	Loại báo động
+	
+__TAG__Main_Alm_AlmOut1	Cài đặt đầu ra báo động
+__TAG__Main_Alm_AlmOut2	Cổng
+__TAG__Main_Alm_AlmOut3	Thể loại
+__TAG__Main_Alm_AlmOut4	Thường đóng
+__TAG__Main_Alm_AlmOut5	Thường mở
+__TAG__Main_Alm_AlmOut6	Sự chậm trễ
+__TAG__Main_Alm_AlmOut7	không ai
+__TAG__Main_Alm_AlmOut8	1
+__TAG__Main_Alm_AlmOut9	2
+__TAG__Main_Alm_AlmOut10	5
+__TAG__Main_Alm_AlmOut11	10
+__TAG__Main_Alm_AlmOut12	30
+__TAG__Main_Alm_AlmOut13	Dừng bằng tay
+	
+__TAG__Main_Alm_Ptz1	Cài đặt kích hoạt báo động PTZ
+__TAG__Main_Alm_Ptz2	Kênh
+__TAG__Main_Alm_Ptz3	Đặt trước
+__TAG__Main_Alm_Ptz4	Du thuyền
+__TAG__Main_Alm_Ptz5	Kích hoạt mẫu
+	
+__TAG__Main_Alm_Md1	Phát hiện chuyển động
+__TAG__Main_Alm_Md2	Kênh
+__TAG__Main_Alm_Md3	Độ nhạy
+__TAG__Main_Alm_Md4	Kích hoạt
+__TAG__Main_Alm_Md10	Thiết lập khu vực
+__TAG__Main_Alm_Md13	Sao chép vào
+__TAG__Main_Alm_Md14	Cài đặt vùng phát hiện chuyển động
+__TAG__Main_Alm_Md15	Xóa
+__TAG__Main_Alm_Md20	Thêm tất cả
+__TAG__Main_Alm_Md21	Xóa hết
+__TAG__Main_Alm_Md22	Thoát
+__TAG__Main_Alm_Md23	(0 ~ 100)
+	
+__TAG__Main_Alm_Lost1	Mất video
+__TAG__Main_Alm_Lost2	Kích hoạt
+	
+__TAG__Main_Alm_Lost14	Cài đặt báo động mất âm thanh
+__TAG__Main_Alm_Lost15	Kích hoạt
+__TAG__Main_Alm_Lost16	Ngưỡng âm thanh
+	
+__TAG__Main_Alm_Cover1	Báo động mặt nạ video
+__TAG__Main_Alm_Cover2	Kích hoạt
+	
+__TAG__Main_Alm_Host2	Máy chủ báo động mạng
+__TAG__Main_Alm_Host3	Máy chủ báo động
+__TAG__Main_Alm_Host4	Kích hoạt
+__TAG__Main_Alm_Host5	Địa chỉ IP
+__TAG__Main_Alm_Host6	Cổng
+__TAG__Main_Alm_Host7	Đầu vào báo động
+__TAG__Main_Alm_Host8	Đầu ra báo động
+__TAG__Main_Alm_Host9	Nối tiếp
+__TAG__Main_Alm_Host10	Máy chủ báo động
+__TAG__Main_Alm_Host11	Kích hoạt
+__TAG__Main_Alm_Host12	Com
+	
+__TAG__Main_Alm_Host17	Giao thức
+__TAG__Main_Alm_Host19	Địa chỉ nhà
+__TAG__Main_Alm_Host20	Đầu vào báo động
+__TAG__Main_Alm_Host21	Đầu ra báo động
+	
+__TAG__Main_Alm_Hand1	Báo động bằng tay
+__TAG__Main_Alm_Hand2	Cổng đầu ra báo động
+__TAG__Main_Alm_Hand3	Tên báo động
+__TAG__Main_Alm_Hand4	Địa chỉ IP
+__TAG__Main_Alm_Hand5	Trạng thái
+__TAG__Main_Alm_Hand6	Kích hoạt
+__TAG__Main_Alm_Hand7	Thông thoáng
+__TAG__Main_Alm_Hand8	Kích hoạt tất cả
+__TAG__Main_Alm_Hand9	Bỏ tất cả
+__TAG__Main_Alm_Hand10	Làm mới
+	
+__TAG__Main_Alm_all	Xóa tất cả báo động?
+__TAG__Main_Alm_Time	Hướng dẫn cài đặt ghi video
+__TAG__Main_Alm_MD	Hướng dẫn Qucik cho cài đặt ghi phát hiện chuyển động
+__TAG__Main_Alm_Port	Hướng dẫn Qucik cho cài đặt ghi âm báo động cổng
+__TAG__Main_Alm_Port1	Cài đặt cổng báo động
+__TAG__Main_Alm_VCA	Hướng dẫn nhanh cho Cài đặt ghi VCA
+	
+__TAG__Main_Video_Qry18.0	Định dạng tệp
+__TAG__Main_Video_Qry18.1	Trình phát video sao lưu
+__TAG__Main_Video_Qry18.2	Bắt đầu nhận dạng sao lưu
+	
+__TAG__Video_Play_Interval	Khoảng thời gian phát lại:
+__TAG__Main_Pic_Vlay5.3	Vị trí
+__TAG__Main_Pic_Vlay13.0	Ký tự
+__TAG__Main_Pic_Vlay54	Cỡ chữ
+__TAG__Main_Pic_Vlay55	Tự thích ứng
+	
+__TAG__Main_User_Icn9	Giấy phép
+__TAG__Main_Var8	Cài đặt thông số máy ảnh
+__TAG__Main_Video_Var44	Lưu clip
+__TAG__Main_Video_Var45	Phóng to
+__TAG__Main_Video_Var46	Thu nhỏ
+__TAG__Main_Video_Var47	Dừng tìm kiếm
+	
+__TAG__Main_VP_Vp1	Phát lại sự kiện
+__TAG__Main_VP_Vp2	Tìm kiếm thông minh
+__TAG__Main_VP_Vp3	Hình ảnh
+__TAG__Main_VP_Vp4	Chơi tất cả
+__TAG__Main_VP_Vp5	Hủy bỏ
+	
+__TAG__Main_Pic_Var15	Thông số âm thanh / video
+__TAG__Main_Pic_Var16	ROI
+__TAG__Main_Pic_Var17	Xóa vùng
+__TAG__Main_Pic_Var18	Loại âm thanh
+	
+__TAG__Main_Vca_Line65	Thông số mục tiêu
+__TAG__Main_Vca_Line82	Thông số sự kiện
+__TAG__Main_Icn3	Cài đặt PTZ
+__TAG__Main_Vca_ClearLine	Sạch hàng
+__TAG__Main_Pic_Dsp119	Giữ khung cuối cùng
+__TAG__Main_Video_Qry12.0	Những bức ảnh
+__TAG__Main_Video_Clip_Save	Lưu video clip?
+__TAG__Main_Sys_Continue	Tiếp tục
+__TAG__Main_Sys_OtherSet	Các thiết lập khác
+__TAG__Main_Vca_Drawline	Vẽ trên màn hình
+__TAG__Main_Sys_SMTP	Cài đặt email
+__TAG__Main_Sys_Disk49.2	Có đĩa chưa khởi tạo, dữ liệu đĩa sẽ bị mất trong quá trình khởi tạo đĩa, khởi tạo bây giờ?
+	
+__TAG__PseNet_Interface	Thẻ LAN POE
+__TAG__Main_Chn_Add_type	Thêm phương thức
+__TAG__Main_BackupMsg	Sao lưu video và hình ảnh và truy vấn
+__TAG__Main_AlarmMsg	Cấu hình báo động & báo động bằng tay
+__TAG__Main_Chn_IpcUpdate	Nâng cấp IPC
+__TAG__POE_UsedPw	Nguồn thực tế:
+__TAG__POE_UnUsedPw	Công suất dư thừa:
+__TAG__POE_Head	Thông tin năng lượng POE
+__TAG__POE_Msg1	Lưu ý:
+__TAG__POE_Msg3	Mỗi dải công suất cổng POE: 0 ~ 30W.
+__TAG__POE_Msg4	Khi công suất thực tế vượt quá công suất định mức, hệ thống sẽ đóng cổng POE theo số cổng bằng cách giảm dần, cho đến khi công suất thực tế thấp hơn công suất định mức.
+__TAG__Main_Chn_ChnSet	Kênh
+	
+__TAG__KerBackup	Sao lưu
+__TAG__Main_Video_SnapSet5.1	Nhiều hình ảnh
+__TAG__Main_Sys_BakDev11	Xóa thiết bị làm việc có thể dừng sao lưu / Đồng bộ hóa bản ghi, tiếp tục?
+__TAG__Video_Backup	Ghi lại
+__TAG__Dev_Added	Thêm
+__TAG__Main_Mobile	Giám sát di động
+__TAG__USER_AUTO_LOGON	Lưu mật khẩu
+__TAG__Main_VDEC_LIMIT	Gửi cảnh báo nếu hiệu suất giải mã thiết bị đạt đến giới hạn
+__TAG__Chn_Balance	Cân bằng băng thông
+__TAG__Video_ANR	Kích hoạt ANR
+	
+__TAG__Login_PassWord	Mật khẩu mạnh
+__TAG__Main_Sys_Err19.1	Email báo động
+__TAG__Main_Alm_AImIn11	Gửi email
+__TAG__VCA__AlgorithmEnable	Kích hoạt số học
+__TAG__VCA__EnableArith	Kích hoạt số học
+__TAG__VCA__Behavior	Phân tích hành vi
+__TAG__VCA__Track	Theo dõi thông minh
+__TAG__VCA__License	Giấy phép công nhận
+__TAG__VCA__VoiceDiag	Phát hiện âm thanh bất thường
+__TAG__VCA__Post	Phát hiện nhiệm vụ
+__TAG__VCA__Crowd	Phát hiện đám đông
+__TAG__VCA__PeopleCnt	Đếm người
+__TAG__VCA__FaceDet	Phát hiện khuôn mặt
+__TAG__VCA__SaveAlgorithm	Lưu lại
+__TAG__VCA__AlgorithmCfg	Cấu hình số học
+__TAG__VCA__DoubleTrip	Đường xoắn đôi
+__TAG__VCA__ItemsLeft	Đối tượng bỏ quên
+__TAG__VCA__Wander	Đi lang thang
+__TAG__VCA__Running	Đang chạy
+__TAG__VCA__Parking	Bãi đỗ xe
+__TAG__VCA__DoubleAlarm	Báo động hai chiều
+__TAG__VCA__Proportion	Tỷ lệ phần trăm
+__TAG__VCA__MaxTime	Khoảng thời gian tối đa của Tripwire
+__TAG__VCA__MinTime	Khoảng thời gian tối thiểu Tripwire
+__TAG__VCA__InvadeTime	Thời gian xâm lược
+__TAG__VCA__AlarmTime	Giờ báo động
+__TAG__VCA__MinArea	Diện tích tối thiểu
+__TAG__VCA__MinDistance	Di chuyển tối thiểu mỗi giây
+__TAG__VCA__SpeedThreshold	Ngưỡng tốc độ
+__TAG__VCA__FirstChi	Từ đầu tiên
+__TAG__VCA__FirstAlpha	Chữ cái đầu tiên
+__TAG__VCA__MaxFaceSize	Kích thước khuôn mặt tối đa
+__TAG__VCA__MinFaceSize	Kích thước khuôn mặt tối thiểu
+__TAG__VCA__FaceSnap	Ảnh chụp khuôn mặt
+__TAG__VCA__DetectionType	Loại phát hiện
+__TAG__VCA__Mode	Loại tiêu đề
+__TAG__VCA__MaxTargetSize	Kích thước mục tiêu tối đa
+__TAG__VCA__MinTargetSize	Kích thước mục tiêu tối thiểu
+__TAG__VCA__PostNum	Số làm nhiệm vụ
+__TAG__VCA__LeaveAlarmTime	Thời gian báo động vắng mặt
+__TAG__VCA__VideoVirtual	Chẩn đoán ống kính
+__TAG__VCA__SceneChange	Chẩn đoán thay đổi cảnh
+__TAG__VCA__SignLost	Phát hiện tín hiệu bất thường
+__TAG__VCA__SignAbnormal	Phát hiện mất tín hiệu
+	
+__TAG__VCA__FirstChi0	Chuan(Sichuan)
+__TAG__VCA__FirstChi1	E(Hubei)
+__TAG__VCA__FirstChi2	Gan（Jiangxi）
+__TAG__VCA__FirstChi3	Gan（Gansu）
+__TAG__VCA__FirstChi4	Gua
+__TAG__VCA__FirstChi5	Gui（Guangxi）
+__TAG__VCA__FirstChi6	Gui（Guizhou）
+__TAG__VCA__FirstChi7	Hei（Heilongjiang）
+__TAG__VCA__FirstChi8	Hu（Hanghai）
+__TAG__VCA__FirstChi9	Ji（Hebei）
+__TAG__VCA__FirstChi10	Ji（Jilin）
+__TAG__VCA__FirstChi11	Jin（Shanxi）
+__TAG__VCA__FirstChi12	Jin（Tianj）
+__TAG__VCA__FirstChi13	Jing（Beijing）
+__TAG__VCA__FirstChi14	Jing
+__TAG__VCA__FirstChi15	Jun
+__TAG__VCA__FirstChi16	Kong
+__TAG__VCA__FirstChi17	Liao（Liaoning）
+__TAG__VCA__FirstChi18	Lu（Shandong）
+__TAG__VCA__FirstChi19	Meng（Neimenggu）
+__TAG__VCA__FirstChi20	Min（Fujian）
+__TAG__VCA__FirstChi21	Ning（Ningxia）
+__TAG__VCA__FirstChi22	Qian（Guizhou）
+__TAG__VCA__FirstChi23	Qing（Qinghai）
+__TAG__VCA__FirstChi24	Qiong（Hainan）
+__TAG__VCA__FirstChi25	Shan（Shanxi）
+__TAG__VCA__FirstChi26	Shu（Sichuan）
+__TAG__VCA__FirstChi27	Su（Jiangsu）
+__TAG__VCA__FirstChi28	Tai（Taiwan）
+__TAG__VCA__FirstChi29	Wan（Anhui）
+__TAG__VCA__FirstChi30	Xiang（Hunan）
+__TAG__VCA__FirstChi31	Xin（Xinjiang）
+__TAG__VCA__FirstChi32	Yu（Chongqing）
+__TAG__VCA__FirstChi33	Yu（Henan）
+__TAG__VCA__FirstChi34	Yue（Guangdong）
+__TAG__VCA__FirstChi35	Yun（Yunnan）
+__TAG__VCA__FirstChi36	Zang（Xizang）
+__TAG__VCA__FirstChi37	Zhe（Zhejiang）
+	
+__TAG__VCA__FirstChi_0	Chuan
+__TAG__VCA__FirstChi_1	E
+__TAG__VCA__FirstChi_2	Gan
+__TAG__VCA__FirstChi_3	Gan
+__TAG__VCA__FirstChi_4	Gua
+__TAG__VCA__FirstChi_5	Gui
+__TAG__VCA__FirstChi_6	Gui
+__TAG__VCA__FirstChi_7	Hei
+__TAG__VCA__FirstChi_8	Hu
+__TAG__VCA__FirstChi_9	Ji
+__TAG__VCA__FirstChi_10	Ji
+__TAG__VCA__FirstChi_11	Jin
+__TAG__VCA__FirstChi_12	Jin
+__TAG__VCA__FirstChi_13	Jing
+__TAG__VCA__FirstChi_14	Jing
+__TAG__VCA__FirstChi_15	Jun
+__TAG__VCA__FirstChi_16	Kong
+__TAG__VCA__FirstChi_17	Liao
+__TAG__VCA__FirstChi_18	Lu
+__TAG__VCA__FirstChi_19	Meng
+__TAG__VCA__FirstChi_20	Min
+__TAG__VCA__FirstChi_21	Ning
+__TAG__VCA__FirstChi_22	Qian
+__TAG__VCA__FirstChi_23	Qing
+__TAG__VCA__FirstChi_24	Qiong
+__TAG__VCA__FirstChi_25	Shan
+__TAG__VCA__FirstChi_26	Shu
+__TAG__VCA__FirstChi_27	Su
+__TAG__VCA__FirstChi_28	Tai
+__TAG__VCA__FirstChi_29	Wan
+__TAG__VCA__FirstChi_30	Xiang
+__TAG__VCA__FirstChi_31	Xin
+__TAG__VCA__FirstChi_32	Yu
+__TAG__VCA__FirstChi_33	Yu
+__TAG__VCA__FirstChi_34	Yue
+__TAG__VCA__FirstChi_35	Yun
+__TAG__VCA__FirstChi_36	Zang
+__TAG__VCA__FirstChi_37	Zhe
+	
+__TAG__VCA__DetectionArea	Khu vực phát hiện
+__TAG__VCA__DetectionLine	Đường phát hiện
+__TAG__VCA__VPeopleCnt	Đếm dọc
+__TAG__VCA__LPeopleCnt	Đếm ngang
+	
+__TAG__Main_MobileTips1	1. Quét mã QR đầu tiên để tải xuống ứng dụng.
+__TAG__Main_MobileTips2	2. Hãy chắc chắn rằng thiết bị được kết nối với internet, nó sẽ hiển thị mã QR thứ hai.
+__TAG__Main_MobileTips3	3. Mở ứng dụng đã tải xuống để quét mã QR thứ hai để thêm thiết bị.
+	
+__TAG__Main_Pic_Vin97	Màn chập
+__TAG__Main_Pic_Vin98	Tăng lên 
+__TAG__Main_Pic_Vin99	Độ sáng
+__TAG__Main_Pic_Vin100	Khẩu độ tự động
+__TAG__Main_Pic_Vin101	Cân bằng trắng
+__TAG__Main_Pic_Vin102	Cấp độ rùa
+__TAG__Main_Common_Close	Tắt 
+__TAG__Main_Common_Open	Kích hoạt
+__TAG__Main_Pic_Vin103	Bán tự động
+__TAG__Main_Pic_Vin104	Ánh sáng mặt trời
+__TAG__Main_Pic_Vin105	Đèn ban ngày
+__TAG__Main_Pic_Vin106	Đèn sưởi
+__TAG__Main_Pic_Vin107	Đèn dây tóc
+__TAG__Main_Pic_Vin108	Ánh sáng tự nhiên
+__TAG__Main_Pic_Vin109	Cân bằng trắng
+__TAG__Main_Pic_Vin110	Xử lý
+	
+__TAG__Main_Pic_Vin111	Chính sách của WDR
+__TAG__Main_Pic_Vin112	WDR Tự động
+__TAG__Main_Pic_Vin113	WDR bằng tay
+__TAG__Main_Pic_Vin114	WDR
+	
+__TAG__Main_Pic_Vin115	Chống ồn kĩ thuật số
+__TAG__Main_Pic_Vin116	Chế độ mở rộng
+__TAG__Main_Pic_Vin117	Không gian tên miền
+__TAG__Main_Pic_Vin118	Tên miền thời gian
+	
+__TAG__Main_Pic_Vin119	Tập trung một phím
+__TAG__Main_Pic_Vin120	Độ sáng thời gian thực
+__TAG__Main_Pic_Vin121	Thời gian mặt trời mọc
+__TAG__Main_Pic_Vin122	Thời gian hoàng hôn
+__TAG__Main_Pic_Vin123	Kiểu màu xám
+__TAG__Main_Pic_Vin124	Sự chậm trễ từ đêm đến ngày
+__TAG__Main_Pic_Vin125	Sự chậm trễ ngày đến đêm
+__TAG__Main_Pic_Vin126	Khoảng ban ngày
+__TAG__Main_Pic_Vin127	Khoảng ban đêm
+__TAG__Main_Pic_Vin128	Bộ ảnh
+__TAG__Main_Pic_Vin129	Ngày đêm
+__TAG__Main_Pic_Vin130	Ngày
+__TAG__Main_Pic_Vin131	Đêm
+	
+__TAG__VP_VCA_PLATE	Danh sách biển
+__TAG__VP_VCA_PLATE1	Biển số
+__TAG__Main_Var14	Điều chỉnh Barkal
+__TAG__Main_Var15	Dừng điều chỉnh
+__TAG__Main_Sys_Disk75	Phân chia nhóm
+__TAG__Main_Sys_Disk76	Phân nhóm một khóa
+__TAG__Main_Sys_Disk77	Trao đổi nóng
+__TAG__Main_Sys_Disk78	Hoạt động trao đổi nóng sẽ thay đổi trạng thái đĩa thành ngoại tuyến, khởi động lại hoặc trao đổi lại để chuyển trực tuyến.
+	
+__TAG__Login_Pwd_Safe	Mẹo an toàn mật khẩu
+__TAG__Login_Pwd_Hint	Vui lòng sửa lại mật khẩu để đảm bảo an toàn
+__TAG__Login_User_Admin	Người quản lý
+	
+__TAG__Main_Sys_SMTP8	Mã hóa
+__TAG__Main_Sys_SMTP9	Địa chỉ Email chính
+__TAG__Main_Sys_SMTP10	Địa chỉ email 1
+__TAG__Main_Sys_SMTP11	Địa chỉ email 2
+__TAG__Main_Sys_SMTP12	Địa chỉ email 3
+__TAG__Preview_ViewConfig	Xem cấu hình
+__TAG__Main_Sys_Err25	Đĩa bị quá tải
+	
+__TAG__Main_Sys_Disk79	Nhắc nhở: Tốc độ bit tối đa cho một nhóm đĩa đơn là 100Mb / giây, có thể có nguy cơ mất video đã ghi nếu tốc độ bit thực tế cao hơn giới hạn này.
+	
+__TAG__Main_Camera_MoveCover0	Mặt nạ bảo mật PTZ
+__TAG__Main_Camera_MoveCover1	Chỉnh sửa tỷ lệ che chắn
+__TAG__Main_Camera_MoveCover2	Danh sách khu vực riêng tư
+__TAG__Main_Camera_MoveCover3	Khu vực số
+__TAG__Main_Camera_MoveCover4	Yếu tố che chắn
+__TAG__Main_Camera_MoveCover5	Thêm khu vực
+	
+__TAG__Main_Sys_Msg16	Phiên bản SDK
+__TAG__Main_Sys_Msg17	Truy cập Moudle
+	
+__TAG__Camera_DigChn0	Đa tuyến
+__TAG__Camera_DigChn1	IP đa tuyến
+__TAG__Camera_DigChn2	Số cổng đa điểm
+	
+	
+__TAG__Main_VP_PERIOD	Thời gian theo giai đoạn
+__TAG__Main_VP_PERIOD1	màn
+	
+__TAG__Main_Video_List	Danh sách
+__TAG__Main_Video_Graph	Đồ thị
+	
+__TAG__Main_Sys_Test	Kiểm tra
+	
+__TAG__Main_MultiPic10	10 màn hình
+__TAG__Main_MultiPic20	20 màn hình A
+__TAG__Main_MultiPic20.1	20 màn hình B
+__TAG__Main_MultiPic40	40 màn hình
+	
+__TAG__Main_LinkDouble_Light	Kích hoạt DualLight
+__TAG__Main_DayNight_Model	Chế độ ngày / đêm
+__TAG__Main_Color_Model	Chế độ màu
+	
+__TAG__Main_MobileNet	Tình trạng mạng
+__TAG__Main_Mobile_Connected	Đã kết nối
+__TAG__Main_Mobile_Disconnected	Ngắt kết nối
+	
+__TAG__Main_Required_Disksize	Toàn bộ:
+﻿	
+__TAG__Alarm_Message	Báo động đã xảy ra trong khoảng thời gian từ% s đến% s, nhấp vào "chi tiết" để xem nhật ký báo động.
+	
+__TAG__Main_Video_Clip_Annul	Hủy clip
+__TAG__Main_Pic_MoreSet	Nhiều cài đặt hơn…
+	
+__TAG__VCA_SEARCH_PEOPLE	Loại báo cáo
+__TAG__VCA_SEARCH_PEOPLE1	Thời gian thống kê
+__TAG__VCA_SEARCH_PEOPLE2	Báo cáo hàng năm
+__TAG__VCA_SEARCH_PEOPLE3	Báo cáo hàng tháng
+__TAG__VCA_SEARCH_PEOPLE4	Báo cáo hàng tuần
+__TAG__VCA_SEARCH_PEOPLE5	Báo cáo hàng ngày
+__TAG__VCA_SEARCH_PEOPLE6	Số liệu thống kê
+__TAG__VCA_SEARCH_PEOPLE7	Tổng cộng vào
+__TAG__VCA_SEARCH_PEOPLE8	Tổng cộng ra
+	
+__TAG__Sys_Record_Err	Video bất thường
+	
+__TAG__VCA_REPORT	Báo cáo VCA
+__TAG__Main_Sys_Var29	Nâng cấp hệ thống xong.
+	
+__TAG__Main_GraphPsw	Mở khóa hình ảnh
+__TAG__GraphPsw_MSG1	Hãy vẽ hình đã mở khóa
+__TAG__GraphPsw_MSG2	Vui lòng vẽ lại hình ảnh
+__TAG__GraphPsw_MSG3	Nó phải được kết nối với hơn 4 điểm, vui lòng thử lại
+__TAG__GraphPsw_MSG4	Mã không khớp, vui lòng thử lại
+__TAG__GraphPsw_MSG5	Mã hoạt động, vui lòng xác nhận
+__TAG__GraphPsw_MSG6	Hãy thả lỏng để hoàn thành bản vẽ
+__TAG__GraphPsw_PswLogin	Mã đăng nhập
+__TAG__GraphPsw_Setbtn	Cài đặt hình ảnh
+__TAG__OpenGraphPswChx	Bắt đầu mở khóa hình ảnh
+__TAG__User_ChangePsw	Thay đổi mã
+__TAG__User_OriginalPsw	Mã trước
+__TAG__User_LoginFail	Mở khóa hình ảnh không thành công hơn 5 lần, vui lòng sử dụng mã để đăng nhập
+	
+__TAG__Play_FileType	Loại tệp
+__TAG__Passwd_Visual	Mã kênh
+__TAG__Main_User_Passwd_Check	Xác minh mã
+	
+__TAG__VCA__Alert	EW
+__TAG__VCA__DetainTime	Thời gian giam giữ
+__TAG__VCA__FaceSearch	Tìm kiếm khuôn mặt
+__TAG__VCA__LicenseSearch	Tìm kiếm biển số
+__TAG__VCA__AlertSearch	Tìm kiếm cảnh báo sớm
+__TAG__VCA__Search	Tìm kiếm
+	
+__TAG__Main_CodeProtect	Câu hỏi mã bảo mật
+__TAG__CodeProtect_Findbtn	Quên mã
+__TAG__CodeProtect_Setbtn	Đặt mã bảo vệ
+__TAG__CodeProtect_SetCode	Đặt câu hỏi cho mã bảo mật
+__TAG__CodeProtect_Test	Xác minh mã bảo mật
+__TAG__CodeProtect_MSG1	Câu hỏi 1
+__TAG__CodeProtect_MSG2	Câu hỏi 2
+__TAG__CodeProtect_MSG3	Tùy chỉnh
+__TAG__CodeProtect_MSG4	Vui lòng xóa trước đó nếu bạn muốn thay đổi mã
+__TAG__CodeProtect_MSG5	Câu trả lời là sai! Vui lòng thử lại !
+__TAG__CodeProtect_MSG6	Mã câu hỏi hoặc câu trả lời không thể là null!
+__TAG__CodeProtect_Answer	Câu trả lời
+__TAG__CodeProtect_Problem1	Cuốn sách yêu thích của bạn là gì?
+__TAG__CodeProtect_Problem2	Số điện thoại đầu tiên của bạn là gì ?
+__TAG__CodeProtect_Problem4	Đó là món ăn đầu tiên bạn làm?
+__TAG__CodeProtect_Problem5	Bạn thân nhất của bạn tên gì
+__TAG__Preview_DefViewConfig	Xem trước tùy chỉnh
+__TAG__Preview_ViewBoard	Xem trước mẫu
+__TAG__Preview_BoardNumber	số mẫu
+__TAG__Preview_BoardName	Tên mẫu
+__TAG__Preview_PicNumber	số màn hình
+__TAG__Preview_BoardStore	mẫu lưu trữ
+__TAG__Main_Sys_Smart21	Không sử dụng đĩa cứng này nếu không tự đánh giá
+__TAG__Main_Sys_Cnf25	Cấu hình mặc định của nhà máy
+__TAG__Main_Sys_Cnf26	Lưu trữ
+__TAG__Main_Sys_SMTP13	Gửi email
+__TAG__Main_Video_Qbak22	Yêu cầu và sao lưu
+	
+__TAG__Main_Sys_GeneralSet	Cài đặt chung
+__TAG__Main_Sys_DailyMaintain	Bảo trì
+__TAG__Sys_GeneralSet_NetErr	Lỗi mạng
+__TAG__Sys_GeneralSet_StoreErr	lỗi lưu trữ
+__TAG__Main_Pic_ResolutionOut	độ phân giải đầu ra
+__TAG__Main_MultiPic3	3 màn hình
+	
+__TAG__Main_Sys_Usb_Insert	Thiết bị USB được tìm thấy
+__TAG__Main_Sys_Usb_Name	Tên
+__TAG__Main_Sys_Usb_CapacityName	Dung lượng
+__TAG__Main_Sys_Usb_LogExport	Đăng nhập
+__TAG__Main_Sys_Usb_Capacity	%s/%s (Công suất cân bằng / Tổng công suất)
+__TAG__Main_User_Rig25	Xem trước cục bộ
+__TAG__Preview_BoardNameEdit	chỉnh sửa tên mẫu
+__TAG__CodeProtect_Question	câu hỏi
+__TAG__Main_ADD	Thêm vào
+__TAG__Main_Sys_BakDev12	Đồng bộ hóa
+	
+__TAG__User_AutoLogin	Tự động đăng nhập
+__TAG__User_DefPswNoHint	Đừng nhắc lại
+__TAG__Sys_DiskStyle	hệ thống tập tin
+	
+__TAG__Vca__BW_List	Danh sách đen trắng
+__TAG__Vca__Link_Talk	Liên kết để nói chuyện
+__TAG__Vca__Alert_Laser	Laser
+__TAG__Vca__Alert_Sound	Âm thanh cảnh báo
+__TAG__Vca__Link_WordPlan	Liên kết kế hoạch Word
+__TAG__Vca__WordPlan_Set	Thiết lập kế hoạch
+__TAG__Vca__Link_WhiteLight	Ánh sáng trắng
+__TAG__Vca__Example	Ví dụ
+	
+__TAG__Sys_TmZome1	(GMT-12: 00) Dòng phía tây đến ngày
+__TAG__Sys_TmZome2	(GMT-11: 00) Quần đảo giữa chừng, đảo samoa
+__TAG__Sys_TmZome3	(GMT-10: 00) Hawaii
+__TAG__Sys_TmZome4	(GMT-09: 00) Alaska
+__TAG__Sys_TmZome5	(GMT-08: 00) Giờ Thái Bình Dương (Hoa Kỳ và Canada)
+__TAG__Sys_TmZome6	(GMT-07: 00) Giờ miền núi (Hoa Kỳ và Canada)
+__TAG__Sys_TmZome7	(GMT-06: 00) Giờ Trung tâm (Hoa Kỳ và Canada)
+__TAG__Sys_TmZome8	(GMT-05: 00) Giờ miền Đông (Hoa Kỳ và Canada)
+__TAG__Sys_TmZome9	(GMT-04: 30) Alaska
+__TAG__Sys_TmZome10	(GMT-04: 00) Giờ Đại Tây Dương (Canada), Georgetown
+__TAG__Sys_TmZome11	(GMT-03: 30) Newfoundland
+__TAG__Sys_TmZome12	(GMT-03: 00) Greenland, Brasíc
+__TAG__Sys_TmZome13	(GMT-02: 00) giữa Đại Tây Dương
+__TAG__Sys_TmZome14	(GMT-01: 00) đảo cape verde, Quần đảo Azores
+__TAG__Sys_TmZome15	(GMT + 00: 00) Dublin, Edinburgh, Luân Đôn
+__TAG__Sys_TmZome16	(GMT + 01: 00) Amsterdam, Berlin, Rome, Paris
+__TAG__Sys_TmZome17	(GMT + 02: 00) Athens, Jerusalem, Istanbul
+__TAG__Sys_TmZome18	(GMT + 03: 00) Moscow, St.Peterburg, Kuwait
+__TAG__Sys_TmZome19	(GMT + 03: 30) Teheran
+__TAG__Sys_TmZome20	(GMT + 04: 00)
+__TAG__Sys_TmZome21	(GMT + 04: 30) Kabul
+__TAG__Sys_TmZome22	(GMT + 05: 00) Hồi giáo, Pakistan, Tashkent
+__TAG__Sys_TmZome23	(GMT + 05: 30) Madras, Mumbai, New Delhi
+__TAG__Sys_TmZome24	(GMT + 05: 45) Katlahoma
+__TAG__Sys_TmZome25	(GMT + 06: 00) Alma-Ata, Novosibirsk, Dacca
+__TAG__Sys_TmZome26	(GMT + 06: 30) Rangoon
+__TAG__Sys_TmZome27	(GMT + 07: 00) Bangkok, Hà Nội, Djakarta
+__TAG__Sys_TmZome28	(GMT + 08: 00) Bắc Kinh, Urumchi, Singapore
+__TAG__Sys_TmZome29	(GMT + 09: 00) Seoul, Tokyo, Osaka, sapporo
+__TAG__Sys_TmZome30	(GMT + 09: 30) Thành phố Adelaide, Darwin
+__TAG__Sys_TmZome31	(GMT + 10: 00) Melbourne, Sydney, Canberra
+__TAG__Sys_TmZome32	(GMT + 11: 00) Quần đảo Solomon
+__TAG__Sys_TmZome33	(GMT + 12: 00) Auckland, Wellington, Fiji, Magadan
+__TAG__Sys_TmZome34	(GMT + 13: 00) Nukualofa
+__TAG__Sys_TmZome35	(GMT + 14: 00) Kiribati, Quần đảo Line
+	
+__TAG__Net_RTSPPort	Cổng RTSP
+__TAG__Net_RTSPMsg1	kênh: kênh, 1 đến N; luồng: Loại luồng, Luồng chính 1, Luồng phụ 2, luồng thứ ba 3.
+__TAG__Net_RTSPMsg2	Mẫu: rtsp: // admin: admin@192.168.1.3: 554/1/1
+__TAG__Sys_DiskSpace	%s /%s (Công suất cân bằng / Tổng công suất)
+__TAG__Main_Ad_InputType	Kiểu đầu vào âm thanh
+__TAG__Main_Extern_VolResource	Nguồn âm thanh ngoài
+__TAG__Main_Inter_Clouder	Loa tích hợp
+	
+__TAG__Disk_BadBlock_Test	Phát hiện theo dõi xấu
+__TAG__Disk_BadBlock_Test_Full	Phát hiện hoàn tất
+__TAG__Disk_BadBlock_Test_Area	Phát hiện khu vực chính
+__TAG__Disk_BadBlock_Test_Msg1	Phát hiện
+__TAG__Disk_BadBlock_Test_Msg2	Điều kiện tốt
+__TAG__Disk_BadBlock_Test_Msg3	Hư hại
+__TAG__Disk_BadBlock_Test_Msg4	Cái khiên
+__TAG__Disk_BadBlock_Test_Msg5	Sơ yếu lý lịch
+__TAG__Disk_BadBlock_Test_Msg6	Công suất đơn vị
+__TAG__Disk_BadBlock_Test_Msg7	Dung lượng đĩa cứng
+__TAG__Disk_BadBlock_Test_Msg8	Số lỗi
+__TAG__Disk_BadBlock_Test_Msg9	thông tin lỗi
+__TAG__Disk_BadBlock_Test_Msg10	kiểm tra
+__TAG__Disk_BadBlock_Test_Msg11	không được phát hiện
+__TAG__Disk_BadBlock_Test_Msg12	Kết thúc
+__TAG__Disk_BadBlock_Test_Msg13	Tạm dừng
+__TAG__Disk_BadBlock_Test_Msg14	vùng đĩa cứng với các thành phần xấu
+__TAG__Disk_BadBlock_Test_Msg15	hủy bỏ
+__TAG__Vca_Similar	sự giống nhau
+__TAG__Vca_Backup_Image	Sao lưu hình ảnh
+__TAG__Vca_Backup_Video	Sao lưu ghi hình
+__TAG__Vca_Backup_All	Tất cả sao lưu
+__TAG__VideoSet_Norm_Snap	Ảnh chụp nhanh
+__TAG__VideoSet_Alm_Snap	Chụp báo động
+	
+__TAG__Main_Chn_MainRTSP_URL	URL luồng chính
+__TAG__Main_Chn_RTSP_URL	URL luồng phụ
+__TAG__Main_Alm_AlmIn_Name	Nhập bí danh
+__TAG__Main_Alm_AlmOut_Name	Bí danh đầu ra
+__TAG__Main_ReworkIp_Msg1	Tên người dùng và mã không thể rỗng
+__TAG__Play_LockFile	Khóa tập tin
+__TAG__Play_FileMan	Quản lý tập tin
+	
+__TAG__Main_Update_Files	Nâng cấp danh sách tập tin
+	
+__TAG__Sys_ChannelState	Trạng thái kênh
+__TAG__Sys_VedioState	Trạng thái ghi
+__TAG__Sys_AlarmState	Trạng thái cảnh báo
+__TAG__Sys_DiskState	Tình trạng đĩa
+__TAG__Sys_CompressCnf	Trạng thái nén
+__TAG__Chn_ChnSetxls	Nhập / xuất cấu hình
+__TAG__Sys_ActVideoChn	Kênh ghi âm
+__TAG__CodeProtect_MSG7	mã mới là null, nó sẽ không có mã đăng nhập!
+__TAG__Sys_GeneralSet_Manage	Quản lý kế hoạch
+__TAG__Sys_Manage_Name	Tên kế hoạch
+__TAG__Sys_Manage_Matter	Thông tin kế hoạch
+
+__TAG__Sys_Manage_name	Tên là null, vui lòng nhập tên
+__TAG__Sys_Manage_matter	Nội dung là null, vui lòng nhập nội dung
+__TAG__Main_Sys_In_Out	Nhập khẩu/xuất khẩu
+__TAG__VCA_BW_PlateList	Danh sách đen trắng của biển số xe
+__TAG__Main_In_Out_Path	Nhập / xuất sang
+__TAG__Main_BW_List_In_Out	Nhập / xuất danh sách đen trắng
+__TAG__VCA_PlateList_Enable	Cho phép danh sách đen trắng
+	
+__TAG__VCA__LinkFollow	Liên kết để theo dõi
+__TAG__Main_Vca_MaxFollowTime	Tối đa thời gian theo dõi
+__TAG__Main_Vca_BallDevHeight	Chiều cao của PTZ (m)
+__TAG__Main_Vca_DesStopTime	thời gian theo dõi nghiêm ngặt
+__TAG__Main_Vca_AstLocat	giới hạn
+__TAG__Main_Vca_Up_AstLocat	Giới hạn trên
+__TAG__Main_Vca_Down_AstLocat	Giới hạn dưới
+__TAG__Main_Vca_Left_AstLocat	Giới hạn trái
+__TAG__Main_Vca_Right_AstLocat	Giới hạn phải
+__TAG__Main_Vca_Start_AstLocat	Kích hoạt giới hạn
+__TAG__Main_Vca_Start_RepelCover	Mở chống chặn
+	
+__TAG__Sys_NetStaMsg1	Kích hoạt PPPOE hay không
+__TAG__Sys_NetStaMsg2	Địa chỉ IP PPPOE
+__TAG__Sys_NetStaMsg3	Mặt nạ mạng con PPPOE
+__TAG__Sys_NetStaMsg4	Cổng mặc định PPPOE
+__TAG__Sys_NetStaMsg5	Trạng thái kết nối PPPOE
+__TAG__Sys_NetStaMsg6	Thông tin mạng
+	
+__TAG__VCA__BehaviorSearch	Truy tìm hành vi
+__TAG__VCA__BehaviorType	loại hành vi
+	
+__TAG__Mobile_QQweb	QQ Internet of Things
+__TAG__Main_MobileTips4	1. Vui lòng xác nhận thiết bị có thể được kết nối với Internet thành công
+__TAG__Main_MobileTips5	2. Vui lòng sử dụng QQ của phiên bản điện thoại di động để quét mã vạch 2D trên và hoạt động theo lời khuyên trong điện thoại di động
+__TAG__Main_Video_SnapInterval	Khoảng
+__TAG__Main_Always_White	Luôn luôn
+	
+__TAG__VCA__Config	Cấu hình thông minh
+	
+__TAG__LINKTALK__Msg	Thoát khỏi màn hình chính và ngừng gọi!
+__TAG__Main_Disk_SMART_ERR	Bất thường được tìm thấy trong đĩa
+	
+__TAG__VCA__PanorFollow	Theo dõi toàn cảnh
+__TAG__Main_DevLock	Thiết bị bị khóa
+__TAG__Main_LockTmCntDown	Thời gian bị khóa còn lại %d:%.2d
+	
+__TAG__Main_Sys_MoveDev_Insert	Thiết bị di động có thể được phát hiện
+__TAG__LINKTALK__Stop	Có nên đóng loa %s không?
+__TAG__BackUp_NoFile	Không có tệp sao lưu có sẵn
+__TAG__Main_Sys_Video_Its	Video lưỡi lê
+	
+__TAG__Main_MD_Alm	Có một báo động phát hiện chuyển động
+__TAG__Main_VLost_Alm	Có một báo động về mất video
+__TAG__Main_Port_Alm	Có một báo động về cổng
+__TAG__Main_VShelter_Alm	Có một báo động về tắc video
+__TAG__Main_Vca_Alm	Có một báo động về phân tích thông minh
+__TAG__Main_Its_Alm	Có báo động lưỡi lê
+__TAG__Main_ChkAll_Chan	Chọn tất cả các kênh trong trang này
+	
+__TAG__Video_SubStreamRec	Số lượng bản ghi tối đa là %d!
+__TAG__VCA__AlPark	Đậu xe bất hợp pháp
+__TAG__VCA__AlPark_AreaName	Tên khu vực cấm đỗ xe
+__TAG__VCA__AlPark_Time	Không có thời gian đậu xe
+__TAG__VCA__AlPark_Time1	(1-7200s)
+__TAG__VCA__AlPark_Time2	Giá trị thời gian đỗ xe bị cấm cần từ 1 đến 7200
+	
+__TAG__SnapSet_Intv_Hour	Giá trị thời gian khoảng cần từ 1 đến 2 giờ!
+__TAG__SnapSet_Intv_Minute	Giá trị thời gian khoảng cần từ 1 đến 166!
+__TAG__SnapSet_Intv_Second	Giá trị thời gian giữa 5 và 9999!
+	
+__TAG__Main_Camera_Colour	Màu sắc
+__TAG__Main_Camera_Mosaic	Khảm
+	
+__TAG__Main_ReworkIp_Succeed	Sửa đổi IP thành công
+__TAG__Main_ReworkIp_Fail	Sửa đổi IP không thành công
+	
+__TAG__Main_Sys_PortMap	Cổng ánh xạ
+__TAG__Main_Sys_MapType	Kiểu ánh xạ
+__TAG__Main_Sys_PortType	Loại cổng
+__TAG__Main_Sys_OutSidePort	Cổng ngoài
+__TAG__Main_Sys_OutSideIP	Địa chỉ IP bên ngoài
+__TAG__Main_Sys_UPNPState	Trạng thái UPNP
+__TAG__Main_Sys_ServPort	Cổng máy chủ
+__TAG__Main_Sys_HTTPS	Cổng HTTPS
+__TAG__Main_Sys_OutPortCfg	Cấu hình cổng ngoài
+__TAG__Main_Sys_PortEffect	Có hiệu lực
+__TAG__Main_Sys_PortNotEffect	Không có tác dụng
+	
+__TAG__Main_Sys_PortIllegal	số cổng ngoài phạm vi %d-%d!
+__TAG__Main_Sys_PortRepeat	số cổng bên ngoài không thể giống nhau!
+	
+__TAG__Main_Backup_MaxFile	Số lượng tệp tùy chọn tối đa là %d!
+	
+__TAG__Main_Sys_Mtu	MTU (byte)
+__TAG__Main_Net_Mtu_Msg	Phạm vi của các giá trị hiệu quả của MTU (byte) là %d-%d, xin vui lòng thiết lập lại nó!
+	
+__TAG__Main_Sys_PassWord	Mật khẩu người dùng không hợp lệ!
+__TAG__Main_Sys_PassWordLevel	Hãy tạo ra 8-15 mật khẩu chữ số với hai hoặc nhiều kết hợp số, chữ thường, chữ hoa.
+	
+__TAG__Main_Sys_AddHint	Chức năng "Thêm nhanh" có thể tự động tìm kiếm và sử dụng mật khẩu NVR để kích hoạt IPC, sau đó thêm IPC vào kênh nhàn rỗi!
+__TAG__Main_Sys_UpdateHint	Quá trình nâng cấp cần 1-10 phút, vui lòng không cắt điện và mạng; Thiết bị sẽ khởi động lại sau khi nâng cấp.
+__TAG__VCA_LinkLoc	Kích hoạt
+__TAG__VCA_LinkIpc	Kích hoạt Camera
+	
+__TAG__Main_Sys_Address	ID máy chủ
+__TAG__Main_Sys_Account	Tên tài khoản
+__TAG__Main_Sys_Register	Thời gian đăng ký
+__TAG__Main_Sys_RegisterHint	Phạm vi của quy tắc là 1-2000000000!
+__TAG__Main_Sys_Heart	Nhịp tim
+__TAG__Main_Sys_ID	ID thiết bị
+__TAG__Main_Sys_HeartTime	Nhịp tim
+__TAG__Main_Sys_fill	Bộ điền tự động
+__TAG__Main_Sys_ChnChoose	Chọn kênh
+__TAG__Main_Sys_ChnNum	kênh ID
+__TAG__Main_Alm_InNum	Số đầu vào báo động
+__TAG__VCA_HeatMap	Sơ đồ nhiệt
+__TAG__VCA_SpaceHeatMap	Không gian nhiệt
+__TAG__VCA_TimeHeatMap	Thời gian nhiệt
+__TAG__VCA_HeatMapValue	Giá trị nhiệt
+__TAG__VCA_HeatMapSec	thứ hai
+__TAG__VCA_HeatMapMin	phút
+__TAG__VCA_HeatMapHour	giờ
+__TAG__VCA_HeatMapDay	ngày
+__TAG__VCA_HeatMapExample	Truyền thuyết mật độ không gian:
+__TAG__VCA_AlertTemplate_Set	Cấu hình cảnh báo sớm
+__TAG__VCA_Template_Plan	Kế hoạch
+__TAG__VCA_Alert_Plan1	Ánh sáng trắng + Giọng cảnh báo (một lần)
+__TAG__VCA_Alert_Plan2	Laser + Cảnh báo bằng giọng nói (tuần tự)
+__TAG__VCA_Alert_Plan3	Laser + Đường trắng + Giọng cảnh báo (tuần tự)
+__TAG__VCA_Alert_Plan4	Ánh sáng trắng + Giọng cảnh báo (tuần tự)
+__TAG__VCA_Alert_Plan5	Giọng nói cảnh báo (một lần)
+__TAG__VCA_Alert_Plan6	Giọng nói cảnh báo (tuần tự)
+__TAG__VCA_Alert_Plan7	Cảnh báo đa cấp độ
+__TAG__VCA_AlertMode	Chế độ cảnh báo
+__TAG__VCA_AlertMode_Violate	Sự vi phạm
+__TAG__VCA_AlertMode_EarlyWarn	Cảnh báo trước
+__TAG__VCA_AlertMode_DefPara	Thông số tùy chỉnh
+__TAG__VCA_Alert_Rank	Mức cảnh báo
+__TAG__VCA_Alert_Rank1	Lớp I
+__TAG__VCA_Alert_Rank2	Cấp II
+__TAG__VCA_Alert_Rank3	Cấp III
+__TAG__VCA_Alert_WiteLight1	Nhấp nháy %d thời gian
+__TAG__VCA_Alert_WiteLight2	Nhấp nháy
+	
+__TAG__VideoSet_Double_Stream	Luồng kép
+	
+__TAG__VCA_ParkGuard	Bảo vệ bãi đậu xe
+__TAG__VCA_ParkGuard_WhiteList	Danh sách trắng của biển số xe
+__TAG__VCA_ParkGuard_Time	Không có thời gian đỗ xe
+	
+__TAG__Main_VP_Summary	Tập trung video
+__TAG__Main_VP_NoResult	Không có kết quả tìm kiếm!
+	
+__TAG__Main_Chn_Addition	Thêm nhanh
+__TAG__VCA_Time_UnLimitBig	vô cực
+__TAG__VCA_Alert_Rule	Quy tắc
+__TAG__NetCard_MultipleMode	Nhiều chế độ truy cập
+__TAG__Main_Sys_NetCardNum	Số card mạng
+__TAG__Net_Interface	Card mạng
+__TAG__Main_Sys_UpdateHit	Thiết bị đang nâng cấp, vui lòng không cắt điện; Thiết bị sẽ tự khởi động lại sau khi nâng cấp.
+	
+__TAG__Vca__Alert_Sound1	Cảnh báo
+	
+__TAG__Vca_WhiteList_In_Out	Xuất nhập khẩu danh sách trắng
+__TAG__Main_Vlay_Locked	Video đã bị khóa
+__TAG__Main_Import_Fail	Nội dung hoặc định dạng nhập không hợp lệ
+__TAG__VCA_Alert_Time_Msg	Thời gian lưu phải là một số nguyên trong khoảng từ 5 đến 60!
+	
+__TAG__VCA__LimitTime_Msg	Cần có giá trị giữa %d và %d!
+	
+__TAG__Main_VideoSetting_ExBox	Tủ mở rộng
+__TAG__HDMI1_VGA_Cognate_Enable	Kích hoạt tính tương đồng HDMI1 / VGA
+__TAG__Main_Interface_Err	Bất thường của bảng giao diện
+__TAG__Sys_GeneralSet_OtherErr	Những bất thường khác
+	
+__TAG__Sys_CPU_Used	Tốc độ sử dụng CPU
+__TAG__Sys_MEM_Used	Tốc độ sử dụng của bộ nhớ
+__TAG__Sys_Fan_Rate	Tốc độ quay của quạt
+__TAG__Sys_CPU_Temp	Nhiệt độ CPU
+__TAG__Sys_SerBord_Temp	Bảng nhiệt độ của các hoạt động
+	
+__TAG__Sys_BackDisk_Small	Dung lượng của đĩa dự phòng nóng nhỏ hơn so với mảng đĩa. Vui lòng chọn lại.
+__TAG__Sys_BackDisk_Small0	Dung lượng của tinh ranh được chọn nhỏ hơn so với mảng đĩa. Vui lòng chọn lại.
+	
+__TAG__Main_Disk_Tem_ERR	Nhiệt độ bất thường của đĩa
+__TAG__Main_Sys_RTMP	Cổng RTMP
+__TAG__Vca_WhiteList_Repeat	Có một biển số xe trùng lặp trong danh sách biển số trắng. Vui lòng nhập lại!
+__TAG__Main_Sys_Year	Mỗi năm
+__TAG__Main_Sys_Mon	Mỗi tháng
+__TAG__Main_Sys_Week	Mỗi tuần
+__TAG__Main_Sys_Day	Hằng ngày
+__TAG__Main_Video_Indx4	Việc xây dựng lại một chỉ mục có thể mất một thời gian, bạn có chắc chắn sẽ tiếp tục?
+__TAG__VCA_ExposureLight	Cường độ tiếp xúc với khuôn mặt
+__TAG__VCA_Set_MinFaceSize	Đặt kích thước khuôn mặt tối thiểu
+__TAG__VCA_PushMapMode	Chiến lược đẩy hình ảnh
+__TAG__VCA_PushMapMode1	Nhanh nhất
+__TAG__VCA_PushMapMode2	Tốt
+__TAG__VCA_SnapMode_Full	Chế độ chụp đầy đủ
+__TAG__VCA_SnapMode_HighQua	Chế độ chất lượng cao
+__TAG__VCA_SnapCnt	Thời gian chụp
+__TAG__VCA_MulQuality	Chất lượng tổng thể
+__TAG__VCA_PushMap_Leave1	Nhanh
+__TAG__VCA_PushMap_Leave2	Chậm
+	
+__TAG__VCA__FaceCount	Thống kê khuôn mặt
+__TAG__VCA_PieMap	Biểu đồ tròn
+__TAG__VCA_LineMap	Biểu đồ đường gãy
+__TAG__VCA_PostMap	Biểu đồ cột
+__TAG__VCA_FaceCnt_Type	Loại thống kê
+__TAG__VCA_FaceCnt_Age	Tuổi tác
+__TAG__VCA_FaceCnt_Age1	Vị thành niên
+__TAG__VCA_FaceCnt_Age2	Thiếu niên
+__TAG__VCA_FaceCnt_Age3	Trung niên
+__TAG__VCA_FaceCnt_Age4	Người già
+__TAG__VCA_FaceCnt_Sex	Giới tính
+__TAG__VCA_FaceCnt_Sex1	Nam giới
+__TAG__VCA_FaceCnt_Sex2	Giống cái
+__TAG__VCA_FaceCnt_People	Số người
+__TAG__VCA_FaceCnt_Nation	Nhóm dân tộc
+__TAG__VCA_FaceCnt_Nation1	Hán
+__TAG__VCA_FaceCnt_Nation2	Dân tộc thiểu số
+__TAG__VCA_Face_Exposure	Tiếp xúc với khuôn mặt
+__TAG__VCA_Face_ROI	ROI mặt
+__TAG__VCA_ShowRule	Hiển thị các quy tắc cảnh báo.
+__TAG__VCA_User_Define	Đã xác định người dùng
+__TAG__VCA_Time_Minute	Tối thiểu
+__TAG__VCA_Exposure_Time	Thời lượng
+__TAG__VCA_Time_Commit	Giá trị từ %d đến %d%s
+__TAG__VCA_Time_Commit1	Ít hơn %d giờ
+__TAG__VCA_Time_Commit2	0 không được phép
+__TAG__VCA_FaceCnt_Sex3	Không xác định
+__TAG__VCA_PicStream_Accept	Chấp nhận hình ảnh
+	
+__TAG__Main_Snamp_Tm1	Thời điểm 1
+__TAG__Main_Snamp_Tm2	Thời điểm 2
+__TAG__Main_Snamp_Tm3	Thời điểm 3
+__TAG__Main_Snamp_Tm4	Thời điểm 4
+__TAG__VCA_Show_MinFaceSize	Hiển thị kích thước khuôn mặt tối thiểu
+__TAG__Dev_Active	Đã kích hoạt
+__TAG__Dev_unActive_Point	Đối với IPC không được kích hoạt, mật khẩu NVR sẽ được sử dụng để kích hoạt.
+__TAG__Dev_unActive_Hint	Đối với IPC không được kích hoạt, mật khẩu NVR sẽ được sử dụng để kích hoạt và thêm.
+__TAG__Main_NVR_Activate	Kích hoạt thiết bị
+__TAG__Main_SET_Password	Đặt mật khẩu
+__TAG__Main_SET_GraphPassword	Mật khẩu đồ họa
+__TAG__USER_Activate_Jump	Nhảy
+__TAG__USER_NotNull	Không có đầu vào null!
+__TAG__Main_BroadCast_Video	Nhập giọng nói phát sóng
+__TAG__Main_Start_BroadCast	Bắt đầu phát sóng
+__TAG__Main_Stop_BroadCast	Dừng phát sóng
+__TAG__Main_sys_Net_Search	Bắt đầu mạng nội bộ để tìm kiếm
+	
+__TAG__Vca_SetFace_Point	Vui lòng đặt kích thước khuôn mặt tối thiểu
+__TAG__Main_Pic_Point	pixel
+__TAG__Main_Sys_Test_Ing	thử nghiệm ...
+__TAG__Main_Nvr_Err	Thiết bị có thể xuất hiện bất thường, hãy thử khởi động lại
+__TAG__Main_NONE_ALARM	Thông báo cảnh báo
+__TAG__Main_SysMaint	Cổng quang
+__TAG__sys_Custom_Add	Bảo trì hệ thống
+__TAG__sys_Video_Guide	Lưuý: Nhấp vào tùy chọn ở bên phải và bắt đầu rút ra thời gian vũ trang liên quan.
+__TAG__Sys_Abnormal_Manage	Thêm tùy chỉnh	
+__TAG__sysMint_Auto_Preserve	Quản lý lỗi
+__TAG__Net_InterfaceEx	Bảo trì tự động
+__TAG__Main_NetCheck_Msg	IP và GateWay phải nằm trong cùng một phân khúc mạng.
+__TAG__Main_Gpu_Restart	Hình ảnh bất thường, đang hồi phục ...
+__TAG__Sys_Mobel_ID	TÔI
+__TAG__User_Login_On	Đăng nhập
+__TAG__Camera_Common_Setting	Cài đặt thông thường
+__TAG__Main_Alm_Out_Port	Cổng báo động
+	
+__TAG__VCA_Helmet	Phát hiện mũ bảo hiểm an toàn
+__TAG__VCA_Helmet_Monitor	Khu vực giám sát
+__TAG__VCA_Helmet_Monitor1	Cổng ra
+__TAG__VCA_Helmet_Monitor2	Khu vực xây dựng
+__TAG__VCA_Helmet_Detection	Phát hiện màu mũ bảo hiểm an toàn.
+__TAG__VCA_Helmet_Target	Đánh dấu mục tiêu
+__TAG__Sys_Cloud_Update	Cập nhật đám mây
+__TAG__Sys_Cloud_CurVersion	Phiên bản hiện tại
+__TAG__Sys_Cloud_NewVersion	Phiên bản mới nhất
+__TAG__Sys_Cloud_Date	Ngày phát hành
+__TAG__Sys_Cloud_New	Đây là phiên bản mới nhất.
+__TAG__Sys_Hand_Check	Dò tìm thủ công
+__TAG__Main_Sys_DownLoadHit	Quá trình tải xuống sẽ mất 1 ~ 10 phút, vui lòng đảm bảo internet luôn được kết nối. Thiết bị sẽ tự động cập nhật sau khi tải xuống các tập tin.
+__TAG__Sys_Cloud_Down	Đang tải xuống
+__TAG__Main_Sys_DownLoadErr	Không thể tải xuống, vui lòng thử lại.
+__TAG__Main_Sys_DownLoadHint	Thiết bị đang tải xuống, vui lòng đảm bảo internet luôn được kết nối. Thiết bị sẽ tự động cập nhật sau khi tải xuống các tập tin.
+__TAG__Main_Sys_Downing	Hệ thống đang tải xuống, vui lòng đợi
+__TAG__Left_Total_Quota	Hạn ngạch còn lại / Tổng hạn ngạch
+__TAG__Main_Mobile_App	Ứng dụng
+__TAG__Main_Sys_SplusHint	Nén, Chất lượng video, tốc độ khung hình I và ROI sẽ bị tắt sau khi bật S+.
+__TAG__VCA_Helmet_Search	Tìm kiếm mũ bảo hiểm.
+__TAG__Main_SnapPic_Cnt	Số lượng ảnh chụp
+	
+__TAG__Reserve_Phone	Số điện thoại di động dành riêng
+__TAG__Reserve_Email	Email dành riêng
+__TAG__Reserve_Phone_Msg1	(Để đặt lại mật khẩu)
+__TAG__Reserve_Phone_Msg2	Mã bảo mật sẽ được gửi đến điện thoại di động của bạn sau khi quét mã QR.
+__TAG__Reserve_Phone_Msg3	Vui lòng nhập mã bảo mật.
+__TAG__Reserve_Phone_Msg4	Lưu ý (Chỉ dành cho người dùng quản trị):
+__TAG__Reserve_Phone_Msg5	1 Quan tâm đến số công khai WeChat "Kênh phân phối Tiandy"
+__TAG__Reserve_Phone_Msg6	Chuyển đến "Dịch vụ của tôi" - "Đặt lại mật khẩu" để quét mã QR ở bên trái.
+__TAG__Password_Ques_Msg1	Vui lòng đặt câu hỏi bảo mật để truy tìm lại mật khẩu người dùng (quản trị viên).
+__TAG__Reset_PassWord	Đặt lại mật khẩu
+__TAG__Reset_PassWord_Lab	Đặt lại mật khẩu (người dùng quản trị)
+__TAG_Set_SecureCode_Msg	Lỗi mã bảo mật hoặc không hợp lệ.
+__TAG_Wrong_Number_Msg	Định dạng số điện thoại di động sai, xin vui lòng nhập lại.
+__TAG__Reserve_Email_Msg1	1. Vui lòng đăng nhập trang web %s, chỉnh sửa nội dung và gửi.
+__TAG__Reserve_Email_Msg2	2. Thao tác xong, mã bảo mật sẽ được gửi đến mail của bạn.
+__TAG__Sync_Phone_Msg	Bạn có muốn đồng bộ hóa mật khẩu để nhận thông tin dành riêng cho camera Ip được kết nối không?	
+__TAG__Vca_Event_Select	Chọn sự kiện
+__TAG__Vca_Event_Type	Loại sự kiện	
+__TAG__Camera_Img_Setting	Hiệu chỉnh hình ảnh	
+__TAG__Camera_Exp_Setting	Cài đặt phơi sáng	
+__TAG__Camera_BackLight_Setting	Cài đặt đèn nền	
+__TAG__Camera_Advanced_Setting	Tăng cường hình ảnh	
+__TAG__Sync_Phone_Msg1	Đồng bộ hóa mật khẩu để có được thông tin dành riêng.
+__TAG__Reserve_Phone_Number	Số điện thoại di động dành riêng
+__TAG__VCA_REPORT_Export	Sao lưu truy xuất thông minh
+__TAG__VideoSata_Lab1	Khi thiết bị không quay video, vui lòng kiểm tra:
+__TAG__VideoSata_Lab2	1. Mẫu video có được đặt chính xác không.
+__TAG__VideoSata_Lab3	2. Liệu chính sách hồ sơ được đặt chính xác.
+__TAG__VideoSata_Lab4	3. Cho dù nhóm đĩa hoặc cấu hình được đặt chính xác.
+__TAG__VideoSata_Lab5	4. Tình trạng đĩa có tốt không.
+__TAG__Dev_Deal_With	Đang xử lý
+__TAG__Dev_Deal_Later	Xử lý sau
+__TAG__Dev_Abnormal_Notice1	Thông báo bất thường
+__TAG__Dev_Abnormal_Notice2	Hãy xử lý kịp thời. Nếu không, có nguy cơ mất băng video.	
+__TAG__Camera_Splus_Err	Các chức năng sau sẽ bị tắt khi bắt đầu phân tích thông minh: S +, tiếp tục hay không?	
+__TAG__Vca_Eanble_Err	Các chức năng sau sẽ bị tắt khi bắt đầu S +: phân tích thông minh, tiếp tục hay không?
+__TAG__Pse_NetLan_Msg	Hướng dẫn: chọn hộp kiểm của kênh tương ứng để sử dụng cáp mạng đường dài, trong khi bỏ chọn nó để sử dụng cáp mạng khoảng cách ngắn!
+	
+__TAG__Main_VideoPlay_Hint1	Định dạng tệp không được hỗ trợ
+__TAG__Main_VideoPlay_Hint2	Độ phân giải video không được hỗ trợ
+__TAG__Sys_Cloud_Updatehint	Sau khi nâng cấp, hệ thống sẽ tự động khởi động lại, tiếp tục?
+	
+__TAG__Main_inquest_Clr31	Chi tiết
+__TAG__Main_inquest_Clr69	Địa chỉ nhà
+__TAG__Main_inquest_Clr70	Địa phương
+__TAG__Main_inquest_Clr71	Mạng
+__TAG__Main_End_Clr1	Chấm dứt
+__TAG__Main_BACKUP_STATE1	Đang sao lưu
+	
+__TAG__Main_BACKUP_TODAY	Hôm nay
+__TAG__Main_BACKUP_YESTERDAY	Hôm qua
+__TAG__Main_BACKUP_TWODAY	Hai ngày qua
+__TAG__Main_BACKUP_THREEDAY	Ba ngày qua
+__TAG__Main_BACKUP_ONEWEEK	Tuần mới nhất
+__TAG__Main_BACKUP_TWOWEEK	Hai tuần qua
+__TAG__CLR_ALL_AREA	Xóa tất cả các khu vực
+__TAG__Main_App_Hint1	Ngắt kết nối (thiết bị không được kết nối với máy chủ)
+__TAG__Main_App_Hint2	Ngắt kết nối (thiết bị đầu cuối của khách hàng không được kết nối)
+__TAG__Main_App_Hint3	Ngắt kết nối (thiết bị không được kết nối với mạng công cộng)
+__TAG__Main_Continue_Add	Tiếp tục thêm
+__TAG__Main_Camera_Splus	Kích hoạt S + (truy cập đầu tiên là hợp lệ)
+__TAG__Main_Sys_Msg18	Phiên bản phần cứng
+__TAG__Main_Sys_UsbUpdate	Nâng cấp USB
+__TAG__Main_Camera_RefreshHint	Đang cập nhật, vui lòng đợi ...
+__TAG__Main_Pic_Style	Kiểu ảnh
+__TAG__Main_Pic_Nature	Tự nhiên
+__TAG__Main_Pic_brightness	Sáng hơn
+__TAG__Main_Pic_Scene	Trong nhà/ ngoài trời
+__TAG__Main_RECORD_NORMAL	Đều đặn
+__TAG__Main_CUSTOM_SEARCH	Tìm kiếm tuỳ chỉnh
+__TAG__Main_Except_Alm	Báo động bất thường
+__TAG__Main_Norm_Alm	Báo động bình thường
+__TAG__Main_Lock_Taskbar	Khóa thanh tác vụ
+__TAG__Main_Unlock_Taskbar	Thanh tác vụ ẩn
+__TAG__Main_Alert_IPC	Cấu hình mặt trước
+__TAG__Main_Alert_NVR	Cấu hình cục bộ
+__TAG__Main_Alert_Enable	Bật cảnh báo
+__TAG__Main_Alert_Scne	Bối cảnh
+__TAG__Main_Alert_ScneTIme	Thời gian đi tuần cảnh
+__TAG__Main_Alert_Type	Loại
+__TAG__Main_Alert_Type1	Chu vi (EW)
+__TAG__Main_Alert_Type2	Kẻ vạch(EW)
+__TAG__Main_Alert_Mode	Lịch trình
+__TAG__Main_Alert_Mode1	Kế hoạch sắp xếp trước
+__TAG__Main_Alert_Mode2	Đã xác định người dùng
+__TAG__Main_Alert_Mode3	Ảnh chụp và liên kết với ánh sáng trắng
+__TAG__Main_Alert_Mode4	Ảnh chụp và liên kết với ánh sáng trắng và âm thanh cảnh báo duy nhất
+__TAG__Main_Alert_Mode5	Ảnh chụp và liên kết với laser, ánh sáng trắng và âm thanh cảnh báo tái chế
+__TAG__Main_Alert_Mode6	Ảnh chụp và liên kết với âm thanh và ánh sáng nhiều giai đoạn bùng nổ
+__TAG__Main_Alert_Mode7	Ảnh chụp và liên kết với âm thanh và ánh sáng nhiều giai đoạn
+__TAG__Main_Alert_LinkSet	Cài đặt liên kết
+__TAG__Main_Alert_Para	Tham số nâng cao
+__TAG__Main_Alert_WeekSet	Cài đặt tuần
+__TAG__Main_Alert_Para1	Thời gian duy trì cuộc xâm nhập
+__TAG__Main_Alert_Para2	Mục tiêu cảnh báo kích hoạt
+__TAG__Main_Alert_Para3	Nhập thời gian cảnh báo cấp thấp hơn
+__TAG__Main_Alert_Link1	Liên kết chung
+__TAG__Main_Alert_Grade1	Cảnh báo sớm cấp độ đầu tiên
+__TAG__Main_Alert_Grade2	Cảnh báo sớm cấp độ hai
+__TAG__Main_Alert_Grade3	Cảnh báo sớm cấp ba
+__TAG__Main_Custom_Hint	Vui lòng thực hiện tìm kiếm tùy chỉnh trước
+__TAG__Main_Sys_Update_Err2	Lỗi nâng cấp hệ thống
+__TAG__Main_Sys_Update_Err3	Nâng cấp gói truyền thành công
+__TAG__Main_Sys_Update_Err4	Lỗi loại chip
+__TAG__Main_Sys_Update_Err5	Lỗi số phiên bản chính
+__TAG__Main_Sys_Update_Err6	Lỗi số phiên bản nhỏ
+__TAG__Main_Sys_Update_Err7	Kiểm tra lỗi
+__TAG__Main_Sys_Update_Err8	Lưu lỗi gói tạm thời
+__TAG__Main_Sys_Update_Err9	Lỗi cập nhật dữ liệu
+__TAG__Main_Sys_Update_Err10	Lỗi số phiên bản nhỏ
+__TAG__Main_Sys_Update_Err11	Tập tin nâng cấp không đầy đủ
+	
+__TAG__Main_Chn_Fish_Method	Phương pháp cài đặt
+__TAG__Main_Chn_Fish_Ceiling	Gắn trên cùng
+__TAG__Main_Chn_Fish_Floor	Máy tính để bàn
+__TAG__Main_Chn_Fish_Wall	Treo tường
+__TAG__Main_Sys_Update_Hint	Hệ thống liên lạc sẽ được đóng lại trong quá trình nâng cấp. Sau khi hoàn thành nâng cấp, IPC sẽ tự động khởi động lại. Tiếp tục?
+__TAG__Main_DownLoad_Err_Hint	Tải xuống thất bại, vui lòng kết nối đĩa cứng và thử lại
+__TAG__MAIN_FISH_HINT	Mắt cá
+__TAG__MAIN_FISH_HINT1	Chế độ xem toàn cảnh 180 °
+__TAG__MAIN_FISH_HINT2	Chế độ xem toàn cảnh 360 °
+__TAG__MAIN_FISH_HINT3	Mở rộng PTZ
+__TAG__MAIN_FISH_HINT4	Mở rộng xuyên tâm
+__TAG__MAIN_FISH_HINT5	Chỉnh sửa mắt cá
+__TAG__Main_Vca_Linee1	Xâm nhập chu vi
+__TAG__Main_Vca_Linee2	Rời khỏi khu vực
+__TAG__Nain_Sys_Picture	Hình ảnh
+__TAG__Main_Alert_Set	Quản lý cảnh báo
+	
+__TAG__Main_SceneTime_Err	Cảnh báo hành trình xung đột thời gian, bao gồm thời gian hành trình của các cảnh báo khác?
+	
+__TAG__Common_Link_Tm	Thời gian triển khai
+	
+__TAG__MAIN_EXCLUDE_HINT	Mở %s sẽ dừng các chức năng sau: %s, tiếp tục hay không?
+	
+__TAG__MAIN_ALERT_LASER	Cảnh báo laser
+__TAG__MAIN_ALERT_STRONGLIGHT	Cảnh báo ánh sáng mạnh
+	
+	
+__TAG__MAIN_ALERT_SOUND	Cảnh báo âm thanh
+__TAG__VCA_CLEAN_RULE	Xóa quy tắc
+__TAG__MAIN_ALERT_LASER1	Laser
+__TAG__MAIN_ALERT_LASER2	Ánh sáng trắng
+__TAG__GUIDE_AUTO_DNS	Nhận DNS tự động
+__TAG__Main_Vca_Helmet	Không mặc
+__TAG__Main_Alert_Mode8	Chụp và liên kết với nhấp nháy trắng và cảnh báo xoay vòng 
+	
+__TAG__AUTOADD_ASK	Thiết bị này không được kết nối với IPC. Có nên thêm nó tự động?
+__TAG__AUTOADD_CONFLICT	IP thiết bị này xung đột, vì vậy IPC không thể được thêm vào. Vui lòng đặt lại mạng thiết bị.
+__TAG__AUTOADD_CONFLICTIP	IP xung đột:%s
+__TAG__AUTOADD_SUC	%d IPC đã được tìm kiếm và thêm vào.
+__TAG__AUTOADD_TABLE	%d IPC đã được tìm kiếm và thêm vào. Đã tìm thấy %d IPC qua các phân đoạn mạng. Vui lòng thêm thủ công.
+__TAG__AUTOADD_ING	Nó được thêm tự động, vui lòng đợi
+__TAG__Main_PREVIEW_NOCNF	Xem trước chưa được định cấu hình
+__TAG__Main_Preview_Alarm_Hint	Có nên thoát khỏi màn hình tấm liên kết?
+__TAG__Add_IpList_Hint1	Cấm nhập IP thiết bị vào danh sách.
+__TAG__Main_Pic_Vin132	Mẫu độ nét cao
+__TAG__Main_Pic_Vin133	Mẫu hiện tại
+__TAG__Main_Sys_ExpandChn	Mở rộng kênh
+__TAG__Main_Sys_ExpandChn1	đường
+__TAG__Main_Pic_Vin133.2	Giao thông
+__TAG__Main_Pic_Vin133.3	Phạm vi năng động rộng
+__TAG__Main_Pic_Vin133.4	Sự di chuyển
+__TAG__Main_Pic_Five	5 màn hình
+__TAG__Main_Pic_Seven	7 màn hình
+__TAG__Main_ShortCut_WideOpen	Mở dải động siêu rộng
+__TAG__Main_ShortCut_WideClose	Đóng dải động siêu rộng
+__TAG__Main_Pic_Vin133.5	ánh sáng yếu
+__TAG__Main_Pic_Vin133.6	Độ rọi thấp
+__TAG__Main_Vca_Setting	Thiết lập ba thông minh
+__TAG__Main_Vca_Setting1	Mã hóa thông minh
+__TAG__Main_Vca_Setting2	Hình ảnh thông minh
+__TAG__Main_Smart_Alarm	Báo động thông minh
+__TAG__Main_Smart_Set	Ba tính năng thông minh mặt trước
+__TAG__Main_Smart_AlarmPara	Thông số báo động thông minh
+__TAG__Main_VcaMd_Alarm	Báo động thông minh xảy ra
+__TAG__Main_Tyoe_VcaMd	Phát hiện thông minh
+__TAG__Main_Reg_Port	Số cổng là giá trị số trong khoảng 81-65535.
+__TAG__Main_Reg_IP	Địa chỉ IP không thể để trống.
+__TAG__Main_Daylight_Enable	Thời gian tiết kiệm ánh sáng ban ngày được kích hoạt.
+__TAG__Main_Daylight_First	Đầu tiên
+__TAG__Main_Daylight_End	Cuối cùng
+__TAG__Main_Daylight_Second	Thứ hai
+__TAG__Main_Daylight_Third	Ngày thứ ba
+__TAG__Main_Daylight_Fourth	Thứ tư
+__TAG__Main_Daylight_OffsetTm	Xu hướng DST
+__TAG__Main_Daylight_Hour	Giờ
+__TAG__Main_Pic_Dsp125	Độ phân giải màn hình bạn có là %s, bạn có sử dụng độ phân giải này không?
+__TAG__Main_Pic_Dsp126	Sửa đổi thủ công
+__TAG__Main_Pic_Dsp124	Không còn nhắc nhở
+__TAG__Main_Pic_Dsp120	Cho phép tự động truy cập IPC của bên thứ ba
+__TAG__Main_Pic_Dsp121	Cho phép truy cập H265 của IPC bên thứ ba
+__TAG__Main_Pic_Dsp122	Bật nhắc nhở thích ứng độ phân giải màn hình
+__TAG__Main_Len_Ctl48	Chế độ chờ camera vòm
+__TAG__Main_Len_Ctl49	Hành động chờ
+__TAG__Main_Len_Ctl52	Tự động hành trình
+__TAG__Main_Len_Ctl53	Đường dẫn chế độ
+__TAG__Main_Len_Ctl54	Thời gian chờ (giây)
+__TAG__Main_App_Hint4	Thiết bị đầu cuối di động đã được kết nối
+__TAG__Main_App_Hint5	Đã kết nối với mạng công cộng, không kết nối với máy chủ
+__TAG__Main_App_Hint6	Đã kết nối với mạng công cộng, không kết nối với thiết bị đầu cuối di động
+__TAG__Main_App_Hint7	Không kết nối với mạng công cộng
+__TAG__Main_Pic_Dsp123	Thông báo độ phân giải
+	
+__TAG__Vca_Sound_Report	Giọng nói
+__TAG__Vca_Insert_Name	Điền tên
+__TAG__Vca_Insert_NameInfo	Tôi lưu ý: * là tên của nhân sự
+__TAG__Vca_Face_Lib	Thư viện khuôn mặt
+__TAG__Vca_Face_Lib1	Người lạ
+__TAG__Vca_Face_LibSet	Quản lý thư viện khuôn mặt
+__TAG__Vca_Face_Discern	Nhận dạng khuôn mặt
+__TAG__FaceDet_TYPE_LOC	Phát hiện NVR
+__TAG__FaceDet_TYPE_IPC	Phát hiện IPC
+__TAG__DISCERN_TYPE_LOC	Phát hiện NVR
+__TAG__DISCERN_TYPE_IPC	Nhận dạng IPC
+__TAG__DISCERN_MODE_COMMON	Chế độ thông thường
+__TAG__DISCERN_MODE_STRANGE	Chế độ người lạ
+__TAG__DISCERN_MODE_TIME	Chế độ thời gian
+__TAG__DISCERN_MODE_RATE	Chế độ giá
+__TAG__FACE_LIB_NAME	Tên của thư viện khuôn mặt
+__TAG__FACE_ALARMSET_LINK	Liên kết cài đặt báo động
+__TAG__FACE_ALARMSET_MORE	Cài đặt hàng loạt
+__TAG__FACE_ALARMSET_LINKSET	Cài đặt liên kết cài đặt báo động
+__TAG__FACE_ALARMSET_TIMERANGE	Phạm vi thời gian
+__TAG__FACE_ALARMSET_RATE	Tỷ lệ
+__TAG__FACE_ALARMSET_RATE1	Thời đại
+__TAG__VCA__FaceLibrary	Tên thư viện
+__TAG__VCA__InputFaceLibrary	Đầu vào
+__TAG__VCA__OutputFaceLibrary	Đầu ra
+__TAG__VCA__FaceKu	Thư viện
+__TAG__VCA__FacePicture	Hình ảnh
+__TAG__VCA__Lookup	Tra cứu
+__TAG__VCA__LookupPicture	Nhìn lên bằng hình ảnh
+__TAG__VCA__FaceAdd	Tạo thư viện khuôn mặt
+__TAG__VCA__FaceSet	Đặt thư viện khuôn mặt
+__TAG__VCA__UpMessage	Tải lên thông tin nhận dạng
+__TAG__VCA__Distinguish	Ngưỡng phân biệt
+__TAG__VCA__Describe	Diễn tả
+__TAG__VCA_FaceCnt_Name	Tên
+__TAG__VCA_FaceCnt_Place	Quê quán
+__TAG__VCA_FaceCnt_Province	Tỉnh
+__TAG__VCA_FaceCnt_City	Thành phố
+__TAG__Main_Video_Birthday	Sinh nhật
+__TAG__Main_Video_BirthdayStart	Bắt đầu sinh nhật
+__TAG__Main_Video_BirthdayEnd	Kết thúc sinh nhật
+__TAG__Main_Video_Choose	Chọn mẫu
+__TAG__Main_Video_PaperType	Loại chứng chỉ
+__TAG__Main_Video_ChooseNo	Giấy chứng nhận số
+__TAG__Main_Video_idCard	Chứng minh nhân dân
+__TAG__Main_Video_offerCard	Giấy chứng nhận sĩ quan
+__TAG__Main_Face_ModeFlg	Kiểu mẫu
+__TAG__Main_Face_Mode1	Mẫu
+__TAG__Main_Face_Mode2	Không mô hình
+__TAG__Main_Face_Mode3	Mô hình thất bại
+__TAG__Main_Vca_FaceSet	Cấu hình khuôn mặt
+__TAG__FACE_LIB_WHITE	Thư viện danh sách trắng
+__TAG__FACE_DISCERN_TIME	Thời gian cư trú
+__TAG__Main_Face_Event	Lấy theo sự kiện
+__TAG__Main_Face_Pic	Lấy bằng hình ảnh
+__TAG__Main_Face_Feature	Lấy theo tính năng
+__TAG__Main_Local_Upload	Tải lên mẫu tại địa phương
+__TAG__Main_FaceLib_Upload	Tải mẫu lên từ thư viện khuôn mặt
+__TAG__Main_Face_Cache	5 hình ảnh bộ nhớ cache của các mẫu nhiều nhất
+__TAG__Main_Vca_Glasses1	Đeo kính
+__TAG__Main_Vca_Glasses2	Không đeo kính
+__TAG__Main_Vca_Mask1	Đeo mặt nạ
+__TAG__Main_Vca_Mask2	Không đeo mặt nạ
+__TAG__Main_Upload_Sample	Tải lên mẫu
+__TAG__Main_Feature_Count	Đếm các tính năng
+__TAG__Main_Aim_Count	Đếm báo động mục tiêu
+__TAG__Main_ChnAlm_Count	Đếm báo động kênh
+__TAG__Main_Target_Library	Thư viện mục tiêu
+__TAG__Main_Target_Pic	Hình ảnh mục tiêu
+__TAG__Main_Alm_TotalCnt	Tổng số báo động
+__TAG__Main_Detail_View	Lượt xem
+__TAG__Main_Alm_Details	Chi tiết báo động
+__TAG__Main_Capture_Pic	Chụp ảnh
+__TAG__Main_Sys_PicTO_ipc	Đồng bộ hóa với giao diện người dùng
+__TAG__Main_Face_Age	Độ tuổi
+__TAG__Main_VCA_TARGET	Phát hiện mục tiêu
+__TAG__Main_SENSE_MODE1	Thời gian thực
+__TAG__Main_SENSE_MODE2	Lịch sử
+__TAG__VCA_FaceCnt_Event1	Báo động của sành điệu
+__TAG__VCA_FaceCnt_Event2	Báo động của người lạ
+__TAG__VCA_FaceCnt_Event4	Báo động tỷ lệ
+__TAG__VCA_FaceCnt_Event5	Báo động tạm giam
+__TAG__VCA_FaceLib_Hint	Bạn có chắc chắn để xóa thư viện khuôn mặt đã chọn?
+__TAG__VCA_ADD_FaceLib_Hint	Che thư viện mặt gốc, tiếp tục hay không?
+__TAG__VCA_Input_FaceLib	Nhập vào
+__TAG__VCA_Output_FaceLib	Xuất ra
+__TAG__VCA_FaceLib_Input	Thư viện khuôn mặt đầu vào
+__TAG__VCA_FaceLib_Output	Thư viện mặt đầu ra
+__TAG__VCA_FaceDiscern_Enable1	Cho phép sáng suốt
+__TAG__VCA_FaceDiscern_Enable2	Cho phép người lạ
+__TAG__VCA_FaceDiscern_Enable3	Cho phép tỷ lệ
+__TAG__VCA_FaceDiscern_Enable4	Cho phép giam giữ
+__TAG__VCA_Upload_DiscernMsg	Tải lên thông tin nhận dạng
+__TAG__VCA_Detained_Time	Thời gian tạm giam
+__TAG__Main_CpToLib	Sao chép vào thư viện
+__TAG__VCA_Search_Progress	Tiến trình tìm kiếm
+__TAG__Vca_Sound_IPC	Âm thanh của kết thúc
+__TAG__Vca_Sound_LocReport	Báo cáo âm thanh địa phương
+__TAG__Vca_Copy_HintMsg	Kênh% s không phù hợp với cấu hình kênh hiện tại, sao chép tham số không thành công!
+__TAG__Vca_ChnCount_Hint	Kéo qua chuột để xem chi tiết
+__TAG__Face_synchronize	Làm cho đồng bộ
+__TAG__Face_synchronize1	Không đồng bộ
+__TAG__Face_synchronize2	Đồng bộ hóa
+__TAG__Face_synchronize3	Đồng bộ hóa thành công
+__TAG__Face_synchronize4	Lỗi đồng bộ hóa
+__TAG__Face_synchronize5	Được đồng bộ hóa
+__TAG__Face_synchronize6	Tổng số hình ảnh cơ bản %d, không đồng bộ hóa %d
+__TAG__Play_Vca_Type	Kiểu thông minh
+__TAG__Vca_Discern_HInt1	Phát hiện khuôn mặt của kênh này không được bật, bạn có chắc chắn bật tính năng nhận diện khuôn mặt?
+__TAG__Vca_Discern_HInt2	Hiệu suất NVR đạt đến ngưỡng, cho phép nhận dạng NVR không thành công!
+__TAG__Main_Preview_Hint	%s không hỗ trợ hơn 40 hình ảnh!
+__TAG__Main_Preview_DspBmp	Ẩn biểu tượng của video, báo động và nhận dạng khuôn mặt trên giao diện xem trước
+__TAG__Main_SelSample_Hint	Chọn ít nhất 1 ảnh mẫu
+__TAG__Main_Face_SnapPara	Thông số ảnh chụp
+__TAG__Main_Face_PixArea	Phạm vi
+__TAG__Vca_NoFaceLib_Hint	Không có thư viện khuôn mặt
+__TAG__Sel_FaceSample_Hint	Chọn tối đa 5 mẫu
+__TAG__Main_Face_CP_Progress	Sao chép tiến độ
+__TAG__Main_Face_CP_Succeed	Sao chép thành công
+__TAG__Main_Face_CP_Failed	Sao chép thất bại
+__TAG__Main_Face_CP_Lib	Vui lòng chọn thư viện
+__TAG__Main_Face_OutPut_Progress	Đang xuất file
+__TAG__Main_Face_OutPut_Succeed	Xuất file thành công
+__TAG__Main_Face_OutPut_Failed	Xuất thất bại
+__TAG__Main_Face_Age_Hint	Độ tuổi là 0-200!
+__TAG__Main_Face_Age_Hint1	Lỗi tuổi
+__TAG__Main_Face_Name_Hint	Tên không nên rỗng
+__TAG__Main_FacePic_ADD_Hint	Thêm
+__TAG__Main_FacePic_DEL	Bạn có chắc chắn để xóa các hình ảnh được lựa chọn?
+__TAG__Main_FacePic_DEL_Hint	Đã xóa
+__TAG__Main_FacePic_DEL_Hint1	thêm thất bại
+__TAG__Main_FacePic_ADD_Hint1	Đã thêm %d thành công, thất bại %d
+__TAG__Main_FacePic_ADD_Hint2	Không có mặt
+__TAG__Main_FacePic_ADD_Hint4	Vui lòng chọn một hình ảnh để thêm
+__TAG__Main_FaceLib_ADD_Hint	Hỗ trợ tới 32 thư viện
+__TAG__Main_FaceLib_ADD_Hint3	Hỗ trợ lên tới %d bản đồ cơ sở
+__TAG__Main_FaceLib_Mode	Mô hình hóa tất cả
+__TAG__Main_FaceLib_Mode_Hint	Sau khi tất cả các mô hình, tất cả các bản đồ nền sẽ được sửa sang lại. Tiếp tục?
+__TAG__Main_FaceLib_Mode_Hint1	Mô hình thất bại
+__TAG__Main_Sense_PreHint	Phát hiện mục tiêu không hỗ trợ nhiều hơn %d màn hình!
+__TAG__SHM_Disk_Vibration	Rung đĩa cứng
+__TAG__SHM_Driver_Vibration	Rung quá mức của ổ đĩa
+__TAG__SHM_Disk_ConectFail	Kết nối đĩa cứng là bất thường.
+__TAG__SHM_Host_Reset	Thiết lập lại máy chủ
+__TAG__SHM_Disk_Abnormal	Bất thường đĩa cứng
+__TAG__SHM_Disk_Normal	Sức khỏe đĩa cứng
+__TAG__SHM_Health_Status	Kiểm tra tình trạng sức khỏe
+__TAG__SHM_Tem_Curve	Đường cong nhiệt độ
+__TAG__SHM_Shock_Curve	Đường cong rung
+__TAG__SHM_Health_SataLink	Liên kết SATA
+__TAG__SHM_Tem_Normal	Nhiệt độ bình thường
+__TAG__SHM_Tem_TooHigh	Nhiệt độ quá cao
+__TAG__SHM_SataLink_ErrHint	Lỗi liên kết SATA
+__TAG__SHM_Tem_High	Nhiệt độ cao
+__TAG__Main_Face_RefreshHint	Trong ảnh, vui lòng đợi ...
+__TAG__Main_FacePic_Lookup_Hint	Vui lòng chọn hình ảnh bạn đang tìm kiếm
+__TAG__SHM_Check_Abnormal	Phát hiện SHM là bất thường
+__TAG__SHM_Check_Hint	Chỉ có giá trị cho ổ cứng Seagate
+__TAG__Main_FaceLib_Input_Hint	Chỉ hỗ trợ nhập các gói hộp
+__TAG__Main_FaceLib_AddLib	Tạo thư viện khuôn mặt thất bại
+__TAG__Vca_Perty_Hint1	Kích hoạt %s sẽ tắt phát hiện khuôn mặt IPC. Tiếp tục?
+__TAG__Vca_Perty_Hint2	Kích hoạt phát hiện IPC sẽ tắt %s, nó sẽ tiếp tục chứ?
+__TAG__Vca_DelLib_Hint	không thể xóa
+__TAG__Vca_FaceLookupPic_Hint	Chỉ hỗ trợ hình ảnh ở định dạng jpg và png
+__TAG__Vca_FaceLib_Hint	Không vận hành được khi cơ sở dữ liệu khuôn mặt đang được đồng bộ hóa
+__TAG__Vca_FaceLib_Hint1	Thuật toán nhận diện khuôn mặt phía trước bị tạm dừng trong quá trình đồng bộ hóa với giao diện người dùng!
+__TAG__Main_Video_PassPort	Hộ chiếu
+__TAG__Main_Sys_Msg19	Module thông minh
+__TAG__Main_Sys_Msg20	Phiên bản thuật toán
+__TAG__Main_FaceLib_Mode_Num	Mô hình
+__TAG__Vca_FaceDet_Hint1	Hiệu suất NVR đạt đến giới hạn trên và phát hiện NVR không được bật!
+__TAG__Health_Test_TemSymbol	℃
+__TAG__Vca_DelFaceLib_Title	Xóa thư viện
+__TAG__Vca_DelFaceLib_Hint	xóa ...
+__TAG__Vca_DelFaceLib_Hint1	Thư viện đã hoạt động trước đó đang bị xóa
+__TAG__Vca_DelFaceLib_Hint2	Thư viện đã chọn đã bị xóa
+__TAG__Vca_AddFaceLib_Hint	Tên là bắt buộc
+__TAG__Main_FacePic_ADD_Hint3	Kích thước hình ảnh không thể lớn hơn 1920 * 1080, không nhỏ hơn 100 * 100
+__TAG__Vca_AddTo_FaceLib	Thêm vào thư viện
+__TAG__Vca_Add_FaceLib1	Số lượng hình ảnh bị bỏ qua lớn hơn số lượng hình ảnh còn lại trong cơ sở dữ liệu khuôn mặt!
+__TAG__Vca_Creat_FaceLib	Thiết lập
+__TAG__Vca_FaceLib_Identify	Kích hoạt xác thực
+__TAG__Vca_FaceLib_Psw	6-16 chữ số hoặc chữ cái, không phân biệt chữ hoa chữ thường.
+__TAG__Vca_EveryLib_FaceNum	Số hình ảnh
+__TAG__Vca_FaceLib_Synchronize	Cơ sở dữ liệu khuôn mặt đang đồng bộ hóa
+__TAG__Vca_FaceLib_Synchronize1	Đã hoàn thành đồng bộ hóa
+__TAG__Vca_FacePic_Idcard	Vui lòng nhập số ID hợp lệ
+__TAG__Vca_AddPic_Hint1	Phân tích khuôn mặt thất bại
+__TAG__Vca_AddPic_Hint2	Không hỗ trợ độ phân giải hình ảnh này
+__TAG__Vca_AddPic_Hint3	Quá nhiều khuôn mặt trong bức tranh
+__TAG__Search_Limit_Hint	Truy vấn tối đa 10000 dữ liệu, phần còn lại của dữ liệu, vui lòng điều chỉnh thời gian
+__TAG__Vca_FaceDet_Hint	Bật chế độ hành lang sẽ ảnh hưởng đến kết quả phát hiện khuôn mặt.
+__TAG__Vca_FacePic_Lookup	Không có kết quả tìm kiếm!
+__TAG__Vca_AlmLink_IpcOut	Liên kết đầu ra Front End
+__TAG__Main_Pic_Pssd5	Vui lòng nhập hộp mật khẩu nhập
+__TAG__Main_Pic_Pssd6	Vui lòng nhập mật khẩu cho hộp xuất
+__TAG__Main_Face_Name_Hint1	Hỗ trợ lên tới 150 tệp được chọn
+__TAG__Main_FacePic_ADD_Hint5	Kích thước hình ảnh không thể lớn hơn 800 * 800, không nhỏ hơn 100 * 100
+__TAG__Main_FacePic_ADD_Hint6	Tên bản đồ cơ sở không thể vượt quá 60
+__TAG__Main_FacePic_ADD_EndHint	Đã thêm% d thành công, thất bại% d và đĩa cứng không được phép trong vòng% d phút
+__TAG__Main_Prew_HindFaceAttr	Thuộc tính khuôn mặt phát hiện mục tiêu ẩn
+__TAG__Main_FacePic_ATTR_Hint0	không xác định
+__TAG__Main_FacePic_ATTR_Hint1	Công ty
+__TAG__Main_FacePic_ATTR_Hint2	Địa chỉ nhà
+__TAG__Main_FacePic_ATTR_Hint3	Quốc gia
+__TAG__Main_FacePic_ATTR_Hint4	ID thứ
+__TAG__Main_Video_Icn13	Cài đặt lưu trữ
+__TAG__Main_Video_PicSet1	Cài đặt hình ảnh
+__TAG__Main_Video_PicSet2	Lưu trữ hình ảnh
+__TAG__Main_Video_PicSet6	Hình ảnh khuôn mặt
+__TAG__Main_Video_PicSet3	Hình thu nhỏ trên khuôn mặt
+__TAG__Main_Video_PicSet4	Mặt lót
+__TAG__Main_Video_PicSet5	Hình nền mặt
+__TAG__Main_Sense_AlarmType1	So sánh
+__TAG__Main_Sense_AlarmType2	Đình trệ
+__TAG__Main_Face_LiveBody	Sinh học
+__TAG__Vca_Face_Basemap_LibSet	Quản lý thư viện Face Underlay
+__TAG__Main_Select_Facelib	Chọn thư viện khuôn mặt
+__TAG__Main_Video_PicSet7	Ảnh chụp khuôn mặt
+__TAG__Main_Video_PicSet8	Không có hình ảnh
+__TAG__Vca_Property_Hint1	Hiệu suất NVR đạt đến giới hạn trên, nhận dạng IPC không thành công
+__TAG__Vca_Property_Hint2	Hiệu suất NVR đạt đến giới hạn trên, phát hiện IPC không thành công
+__TAG__Vca_Property_Hint3	Lên đến 32 cài đặt liên kết thư viện khuôn mặt!
+__TAG__Vca_Property_Hint4	Vui lòng kích hoạt thuật toán đầu tiên!
+__TAG__Main_Count_Success	Thống kê thành công
+__TAG__Main_Count_Faild	Thống kê thất bại
+__TAG__Main_Count_TargetLimit	Thống kê báo động mục tiêu hỗ trợ tối đa %d thư viện đích
+__TAG__Main_Sys_Net88	Trung tâm chuyển tiếp
+__TAG__Main_Sys_Net89	Mã số trung tâm
+__TAG__Main_Sys_Net90	Địa chỉ trung tâm
+__TAG__Main_FaceLib_ADD_Hint4	Hỗ trợ tối đa %d thư viện
+__TAG__Vca_Discern_HInt3	Kênh này không được kích hoạt để phát hiện khuôn mặt, vui lòng bật thủ công phát hiện IPC
+__TAG__Main_FacePic_ADD_Hint7	Chỉ hỗ trợ thêm hình ảnh ở định dạng jpg và png
+__TAG__Main_Sys_Cnf27	Hết giờ thống kê, vui lòng thống kê lại
+__TAG__Main_Sys_Cnf28	Đường dẫn quá dài, vui lòng xuất lại
+__TAG__Main_User_Grp43	Mật khẩu không thể chứa tên người dùng
+__TAG__Main_AutoTime_IPC	Thời gian hiệu chỉnh IPC
+__TAG__Main_Clude_Hint1	Thiết bị phát hiện phiên bản mới, có nâng cấp không?
+__TAG__Main_Clude_Hint2	Chưa phát hiện thiết bị phiên bản mới!
+__TAG__Main_Clude_Hint3	Nâng cấp IPC
+__TAG__Main_Clude_Hint4	Nâng cấp NVR
+__TAG__Main_Clude_Hint5	Tự động phát hiện phiên bản mới IPC
+__TAG__Main_Clude_Hint6	Tự động phát hiện phiên bản mới NVR
+__TAG__Main_ChangeIP_Hint1	Lỗi tên người dùng
+__TAG__Main_ChangeIP_Hint2	Sai mật khẩu
+__TAG__Main_ChangeIP_Hint3	Địa chỉ ip là bất hợp pháp
+__TAG__Main_ChangeIP_Hint4	Địa chỉ ip không nằm trên cùng phân khúc mạng với cổng
+__TAG__Main_ChangeIP_Hint5	Địa chỉ dns là bất hợp pháp
+__TAG__Main_ChangeIP_Hint6	Người dùng không có quyền
+__TAG__Main_SysErr_Hint	Tính năng đĩa bị quá tải, vui lòng liên hệ với quản trị viên để sửa đổi cấu hình nhóm đĩa hoặc giảm luồng video
+__TAG__Main_Disk_Repair	Sửa đĩa
+__TAG__Main_Sys_Msg21	ID xuất xưởng
+__TAG__Main_NET_Hint1	Địa chỉ IPv4
+__TAG__Main_NET_Hint2	Mặt nạ mạng con IPv4
+__TAG__Main_NET_Hint3	Cổng mặc định IPv4
+__TAG__Main_NET_Hint4	Tự động lấy địa chỉ IPv4
+__TAG__Main_NET_Hint5	Địa chỉ liên kết cục bộ
+__TAG__Main_NET_Hint6	Địa chỉ IPv6
+__TAG__Main_NET_Hint7	Độ dài tiền tố mạng con IPv6
+__TAG__Main_NET_Hint8	Cổng mặc định IPv6
+__TAG__Main_NET_Hint9	Thủ công
+__TAG__Main_NET_Hint10	Quảng cáo bộ định tuyến 
+__TAG__Main_NET_Hint11	Cài đặt IPv4
+__TAG__Main_NET_Hint12	Cài đặt IPv6
+__TAG__Main_NET_Hint13	Chế độ IPv6
+__TAG__Main_Chn_Analog1	Tên kênh
+__TAG__Main_Chn_Analog2	Thay đổi loại kênh có hiệu lực sau khi khởi động lại, có thay đổi không?
+__TAG__Main_Chn_Analog3	Loại kênh
+__TAG__Main_Sys_HTTPS1	Loại chứng nhận HTTP
+__TAG__Net_RTSP1	Loại chứng nhận RTSP
+__TAG__Net_AUTH1	Chứng nhận digest&basic
+__TAG__Net_AUTH2	Chứng nhận digest
+__TAG__Main_Alm_Almln18	Phát hiện vòng lặp
+__TAG__Main_MixtureChn	Kênh tổng hợp
+__TAG__Main_MixtureChn1	Kích hoạt kênh tổng hợp
+__TAG__Main_Voltage_Hint1	cảnh báo điện áp
+__TAG__Main_Voltage_Hint2	Xử lý cảnh báo điện áp
+__TAG__Main_NET_Hint14	Xem thông báo bộ định tuyến
+__TAG__Main_Voltage_Err	IPC Điện áp bất thường
+__TAG__Main_DDNS_Hint1	Ngoại tuyến
+__TAG__Main_DDNS_Hint2	Đang kiểm tra miền thiết bị
+__TAG__Main_DDNS_Hint3	Tên miền thiết bị khả dụng
+__TAG__Main_DDNS_Hint4	Tên miền thiết bị không khả dụng
+__TAG__Main_DDNS_Hint5	Tên miền thiết bị đang được dùng.
+__TAG__Main_DDNS_Hint6	Kiểm tra quá thời gian
+__TAG__Main_DDNS_Hint7	Loại DDNS
+__TAG__Main_DDNS_Hint8	Tên miền phổ biến
+__TAG__Main_System_Hint	Cài đặt ngôn ngữ
+__TAG__Main_System_Hint1	Model thiết bị
+__TAG__Main_VCA_Hint	Kiểu hiển thị
+__TAG__Main_Voltage_Err1	Cảnh báo điện áp quá thấp
+__TAG__Main_Voltage_Err2	Cảnh báo điện áp quá cao
+__TAG__Main_Chn_Dig32	Loại mạng
+__TAG__Main_NET_Hint15	IPv6 chưa đúng, hãy cài đặt lại.
+__TAG__Main_NET_Hint16	IPv6 và gateway phải nằm trong cùng một phân đoạn mạng!
+__TAG__Main_NET_Hint17	Phạm vi có hiệu lực %s là%d-%d, hãy cài đặt lại!
+__TAG__Main_NET_Hint18	Xem địa chỉ IPv6
+__TAG__Main_NET_Hint19	Giữ ít nhất một IP trong danh sách cho phép
+__TAG__VCA__PeopleCompar	So sánh lưu lượng hành khách
+__TAG__VCA__Compare_Type	Kiểu hiển thị
+__TAG__VCA__MAXCHN	Có thể chọn tối đa 5 kênh
+__TAG__VCA_SEARCH_PEOPLE11	Kênh %d không có dữ liệu
+__TAG__Main_NET_Hint20	Internal Port
+__TAG__Main_NET_Hint21	Loại UPNP
+__TAG__Main_Vca_Setting3	Cảnh thông minh
+__TAG__Main_Pic_Vin141	White LED Control 
+__TAG__Main_Pic_Vin134	Manual Open
+__TAG__Main_Pic_Vin135	Manual Close
+__TAG__Main_Pic_Vin136	Luminance of white light
+__TAG__Main_Pic_Vin137	Close White Light Time
+__TAG__Main_Pic_Vin138	Open White Light Time
+__TAG__Main_Pic_Vin139	IR Control Mode
+__TAG__Main_Pic_Vin140	Infrared Lamp Power
+__TAG__Main_Pic_Vin142	Close white light time must be earlier than open white light time
+__TAG__Main_Video_Hint	Lưuý: AVI không hỗ trợ ghi định dạng H.265
+__TAG__Main_DDNS_Hint9	Phát hiện, hãy làm điều đó sau
+
