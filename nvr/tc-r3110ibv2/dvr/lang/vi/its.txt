@@ -1,0 +1,247 @@
+#tag tab name
+
+__TAG__Main_Its_Mngt	Quản lý Checkpoint
+__TAG__Main_Its_Dev	Checkpoint  Equipment
+__TAG__Main_Port_Select	Chọn cổng
+__TAG__Main_Its_LaneSet	Cài đặt làn
+__TAG__Main_Its_Cross	Giao lộ / Địa điểm
+__TAG__Main_Its_Num	Chữ số
+__TAG__Main_Drive_Direction	Hướng đi
+__TAG__Main_IPC_ChkAreaNum	Mã số làn/khu vực kiểm tra của camera
+__TAG__Main_Its_Parameter	Thông số cổng
+__TAG__Main_Its_DisDelInfo	Chính sách xóa bản ghi
+__TAG__Main_Its_DisDelNum	Số lượng bản ghi đã bị xóa
+__TAG__Main_Its_DisSavDays	Ngày lưu trữ đã tải lên
+__TAG__Main_Its_DisDelBegTm	Thời gian bắt đầu xóa bản ghi
+__TAG__Main_Its_DisDelEndTm	Thời gian kết thúc xóa bản ghi
+__TAG__Main_Its_DisMaxNum	Lưu bản ghi tối đa
+__TAG__Main_Its_UploadSet	Cài đặt tải lên
+__TAG__Main_Its_CentServIP	IP máy chủ trung tâm
+__TAG__Main_Its_CentServPort	Cổng máy chủ trung tâm
+__TAG__Main_Its_PlateFormVer	Phiên bản nền tảng
+__TAG__Main_Its_EnaBackPack	Bật gói
+__TAG__Main_Its_SefDefUpPicName	Sửa tên hình ảnh
+__TAG__Main_Its_PicNameFmt	Định dạng tên ảnh
+__TAG__Main_Its_MainMachNum	Số máy chủ
+__TAG__Main_Its_CrossNum	Số giao lộ/địa điểm
+__TAG__Main_LaneCheckAreaNum	Làn đường / Khu vực phát hiện số.
+__TAG__Main_Its_DirNum	Hướng số
+__TAG__Main_Its_PicNameApart	Dấu phân cách tên ảnh
+__TAG__Main_Its_PicNameScan	Xem trước tên ảnh
+__TAG__Main_Its_MidWareID	ID phần Middleware
+__TAG__Main_Its_MidWareIP	IP phần Middleware
+__TAG__Main_Its_MidWarePort	Cổng phần Middleware
+__TAG__Main_Its_DataQury	Dữ liệu điều tra
+__TAG__Main_Its_BusNum	Biển số xe
+__TAG__Main_Its_BusBrand	Hãng xe
+__TAG__Main_Its_BusColor	Màu thân xe
+__TAG__Main_Its_CarType	Loại xe
+__TAG__Main_Its_UploadState	Đang tải tình trạng
+__TAG__Main_ItsCheckArea	Làn đường / Khu vực phát hiện
+__TAG__Main_Its_Picture	Hình ảnh
+__TAG__Main_Its_Unknow	Không rõ
+__TAG__Main_Its_OkUpload	Đã tải lên
+__TAG__Main_Its_UnUpload	Chưa tải lên
+__TAG__Main_Its_CenSrvIp_Hint	Địa chỉ IP máy chủ trung tâm không đúng, hãy nhập lại!
+__TAG__Main_Its_CenSrvPort_Hint	Cổng máy chủ trung tâm chỉ có thể nhập số nguyên giữa 1024 và 65535, hãy nhập lại!
+__TAG__Main_Its_PicName_Hint	Định dạng tên ảnh phải bao gồm thời gian chụp ảnh và số làn/khu vực phát hiện!
+__TAG__Main_Its_MwIp_Hint	Địa chỉ IP phần middleware không đúng, hãy nhập lại!
+__TAG__Main_Its_MwPort_Hint	Cổng middleware chỉ có thể nhập số nguyên giữa 1024 và 65535, hãy nhập lại!
+__TAG__Main_Its_MwId_Hint	ID phần middleware không đúng, hãy nhập lại!
+__TAG__Main_Its_Enter_Alarm1	Số lượng ghi chép lưu tối đa không hợp lệ, hãy nhập lại!
+__TAG__Main_Its_Enter_Alarm2	Cần nhập ít nhất 5 chữ số, hãy nhập lại!
+__TAG__Main_Its_Enter_Alarm3	Mã số không hợp lệ, hãy nhập lại!
+__TAG__Main_Its_Enter_Alarm4	Cần nhập ít nhất 3 chữ số, hãy nhập lại!
+__TAG__Main_Its_Enter_Alarm5	Số lượng bản ghi được xóa mỗi lần không hợp lệ, hãy nhập lại!
+__TAG__Main_Its_Enter_Alarm6	Số ngày  tải lên không  hợp lệ, xin vui lòng thử lại!
+__TAG__Main_Its_Enter_Alarm7	ID không được để trống, hãy nhập lại
+__TAG__Main_Its_SetOK_Hint	Cài đặt thông số thành công, có hiệu lực sau khi khởi động lại dịch vụ!
+__TAG__Main_Its_ResetApp	Khởi động lại dịch vụ
+__TAG__Main_Its_Reset	Sẽ khởi động lại dịch vụ kết nối, vẫn tiếp tục?
+__TAG__Main_Its_CameraName	Tên camera
+__TAG__Main_Its_DelLane	Sau khi xóa, các bản ghi tương ứng sẽ không hiển thị thông tin này nữa, vẫn tiếp tục?
+__TAG__Main_Its_DelCross	Sau khi xoá, các làn/khu vực tương ứng sẽ bị xóa và các bản ghi sẽ không hiển thị phần này của thông tin, vẫn tiếp tục?
+__TAG__Main_Its_IdExist	Mã số đã tồn tại, hãy nhập lại!
+__TAG__Main_Its_NameEmpty	Không được để trống tên, hãy nhập lại!
+__TAG__Main_Its_Lane_Notice	Lưu ý: Việc thêm, chỉnh sửa và xóa sẽ có hiệu lực khi khởi động lại!
+__TAG__Main_Its_Lane_Hint1	Không thể thêm cấu hình, số lượng đã có đạt đến giới hạn!
+__TAG__Main_Its_Lane_Hint2	Giao lộ chưa đúng, hãy thêm giao lộ trước!
+__TAG__Main_Its_Lane_Hint3	Camera chưa đúng, hãy thêm camera trước!
+__TAG__Main_Its_Lane_Hint4	Số làn không hợp lệ, vui lòng chọn một thiết bị camera khác!
+__TAG__Main_Its_Lane_Hint5	Chỉ nhập số từ 1-64, hãy nhập lại!
+__TAG__Main_Its_QueryNum	Tổng số mục truy vấn
+__TAG__Main_Its_QueryProgress	Tiến độ truy vấn
+__TAG__Main_Its_QueryNumHInt	Đang truy vấn, hãy chờ ...
+__TAG__Main_Its_QueryErr	Truy vấn thất bại, hãy thử lại!
+__TAG__Main_Its_TotalNum	%d hoàn thành ghi
+__TAG__Main_Its_Direct_E2W	Từ đông sang tây
+__TAG__Main_Its_Direct_W2E	Từ tây sang đông
+__TAG__Main_Its_Direct_S2N	Từ nam đến bắc
+__TAG__Main_Its_Direct_N2S	Từ bắc đến nam
+__TAG__Main_Its_Direct_IN	Vào thành phố
+__TAG__Main_Its_Direct_OUT	Rời thành phố
+__TAG__Main_Its_Loading	Đang tải ...
+__TAG__Main_Its_LoadFail	Tải thất bại!
+__TAG__Main_Its_NoPic	Không có ảnh trong bản ghi này.
+__TAG__Main_Its_RepeatNum	Số thiết bị không được giống số máy chủ, vui lòng nhập lại!
+__TAG__Main_Its_TM_Err	Khoảng thời gian truy vấn không thể vượt quá 180 ngày, vui lòng nhập lại!
+__TAG__Main_Its_ReHostId	Số máy chủ không được giống số thiết bị, vui lòng nhập lại!
+__TAG__Main_Reset_App_Wait	Đang khởi động lại dịch vụ, xin vui lòng chờ …
+__TAG__Main_Its_Dev_Using	Thiết bị này đang được sử dụng, không thể xóa!
+__TAG__Main_Its_ResetAppPro	Tiến độ khởi động lại
+__TAG__Main_Its_SrvBusy	Dịch vụ cổng đang bận, vui lòng thử lại!
+__TAG__Main_Its_ExportProgress	Tiến độ xuất
+__TAG__Main_Its_ExportHInt	Đang xuất bản ghi, hãy đợi ...
+__TAG__Main_Its_SnapPic	Chụp ảnh
+__TAG__Main_Its_PlatePic	Ảnh chụp biển số
+__TAG__Main_Its_FacePic	Ảnh chụp khuôn mặt
+__TAG__Main_itsMsg	Cấu hình thuộc tính và cấu hình thông số cổng
+__TAG__Main_Its_Export	Xuất dữ liệu cổng
+__TAG__Main_Its_DiskTotal	Tổng dung lượng đĩa (G)
+__TAG__Main_Its_PicUsed	Dung lượng đã sử dụng của ảnh cổng(G)
+__TAG__Main_Its_PicQuota	Hạn mức ảnh cổng (G)
+__TAG__Main_Its_CaptureQuota	Hạn mức chụp nhanh
+__TAG__Main_Its_QuotaHint	Hạn mức ảnh cổng không được vượt quá tổng dung lượng đĩa
+	
+__TAG__Main_Its_CarBrand_1	Volkswagen
+__TAG__Main_Its_CarBrand_2	Audi
+__TAG__Main_Its_CarBrand_3	Toyota
+__TAG__Main_Its_CarBrand_4	Honda
+__TAG__Main_Its_CarBrand_5	Mercedes-Benz
+__TAG__Main_Its_CarBrand_6	Chevrolet
+__TAG__Main_Its_CarBrand_7	Chery
+__TAG__Main_Its_CarBrand_8	Buick
+__TAG__Main_Its_CarBrand_9	Greatwall
+__TAG__Main_Its_CarBrand_10	Modern
+__TAG__Main_Its_CarBrand_11	Nissan
+__TAG__Main_Its_CarBrand_12	Ford
+__TAG__Main_Its_CarBrand_13	BMW
+__TAG__Main_Its_CarBrand_14	Citroen
+__TAG__Main_Its_CarBrand_15	KIA
+__TAG__Main_Its_CarBrand_16	Suzuki
+__TAG__Main_Its_CarBrand_17	Mazda
+__TAG__Main_Its_CarBrand_18	BYD
+__TAG__Main_Its_CarBrand_20	Peugeot
+__TAG__Main_Its_CarBrand_21	Chang'an
+__TAG__Main_Its_CarBrand_22	Lexus
+__TAG__Main_Its_CarBrand_23	Zhong Hua
+__TAG__Main_Its_CarBrand_24	Skoda
+__TAG__Main_Its_CarBrand_25	Haima
+__TAG__Main_Its_CarBrand_26	Xiali
+__TAG__Main_Its_CarBrand_27	SGMW
+__TAG__Main_Its_CarBrand_28	Dongfeng
+__TAG__Main_Its_CarBrand_29	Hafei
+__TAG__Main_Its_CarBrand_30	FAW
+__TAG__Main_Its_CarBrand_31	Baojun
+__TAG__Main_Its_CarBrand_32	Emgrand
+__TAG__Main_Its_CarBrand_33	MG
+__TAG__Main_Its_CarBrand_34	South East
+__TAG__Main_Its_CarBrand_35	Crown
+__TAG__Main_Its_CarBrand_36	Jinbei
+__TAG__Main_Its_CarBrand_37	Mitsubishi
+__TAG__Main_Its_CarBrand_38	Roewe
+__TAG__Main_Its_CarBrand_39	Geely
+__TAG__Main_Its_CarBrand_40	Englon
+__TAG__Main_Its_CarBrand_41	Global Hawk
+__TAG__Main_Its_CarBrand_42	Hafei Saibao
+__TAG__Main_Its_CarBrand_43	Changfeng
+__TAG__Main_Its_CarBrand_44	Weiwang
+__TAG__Main_Its_CarBrand_45	Beijing
+__TAG__Main_Its_CarBrand_46	Xinkai
+__TAG__Main_Its_CarBrand_47	GONOW
+__TAG__Main_Its_CarBrand_48	Maserati
+__TAG__Main_Its_CarBrand_49	Rover
+__TAG__Main_Its_CarBrand_50	Austin
+__TAG__Main_Its_CarBrand_51	Marcos
+__TAG__Main_Its_CarBrand_52	Dodge
+__TAG__Main_Its_CarBrand_53	Chrysler
+__TAG__Main_Its_CarBrand_54	General Pontiac
+__TAG__Main_Its_CarBrand_55	Jaguar
+__TAG__Main_Its_CarBrand_56	Oldsmobile Aurora
+__TAG__Main_Its_CarBrand_57	Alpha
+__TAG__Main_Its_CarBrand_58	Lamborghini
+__TAG__Main_Its_CarBrand_59	Bugatti
+__TAG__Main_Its_CarBrand_60	Lincoln
+__TAG__Main_Its_CarBrand_61	Ferrari
+__TAG__Main_Its_CarBrand_62	Changhe
+__TAG__Main_Its_CarBrand_63	Fiat
+__TAG__Main_Its_CarBrand_64	Foton
+__TAG__Main_Its_CarBrand_65	Acura
+__TAG__Main_Its_CarBrand_66	Lotus
+__TAG__Main_Its_CarBrand_67	Maple
+__TAG__Main_Its_CarBrand_68	Zastava
+__TAG__Main_Its_CarBrand_69	Riich
+__TAG__Main_Its_CarBrand_70	Besturn
+__TAG__Main_Its_CarBrand_71	Rely
+__TAG__Main_Its_CarBrand_72	Zotye
+__TAG__Main_Its_CarBrand_73	Lifan
+__TAG__Main_Its_CarBrand_74	Beijing Jeep
+__TAG__Main_Its_CarBrand_75	ZTE
+__TAG__Main_Its_CarBrand_76	Karry
+__TAG__Main_Its_CarBrand_77	Land Rover
+__TAG__Main_Its_CarBrand_78	Maybach
+__TAG__Main_Its_CarBrand_79	Renault
+__TAG__Main_Its_CarBrand_80	OPEL
+__TAG__Main_Its_CarBrand_81	Yema
+__TAG__Main_Its_CarBrand_82	JEEP
+__TAG__Main_Its_CarBrand_83	IVECO
+__TAG__Main_Its_CarBrand_84	Infiniti
+__TAG__Main_Its_CarBrand_85	Subaru
+__TAG__Main_Its_CarBrand_86	Aston Martin
+__TAG__Main_Its_CarBrand_87	Ankai
+__TAG__Main_Its_CarBrand_88	Porsche
+__TAG__Main_Its_CarBrand_89	Bentley
+__TAG__Main_Its_CarBrand_90	Foday
+__TAG__Main_Its_CarBrand_91	Fujian
+__TAG__Main_Its_CarBrand_92	GMC
+__TAG__Main_Its_CarBrand_93	Qoros
+__TAG__Main_Its_CarBrand_94	Guangzhou Automobile
+__TAG__Main_Its_CarBrand_95	Shuanglong
+__TAG__Main_Its_CarBrand_96	Higer
+__TAG__Main_Its_CarBrand_97	Hummer
+__TAG__Main_Its_CarBrand_98	Huatai
+__TAG__Main_Its_CarBrand_99	Huanghai
+__TAG__Main_Its_CarBrand_100	Joylong
+__TAG__Main_Its_CarBrand_101	EVERUS
+__TAG__Main_Its_CarBrand_102	SMART
+__TAG__Main_Its_CarBrand_103	Landwind
+__TAG__Main_Its_CarBrand_104	Luxgen
+__TAG__Main_Its_CarBrand_105	Oley
+__TAG__Main_Its_CarBrand_106	Venucia
+__TAG__Main_Its_CarBrand_107	Haval
+__TAG__Main_Its_CarBrand_108	HOWO
+__TAG__Main_Its_CarBrand_109	Huizhong
+__TAG__Main_Its_CarBrand_110	Jin Long
+__TAG__Main_Its_CarBrand_111	Golden Brigade
+__TAG__Main_Its_CarBrand_112	JAC
+__TAG__Main_Its_CarBrand_113	Jiang Ling
+__TAG__Main_Its_CarBrand_114	Cadillac
+__TAG__Main_Its_CarBrand_115	Cheetah
+__TAG__Main_Its_CarBrand_116	Mini
+__TAG__Main_Its_CarBrand_117	Shaanxi Auto
+__TAG__Main_Its_CarBrand_118	Shaolin
+__TAG__Main_Its_CarBrand_119	Volvo
+__TAG__Main_Its_CarBrand_120	Isuzu
+__TAG__Main_Its_Color_1	White
+__TAG__Main_Its_Color_2	Gray
+__TAG__Main_Its_Color_3	Yellow
+__TAG__Main_Its_Color_4	Pink
+__TAG__Main_Its_Color_5	Red
+__TAG__Main_Its_Color_6	Violet
+__TAG__Main_Its_Color_7	Green
+__TAG__Main_Its_Color_8	Blue
+__TAG__Main_Its_Color_9	Brown
+__TAG__Main_Its_Color_10	Black
+__TAG__Main_Its_Color_11	Silver
+__TAG__Main_Its_Color_12	Cyan
+__TAG__Main_Its_CarType_0	Unknown vehicle type
+__TAG__Main_Its_CarType_1	Bus
+__TAG__Main_Its_CarType_2	Car
+__TAG__Main_Its_CarType_4	Van
+__TAG__Main_Its_CarType_5	Heavy truck
+__TAG__Main_Its_CarType_6	Light truck
+__TAG__Main_Its_CarType_7	Motorcycle
+__TAG__Main_Its_CarType_8	Pedestrian
+__TAG__Main_Its_CarType_9	SUV
+__TAG__Main_Its_CarType_10	Medium passenger car
+__TAG__Main_Its_CarType_11	Trailer

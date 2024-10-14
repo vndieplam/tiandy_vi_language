@@ -1,0 +1,252 @@
+#tag tab name
+
+__TAG__Main_Country_Other	Others
+__TAG__Main_Country_1	Afghanistan
+__TAG__Main_Country_2	Åland lslands
+__TAG__Main_Country_3	Republic of Albania
+__TAG__Main_Country_4	Democratic People's Republic of Algeria
+__TAG__Main_Country_5	American Samoa
+__TAG__Main_Country_6	Principality of Andorra
+__TAG__Main_Country_7	Republic of Angola
+__TAG__Main_Country_8	Anguilla
+__TAG__Main_Country_9	Antarctica
+__TAG__Main_Country_10	Antigua and Barbuda
+__TAG__Main_Country_11	Argentine Republic
+__TAG__Main_Country_12	Republic of Armenia
+__TAG__Main_Country_13	Aruba
+__TAG__Main_Country_14	Commonwealth of Australia
+__TAG__Main_Country_15	Republic of Austria
+__TAG__Main_Country_16	Republic of Azerbaijan
+__TAG__Main_Country_17	commonwealth of the Bahamas
+__TAG__Main_Country_18	state of Bahrain
+__TAG__Main_Country_19	People‘s Republic of Bangladesh
+__TAG__Main_Country_20	Barbados
+__TAG__Main_Country_21	Republic of Belarus
+__TAG__Main_Country_22	Kingdom of Belgium
+__TAG__Main_Country_23	Belize
+__TAG__Main_Country_24	Republic of Benin
+__TAG__Main_Country_25	Bermuda
+__TAG__Main_Country_26	Kingdom of Bhutan
+__TAG__Main_Country_27	Republic of Bolivia 
+__TAG__Main_Country_28	Bonaire, Sint Eustatius and Saba
+__TAG__Main_Country_29	Bosnia and Herzegovina
+__TAG__Main_Country_30	Republic of Botswana
+__TAG__Main_Country_31	Bouvet Island
+__TAG__Main_Country_32	Federative Republic of Brazil
+__TAG__Main_Country_33	British Indian Ocean Territory 
+__TAG__Main_Country_34	Brunei Darussalam
+__TAG__Main_Country_35	Republic of Bulgaria
+__TAG__Main_Country_36	Burkina Faso
+__TAG__Main_Country_37	Republic of Burundi
+__TAG__Main_Country_38	Republic of Cabo Verde
+__TAG__Main_Country_39	Kingdom of Cambodia
+__TAG__Main_Country_40	Republic of Cameroon
+__TAG__Main_Country_41	Canada
+__TAG__Main_Country_42	Cayman Islands
+__TAG__Main_Country_43	Central African Republic
+__TAG__Main_Country_44	Republic of Chad
+__TAG__Main_Country_45	Republic of Chile
+__TAG__Main_Country_46	People's Republic of China
+__TAG__Main_Country_47	Christmas Island
+__TAG__Main_Country_48	Cocos (Keeling) Islands
+__TAG__Main_Country_49	Republic of Colombia
+__TAG__Main_Country_50	Islamic Federal Republic of the Comoros 
+__TAG__Main_Country_51	Democratic Republic of Congo 
+__TAG__Main_Country_52	Republic of Congo 
+__TAG__Main_Country_53	Cook Islands
+__TAG__Main_Country_54	Republic of Costa Rica
+__TAG__Main_Country_55	Republic of Côte d'Ivoire
+__TAG__Main_Country_56	Republic of Croatia
+__TAG__Main_Country_57	Republic of Cuba
+__TAG__Main_Country_58	Curaçao
+__TAG__Main_Country_59	Republic of Cyprus
+__TAG__Main_Country_60	Czech Repblic
+__TAG__Main_Country_61	Kingdom od Denmark
+__TAG__Main_Country_62	Republic of Djibouti
+__TAG__Main_Country_63	Commonwealth of Dominica
+__TAG__Main_Country_64	Dominican Republic
+__TAG__Main_Country_65	Republic of Ecuador
+__TAG__Main_Country_66	Arab Republic of Egypt
+__TAG__Main_Country_67	Republic of El Salvador
+__TAG__Main_Country_68	Republic of Equatorial Guinea
+__TAG__Main_Country_69	state of Eritrea
+__TAG__Main_Country_70	Republic of Estonia
+__TAG__Main_Country_71	Eswatini
+__TAG__Main_Country_72	Federal Democratic Republic of Ethiopia
+__TAG__Main_Country_73	Falkland Islands [Malvinas]
+__TAG__Main_Country_74	Faroe Islands
+__TAG__Main_Country_75	Republic of the Fiji Islands
+__TAG__Main_Country_76	Republic of Finland
+__TAG__Main_Country_77	France Republic
+__TAG__Main_Country_78	French Guiana
+__TAG__Main_Country_79	French Polynesia
+__TAG__Main_Country_80	French Southern Territories
+__TAG__Main_Country_81	Gabonese Republic
+__TAG__Main_Country_82	Republic of the Gambia 
+__TAG__Main_Country_83	Georgia
+__TAG__Main_Country_84	Federal Republic of Germany
+__TAG__Main_Country_85	Republic of Ghana
+__TAG__Main_Country_86	Gibraltar
+__TAG__Main_Country_87	Hellenic Republic
+__TAG__Main_Country_88	Greenland
+__TAG__Main_Country_89	Grenada
+__TAG__Main_Country_90	Guadeloupe
+__TAG__Main_Country_91	Guam
+__TAG__Main_Country_92	Republic of Guatemala
+__TAG__Main_Country_93	Guernsey
+__TAG__Main_Country_94	Republic of Guinea
+__TAG__Main_Country_95	Republic of Guinea-Bissau
+__TAG__Main_Country_96	Cooperative Republic of Guyana
+__TAG__Main_Country_97	Republic of Haiti
+__TAG__Main_Country_98	Heard Island and McDonald Islands
+__TAG__Main_Country_99	Vatican City State
+__TAG__Main_Country_100	Republic of Honduras
+__TAG__Main_Country_101	Hong Kong Special Administrative Region of China
+__TAG__Main_Country_102	Republic of Hungary
+__TAG__Main_Country_103	Republic of Iceland
+__TAG__Main_Country_104	Republic India
+__TAG__Main_Country_105	Republic of Indonesia
+__TAG__Main_Country_106	Islamic Republic of Iran 
+__TAG__Main_Country_107	Republic of Iraq
+__TAG__Main_Country_108	Ireland
+__TAG__Main_Country_109	Isle of Man
+__TAG__Main_Country_110	State of Israel
+__TAG__Main_Country_111	Italian Republic
+__TAG__Main_Country_112	Jamaica
+__TAG__Main_Country_113	Japan
+__TAG__Main_Country_114	Jersey
+__TAG__Main_Country_115	Hashemite Kingdom of Jordan
+__TAG__Main_Country_116	Republic of Kazakhstan
+__TAG__Main_Country_117	Republic of Kenya
+__TAG__Main_Country_118	Republic of Kiribati
+__TAG__Main_Country_119	Democratic People's Republic of Korea 
+__TAG__Main_Country_120	Republic of Korea
+__TAG__Main_Country_121	State of Kuwait
+__TAG__Main_Country_122	Kyrgyzstan Republic
+__TAG__Main_Country_123	Lao People's Democratic Republic 
+__TAG__Main_Country_124	Republic of Latvia
+__TAG__Main_Country_125	Lebanon Republic
+__TAG__Main_Country_126	Kingdom of Lesotho
+__TAG__Main_Country_127	Republic of Liberia
+__TAG__Main_Country_128	Great Socialist People's Libyan Arab Jamahiriya
+__TAG__Main_Country_129	Principality of Liechtenstein
+__TAG__Main_Country_130	Republic of Lithuania
+__TAG__Main_Country_131	Grand Duchy of Luxembourg
+__TAG__Main_Country_132	Macao Special Administrative Region of China
+__TAG__Main_Country_133	Republic of Madagascar
+__TAG__Main_Country_134	Republic of Malawi
+__TAG__Main_Country_135	Malaysia
+__TAG__Main_Country_136	Republic of Maldives
+__TAG__Main_Country_137	Republic of Mali
+__TAG__Main_Country_138	Rrpublic of Malta
+__TAG__Main_Country_139	Republic of the Marshall Islands 
+__TAG__Main_Country_140	Martinique
+__TAG__Main_Country_141	Islamic Republic of Mauritania
+__TAG__Main_Country_142	Republic of Mauritius
+__TAG__Main_Country_143	Mayotte
+__TAG__Main_Country_144	United States of Mexico
+__TAG__Main_Country_145	Federated States of Micronesia 
+__TAG__Main_Country_146	Republic of Moldova 
+__TAG__Main_Country_147	Principality of  Monaco
+__TAG__Main_Country_148	Mongolia
+__TAG__Main_Country_149	Montenegro
+__TAG__Main_Country_150	Montserrat
+__TAG__Main_Country_151	Kingdom of Morocco
+__TAG__Main_Country_152	Republic of  Mozambique
+__TAG__Main_Country_153	Union of Myanmar
+__TAG__Main_Country_154	Republic of Namibia
+__TAG__Main_Country_155	Republic of Nauru
+__TAG__Main_Country_156	Kingdom of  Nepal
+__TAG__Main_Country_157	Kingdom of the Netherlands 
+__TAG__Main_Country_158	New Caledonia
+__TAG__Main_Country_159	New Zealand
+__TAG__Main_Country_160	Republic of Nicaragua
+__TAG__Main_Country_161	Republic of Niger
+__TAG__Main_Country_162	Federal Republic of Nigeria
+__TAG__Main_Country_163	Niue
+__TAG__Main_Country_164	Norfolk Island
+__TAG__Main_Country_165	The former Yugoslav Republic of Macedonia
+__TAG__Main_Country_166	Commonwealth of the Northern Mariana Islands 
+__TAG__Main_Country_167	Kingdom of Norway
+__TAG__Main_Country_168	Sultanate of Oman
+__TAG__Main_Country_169	Islamic Rrpublic of Pakistan
+__TAG__Main_Country_170	Republic of Palau
+__TAG__Main_Country_171	State of Palestine
+__TAG__Main_Country_172	Republic of Panama
+__TAG__Main_Country_173	Independent State of Papua New Guinea
+__TAG__Main_Country_174	Republic of Paraguay
+__TAG__Main_Country_175	Republic of Peru
+__TAG__Main_Country_176	Republic of the Philippines 
+__TAG__Main_Country_177	Pitcairn
+__TAG__Main_Country_178	Republic of Poland
+__TAG__Main_Country_179	Portuguese Republic 
+__TAG__Main_Country_180	Puerto Rico
+__TAG__Main_Country_181	State of  Qatar
+__TAG__Main_Country_182	Réunion
+__TAG__Main_Country_183	Romania
+__TAG__Main_Country_184	Russian Federation 
+__TAG__Main_Country_185	Republic of Rwanda
+__TAG__Main_Country_186	Saint Barthélemy
+__TAG__Main_Country_187	Saint Helena
+__TAG__Main_Country_188	Federation of Saint Kitts and Nevis
+__TAG__Main_Country_189	Saint Lucia
+__TAG__Main_Country_190	Saint Martin (French part)
+__TAG__Main_Country_191	Saint Pierre and Miquelon
+__TAG__Main_Country_192	Saint Vincent and the Grenadines
+__TAG__Main_Country_193	Independent State of Samoa
+__TAG__Main_Country_194	Republic of San Marino
+__TAG__Main_Country_195	Democratic Republic of Sao Tome and Principe
+__TAG__Main_Country_196	Kingdom of Saudi Arabia
+__TAG__Main_Country_197	Republic of Senegal
+__TAG__Main_Country_198	Serbia
+__TAG__Main_Country_199	Republic of Seychelles
+__TAG__Main_Country_200	Republic of Sierra Leone
+__TAG__Main_Country_201	Republic of Singapore
+__TAG__Main_Country_202	Sint Maarten (Dutch part)
+__TAG__Main_Country_203	Slovakia Republic
+__TAG__Main_Country_204	Republic of Slovenia
+__TAG__Main_Country_205	Solomon Islands
+__TAG__Main_Country_206	Somalia Republic 
+__TAG__Main_Country_207	Republic of South Africa
+__TAG__Main_Country_208	South Georgia and the South Sandwich Islands
+__TAG__Main_Country_209	South Sudan
+__TAG__Main_Country_210	Kingdom of Spain
+__TAG__Main_Country_211	Democratic Socialist Republic of Sri Lanka
+__TAG__Main_Country_212	Republic of Sudan 
+__TAG__Main_Country_213	Republic of Suriname
+__TAG__Main_Country_214	Svalbard and Jan Mayen
+__TAG__Main_Country_215	Kingdom of Sweden
+__TAG__Main_Country_216	Swiss Confederation
+__TAG__Main_Country_217	Syrian Arab Republic
+__TAG__Main_Country_218	Taiwan ,Province of China
+__TAG__Main_Country_219	Republic of Tajikistan
+__TAG__Main_Country_220	United Republic of Tanzania
+__TAG__Main_Country_221	Kingdom of Thailand
+__TAG__Main_Country_222	East Timor
+__TAG__Main_Country_223	Republic of  Togo
+__TAG__Main_Country_224	Tokelau
+__TAG__Main_Country_225	Kingdom of Tonga
+__TAG__Main_Country_226	Republic of Trinidad and Tobago
+__TAG__Main_Country_227	Republic of  Tunisia
+__TAG__Main_Country_228	Republic of Turkey
+__TAG__Main_Country_229	Turkmenistan
+__TAG__Main_Country_230	Turks and Caicos Islands
+__TAG__Main_Country_231	Tuvalu
+__TAG__Main_Country_232	Republic of  Uganda
+__TAG__Main_Country_233	Ukraine
+__TAG__Main_Country_234	United Arab Emirates
+__TAG__Main_Country_235	United Kingdom of Great Britain and Northern Ireland
+__TAG__Main_Country_236	United States Minor Outlying Islands
+__TAG__Main_Country_237	United States of America
+__TAG__Main_Country_238	Oriental Republic of  Uruguay
+__TAG__Main_Country_239	Republic of  Uzbekistan
+__TAG__Main_Country_240	Republic of  Vanuatu
+__TAG__Main_Country_241	Republic of  Venezuela
+__TAG__Main_Country_242	Socialist Republic of  Viet Nam
+__TAG__Main_Country_243	British Virgin Islands
+__TAG__Main_Country_244	Virgin Islands of the United States
+__TAG__Main_Country_245	Wallis and Futuna
+__TAG__Main_Country_246	Western Sahara
+__TAG__Main_Country_247	Republic of  Yemen
+__TAG__Main_Country_248	Republic of  Zambia
+__TAG__Main_Country_249	Republic of  Zimbabwe

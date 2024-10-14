@@ -4004,4 +4004,3 @@ __TAG__Main_Pic_Vin140	Infrared Lamp Power
 __TAG__Main_Pic_Vin142	Close white light time must be earlier than open white light time
 __TAG__Main_Video_Hint	Lưuý: AVI không hỗ trợ ghi định dạng H.265
 __TAG__Main_DDNS_Hint9	Phát hiện, hãy làm điều đó sau
-
