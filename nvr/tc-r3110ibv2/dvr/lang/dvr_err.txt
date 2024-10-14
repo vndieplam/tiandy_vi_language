@@ -1,0 +1,148 @@
+#common
+[0]{Thao tác không thành công: lỗi hệ thống hoặc lỗi tham số.}
+# lưu trữ 1000
+[1001]{Chiến dịch thành công. }
+[1002]{Kênh này hiện đang ghi với các loại bản ghi khác.}
+[1003]{Dung lượng đĩa còn lại không đủ.}
+[1004]{Không có đĩa.}
+[1005]{Loại video này không được bật. }
+[1006]{cổng báo động bị tắt.}
+[1007]{Tính năng ghi video không được bật. }
+[1008]{Kênh này hiện không được ghi.}
+[1009]{Loại dừng ghi không chính xác. }
+[1010]{Thông số sai. }
+[1011]{Mở tệp cơ sở dữ liệu không thành công.}
+[1012]{Tạo bảng chỉ mục không thành công.}
+[1013]{Không có tệp cơ sở dữ liệu.}
+[1014]{Đóng cơ sở dữ liệu không thành công.}
+[1015]{Ghi tệp chỉ mục không thành công.}
+[1016]{Mở tệp thiết bị đĩa không thành công.}
+[1017]{Lỗi hoạt động IO.}
+[1018]{Đọc đĩa MBR không thành công.}
+[1019]{Đĩa MBR không hợp lệ.}
+[1020]{Mở tệp tương tác thất bại. }
+[1021]{Xóa phân vùng đĩa cứng không thành công. }
+[1022]{phân vùng đĩa cứng không thành công. }
+[1023]{Tệp chỉ mục truy vấn không thành công. }
+[1024]{Không nhận được tổng số kết quả truy vấn. }
+[1025]{Không nhận được kết quả truy vấn. }
+[1026]{Tệp không tồn tại. }
+[1027]{Thư mục không tồn tại. }
+[1028]{Gỡ cài đặt NFS không thành công. }
+[1029]{gắn NFS không thành công. }
+[1030]{Không còn chỗ trống để ghi nhưng bạn vẫn có thể chụp được. }
+[1031]{Không đủ chỗ trống trên đĩa để lưu ảnh. }
+[1032]{Tiêu đề khung không hợp lệ. }
+[1033]{Mở tệp không thành công. }
+[1034]{chuyển sang video tua nhanh thời gian cảnh báo. }
+[1035]{Không có tệp chỉ mục.}
+[1036]{Bảng chỉ mục không tồn tại.}
+[1037]{Một số kênh hiện đang ghi.}
+[1038]{Tên tệp không hợp lệ.}
+[1039]{Phân bổ RAM không thành công, dung lượng RAM không đủ.}
+[1040]{Ghi tệp lỗi.}
+[1041]{Không phải khung hình tôi. }
+[1042]{Bản ghi được chỉ định không tồn tại.}
+[1043]{Xây dựng lại chỉ mục.}
+[1044]{Thư mục không trống.}
+[1045]{Đọc tệp lỗi.}
+[1046]{Tạo thư mục không thành công.}
+[1047]{Đĩa được định dạng /phân vùng đang được sử dụng,}
+[1048]{Hệ thống gọi thoát bất thường. }
+[1049]{Đĩa không hợp lệ hoặc thiết lập sai.}
+[1050]{Định dạng các đĩa khác.}
+[1051]{Không thể hỗ trợ thêm thiết bị USB.}
+[1052]{Kết nối VOD đạt giới hạn trên.}
+[1053]{Tệp này là tệp sao lưu, tệp chỉ có thể sao lưu lại trên thiết bị USB.}
+[1054]{Đĩa này không thể được sử dụng để sao lưu.}
+[1055]{Hãy đảm bảo rằng ổ cứng SATA đã được cài đặt trên khoang SATA đầu tiên. }
+[1056]{Tệp chưa sẵn sàng để ghi.}
+[1057]{Ổ ghi CD chưa sẵn sàng.}
+[1058]{Không có đĩa trong ổ ghi CD hoặc đĩa bị hỏng.}
+[1059]{Kích thước tệp vượt quá 4200M, vui lòng chọn lại tệp.}
+[1061]{Quá trình ghi đang diễn ra, vui lòng thử lại sau khi hoàn tất.}
+[1062]{Đang đóng gói, vui lòng chờ ...}
+[1063]{Vui lòng chọn kênh trước.}
+[1064]{Không thể truy vấn tệp phát lại, vui lòng kiểm tra xem ổ đĩa quang đã được cắm chưa và đã lắp đĩa sẵn sàng chưa!}
+[1065]{Lỗi thiết bị, không thể bắt đầu ghi!}
+[1066]{Một số kênh đang ghi không thể ngừng ghi thủ công!}
+[1067]{Kênh được chọn đã được sao chép trong cả CD1 và CD2, vui lòng chọn lại!}
+[1068]{Không cho phép định dạng ổ đĩa cứng trong khi ghi!}
+[1069]{Không cho phép định dạng đĩa cứng trong quá trình xây dựng lại chỉ mục!}
+[1071]{Không thể xóa tệp ghi dưới đây!}
+[1072]{Đĩa không được phép đặt thành đĩa dự phòng /chỉ đọc.}
+[1073]{Ổ cứng không được phép định dạng trong khi tải lên dự phòng nóng!}
+[1099]{Thao tác thất bại.}
+[1101]{Tổng số tệp đã ghi vượt quá 512, vui lòng chọn lại.}
+#alarm 2000
+#ptz 3000
+[3001]{Chiến dịch thành công. }
+[3002]{Tham số sai.}
+[3003]{Mở tệp không thành công.}
+[3004]{Đọc tệp không thành công.}
+[3005]{Ghi tệp không thành công.}
+[3006]{Giao thức PTZ không được hỗ trợ.}
+[3007]{Tạo mã kiểm soát không thành công.}
+[3008]{Không thể ghi dữ liệu vào cổng nối tiếp. }
+[3009]{Chức năng bị tắt.}
+[3010]{Giao thức đang được sử dụng, không thể xóa.} 
+[3011]{Thiết bị hỗ trợ tối đa 64 giao thức.}
+[3999]{Thao tác không thành công do hệ thống bận.}
+#log 4000
+#system 5000
+[5001]{Chiến dịch đã thành công.}
+[5002]{Tham số sai.}
+[5003]{Mở tệp lỗi.}
+[5004]{Ghi tệp lỗi.}
+[5005]{Đọc tệp lỗi.}
+[5006]{Lỗi giao tiếp phần cứng.}
+[5007]{Không có thiết bị USB khả dụng.}
+[5008]{Không thể kết nối với máy chủ FTP được chỉ định.}
+[5009]{Không thể tìm thấy tệp nâng cấp có sẵn.}
+[5010]{Các máy trạm khác đang thực hiện nâng cấp. }
+[5011]{Không nhận được tệp nâng cấp từ máy chủ FTP.}
+[5012]{Chỉ có chữ cái và chữ số được phép cho tên tệp.}
+[5025]{Cài đặt mẫu ghi cục bộ.}
+#exception 6000
+[6001]{TWinPlayer đã bị xóa, vui lòng tải lên lại}
+#serial 7000
+
+#user  9000
+[9001]{Không được phép, hoạt động thất bại!}
+#view 10000
+[10001]{Số màn hình tối đa là 32.}
+[10002]{Hiệu suất xem trước bị giới hạn. }
+#media 11000
+[11001]{Tốc độ bit phải nhỏ hơn 500kbps khi tốc độ khung hình nhỏ hơn 5.}
+[11002]{Tổng bit của tất cả các kênh phải nhỏ hơn 40960kbps.}
+[11003]{OSD là không hợp lệ hoặc chồng chéo! Vui lòng kiểm tra tên kênh và cài đặt vị trí của tên kênh, ngày, giờ và văn bản.}
+[11004]{Loại luồng không được hỗ trợ. }
+[11005]{Chế độ nén âm thanh không được hỗ trợ.}
+[11006]{Chế độ mã hóa âm thanh không có sẵn để sửa đổi khi đàm thoại.}
+[11007]{Kênh bị tắt.}
+[11008]{Kênh bị ngắt kết nối.}
+[11009]{Video Analytics không khả dụng ở độ phân giải video của kênh hiện tại}
+[11010]{Hiệu suất giải mã đã đạt đến giới hạn, hãy tắt một số kênh.}
+[11011]{NVR VCA không khả dụng khi kênh VC được mở.}
+[11012]{Phân tích video của NVR không khả dụng}
+[11014]{NVR VCA không được hỗ trợ chế độ mã hóa.}
+[11015]{IPC không khả dụng}
+[11016]{Giải mã đạt đến giới hạn, phân tích video NVR không khả dụng}
+[11017]{IPC không hỗ trợ việc kích hoạt đồng thời tính năng phân tích video thông minh và vai trò giao tiếp. }
+#network 12000
+[12001]{Trường địa chỉ IP đầu tiên không nằm trong số từ 1 đến 223.}
+[12002]{Đây không phải là kết hợp hợp lệ cho địa chỉ mạng và mặt nạ.}
+[12003]{Địa chỉ IP vượt quá 255.}
+[12004]{Cài đặt thông số NTP không hợp lệ.}
+[12005]{Khoảng cách thời gian NTP không nằm trong khoảng từ 1 đến 720.}
+[12008]{Địa chỉ IP và gateway không nằm trong cùng dải.}
+[12009]{ubnet mask không hợp lệ.}
+[12010]{Địa chỉ IP của hai NIC không thể ở trong cùng một phân đoạn mạng.}
+[12013]{Địa chỉ mạng IPv6 không hợp lệ}
+#vcaface 14000
+[14001]{Giới hạn tính năng phát hiện khuôn mặt NVR.}
+[14002]{Giới hạn tính năng nhận dạng khuôn mặt NVR.}
+[1074]{Không được phép định dạng đĩa cứng trong quá trình tải lên ảnh nền khuôn mặt!}
+
+
+
