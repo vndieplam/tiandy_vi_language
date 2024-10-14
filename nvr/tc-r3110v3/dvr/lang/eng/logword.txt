@@ -1,0 +1,2 @@
+﻿System	Warning	Alarm	Operation	User	Other
+No.           Channel              Type       Time                        User            Content

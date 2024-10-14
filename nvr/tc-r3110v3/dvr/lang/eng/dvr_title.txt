@@ -1,0 +1,522 @@
+﻿#name	:	text
+
+DVR_CALENDER_SUN	:	Sun
+DVR_CALENDER_MON	:	Mon
+DVR_CALENDER_TUE	:	Tue
+DVR_CALENDER_WED	:	Wed
+DVR_CALENDER_THU	:	Thu
+DVR_CALENDER_FRI	:	Fri
+DVR_CALENDER_SAT	:	Sat
+DVR_CALENDER_XQI	:	Week
+
+DVR_CALENDER_YEAR	:	Year
+DVR_CALENDER_MONTH	:	Month
+DVR_CALENDER_DAY	:	Day
+
+DVR_GUI_USER_COMMOM	:	Guest
+DVR_GUI_USER_PRI	:	Basic User
+DVR_GUI_USER_SUPPER	:	Super User
+DVR_GUI_USER_ADMIN	:	Administrator
+DVR_GUI_USER_DEFAULT	:	Default User
+
+
+DVR_LED_SNAP_HINT1	:	Snapshot Successed!
+DVR_LED_SNAP_HINT2	:	Snapshot Failed!
+DVR_GUI_SOONPLAY_NOVIDEO_HINT	:	Instant playback failed
+DVR_GUI_TALKSTART_FAILE_HINT	:	Failed to start intercom
+DVR_GUI_TALKSTOP_FAILE_HINT	:	Failed to stop intercom
+DVR_GUI_TALKOVER_FAILE_HINT	:	Stop intercom
+DVR_GUI_TALKING_HINT	:	Channel %d is currently talking
+
+DVR_LED_REC_TYPE_HINT4	:	Customized Recording
+
+DVR_MAIN_CTRL_MV_ACT	:	UI Activated!
+DVR_MAIN_CTRL_MV_BNC	:	UI switch to %s
+DVR_MAIN_CTRL_MV_VGA	:	UI switch to %s
+
+DVR_SYSMSG_FULL_DISK	:	Disk space is full, please check.
+DVR_SYSMSG_NONE_DISK	:	No valid disk. Check if the disk has been removed or if the Disk Group is not configured to record channels.
+DVR_SYSMSG_IORW_ERROR	:	I/O error, please check the disks.
+DVR_SYSMSG_ILL_ACCESS	:	Illegal access detected, please contact administrator.
+DVR_SYSMSG_IP_CONFLICT	:	IP address conflict, please check the network config.
+DVR_SYSMSG_NET_ERROR	:	Network interrupted, please contact administrator.
+DVR_SYSMSG_UI_ISBUSY	:	Please reboot system to speed up UI.
+DVR_SYSMSG_NO_REDUNDANCYDISK	:	No redundant disk.
+DVR_SYSMSG_MAC_CONFLICT	:	MAC address conflict, please check the network config.
+DVR_SYSMSG_RAID_ERROR	:	Array is abnormal, please check disk Setting.
+DVR_SYSMSG_HOTSPARE_ERROR	:	Hot-spare is abnormal.
+DVR_SYSMSG_POE_ERROR	:	POE power overloaded!
+DVR_SYSMSG_DISKUPLOAD_ERROR	:	Disk performance is overloaded.
+DVR_SYSMSG_DISKTEMPE_ERROR	:	The disk's temperature is abnormal. Please check the disk's temperature.
+
+DVR_SYSMSG_EXCEPTION	:	System exception!
+
+DVR_SYSSET_PPPOE_STAT1	:	Connecting...
+DVR_SYSSET_PPPOE_STAT2	:	Connected
+DVR_SYSSET_PPPOE_STAT3	:	Disconnected
+DVR_SYSSET_PPPOE_STAT4	:	Unknown state
+DVR_VIDEO_PWD_HINT_CHN	:	Current channel
+DVR_VIDEO_PWD_HINT_SCR	:	Screen
+DVR_VIDEO_PWD_HINT_ALL	:	All
+
+DVR_INPUTMETHOD_PINYIN	:	spell:
+
+DVR_SHOW_TEMPERATURE	:	Temperature
+DVR_SHOW_HUMIDITY	:	Humidity
+DVR_SHOW_TEMPERATURE_1	:	℃
+
+DVR_WIN_ERR_HINT	:	Get parameter error, please retry.
+DVR_USER_UI_TIME_OUT	:	UI time out
+DVR_MOUSE_ON_BNC	:	%s is under control.Double click the middle mouse button to return to the current screen.
+DVR_MOUSE_ON_VGA	:	%s is under control.Double click the middle mouse button to return to the current screen.
+DVR_CLOSE_SYS_CONFRIM	:	Shutdown Confirmation
+DVR_REBOOT_SYS_CONFRIM	:	Reboot Confirmation
+DVR_GUI_REBOOT_HINT	:	Rebooting...
+DVR_GUI_POWER_OFF_HINT	:	Shutting down...
+DVR_GUI_POWER_OFF_HINT1	:	equipment turned off, please shut down power......
+
+DVR_TOUCHPAD_ADJ_HINT	:	[Touch screen calibration]
+DVR_TOUCH_BLOCK_HINT	:	Please touch the center of the glittery block till progress bar is full
+DVR_TOUCH_SAVE_HINT	:	The screen calibration is already finished, save setting?
+DVR_TOUCH_OK_CANCEL	:	Confirm  Cancel
+DVR_TOUCH_EXIT_HINT	:	Press ESC or click mouse to quit.
+
+DVR_ERROR_TABLE_UNKNOWN	:	Unknown error
+
+DVR_PREVIEW_MSG_CHECK3	:	Bit-rate limit reached, digital channel connect failed
+
+
+DVR_CHN_PRIVATE_PROTOCOL	:	Private
+
+DVR_ALARMOUT_LOCAL	:	Local
+DVR_MANUAL_ALARM_TOUCH	:	Activate
+DVR_MANUAL_ALARM_CLEAR	:	Clear
+
+DVR_SE_WM_SETERR	:	Wrong setting!
+DVR_SE_WM_SETERRMSG	:	This equipment can only bind one serial port, please set again.
+DVR_SET_REBOOT_CONFIRM	:	Reboot to take effect on setting, reboot?
+
+DVR_SYNCPLAYER_HINT1	:	Select up to %d channel for synchronous playback.
+DVR_SYNCPLAYER_HINT2	:	No file meets the query condition.
+DVR_SYNCPLAYER_HINT3	:	Please select a backup path.
+DVR_SYNCPLAYER_HINT4	:	Please select the channel!
+DVR_SYNCPLAYER_HINT5	:	Start time is equal to/later than End time, please reset!
+DVR_SYNCPLAYER_HINT6	:	Decoding performance reach limit, and some channels are automatically stopped for playback or the speed is automatically adjusted.
+DVR_SYNCPLAYER_HINT7	:	Decoding performance reach limit, E-zoom is not available.
+
+DVR_CHANNEL_ADDTYPE_CHO	:	Please select adding rule.
+DVR_CHANNEL_ADDTYPE_ERR	:	Add rule error
+
+
+DVR_DISK_SMART_MSG1	:	Successed
+DVR_DISK_SMART_MSG2	:	Failed
+DVR_DISK_SMART_MSG3	:	Good
+DVR_DISK_SMART_MSG4	:	Disk problem
+
+DVR_GUI_VIDEOIN_HINT	:	This channel is a digital or virtual channel, and the input format does not support automatic detection.
+DVR_GUI_TM_SET_ERR	:	Time period is incorrect.
+
+DVR_GUI_TM_OVERLAP	:	Time period is overlapped.
+DVR_GUI_TM_INVAILD_HINT	:	Time format is illegal, please check and retry.
+DVR_GUI_TM_SET_HINT	:	Date/Time format is illegal, please check and retry.
+DVR_GUI_TM_REMAIN_HINT	:	Time length range:0-%d, please reset.
+
+DVR_GUI_TM_POINT_EQUAL	:	The time point is existing.
+
+DVR_GUI_FILE_DIAG_DIR	:	Folder
+
+DVR_GUI_FILE_DIAG_FILE	:	File
+DVR_GUI_FILE_DIAG_OTHER	:	Other
+DVR_GUI_FILE_DIAG_HINT1	:	Please select the file to delete!
+
+DVR_GUI_CHN_MNT_SET_ERR	:	Channel setting failed, please return and try again!
+DVR_GUI_SET_ERR_HINT	:	Setting failed,please try again!
+DVR_GUI_SYMBOL_ERR_HINT	:	Operation failed:parameter error!
+
+DVR_GUI_VIDEO_PWD_HINT0	:	The password entered is incorrect, please enter again!
+DVR_GUI_VIDEO_PWD_HINT1	:	Password setting failed, please set again.
+
+DVR_GUI_USER_ERR_HINT0	:	The input password is not the same as first time, please input again.
+DVR_GUI_USER_ERR_HINT1	:	The number of users has reached its upper limit.
+DVR_GUI_USER_ERR_HINT2	:	ID name is existed, please change another name.
+DVR_GUI_USER_ERR_HINT3	:	Illegal ID and password, new ID adding is not available, please retry.
+DVR_GUI_USER_ERR_HINT4	:	Unable to modify the specified user information or there is an error in submitting the data, please try again.
+DVR_GUI_USER_ERR_HINT5	:	Unable to delete the specified user/user name does not exist
+DVR_GUI_VIDEO_BURN_HINT	:	Encryption is not allowed in the burning process!
+
+DVR_GUI_LOG_TM_ERR	:	Wrong date and time format, please re-enter.
+DVR_GUI_DISK_SET_HINT1	:	Only one disk can be selected.
+DVR_GUI_DISK_SET_HINT2	:	Please choose disk.
+DVR_GUI_BAKEUP_OK	:	Copy complete.
+
+DVR_GUI_SNATCH_PLAY_ERR	:	Please choose a file.
+DVR_GUI_SYS_NAME_NULL	:	The alias is empty, please enter an alias
+
+DVR_GUI_SYNC_CLIP_HINT0	:	Clip saved successfully!
+DVR_GUI_SYNC_CLIP_HINT1	:	Clip saving failed!
+DVR_GUI_SYNC_CLIP_HINT2	:	Disk full or media error!
+DVR_GUI_DEV_TEMP	:	°C
+DVR_GUI_SYMBOL_ERR	:	Illegal parameter
+DVR_GUI_USER_ERR	:	No permission, please change another ID.
+
+DVR_GUI_SMART_ERR	:	Failed to start S.M.A.R.T. detection.
+
+DVR_GUI_PREVIEWCUT_ERR3	:	Digital channel %d has no video connection.
+
+
+DVR_GUI_LOG_QUERY	:	Please query log first.
+
+
+DVR_GUI_SHORT_CUT_PTZ_AUTO	:	Automatic Scanning
+DVR_GUI_SHORT_CUT_REC_START	:	Start Manual Recording
+DVR_GUI_SHORT_CUT_REC_STOP	:	Stop Manual Recording
+DVR_GUI_SHORT_REC_STOP_ERR	:	Stopping manual recording failed
+DVR_GUI_SHORT_REC_START_ERR	:	Starting manual recording failed
+
+DVR_GUI_SHORT_MAN_SNATCH	:	Manual Snapshot
+DVR_GUI_SHORT_VIDO_PLAY	:	Instant playback
+DVR_GUI_SHORT_MAN_TALK	:	Start talkback
+DVR_GUI_SHORT_MAN_TALKSTOP	:	End talkback
+DVR_GUI_SHORT_MAN_EZOOM	:	E-Zoom
+DVR_GUI_SHORT_MAN_CODE	:	Stream Parameter
+
+DVR_GUI_SOON_VIDEO_PLAY	:	Play
+DVR_GUI_SOON_VIDEO_PAUSE	:	Pause
+DVR_GUI_SOON_VIDEO_EXIT	:	Exit
+
+
+DVR_GUI_HAVE_NOT_PLAY_RIGHT	:	The current user has no playback permission for this channel.
+
+DVR_GUI_HAVE_NOT_RIGHT	:	No permission to operate.
+
+DVR_GUI_MAIN_INQUEST0	:	Confirm
+DVR_GUI_MAIN_INQUEST1	:	Cancel
+
+DVR_GUI_VIDEO_CLIP_ERR	:	Please select the clip files to backup.
+DVR_PREVIEW_LIMIT_MSG	:	Preview performance is limited
+
+
+DVR_GUI_VCA_STATE0	:	End
+DVR_GUI_VCA_STATE1	:	Start
+DVR_GUI_VCA_TYPE0	:	Unknown
+
+DVR_GUI_VCA_EVENT0	:	Tripwire
+DVR_GUI_VCA_EVENT1	:	Double Tripwire
+
+DVR_GUI_LOGEXPORT_FAILED	:	Log export failed
+
+DVR_GUI_SNAPSETTING_ERROR	:	Snapshot setting parameters are incorrect, please try again.
+DVR_GUI_VDEC_LIMIT	:	Decoding performance reached limit, switch to a secondary stream or reduce the resolution.
+
+DVR_GUI_FORMAT_DISK_ERR	:	Format disk
+
+DVR_GUI_INVALID_IP	:	Invalid IP, please reset.
+
+DVR_GUI_DISK_STATE0	:	CD-ROM is idle.
+DVR_GUI_DISK_STATE1	:	CD is under burning process.
+DVR_GUI_DISK_STATE2	:	Backup complete.
+DVR_GUI_DISK_STATE3	:	Backup error.
+DVR_GUI_DISK_STATE4	:	One CD has been backed up, please change the disk.
+
+DVR_GUI__BACKUP_STATE2	:	Backup completed!
+DVR_GUI__BACKUP_STATE3	:	Failed to back up recording files, media error or the disk is full.
+
+DVR_GUI_HOLIDAY_STATE_ENABLE	:	Start
+DVR_GUI_HOLIDAY_STATE_DISABLE	:	Close
+
+DVR_GUI_DISK_GROUP_CHN_ERR	:	Channel %s has no specified disk for video recording, do you want to continue?
+
+DVR_GUI_DISK_QUOTA_CHN_ERR	:	The recording space of the current channel is larger than the allocated quota, please delete some recording files to release space, do you want to continue?
+
+DVR_GUI_DISK_QUOTA_CPCHN_ERR	:	Channel %s recording space is larger than the allocated quota, need to delete some record files, do you want to continue?
+
+DVR_GUI_DISK_USAGE_REC	:	Record
+DVR_GUI_DISK_USAGE_REDUNDANCE	:	Redundant
+DVR_GUI_DISK_USAGE_BAKEUP	:	Backup
+DVR_GUI_DISK_USAGE_READONLY	:	Read only
+
+
+DVR_PLAYBACK_REVERSE_ERR	:	Failure of operation
+
+
+DVR_MD_SENSITIVE_ERR	:	Sensitivity parameter setting illegal, please return to retry
+
+DVR_GUI_MAINTAIN_UPOK_HINT0	:	Uploaded successfully.
+DVR_GUI_MAINTAIN_UPFAILUE_HINT1	:	Upload failed, please re-upload.
+
+
+DVR_SYSMSG_POWER_LOWER	:	The current device power supply voltage value reaches the preset low voltage alarm value.
+
+DVR_GUI__Video_TypeTm2	:	Customized 1
+DVR_GUI__Video_TypeTm3	:	Customized 2
+DVR_GUI_START_REC_CONFIRM	:	Start all channels all day %s?
+
+
+DVR_GUI_NETSTATCHECK	:	Network Card %d
+DVR_GUI_NETSTATCHECK1	:	Destination address is unreachable!
+DVR_GUI_NETSTATCHECK2	:	 Average delay: %d MS;Package loss ratio :%d%%
+DVR_GUI_NETSTATCHECK3	:	Capture backup complete
+DVR_GUI_NETSTATCHECK4	:	Capture backup fail
+DVR_GUI_NETSTATCHECK5	:	%s: network normal
+DVR_GUI_NETSTATCHECK6	:	%s: network card is unreachable
+DVR_GUI_NETSTATCHECK7	:	%s: DNS is unreachable
+DVR_GUI_NETSTATCHECK8	:	%s: external network is unreachable
+
+
+DVR_GUI_VPTAG_ADD_SUC	:	Add tag successed.
+DVR_GUI_VPTAG_ADD_MAX_PF	:	Each video file add 64 tags maximum
+DVR_GUI_OPER_ERR	:	Operation failed, please retry later!
+DVR_GUI_VPTAG_ADD_RECING	:	Tag cannot be added to the videorecording file
+DVR_GUI_VPTAG_ADD_MAX_PP	:	Each replay add %d tags maximum
+DVR_GUI_VPTAG_ADD_ERR	:	Tag name cannot be null
+DVR_GUI_NETSTATCHECK9	:	Digital Channel Access
+DVR_GUI_NETSTATCHECK10	:	Remote Preview
+DVR_GUI_NETSTATCHECK11	:	Remote Replay and Download
+DVR_GUI_NETSTATCHECK12	:	Network Receiving Remaining
+DVR_GUI_NETSTATCHECK13	:	Network Sending Remaining
+
+
+DVR_GUI_IPC_PARA_INPUT	:	Importing parameters will cause the front-end IPC to restart. Do you want to continue?
+
+DVR_GUI_IPC_PARA_INPUT_OK	:	Import parameters successfully
+
+DVR_GUI_DISK_CD_STA_NOR	:	Normal
+DVR_GUI_DISK_CD_STA_EXC	:	System Alert
+
+DVR_GUI_VIDEO_BACKUP	:	Video record backup
+DVR_GUI_PIC_BAKCUP	:	Picture backup
+
+DVR_CHN_SRH_ADD	:	There are no extra channels available, please delete some channels manually.
+
+DVR_GUI_RAID_DISKTYPE1	:	Free disk
+DVR_GUI_RAID_DISKTYPE2	:	Array disk
+DVR_GUI_RAID_DISKTYPE3	:	Array spare
+DVR_GUI_RAID_DISKTYPE4	:	Global spare
+DVR_GUI_RAID_DISKTYPE5	:	Invalid array disk
+DVR_GUI_RAID_DISKTYPE6	:	Fault disk
+
+DVR_GUI_RAID_HINT0	:	One-click array configuration requires at least 4 hard drives.
+DVR_GUI_RAID_HINT1	:	If disk capacity is smaller than any disk in array,  setting of global spare falis.
+DVR_GUI_RAID_HINT2	:	Fault disk is not operated in this way.
+DVR_GUI_RAID_HINT3	:	If disk capacity is smaller than any disk in array,  setting of global spare falis.
+DVR_GUI_RAID_HINT4	:	Downgrade
+DVR_GUI_RAID_HINT5	:	Damage
+DVR_GUI_RAID_HINT6	:	Initializing%d%%,Minutes remaining%d.
+DVR_GUI_RAID_HINT7	:	Recreating%d%%,Minutes remaining%d.
+DVR_GUI_RAID_HINT8	:	Creation of JBOD array only contains one physical disk, please reselect.
+DVR_GUI_RAID_HINT9	:	Creating RAID0 requires at least two hard drives, please select again.
+DVR_GUI_RAID_HINT10	:	Only two hard drives can be selected to create RAID1. Please select again.
+DVR_GUI_RAID_HINT11	:	Creating RAID5 requires at least three hard drives, please select again.
+DVR_GUI_RAID_HINT11.0	:	At least four hard drives are required to create RAID6, please select again.
+DVR_GUI_RAID_HINT12	:	Only four hard drives can be selected to create RAID10, please select again.
+DVR_GUI_RAID_HINT13	:	Please select the array first.
+DVR_GUI_RAID_HINT14	:	Create up to 8 arrays.
+DVR_GUI_RAID_HINT15	:	Downgrades or damaged arrays are recreated manually only.
+DVR_GUI_RAID_HINT16	:	Off line
+
+DVR_GUI_RAID_HINT22	:	The array name already exists, please rename it.
+
+DVR_GUI_RAID_HINT24	:	Setting of free disk of hot spare is successful.
+DVR_GUI_RAID_HINT25	:	Global spare configuration array is saved.
+DVR_GUI_RAID_HINT26	:	Setting of local spare is successful.
+DVR_GUI_RAID_HINT27	:	Array is created successfully.
+
+DVR_GUI_RAID_HINT30	:	Setting of free disk of hot spare fails.
+DVR_GUI_RAID_HINT31	:	Setting of global spare fails.
+DVR_GUI_RAID_HINT32	:	Setting of local spare fails.
+DVR_GUI_RAID_HINT33	:	Rebuilding the array was successful.
+DVR_GUI_RAID_HINT34	:	Rebuilding array failed.
+
+DVR_GUI_RAID_HINT37	:	Hot-spare setting cannot be carried out for array disk.
+DVR_GUI_RAID_HINT38	:	Health warnings
+
+DVR_GUI_RAID_HINT40	:	Please enter array name
+DVR_GUI_RAID_HINT41	:	To delete the array, please delete the virtual disk created by the array first.
+
+DVR_GUI_RAID_HINT43	:	Configuring the array with one click.
+
+DVR_GUI_HOTSPARE_ONLINE	:	On line
+DVR_GUI_HOTSPARE_OFFLINE	:	Off line
+DVR_GUI_HOTSPARE_HINT0	:	Connection failed
+DVR_GUI_HOTSPARE_HINT1	:	Connection succeeded
+DVR_GUI_HOTSPARE_HINT2	:	Synchronizing
+DVR_GUI_HOTSPARE_HINT3	:	Hot sparing
+DVR_GUI_HOTSPARE_HINT4	:	Performing backup
+DVR_GUI_HOTSPARE_HINT5	:	Please select a list item first
+DVR_GUI_HOTSPARE_HINT6	:	Added
+
+
+
+DVR_GUI_SHORT_DIGCHN_INFOR	:	Channel Information
+DVR_GUI_POE_MSG	:	Device POE rated power is
+DVR_PICPLAYER_HINT0	:	No file found.
+DVR_OVERFLOW_4SEGMENTS	:	Supports up to 4 arming time periods
+DVR_PSE_INTERFACE	:	POE LAN Card
+DVR_GUI_NOTSUPPORT_EZOOM	:	E-zoom is unavailable under this resolution.
+DVR_GUI_PLAY_REINDEXING	:	Recording is unavailable when rebuilding index.
+
+DVR_GUI_PWD_WEAK	:	Poor
+DVR_GUI_PWD_AVERAGE	:	Normal
+DVR_GUI_PWD_STRONG	:	Strong
+
+DVR_GUI_VP_VCAPLATE_ERR	:	Please input quiried plate number.
+DVR_GUI_PTZ_LINK_MAXNUM	:	PTZ support max 64-channel activation.
+
+DVR_GUI_UNLOADDISK_HINT2	:	Operation failed, please DO NOT remove the disk
+
+DVR_VP_VCA_HINT	:	Please select recorded channel.
+DVR_GUI_VCA_SIZE_HINT	:	Tripwire min time interval must between %d and %d!
+DVR_GUI_VCA_SIZE_HINT0	:	Tripwire max time interval must between %d and %d!
+DVR_VP_VCA_PASSWD_HINT	:	Data encryption!
+
+DVR_GUI_VCA_DRAW_UNFINISH	:	Not mapped!
+DVR_GUI_VCA_DRAW_AREA	:	Please draw area first!
+DVR_GUI_VCA_DRAW_CNTLINE	:	Please draw the counting line in detection area!
+DVR_GUI_VCA_DRAW_VIRCIRCLE	:	Please draw a virtual loop in the detection area!
+
+DVR_GUI_MVCOVER_NOCHAN	:	No cameras have been added that support this feature!
+DVR_GUI_MVCOVER_MAXAREA	:	Max area number supports 24 !
+
+DVR_GUI_USER_HINT0	:	The password you entered is incorrect. It will be locked after %d times for 5 minutes!
+DVR_GUI_USER_HINT1	:	The device has been locked, please try again later!
+DVR_GUI_USER_HINT2	:	Username does not exist!
+
+DVR_GUI_BUSY_HINT0	:	In the search…
+DVR_GUI_BUSY_HINT1	:	Search completed
+
+DVR_GUI_PASTE	:	Paste
+
+DVR_GUI_RAID_HINT47	:	RAID%d array supports up to %d hard drives.
+
+DVR_GUI_STMP_SUCCESS	:	Mail Sent Successed.
+DVR_GUI_STMP_FILE	:	Failed to Send Mail!
+
+DVR_GUI_RAID_HINT48	:	Get array information ...
+
+DVR_GUI_EXPORT_OK	:	Export Successed
+DVR_GUI_EXPORT_FAILE	:	Export Failed
+
+DVR_GUI_CAMERA_VIODE_HINT1	:	Sunrise time must be earlier than sunset time!
+DVR_GUI_CAMERA_VIODE_HINT2	:	Day range must bigger than night range!
+
+DVR_GUI_MAIN_PREVIEW_HINT1	:	Mobile app is operating, local preview configuration will be revised…
+DVR_GUI_MAIN_PREVIEW_HINT2	:	Mobile app is operating, local preview configuration was revised and decoding ability may be lowered…
+
+DVR_GUI_SHORT_CUT_OSD	:	OSD
+
+DVR_GUI_PTZ_3D	:	3D Position
+DVR_GUI_PTZ_LIGHT	:	Light
+DVR_GUI_PTZ_FOCURS	:	One-key Focus
+
+
+
+DVR_GUI_PICSIZE_VCA_SET	:	Resolution less than CIF!
+
+DVR_GUI_CHN_NOCONN_STAT3	:	Username or password error
+DVR_GUI_CHN_NOCONN_STAT4	:	IP is masked
+DVR_GUI_CHN_NOCONN_STAT5	:	Account is locked
+DVR_GUI_CHN_NOCONN_STAT6	:	Camera refuses connection
+DVR_GUI_CHN_NOCONN_STAT7	:	Network not working
+DVR_GUI_CHN_NOCONN_STAT8	:	Up to the limit bandwidth
+DVR_GUI_CHN_NOCONN_STAT9	:	Unsupported encoding format
+DVR_GUI_BACK_QUERY_TIPS	:	Select channel first!
+DVR_SYSMSG_VIDEO_ERROR	:	Abnormal video,check connection and video setting.
+
+DVR_GUI_COLOR_TURN_GRAY_TIME	:	Valid delay time is 0~120s!
+DVR_GUI_CAMERA_CHANGE_IP	:	The IP address and the NVR are not in the same network segment. Do you want to continue modifying it?
+
+DVR_GUI_PRE_NOT_SUPPORT	:	%s is not supported over 32 screens!
+
+DVR_GUI_PTZ_MOVE	:	Move
+DVR_GUI_PTZ_MINI	:	Minimize
+
+
+DVR_GUI_SET_BUCKUP_ERROR	:	backup certification setting failed
+
+DVR_GUI_SET_BUCKUP_ERROR2	:	User verification failed, please try again!
+
+DVR_GUI_OLDPSW_EMPTY	:	Old password cannot be null
+DVR_PLAY_SNAP_ERR	:	Insert USB device !
+DVR_GUI_SHORT_MAN_VOICEEN	:	Sound On
+DVR_GUI_SHORT_MAN_VOICEDIS	:	Sound Off
+
+DVR_GUI_SHORT_MAN_VOICECHANGE	:	Adjust Volume
+DVR_GUI_SHORT_MAN_HIGHSMOOTH	:	Mode: Smooth Stream
+DVR_GUI_SHORT_MAN_LOWDELAY	:	Mode: Low Lag
+
+DVR_GUI_CHN_MSG1	:	The USB device does not exist or is damaged. Please check the device and refresh it!
+DVR_GUI_CHN_MSG2	:	Import failed!
+DVR_GUI_CHN_MSG3	:	Occur
+DVR_GUI_CHN_MSG4	:	Do not support
+DVR_GUI_VCA_MAX_FOLLOW_TIME	:	The longest tracking time from 0 to 300s
+
+DVR_GUI_ALM_LINK_TALK	:	%s sounds an alarm. Do you want to enable the call?
+DVR_GUI_ALMTALKSTART_HINT	:	Failed to start the megaphone.
+DVR_GUI_ALMTALKSTOP_HINT	:	Failed to stop the megaphone.
+
+DVR_GUI_DISK_QUOTA_VIDEO_MIN	:	The minimum quota of channel video is 10G, please reset!
+DVR_GUI_DISK_QUOTA_PIC_MIN	:	The minimum quota of channel image is 5G, please reset!
+
+DVR_GUI_PTZ_LIGHT_ON	:	Turn on white light.
+DVR_GUI_PTZ_LIGHT_OFF	:	Turn off white light.
+
+DVR_GUI_HEATMAP_NOTHING	:	No statistical results!
+DVR_GUI_PWD_ILLEGAL	:	Risk password
+
+DVR_GUI_TIME_HINT	:	NTP time interval should be less than 24 hours.
+
+DVR_GUI_RAID_HINT49	:	The number of disks required to create RAID50 is: 6, 8, 10, 12, please choose again
+DVR_GUI_RAID_HINT50	:	The number of disks required to create RAID60 is: 8, 10, 12, please choose again.
+
+DVR_GUI_RAID_HINT54	:	The physical disks in the array or hot spare disks are not in the same device. Please select again!
+DVR_GUI_RAID_HINT55	:	No hot spare disk in RAID50 and RAID60.
+
+DVR_GUI_DISK_GROUP_DEV_ERR	:	The physical disks in the disk group or virtual disks are not in the same device. Please select again.
+DVR_GUI_COGNATE_STAT_CHG_REBOOT	:	The device needs to be reset after modification of the homologous device of the equipment. Whether to restart?
+
+DVR_GUI_RAID_ONE_KEY_COMPLETE	:	Complete by one-key configuration.
+DVR_GLOBAL_BAK_DISK_IS_NOT_MAX	:	Please select the disk with the largest capacity to set the entire hot spare disk.
+
+DVR_GUI_SMTP_EMAIL_HINT	:	The primary email address cannot be empty
+DVR_GUI_PWD_INVALID	:	Invalid
+
+DVR_GUI_IPC_INIT	:	Restoring to default will cause the front-end IPC to restart. Do you want to continue?
+
+DVR_GUI_IPC_BroadCast_Import	:	This operation will turn on the alert tones for all IPCs. Do you want to continue?
+
+DVR_SYSMSG_DISKSMART_ERROR	:	Disk smart exception, please check whether the disk is damaged.
+
+DVR_SYSMSG_INTERFACE_BOARD_ERROR	:	Abnormal device interface board, please contact the administrator.
+
+DVR_GUI_RAID_HINT56	:	The array does not support rebuilding!
+
+DVR_GUI_CHN_NOCONN_STAT11	:	NVR performance has reached the limit
+DVR_GUI_SYS_CloudUpdate	:	The device is under cloud updating process.
+DVR_GUI_SYS_CloudServer	:	Detection timeout! Please check if network connection is normal
+
+DVR_PAGE_ERR_HINT	:	Failed to get the parameters, please try again.
+
+DVR_GUI_BACK_REINDEXING	:	Backup is not supported in the process of rebuilding indexes
+DVR_GUI_SYS_CloudServer4	:	Other accesses are being detected. Please try later.
+DVR_CHN_SRH_FIRST	:	Please search in channel first
+DVR_GUI_DISK_QUOTA_CHN_PIC_ERR	:	The picture space currently occupied by the channel is greater than the allocated quota. The picture deletion operation is required. Continue?
+DVR_GUI_DISK_QUOTA_CPCHN_PIC_ERR	:	The image space currently occupied by channel %s is greater than the allocated quota. Image deletion is required. Continue?
+DVR_SYSMSG_DiskTemHigh_Error	:	SHM detection abnormality: high temperature
+DVR_SYSMSG_DiskShockHard_Error	:	SHM detection abnormality: hard disk vibration
+DVR_SYSMSG_DriverShockHard_Error	:	SHM detection abnormality: drive vibration excessive
+DVR_SYSMSG_DiskConnect_Error	:	SHM detection error: The hard disk connection is abnormal.
+DVR_SYSMSG_HostReset_Error	:	SHM detection exception: host reset
+DVR_SYSMSG_Disk_Error	:	SHM detection error: hard disk abnormality
+DVR_ERROR_NO_NETVIDEO	:	NoVideo
+DVR_NOT_CONNECT_OR_DISENABLE	:	Not connected or disabled
+DVR_GUI_CHN_NOCONN_STAT14	:	Unsupported camera model
+DVR_GUI_CHN_NOCONN_STAT15	:	Non patrol camera
+DVR_CHN_CODESET_ERR1	:	Channel %s failed to set audio encoding parameters
+DVR_CHN_CODESET_ERR2	:	Channel %s failed to set watermark
+
+DVR_GUI_PSSD_HINT0	:	Please enter a password
+DVR_GUI_PSSD_HINT1	:	AESv2 encryption is recommended!
+DVR_GUI_PSSD_HINT2	:	Video encryption setup failed, please try again!
+DVR_GUI_CHN_NOCONN_STAT17	:	Camera no video
+DVR_GUI_CHN_NOCONN_STAT18	:	Camera IP conflict
+DVR_GUI_CHN_NOCONN_STAT19	:	Camera stream abnormality

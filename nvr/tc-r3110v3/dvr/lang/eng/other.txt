@@ -1,0 +1,3418 @@
+﻿#tag tab name
+__TAG__Main_Video_Var1	Recording Template Setting
+__TAG__Main_Video_Var2	Record File Packing Mode Setting
+__TAG__Main_Video_Var3	Manual Recording Setting
+__TAG__Main_Video_Var4	Recording Playback
+
+__TAG__Main_Video_Var15	Rebuilding index, please wait.
+__TAG__Main_Video_Var16	Rebuild index failed.
+__TAG__Main_Video_Var17	Rebuild index successed.
+__TAG__Main_Video_Var18	Play
+__TAG__Main_Video_Var19	Pause
+__TAG__Main_Video_Var20	Stop
+__TAG__Main_Video_Var21	Step
+__TAG__Main_Video_Var22	Slow
+__TAG__Main_Video_Var23	Fast
+__TAG__Main_Video_Var24	Previous File
+__TAG__Main_Video_Var25	Next File
+__TAG__Main_Video_Var26	Sound Off
+__TAG__Main_Video_Var27	Sound On
+__TAG__Main_Video_Var29	Start Clip
+__TAG__Main_Video_Var30	Stop Clip
+__TAG__Main_Video_Var31	List Loop Playback
+__TAG__Main_Video_Var32	Single File Playback
+__TAG__Main_Video_Var33	Snapshot
+__TAG__Main_Video_Var34	Backwards
+__TAG__Main_Video_Var35	Backwards Pause
+__TAG__Main_Video_Var36	Step Backwards
+__TAG__Main_Video_Var37	Hide Window
+__TAG__Main_Video_Var38	Add Default Tag
+__TAG__Main_Video_Var39	Add Customized Tag
+__TAG__Main_Video_Var40	Backwards 30s
+__TAG__Main_Video_Var41	Forwards 30s
+__TAG__Main_Video_Var42	Tripwire Search
+__TAG__Main_Video_Var43	Perimeter Search
+__TAG__Main_Video_Icn1	Recording Setting
+__TAG__Main_Video_Icn2	Recording
+__TAG__Main_Video_Icn3	Packaging Mode
+__TAG__Main_Video_Icn4	Manual Record
+
+__TAG__Main_Video_TM_1	Recording
+__TAG__Main_Video_TM_2	Audio Recording
+__TAG__Main_Video_TM_3	Redundant
+__TAG__Main_Video_TM_4	I-Frame Record
+
+__TAG__Main_Video_Date1	Date
+__TAG__Main_Video_Date2	Mon
+__TAG__Main_Video_Date3	Tue
+__TAG__Main_Video_Date4	Wed
+__TAG__Main_Video_Date5	Thu
+__TAG__Main_Video_Date6	Fri
+__TAG__Main_Video_Date7	Sat
+__TAG__Main_Video_Date8	Sun
+__TAG__Main_Video_Date9	Time
+__TAG__Main_Video_Date10	Time of Saving (days)
+
+__TAG__Main_Video_Type1	Record Type
+__TAG__Main_Video_Type2	Schedule
+__TAG__Main_Video_Type3	Motion
+__TAG__Main_Video_Type4	Port Alarm
+__TAG__Main_Video_Type5	Video Loss
+__TAG__Main_Video_Type6	Motion / Port
+__TAG__Main_Video_Type7	Motion & Port
+__TAG__Main_Video_Type8	Mask Alarm
+__TAG__Main_Video_Type9	Schedule Template
+
+__TAG__Main_Video_CleanAll	Reset
+__TAG__Main_Video_Mode1	Advanced
+__TAG__Main_Video_Mode2	Pre-Record (s)
+__TAG__Main_Video_Mode3	None
+__TAG__Main_Video_Mode7	Post-Record (s)
+
+__TAG__Main_Video_Stgy1	Record Mode Setting
+__TAG__Main_Video_Stgy2	File Packing Mode
+__TAG__Main_Video_Stgy3	Filename Extension
+__TAG__Main_Video_Stgy4	SDV
+__TAG__Main_Video_Stgy5	Pack By Size
+__TAG__Main_Video_Stgy6	Pack By Time
+__TAG__Main_Video_Stgy11	10 Mins
+__TAG__Main_Video_Stgy12	20 Mins
+__TAG__Main_Video_Stgy13	30 Mins
+__TAG__Main_Video_Stgy14	1 Hour
+__TAG__Main_Video_Stgy15	Not Enough Disk Capacity
+__TAG__Main_Video_Stgy16	Overwrite
+__TAG__Main_Video_Stgy17	Overwrite(Exclude Event Record Videos)
+__TAG__Main_Video_Stgy18	Stop Recording
+__TAG__Main_Video_Hand1	Manual Record
+__TAG__Main_Video_Hand2	Start All
+__TAG__Main_Video_Hand3	Stop All
+
+__TAG__Main_Video_Hand5	No Video & Record
+__TAG__Main_Video_Hand6	Video But No Record
+__TAG__Main_Video_Hand7	No Video & Manual Record
+__TAG__Main_Video_Hand8	Video & Manual Record
+__TAG__Main_Video_Hand9	No Video, Schedule Recording
+__TAG__Main_Video_Hand10	With Video, Schedule Recording
+__TAG__Main_Video_Hand11	No Video & Alarm Record
+__TAG__Main_Video_Hand12	Video & Alarm Record
+__TAG__Main_Video_Hand13	Description
+__TAG__Main_Video_Hand14	No Video & Customized Record
+__TAG__Main_Video_Hand15	Video & Customized Record
+__TAG__Main_Video_Kind	Event
+__TAG__Main_Video_Bak1	Video Management
+__TAG__Main_Video_Bak1.0	Lock
+
+__TAG__Main_Video_Bak4	Size
+__TAG__Main_Video_Bak5	Start Time
+__TAG__Main_Video_Bak6	End Time
+
+__TAG__Main_Video_Bak8	Channels
+
+__TAG__Main_Video_Bak11	Jump
+
+__TAG__Main_Video_Bak13	FirstPage
+__TAG__Main_Video_Bak14	LastPage
+__TAG__Main_Video_Bak15	PageUp
+__TAG__Main_Video_Bak16	PageDown
+__TAG__Main_Video_Bak17	Backup
+__TAG__Main_Video_Bak18	Quick
+
+__TAG__Main_Video_Comn1	Type
+__TAG__Main_Video_Comn2	All
+
+__TAG__Main_Video_Comn5	Schedule
+__TAG__Main_Video_Comn6	Motion
+__TAG__Main_Video_Comn7	VideoLost
+__TAG__Main_Video_Comn8	Time
+__TAG__Main_Video_Comn9	Target type
+__TAG__Main_Video_Qry1	Search
+__TAG__Main_Video_Qry2	Channel
+__TAG__Main_Video_Qry3	All
+__TAG__Main_Video_Qry4	Type
+__TAG__Main_Video_Qry5	Manual
+__TAG__Main_Video_Qry6	Port
+__TAG__Main_Video_Qry7	Schedule
+
+__TAG__Main_Video_Qry9	VideoLost
+__TAG__Main_Video_Qry9.1	VideoMask
+__TAG__Main_Video_Qry10	Range
+__TAG__Main_Video_Qry11	Record Files
+__TAG__Main_Video_Qry12	Backup Files
+__TAG__Main_Video_Qry13	Start Date
+__TAG__Main_Video_Qry14	End Date
+
+__TAG__Main_Video_Qry18	Target
+
+__TAG__Main_Video_Qry22	Apply
+__TAG__Main_Video_Qry23	Start Time
+__TAG__Main_Video_Qry24	End Time
+__TAG__Main_Video_Qry25	Audio Loss
+__TAG__Main_Video_DayMap1	Recording Clip
+__TAG__Main_Video_DayMap2	Previous Day
+__TAG__Main_Video_DayMap3	Next Day
+
+__TAG__Main_Video_Snap1	Snapshot Preview
+__TAG__Main_Video_Snap2	Type
+__TAG__Main_Video_Snap3	All
+__TAG__Main_Video_Snap4	Manual
+__TAG__Main_Video_Snap5	Port
+__TAG__Main_Video_Snap6	Schedule
+
+__TAG__Main_Video_Snap8	VideoLost
+__TAG__Main_Video_Snap8.1	VideoMask
+__TAG__Main_Video_Snap8.0	VCA
+
+__TAG__Main_Video_Snap13	Page
+
+__TAG__Main_Video_Snap17	Snapshot Type
+
+__TAG__Main_Video_Snap20	StartTime
+
+__TAG__Main_Video_Snap22	FileName
+
+__TAG__Main_Video_Qbak10	NAS backup may slow down your network transmission speed, Do you want to continue?
+__TAG__Main_Video_Qbak11	Record Backup
+__TAG__Main_Video_Qbak12	Total
+__TAG__Main_Video_Qbak13	Done
+__TAG__Main_Video_Qbak14	Error
+__TAG__Main_Video_Qbak15	Copying
+__TAG__Main_Video_Qbak16	Backup Error
+__TAG__Main_Video_Qbak17	Backup failed due to media error/disk full, error file name:
+__TAG__Main_Video_Qbak18	Apply to all
+__TAG__Main_Video_Qbak19	Retry
+__TAG__Main_Video_Qbak20	Ignore
+__TAG__Main_Video_Qbak21	Abort
+__TAG__Main_Video_Play1	Playback
+__TAG__Main_Video_Play2	00:00:00
+__TAG__Main_Video_Play3	Time
+__TAG__Main_Video_Play4	Type
+__TAG__Main_Video_Play4.1	Stream
+__TAG__Main_Video_Play5	All
+__TAG__Main_Video_Play6	Manual
+
+__TAG__Main_Video_Play8	Schedule
+
+__TAG__Main_Video_Play10	VideoLoss
+__TAG__Main_Video_Play10.1	Card No.
+__TAG__Main_Video_Play10.2	VCA
+__TAG__Main_Video_Play10.3	VideoMask
+
+
+__TAG__Main_Video_Play18.6	Other
+
+
+__TAG__Main_Video_Play26	Port
+
+__TAG__Main_Video_Play28	Schedule
+__TAG__Main_Video_Play29	Tag
+__TAG__Main_Video_Play30	All Types
+__TAG__Main_Video_Play31	Key Words
+
+__TAG__Main_Video_Play33	Pre-Playback
+__TAG__Main_Video_Play34	Post-Playback
+__TAG__Main_Video_Play35	Maximum
+__TAG__Main_Video_Play36	Add Tag
+__TAG__Main_Video_Play38	Tag Management
+__TAG__Main_Video_Play39	Tag Edit
+__TAG__Main_Video_Play40	External File
+__TAG__Main_Video_Play41	Smart Search
+__TAG__Main_VP_ADD_TAG1	Tag Time
+__TAG__Main_VP_ADD_TAG2	Tag Name
+__TAG__Main_Video_Sync1	Sync Playback
+__TAG__Main_Video_Sync2	Time Setting
+__TAG__Main_Video_Sync3	Sorry, this model does not support the requested function!
+
+__TAG__Main_Video_Sync5	Prompt
+
+__TAG__Main_Video_Sync8	Clip Backup
+
+__TAG__Main_Video_Sync11	Backup Path
+__TAG__Main_Video_Sync12	Selecting Path ...
+
+__TAG__Main_Video_Sync15	Video Clipping Progress
+__TAG__Main_Video_Sync16	Clipping
+
+__TAG__Main_Video_Sync18	Section
+__TAG__Main_Video_Sync19	Current Progress
+__TAG__Main_Video_Sync20	Suspend
+__TAG__Main_Video_Sync21	Clips backup successed!
+
+__TAG__Main_Video_Sync28	Clips List
+__TAG__Main_Video_Sync29	ID
+
+__TAG__Main_Video_Sync34	File Size
+__TAG__Main_Video_Sync35	SelectAll
+__TAG__Main_Video_Sync36	Reverse
+__TAG__Main_Video_Sync37	Backup
+__TAG__Main_Video_Sync38	Quit
+
+__TAG__Main_Video_Time2	Setting
+
+__TAG__Main_Video_Menu9	Full Screen
+
+__TAG__Main_Video_Indx1	Reindex
+__TAG__Main_Video_Indx2	Reindex may take some time and pause timed snapshot. Are you sure you want to continue?
+__TAG__Main_Video_Indx3	Rebuilding index...
+__TAG__Main_Video_Type_Man1	Type Management
+__TAG__Main_Video_Type_Man2	Type No.
+__TAG__Main_Video_Type_Man3	Type Name
+
+
+__TAG__Main_Video_Disk1	CD Buring
+__TAG__Main_Video_Disk2	Collecting video files, please wait...
+__TAG__Main_Video_Disk3	Burning, please wait...
+
+__TAG__Main_Video_Disk7	No record file
+__TAG__Main_Video_Disk8	No record file searched.
+__TAG__Main_Video_Disk9	Disc Status
+__TAG__Main_Video_Pssd1	Decryption
+__TAG__Main_Video_Pssd2	Password
+__TAG__Main_Video_Pssd3	Stop
+__TAG__Main_Video_SnapSet1	Snapshot Setting
+
+__TAG__Main_Video_SnapSet3	Snapshot Mode
+__TAG__Main_Video_SnapSet4	Single Picture
+__TAG__Main_Video_SnapSet5	Schedule
+__TAG__Main_Video_SnapSet5.0	Continuous
+__TAG__Main_Video_SnapSet6	Interval (Seconds)
+__TAG__Main_Video_SnapSet6.1	Number
+__TAG__Main_Video_SnapSet6.0	(5~9999)
+__TAG__Main_Video_SnapSet7	Upload To FTP
+__TAG__Main_Video_SnapSet8	FTP Setting
+
+__TAG__Main_BackUp_Prompt	Force Exit?
+__TAG__Main_Video_SnapSet11	Upload To Email
+__TAG__Main_holidayPlan	Holiday Plan
+__TAG__Main_HolidayName	Holiday Name
+__TAG__Main_HolidayState	Status
+__TAG__Main_HolidayEnable	Enable Holiday Plan
+__TAG__Main_HolidaySet	Holiday Setting
+__TAG__Main_HolidayType	Mode
+__TAG__Main_Holidaydate	per Date
+__TAG__Main_Holidayweek	per Week
+__TAG__Main_Holidaymonh	per Month
+__TAG__Main_Holidayweek1	1st week
+__TAG__Main_Holidayweek2	2nd week
+__TAG__Main_Holidayweek3	3rd week
+__TAG__Main_Holidayweek4	4th week
+__TAG__Main_Holidayweek5	Last week
+__TAG__Main_Holiday	Holiday
+
+__TAG__Main_Vca_Set0	Parameter Setting
+__TAG__Main_Vca_Set1	Alarm
+__TAG__Main_Vca_Set3	Schedule
+__TAG__Main_Vca_Set4	Copy to
+
+__TAG__Main_Vca_All	Select All
+__TAG__Main_Vca_Time1	Time 1
+__TAG__Main_Vca_Time2	Time 2
+__TAG__Main_Vca_Time3	Time 3
+__TAG__Main_Vca_Time4	Time 4
+
+__TAG__Main_Vca_Ptz3	Preset
+__TAG__Main_Vca_Ptz4	Cruise Path
+
+__TAG__Main_Vca_Line1	Tripwire Setting
+__TAG__Main_Vca_Line2	Effective Target
+__TAG__Main_Vca_Line3	All
+__TAG__Main_Vca_Line4	Person
+__TAG__Main_Vca_Line5	Vehicle
+__TAG__Main_Vca_Line6	Person & vehicle
+__TAG__Main_Vca_Line7	No-alarm Color
+__TAG__Main_Vca_Line8	Default
+__TAG__Main_Vca_Line9	Red
+__TAG__Main_Vca_Line10	Green
+__TAG__Main_Vca_Line11	Yellow
+__TAG__Main_Vca_Line12	Blue
+__TAG__Main_Vca_Line13	Purple
+__TAG__Main_Vca_Line14	Cerulean Blue
+__TAG__Main_Vca_Line15	Black
+__TAG__Main_Vca_Line16	White
+__TAG__Main_Vca_Line17	Alarm Color
+
+__TAG__Main_Vca_Line20	1 Sec
+
+__TAG__Main_Vca_Line48	Display Rule
+
+__TAG__Main_Vca_Line50	Display Event Counts
+
+__TAG__Main_Vca_Line52	Detection Mode
+__TAG__Main_Vca_Line53	Intrusion
+__TAG__Main_Vca_Line54	Enter
+__TAG__Main_Vca_Line55	Leave
+
+__TAG__Main_Vca_Line59	Display Rule
+__TAG__Main_Vca_Line60	Display Event Counts
+
+__TAG__Main_Vca_Line63	Enable Smart Analytics
+
+__TAG__Main_Vca_Line63.3	Enable
+__TAG__Main_Vca_Line64	Setting
+
+__TAG__Main_Vca_Line72	Low
+__TAG__Main_Vca_Line73	Medium
+__TAG__Main_Vca_Line74	High
+
+__TAG__Main_Vca_Line76	Display Target
+
+__TAG__Main_Vca_Line83	Rule ID
+
+__TAG__Main_Vca_Line86	Event
+__TAG__Main_Vca_Line87	Tripwire
+__TAG__Main_Vca_Line88	Perimeter
+
+__TAG__Main_Vca_Line90	Video Detection
+
+__TAG__Main_Vca_Line94	Alarm Information
+__TAG__Main_Vca_Line95	Rule ID
+__TAG__Main_Vca_Line96	Reset
+__TAG__Main_Vca_Line96.0	Reset
+__TAG__Main_Vca_Line97	Time
+
+__TAG__Main_Vca_Line100	Target ID
+__TAG__Main_Vca_Line101	Status
+__TAG__Main_Vca_Line102	Type
+__TAG__Main_Vca_Line103	Event
+
+__TAG__Main_Vca_Line104	Missing Object Detection
+
+__TAG__Main_Vca_Line138	Real-time Alarm Information
+
+
+__TAG__Main_Vca_Alm12	Single Screen
+
+
+__TAG__Main_User_Var1	Confirm cancel
+__TAG__Main_User_Used	Use
+__TAG__Main_User_Icn1	User Management
+__TAG__Main_User_Icn2	User List
+__TAG__Main_User_Icn3	User Name
+__TAG__Main_User_Icn4	Authority
+__TAG__Main_User_Icn5	Add
+
+__TAG__Main_User_Rig1	User Permission Management
+__TAG__Main_User_Rig2	Channel Permission
+
+__TAG__Main_User_Rig4	Permission Options
+__TAG__Main_User_Rig5	Local Permission
+__TAG__Main_User_Rig6	Remote Permission
+__TAG__Main_User_Rig8	Real-time burning/CD replay
+__TAG__Main_User_Rig9	Log Search
+__TAG__Main_User_Rig15	Shutdown/Reboot
+__TAG__Main_User_Rig17	Talk
+__TAG__Main_User_Rig18	Remote Preview
+__TAG__Main_User_Rig19	Local Recording/Snapshot
+__TAG__Main_User_Rig20	Remote Recording/Snapshot
+__TAG__Main_User_Rig21	Local Playback
+__TAG__Main_User_Rig22	Remote Playback
+__TAG__Main_User_Rig23	Local PTZ Control
+__TAG__Main_User_Rig24	Remote PTZ Control
+__TAG__Main_User_Add1	Add
+__TAG__Main_User_Add2	Authority
+__TAG__Main_User_Add6	User Name
+
+__TAG__Main_User_Add8	Confirm Password
+__TAG__Main_User_Edit1	Edit User
+__TAG__Main_User_Edit2	User Name
+__TAG__Main_User_Edit3	Move to Group
+__TAG__Main_User_Edit7	New Password
+__TAG__Main_User_Edit8	Confirm Password
+__TAG__Main_User_Del1	Delete User
+__TAG__Main_User_Del2	Delete the selected user, do you want to continue?
+__TAG__Main_User_Calc	Cancel
+__TAG__Main_User_Grp25	Access denied. Please log in with a different user account
+__TAG__Main_User_Grp26	Current User
+__TAG__Main_User_Grp27	User Name
+__TAG__Main_User_Grp28	Password
+__TAG__Main_User_Grp29	Login failed !
+
+__TAG__Main_User_Grp34	The password does not match. Please enter it again.
+
+__TAG__Main_User_Online1	Online User
+__TAG__Main_User_Online3	Disconnected
+__TAG__Main_User_Online4	User Name
+__TAG__Main_User_Online5	IP
+__TAG__Main_Txr_Fail	Operation failed
+__TAG__Main_Txr_Data_Fail	Data transfer error
+__TAG__Main_Sys_Num	UserName
+__TAG__Main_Sys_Num1	DDNS ID
+__TAG__Main_Sys_Pssd1	DDNS Password
+__TAG__Main_Sys_Used	Apply
+__TAG__Main_Sys_Naddr	IP Address
+__TAG__Main_Sys_Naddr1	Original Network Address
+__TAG__Main_Sys_Naddr2	New Network Address
+__TAG__Main_Sys_Mask	Subnet Mask
+__TAG__Main_Sys_Gway	Gateway
+__TAG__Main_Sys_Mac	MAC Address
+__TAG__Main_Sys_Var1	Information
+__TAG__Main_Sys_Var2	IP Address and Network Service Setting
+__TAG__Main_Sys_Var3	Serial Port Setting
+__TAG__Main_Sys_Var4	Disk Partition and Formatting
+__TAG__Main_Sys_Var5	System Log Management
+__TAG__Main_Sys_Var6	System Upgrade via USB/Network
+__TAG__Main_Sys_Var7	System Abnormal Information Setting
+__TAG__Main_Sys_Var8	Reset to factory default
+__TAG__Main_Sys_Var9	Change channel name
+__TAG__Main_Sys_Var9.0	Time&Time Zone Setting
+__TAG__Main_Sys_Var10	System Setting
+__TAG__Main_Sys_Var11	Disk formatting...
+__TAG__Main_Sys_Var12	Disk format error!
+__TAG__Main_Sys_Var13	Disk format done.
+
+__TAG__Main_Sys_Var19	System upgrading...
+__TAG__Main_Sys_Var20	System upgrade done, rebooting...
+__TAG__Main_Sys_Var21	System upgrade failed, please try again.
+
+__TAG__Main_Sys_Var23	3G Information Setting
+
+__TAG__Main_Sys_Var26	IPC upgrading done, rebooting…
+__TAG__Main_Sys_Var27	RAID array configuration and virtual disk
+__TAG__Main_Sys_Var28	Device working mode and hot-spare Setting
+__TAG__Main_Sys_Icn1	Setting
+
+__TAG__Main_Sys_Icn3	Network
+
+__TAG__Main_Sys_Icn6	Log
+
+__TAG__Main_Sys_Icn9	Config
+
+__TAG__Main_Sys_Icn14	Array Management
+__TAG__Main_Sys_Icn15	Hot-spare Setting
+
+__TAG__Main_Sys_Msg1	System Information
+__TAG__Main_Sys_Msg2	Device Name
+__TAG__Main_Sys_Msg3	Device ID
+
+__TAG__Main_Sys_Msg5	Manufacturer
+__TAG__Main_Sys_Msg6	Serial Number
+__TAG__Main_Sys_Msg7	Firmware Version
+
+__TAG__Main_Sys_Msg9	Web Version
+__TAG__Main_Sys_Msg10	UI Version
+
+__TAG__Main_Sys_Msg13	System Time
+
+__TAG__Main_Sys_Msg15	Device Temperature
+
+__TAG__Main_Sys_Time2	Time
+
+__TAG__Main_Sys_Time5	Time Zone
+__TAG__Main_Sys_Net1	Network Setting
+__TAG__Main_Sys_Net3	Auto Get IP Address
+__TAG__Main_Sys_Net4	Manual Setting IP Address
+__TAG__Main_Sys_Net5	Manual Setting DNS
+__TAG__Main_Sys_Net6	Preferred DNS
+__TAG__Main_Sys_Net7	Alternate DNS
+
+__TAG__Main_Sys_Net8	PPPOE
+__TAG__Main_Sys_Net9	PPPOE Status
+__TAG__Main_Sys_Net10	Boot Auto-Dial
+__TAG__Main_Sys_Net11	Connect
+__TAG__Main_Sys_Net12	Disconnect
+__TAG__Main_Sys_Net13	Network State
+
+__TAG__Main_Sys_Net15	Online
+
+__TAG__Main_Sys_Net20	DNS
+
+__TAG__Main_Sys_Net24	Others
+__TAG__Main_Sys_Net25	Black and white name list
+__TAG__Main_Sys_Net26	Register Center
+
+__TAG__Main_Sys_Net28	DDNS
+__TAG__Main_Sys_Net29	Web Storage(NFS)
+__TAG__Main_Sys_Net29.1	Web Storage(SMB/CIFS)
+__TAG__Main_Sys_Net30	Server
+__TAG__Main_Sys_Net30.1	Server
+__TAG__Main_Sys_Net31	Directory
+__TAG__Main_Sys_Net32	Web Service
+__TAG__Main_Sys_Net33	FTP Port
+__TAG__Main_Sys_Net35	HTTP Port
+
+
+__TAG__Main_Sys_Net41	Illegal Parameter
+__TAG__Main_Sys_Net42	Illegal Port Number, please check and retry.
+
+__TAG__Main_Sys_Net44	Network parameter changed needs reboot to take effect, reboot now?
+__TAG__Main_Sys_Net45	Yes
+__TAG__Main_Sys_Net46	No
+
+
+__TAG__Main_Sys_Net52	Disable
+__TAG__Main_Sys_Net53	Whitelist
+__TAG__Main_Sys_Net54	Blacklist
+__TAG__Main_Sys_Net55	Add
+
+__TAG__Main_Sys_Net58	Enable
+
+__TAG__Main_Sys_Net67	MAC Address
+__TAG__Main_Sys_Net68	IP Address
+
+__TAG__Main_Sys_Net70	Refresh
+__TAG__Main_Sys_Net80	Enable SNMP
+__TAG__Main_Sys_Net81	Network Detection
+__TAG__Main_Sys_Net84	Uploading Speed
+__TAG__Main_Sys_Net85	Downloading Speed
+__TAG__Main_Sys_Net86	Upload Total Traffic
+__TAG__Main_Sys_Net87	Download Total Traffic
+__TAG__Main_Sys_Ntp1	NTP Setting
+__TAG__Main_Sys_Ntp2	NTP Server
+__TAG__Main_Sys_Ntp3	Port Setting
+__TAG__Main_Sys_Ntp4	Interval (Minute)
+
+
+__TAG__Main_Sys_Ddns2	Enable
+__TAG__Main_Sys_Ddns3	Server Domain
+__TAG__Main_Sys_Ddns4	Server Address
+__TAG__Main_Sys_Ddns5	Port
+
+
+__TAG__Main_Sys_Reg2	Server1
+__TAG__Main_Sys_Reg3	Server2
+__TAG__Main_Sys_Reg4	Server Name
+
+
+__TAG__Main_Sys_Wifi40	Search
+
+__TAG__Main_Sys_Com1	Serial Port Setting
+__TAG__Main_Sys_Com2	Serial Port
+__TAG__Main_Sys_Com19	Bit Rate
+__TAG__Main_Sys_Com29	Data Bit
+__TAG__Main_Sys_Com30	7 bits
+__TAG__Main_Sys_Com31	8 bits
+__TAG__Main_Sys_Com32	Stop Bit
+__TAG__Main_Sys_Com33	1 bit
+__TAG__Main_Sys_Com34	2 bits
+__TAG__Main_Sys_Com35	Check
+__TAG__Main_Sys_Com36	None
+__TAG__Main_Sys_Com37	Odd Check
+__TAG__Main_Sys_Com38	Even Check
+__TAG__Main_Sys_Com39	Operation Mode
+__TAG__Main_Sys_Com40	Protocol Mode
+__TAG__Main_Sys_Com41	Transparent Channel
+__TAG__Main_Sys_Com42	Industrial Applications
+__TAG__Main_Sys_Com43	Alarm Host
+__TAG__Main_Sys_Com44	485 keyboard
+__TAG__Main_Sys_Com45	Car GPS
+__TAG__Main_Sys_Com46	ATM-specified
+__TAG__Main_Sys_Disk1	Disk Management
+__TAG__Main_Sys_Disk2	Disk List
+__TAG__Main_Sys_Disk5	Format
+__TAG__Main_Sys_Disk6	Setting
+__TAG__Main_Sys_Disk7	Disk Information
+__TAG__Main_Sys_Disk8	Capacity
+__TAG__Main_Sys_Disk9	Used
+__TAG__Main_Sys_Disk10	Free
+__TAG__Main_Sys_Disk11	Disk Management
+__TAG__Main_Sys_Disk11.1	Basic Configuration
+__TAG__Main_Sys_Disk11.0	Lock
+__TAG__Main_Sys_Disk12	Device
+__TAG__Main_Sys_Disk13	Size
+__TAG__Main_Sys_Disk14	Used
+__TAG__Main_Sys_Disk15	Free
+__TAG__Main_Sys_Disk16	Partition
+__TAG__Main_Sys_Disk17	Sleep
+__TAG__Main_Sys_Disk18	Format Disk
+
+__TAG__Main_Sys_Disk20	Disk Setting
+
+__TAG__Main_Sys_Disk24	This action will reboot the system and automatically initialize all unformatted disks. Do you want to continue?
+__TAG__Main_Sys_Disk25	Format Disk
+
+__TAG__Main_Sys_Disk28	Disk format done!
+__TAG__Main_Sys_Disk29	Disk Setting
+__TAG__Main_Sys_Disk30	Disk used for
+__TAG__Main_Sys_Disk30.0	Disk Number
+__TAG__Main_Sys_Disk31	Recording
+__TAG__Main_Sys_Disk32	Backup
+__TAG__Main_Sys_Disk32.0	R/W
+__TAG__Main_Sys_Disk32.1	Redundant 
+__TAG__Main_Sys_Disk32.2	Read only
+
+
+__TAG__Main_Sys_Disk46	Disk Initialization
+
+__TAG__Main_Sys_Disk49	Caution: Disk initializing will erase all data and take up a big part of the system capacity, please close other applications, Do you want to continue?
+
+__TAG__Main_Sys_Disk50	Do
+__TAG__Main_Sys_Disk51	NFS Setting
+__TAG__Main_Sys_Disk51.1	SMB/CIFS Setting
+__TAG__Main_Sys_Disk52	Attribute
+
+__TAG__Main_Sys_Disk55	Disk Detection
+__TAG__Main_Sys_Disk56	The device will detect all disks after power off and reboot.
+
+__TAG__Main_Sys_Disk58	Repair damaged disks
+__TAG__Main_Sys_Disk59	Mode Selection
+__TAG__Main_Sys_Disk60	Disk Group
+__TAG__Main_Sys_Disk61	Quota
+__TAG__Main_Sys_Disk62	Select All Disks
+
+__TAG__Main_Sys_Disk65	Used Recording Quota
+__TAG__Main_Sys_Disk66	Used Pictures Quota
+
+__TAG__Main_Sys_Disk68	Record Quota(GB)
+__TAG__Main_Sys_Disk69	Picture Quota(GB)
+__TAG__Main_Sys_Disk69.1	0 means no limit (the minimum is 10G)
+__TAG__Main_Sys_Disk69.2	0 means no limit (the minimum is 5G)
+
+__TAG__Main_Sys_Disk72	Recording space for this channel exceeded the allocated quota, need to delete some recorded videos, Do you want to continue?
+__TAG__Main_Sys_Disk73	Recording mode changed needs reboot to take effect, reboot now?
+__TAG__Main_Sys_Disk74	Allocated space exceeded the total disk capacity, please re-allocate.
+__TAG__Main_Sys_Raid0	Physical Disk
+__TAG__Main_Sys_Raid1	Array 
+__TAG__Main_Sys_Raid2	Virtual Disk
+__TAG__Main_Sys_Raid3	Enable Array
+
+__TAG__Main_Sys_Raid5	One-key Setting
+__TAG__Main_Sys_Raid6	Create Array
+__TAG__Main_Sys_Raid7	No.
+__TAG__Main_Sys_Raid8	Remaining Capacity
+__TAG__Main_Sys_Raid9	Hot-spare Disk
+__TAG__Main_Sys_Raid10	Task 
+__TAG__Main_Sys_Raid11	Rebuild Array
+__TAG__Main_Sys_Raid11.0	Delete Array
+
+__TAG__Main_Sys_Raid14	Enable Array
+
+__TAG__Main_Sys_Raid16	Array Name 
+__TAG__Main_Sys_Raid17	Array Capacity (GB)
+__TAG__Main_Sys_Raid18	Disk No. 
+__TAG__Main_Sys_Raid19	Rebuild Array
+__TAG__Main_Sys_Raid20	Array Disk 
+
+__TAG__Main_Sys_Raid26	Array Type
+
+__TAG__Main_Sys_Raid32	Enabling/Disabling the array requires a reboot to take effect. Would you like to reboot now?
+__TAG__Main_Sys_Raid33	Deleting the array will erase all the data. Do you want to continue?
+__TAG__Main_Sys_Raid34	Disable array, please manually delete all array.
+
+__TAG__Main_Sys_BakDev0	Ordinary Mode
+__TAG__Main_Sys_BakDev1	Hot-spare Mode
+__TAG__Main_Sys_BakDev2	Working Status
+__TAG__Main_Sys_BakDev3	Note: To enable the hot-spare function, a working device must be added to the hot-spare device. Otherwise, it will not take effect.
+__TAG__Main_Sys_BakDev4	Enable hot backup
+__TAG__Main_Sys_BakDev5	Working Device List
+__TAG__Main_Sys_BakDev6	Working Device Status
+__TAG__Main_Sys_BakDev7	Add Working Device
+__TAG__Main_Sys_BakDev8	No.
+__TAG__Main_Sys_BakDev9	Password
+__TAG__Main_Sys_BakDev10	Working mode changed needs reboot to take effect, reboot now?
+__TAG__Main_Sys_Smart1	S.M.A.R.T.
+__TAG__Main_Sys_Smart2	Start S.M.A.R.T. Detection
+__TAG__Main_Sys_Smart3	Hard Disk
+
+__TAG__Main_Sys_Smart5	ID
+__TAG__Main_Sys_Smart6	ATTRIBUTE_NAME
+__TAG__Main_Sys_Smart7	FLAG
+__TAG__Main_Sys_Smart8	VALUE
+__TAG__Main_Sys_Smart9	WORST
+__TAG__Main_Sys_Smart10	THRESH
+__TAG__Main_Sys_Smart11	STATUS
+__TAG__Main_Sys_Smart12	RAW_VALUE
+__TAG__Main_Sys_Smart13	Disable disk S.M.A.R.T. detection: data on the disk will not be read when a disk is damaged, Do you want to continue?
+__TAG__Main_Sys_Smart14	Capacity
+__TAG__Main_Sys_Smart15	Model
+__TAG__Main_Sys_Smart16	Serial Number
+__TAG__Main_Sys_Smart17	Temperature(°C)
+__TAG__Main_Sys_Smart18	Used Time (day)
+__TAG__Main_Sys_Smart19	Self-Evaluation
+__TAG__Main_Sys_Smart20	Overall Evaluation
+__TAG__Main_Sys_Log1	Log
+__TAG__Main_Sys_Log2	Query Condition
+__TAG__Main_Sys_Log3	Start time
+
+__TAG__Main_Sys_Log6	All
+__TAG__Main_Sys_Log7	Type
+__TAG__Main_Sys_Log9	System
+__TAG__Main_Sys_Log10	Warning
+__TAG__Main_Sys_Log11	Alarm
+__TAG__Main_Sys_Log12	Operation
+__TAG__Main_Sys_Log13	User
+__TAG__Main_Sys_Log14	Other
+__TAG__Main_Sys_Log15	Search
+
+__TAG__Main_Sys_Log20	Record Time
+__TAG__Main_Sys_Log21	Type
+__TAG__Main_Sys_Log23	Content
+
+__TAG__Main_Sys_Log26	Delete
+__TAG__Main_Sys_Log26.0	Export Current
+__TAG__Main_Sys_Log26.1	Export All
+
+__TAG__Main_Sys_Log28	Back
+__TAG__Main_Sys_Log28.0	Details
+__TAG__Main_Sys_Log29	Log Information
+
+__TAG__Main_Sys_Log33	Export Logs
+__TAG__Main_Sys_File1	System Upgrade
+__TAG__Main_Sys_File2	Local Upgrade
+__TAG__Main_Sys_File3	File Name
+__TAG__Main_Sys_File4	Files
+__TAG__Main_Sys_File5	FTP Upgrade
+__TAG__Main_Sys_File6	Server
+__TAG__Main_Sys_File7	User Name
+__TAG__Main_Sys_File8	Password
+__TAG__Main_Sys_File9	Upgrade
+__TAG__Main_Sys_File10	Choose Upgrade File
+
+__TAG__Main_Sys_File12	Refresh
+__TAG__Main_Sys_File13	System upgrading...
+
+__TAG__Main_Sys_Cnf1	Configuration
+__TAG__Main_Sys_Cnf2	Reset to Default
+__TAG__Main_Sys_Cnf3	Export
+__TAG__Main_Sys_Cnf4	Import
+
+__TAG__Main_Sys_Cnf6	Restore to the factory default setting and reboot, Do you want to continue?
+__TAG__Main_Sys_Cnf7	Configuration Export
+__TAG__Main_Sys_Cnf8	Export
+__TAG__Main_Sys_Cnf9	Export to
+__TAG__Main_Sys_Cnf10	USB1
+__TAG__Main_Sys_Cnf11	USB2
+__TAG__Main_Sys_Cnf12	NFS1
+__TAG__Main_Sys_Cnf13	NFS2
+__TAG__Main_Sys_Cnf14	File Name
+__TAG__Main_Sys_Cnf15	Export Successed
+__TAG__Main_Sys_Cnf16	The file has been exported successfully.
+__TAG__Main_Sys_Cnf17	Import Configuration
+__TAG__Main_Sys_Cnf18	Import file list
+__TAG__Main_Sys_Cnf19	Import
+__TAG__Main_Sys_Cnf20	Refresh
+__TAG__Main_Sys_Cnf21	Import Successed
+__TAG__Main_Sys_Cnf22	Config file imported, reboot to take effect?
+__TAG__Main_Sys_Cnf23	Reboot
+__TAG__Main_Sys_Cnf24	Later
+__TAG__Main_Sys_Err1	Exception information setting
+__TAG__Main_Sys_Err1.0	Exception Type
+__TAG__Main_Sys_Err2	Disk Full
+
+__TAG__Main_Sys_Err4	No Disk
+__TAG__Main_Sys_Err6	Disk R/W Error
+__TAG__Main_Sys_Err8	Illegal Access
+__TAG__Main_Sys_Err10	IP Address Conflict
+__TAG__Main_Sys_Err11	MAC Address Conflict
+__TAG__Main_Sys_Err12	Network Disconnected
+
+__TAG__Main_Sys_Err17	On-Screen Display
+__TAG__Main_Sys_Err18	Buzzer
+__TAG__Main_Sys_Err19	Send to Server
+__TAG__Main_Sys_Err20	Unavailable Redundant Disk
+
+__TAG__Main_Sys_Err22	Array Exception
+__TAG__Main_Sys_Err23	Hot-spare Exception
+__TAG__Main_Sys_Err24	POE Overloaded
+__TAG__Main_Sys_Name1	Alias Management
+
+__TAG__Main_Sys_Name8	Edit
+__TAG__Main_Sys_Name9	Alias edit
+__TAG__Main_Sys_Name10	Channel
+__TAG__Main_Sys_Name11	Alias
+
+
+__TAG__FirstNet_Interface	NIC 1
+__TAG__SecondNet_Interface	NIC 2
+
+__TAG__SecondNet_Mode	Polymerization Option
+__TAG__SecondNet_FirMode	Redundancy Mode
+__TAG__SecondNet_SecMode	Load Balancing Mode
+__TAG__Main_Sys_FTP0	FTP
+__TAG__Main_Sys_FTP1	FTP Server Address
+__TAG__Main_Sys_FTP2	Port Number
+__TAG__Main_Sys_FTP2.0	Path
+__TAG__Main_Sys_FTP3	User Name
+__TAG__Main_Sys_FTP4	Password
+__TAG__Main_Sys_SMTP0	Email
+__TAG__Main_Sys_SMTP1	Email Server Address
+__TAG__Main_Sys_SMTP5	Log Mode
+__TAG__Main_Sys_SMTP5_FirMode	off
+__TAG__Main_Sys_SMTP5_SecMode	plain
+__TAG__Main_Sys_SMTP5_ThiMode	cram-md5
+__TAG__Main_Sys_SMTP5_FouMode	digest-md5
+__TAG__Main_Sys_SMTP5_FifMode	gssapi
+__TAG__Main_Sys_SMTP5_SixMode	external
+__TAG__Main_Sys_SMTP5_SevMode	login
+__TAG__Main_Sys_SMTP5_EigMode	ntlm
+__TAG__Main_Sys_SMTP6	Receiver address
+__TAG__Main_Sys_SMTP7	Subject
+
+__TAG__Main_Sys_AP10	Not Encrypted
+
+
+__TAG__Main_Sys_NetCheck1	Network Flow
+__TAG__Main_Sys_NetCheck2	Network Resources Statistics
+__TAG__Main_Sys_NetCheck3	Network Card Selection
+
+__TAG__Main_Sys_NetCheck5	Destination Address
+__TAG__Main_Sys_NetCheck6	Test
+
+__TAG__Main_Sys_NetCheck10	Current Network Card
+__TAG__Main_Sys_NetCheck11	Packet Backup
+__TAG__Main_Sys_NetCheck12	Status Detect
+__TAG__Main_Sys_NetCheck13	Broadband
+__TAG__Main_Sys_AutoMT1	Auto Reboot
+
+__TAG__Main_Sys_AutoMT3	Never
+
+__TAG__Main_Pic_Var1	Video output and menu setting
+
+
+__TAG__Main_Pic_Icn4	Stream Setting
+__TAG__Main_Pic_Icn7	Encryption
+
+__TAG__Main_Pic_Dsp1	Display Setting
+__TAG__Main_Pic_Dsp2	BNC Type
+__TAG__Main_Pic_Dsp3	PAL
+__TAG__Main_Pic_Dsp4	NTSC
+__TAG__Main_Pic_Dsp5	De-flicker
+__TAG__Main_Pic_Dsp6	%s output
+
+__TAG__Main_Pic_Dsp7	800x600(50HZ)
+__TAG__Main_Pic_Dsp8	1024x768(50HZ)
+__TAG__Main_Pic_Dsp9	1280x1024(50HZ)
+
+__TAG__Main_Pic_Dsp10	1440x900(50HZ)
+__TAG__Main_Pic_Dsp11	Mainport Setting
+__TAG__Main_Pic_Dsp12	Auto Detect
+__TAG__Main_Pic_Dsp13	VGA
+__TAG__Main_Pic_Dsp14	BNC
+
+
+__TAG__Main_Pic_Dsp16	Time Format
+__TAG__Main_Pic_Dsp17	Disable
+
+__TAG__Main_Pic_Dsp19	yyyy/mm/dd hh:mm:ss
+__TAG__Main_Pic_Dsp20	yyyy-mm-dd hh:mm:ss
+__TAG__Main_Pic_Dsp21	dd/mm/yyyy hh:mm:ss
+__TAG__Main_Pic_Dsp22	dd-mm-yyyy hh:mm:ss
+__TAG__Main_Pic_Dsp23	mm/dd/yyyy hh:mm:ss
+__TAG__Main_Pic_Dsp24	mm-dd-yyyy hh:mm:ss
+__TAG__Main_Pic_Dsp25	dd mm yyyy hh:mm:ss
+__TAG__Main_Pic_Dsp26	mm dd yyyy hh:mm:ss
+
+__TAG__Main_Pic_Dsp29	Output Mode
+__TAG__Main_Pic_Dsp29.1	Gentle
+__TAG__Main_Pic_Dsp29.2	Colorful
+__TAG__Main_Pic_Dsp29.3	Bright
+
+__TAG__Main_Pic_Dsp37	Screensaver Time
+
+__TAG__Main_Pic_Dsp38	Never Timeout
+__TAG__Main_Pic_Dsp01	1 Min
+__TAG__Main_Pic_Dsp02	2 Mins
+__TAG__Main_Pic_Dsp03	3 Mins
+__TAG__Main_Pic_Dsp04	4 Mins
+__TAG__Main_Pic_Dsp05	5 Mins
+__TAG__Main_Pic_Dsp06	10 Mins
+__TAG__Main_Pic_Dsp39	15 Mins
+__TAG__Main_Pic_Dsp40	30 Mins
+__TAG__Main_Pic_Dsp41	1 Hour
+__TAG__Main_Pic_Dsp42	2 Hours
+__TAG__Main_Pic_Dsp43	4 Hours
+__TAG__Main_Pic_Dsp44	8 Hours
+__TAG__Main_Pic_Dsp45	12 Hours
+__TAG__Main_Pic_Dsp46	24 Hours
+
+__TAG__Main_Pic_Dsp50	Language
+
+__TAG__Main_Pic_Dsp54	Press Buzzer
+
+__TAG__Main_Pic_Dsp54.1	Enable Startup Guide
+__TAG__Main_Pic_Dsp55	Event
+__TAG__Main_Pic_Dsp56	Recording
+__TAG__Main_Pic_Dsp56.0	Hide preview screen video and warning icon
+__TAG__Main_Pic_Dsp56.1	Mouse Cursor Speed
+__TAG__Main_Pic_Dsp57	Touch-panel Calibration
+
+__TAG__Main_Pic_Dsp62	%s output mode changed
+__TAG__Main_Pic_Dsp62.1	%s output mode change, please confirm.
+__TAG__Main_Pic_Dsp63	%s output mode change
+__TAG__Main_Pic_Dsp63.1	%s output mode change, please confirm
+
+__TAG__Main_Pic_Dsp66	Touch-panel Calibration
+__TAG__Main_Pic_Dsp67	Touch-panel Calibration in auxiliary port
+__TAG__Main_Pic_Dsp69	Preview Setting
+__TAG__Main_Pic_Dsp70	Output
+__TAG__Main_Pic_Dsp71	VGA
+__TAG__Main_Pic_Dsp72	BNC1
+__TAG__Main_Pic_Dsp73	BNC2
+__TAG__Main_Pic_Dsp74	Composite Image
+__TAG__Main_Pic_Dsp75	Preview
+__TAG__Main_Pic_Dsp76	Single-screen
+__TAG__Main_Pic_Dsp77_HY	2 Screens 1
+__TAG__Main_Pic_Dsp77_HY.0	2 Screens A
+__TAG__Main_Pic_Dsp77_M	2 Screens 1(Medium)
+__TAG__Main_Pic_Dsp77_S	2 Screens 1(Small)
+__TAG__Main_Pic_Dsp78_HY	2 Screens 2
+__TAG__Main_Pic_Dsp78_M	2 Screens 2(Medium)
+__TAG__Main_Pic_Dsp78_S	2 Screens 2(Small)
+__TAG__Main_Pic_Dsp79_HY	2 Screens 3
+__TAG__Main_Pic_Dsp79_M	2 Screens 3(Medium)
+__TAG__Main_Pic_Dsp79_S	2 Screens 3(Small)
+__TAG__Main_Pic_Dsp80_HY	2 Screens 4
+__TAG__Main_Pic_Dsp80_M	2 Screens 4(Medium)
+__TAG__Main_Pic_Dsp80_S	2 Screens 4(Small)
+__TAG__Main_Pic_Dsp77	Pic-in-Pic 1
+__TAG__Main_Pic_Dsp78	Pic-in-Pic 2
+__TAG__Main_Pic_Dsp79	Pic-in-Pic 3
+__TAG__Main_Pic_Dsp80	Pic-in-Pic 4
+__TAG__Main_Pic_Dsp81	3 Screens 1
+__TAG__Main_Pic_Dsp82	3 Screens 2
+__TAG__Main_Pic_Dsp83	3 Screens 3
+__TAG__Main_Pic_Dsp84	3 Screens 4
+__TAG__Main_Pic_Dsp85	3 Screens 5
+__TAG__Main_Pic_Dsp86	3 Screens 6
+__TAG__Main_Pic_Dsp81_M	3 Screens 1(Medium)
+__TAG__Main_Pic_Dsp82_M	3 Screens 2(Medium)
+__TAG__Main_Pic_Dsp83_M	3 Screens 3(Medium)
+__TAG__Main_Pic_Dsp84_M	3 Screens 4(Medium)
+__TAG__Main_Pic_Dsp85_M	3 Screens 5(Medium)
+__TAG__Main_Pic_Dsp86_M	3 Screens 6(Medium)
+__TAG__Main_Pic_Dsp81_S	3 Screens 1(Small)
+__TAG__Main_Pic_Dsp82_S	3 Screens 2(Small)
+__TAG__Main_Pic_Dsp83_S	3 Screens 3(Small)
+__TAG__Main_Pic_Dsp84_S	3 Screens 4(Small)
+__TAG__Main_Pic_Dsp85_S	3 Screens 5(Small)
+__TAG__Main_Pic_Dsp86_S	3 Screens 6(Small)
+__TAG__Main_Pic_Dsp87	4 Screens
+__TAG__Main_Pic_Dsp87.0	4 Screens 0
+__TAG__Main_Pic_Dsp87_1L	4 Screens 1
+__TAG__Main_Pic_Dsp87_2L	4 Screens 2
+__TAG__Main_Pic_Dsp87_3L	4 Screens 3
+__TAG__Main_Pic_Dsp87_4L	4 Screens 4
+__TAG__Main_Pic_Dsp87_1M	1-big 3-small1(Medium)
+__TAG__Main_Pic_Dsp87_2M	1-big 3-small2(Medium)
+__TAG__Main_Pic_Dsp87_3M	1-big 3-small3(Medium)
+__TAG__Main_Pic_Dsp87_4M	1-big 3-small4(Medium)
+__TAG__Main_Pic_Dsp87_1S	1-big 3-small1(Small)
+__TAG__Main_Pic_Dsp87_2S	1-big 3-small2(Small)
+__TAG__Main_Pic_Dsp87_3S	1-big 3-small3(Small)
+__TAG__Main_Pic_Dsp87_4S	1-big 3-small4(Small)
+__TAG__Main_Pic_Dsp87_10	Big
+__TAG__Main_Pic_Dsp87_11	Medium
+__TAG__Main_Pic_Dsp87_12	Small
+__TAG__Main_Pic_Dsp88	6 Screens
+__TAG__Main_Pic_Dsp89	8 Screens
+__TAG__Main_Pic_Dsp90	9 Screens
+__TAG__Main_Pic_Dsp91	13 Screens
+__TAG__Main_Pic_Dsp92	16 Screens
+__TAG__Main_Pic_Dsp93	24 Screens
+__TAG__Main_Pic_Dsp93.0	25 Screens
+__TAG__Main_Pic_Dsp94	32 Screens
+__TAG__Main_Pic_Dsp94.0	36 Screens
+__TAG__Main_Pic_Dsp94.1	64 Screens
+__TAG__Main_Pic_Dsp95	Time Interval (Sec)
+__TAG__Main_Pic_Dsp96	None Switch
+__TAG__Main_Pic_Dsp97	2
+__TAG__Main_Pic_Dsp98	3
+__TAG__Main_Pic_Dsp99	5
+__TAG__Main_Pic_Dsp100	10
+__TAG__Main_Pic_Dsp101	15
+__TAG__Main_Pic_Dsp102	30
+__TAG__Main_Pic_Dsp103	60
+__TAG__Main_Pic_Dsp104	Auto Config
+
+__TAG__Main_Pic_Dsp108	Alarm Image Switch Time (s)
+__TAG__Main_Pic_Dsp109	Audio Output
+__TAG__Main_Pic_Dsp110	Audio Input
+
+__TAG__Main_Pic_Dsp114	Preview Performance
+__TAG__Main_Pic_Dsp115	Optimum image quality
+__TAG__Main_Pic_Dsp116	Maximum preview performance
+__TAG__Main_Pic_Dsp117	Smooth Stream
+__TAG__Main_Pic_Dsp118	Auto
+__TAG__Main_Pic_Vin1	Video Setting
+
+__TAG__Main_Pic_Vin6	Back
+__TAG__Main_Pic_Vin7	Image Setting
+__TAG__Main_Pic_Vin8	Channel
+__TAG__Main_Pic_Vin73	N/P Mode
+__TAG__Main_Pic_Vin74	PAL
+__TAG__Main_Pic_Vin75	NTSC
+
+__TAG__Main_Pic_Vin83	Brightness
+__TAG__Main_Pic_Vin84	Contrast
+__TAG__Main_Pic_Vin85	Saturation
+__TAG__Main_Pic_Vin86	Hue
+__TAG__Main_Pic_Vin87	Day/Night
+__TAG__Main_Pic_Vin88	Standard
+__TAG__Main_Pic_Vin88.1	Indoor
+
+__TAG__Main_Pic_Vin88.3	Outdoor
+__TAG__Main_Pic_Vin88.4	Customized
+
+__TAG__Main_Pic_Vin90	Color
+__TAG__Main_Pic_Vin91	B/W
+__TAG__Main_Pic_Vin92	Auto(inside)
+__TAG__Main_Pic_Vin93	Auto(outside)
+__TAG__Main_Pic_Vin94	Auto(alarm)
+__TAG__Main_Pic_Vin95	Video Flip
+__TAG__Main_Pic_Vec1	Stream Setting
+__TAG__Main_Pic_Vec2	Channel No.
+__TAG__Main_Pic_Vec3	Video Encoding
+__TAG__Main_Pic_Vec4	H.264
+
+__TAG__Main_Pic_Vec6	Resolution
+__TAG__Main_Pic_Vec6.0	Corridor Mode
+
+__TAG__Main_Pic_Vec9	(960P)1280x960
+__TAG__Main_Pic_Vec10	(720P)1280x720
+__TAG__Main_Pic_Vec11	(HVGA)640x240
+
+__TAG__Main_Pic_Vec20	Frame Rate
+__TAG__Main_Pic_Vec29	BitRate Type
+__TAG__Main_Pic_Vec30	CBR
+__TAG__Main_Pic_Vec31	VBR
+__TAG__Main_Pic_Vec32	Bit Rate
+__TAG__Main_Pic_Vec32.1	(32~16384Kbps)
+__TAG__Main_Pic_Vec33	Quality
+__TAG__Main_Pic_Vec34	Best
+__TAG__Main_Pic_Vec35	Better
+__TAG__Main_Pic_Vec36	Good
+__TAG__Main_Pic_Vec37	Normal
+__TAG__Main_Pic_Vec38	Poor
+__TAG__Main_Pic_Vec39	Very Poor
+__TAG__Main_Pic_Vec40	Stream Type
+__TAG__Main_Pic_Vec41	Video
+__TAG__Main_Pic_Vec42	Audio/Video
+__TAG__Main_Pic_Vec43	I-Frame Interval
+__TAG__Main_Pic_Vec43.1	(10~100)
+__TAG__Main_Pic_Vec44	Audio Encoding
+__TAG__Main_Pic_Vec45	ADPCM_D
+
+__TAG__Main_Pic_Vec47	G.711A
+__TAG__Main_Pic_Vec48	G.711U
+
+__TAG__Main_Pic_VecAAC	AAC_LC
+
+
+__TAG__Main_Pic_Vec92	Stream
+
+__TAG__Main_Pic_Vec103	25
+__TAG__Main_Pic_Vec104	30
+__TAG__Main_Pic_Vec105	75
+__TAG__Main_Pic_Vec106	100
+__TAG__Main_Pic_Vec107	Main Stream (Schedule)
+__TAG__Main_Pic_Vec108	Main Stream (Event)
+__TAG__Main_Pic_Vec109	Substream
+
+__TAG__Main_Pic_Vec111	Customized 1
+__TAG__Main_Pic_Vec112	Customized 2
+
+__TAG__Main_Pic_Vec114	Default
+__TAG__Main_Pic_Vlay1	OSD
+__TAG__Main_Pic_Vlay2	Channel
+__TAG__Main_Pic_Vlay3	Camera Title
+__TAG__Main_Pic_Vlay5.0	Background Transparent
+__TAG__Main_Pic_Vlay5.1	Background Display
+__TAG__Main_Pic_Vlay6	Date
+__TAG__Main_Pic_Vlay7	Color
+
+__TAG__Main_Pic_Vlay13	Customized Text
+
+__TAG__Main_Pic_Vlay16	Enable Privacy Mask
+__TAG__Main_Pic_Vlay17	Basic Setting
+
+__TAG__Main_Pic_Vlay20	Success
+
+__TAG__Main_Pic_Vlay23	Show Week
+__TAG__Main_Pic_Vlay24	12-Hour System
+
+__TAG__Main_Pic_Vlay28	Setting Failed
+__TAG__Main_Pic_Vlay29	Display parameter setting failed, system busy, or parameter error, please check and retry.
+
+__TAG__Main_Pic_Vlay52	Note
+
+__TAG__Main_Pic_Pssd1	Video Encryption
+__TAG__Main_Pic_Pssd2	Input Password
+__TAG__Main_Pic_Pssd3	Confirm Password
+__TAG__Main_Pic_Pssd4	Password Error
+__TAG__Main_Pic_Type	Encryption type
+
+__TAG__Main_Change_Lang1	Warning
+__TAG__Main_Change_Lang2	Language change needs a reboot to take effect, Do you want to reboot now?
+__TAG__Main_Change_Lang3	Switch the language or channel capacity needs to restart to take effect, Do you want to restart the system now?
+__TAG__Main_Pic_Overlay1	Delete
+
+__TAG__Main_Change_Audio	To assure audio quality, it is recommended to reboot after changing the audio sample rate and audio encoding mode, Do you want to reboot now?
+
+__TAG__Main_tain_Var	Device repair and maintenance
+__TAG__Main_tain_Icon	Device Maintenance
+__TAG__Main_tain_btn1	Upload
+__TAG__Main_tain_btn3	Daily Picture Config
+__TAG__Main_tain_Ps0	Users Repair
+__TAG__Main_tain_Ps1	Maintenance & Repair
+__TAG__Main_tain_Ps2	Test & Maintenance
+__TAG__Main_tain_Ps3	Acceptance Manage
+__TAG__Main_tain_Ps4	Basic Setting
+__TAG__Main_tain_Lab0	Repair system name
+__TAG__Main_tain_Lab1	Repair system type
+__TAG__Main_tain_Lab2	Device Maintenance
+__TAG__Main_tain_Lab3	Device repair
+__TAG__Main_tain_Lab4	Operation types
+__TAG__Main_tain_Lab5	Police officer No. 
+__TAG__Main_tain_Lab6	Agency ID
+__TAG__Main_tain_Lab7	Monitoring Center IP
+__TAG__Main_tain_Lab8	Pre-shot time (sec)
+__TAG__Main_tain_Lab9	Time interval (sec)
+__TAG__Main_tain_Lab10	Delay-shot time (sec)
+__TAG__Main_tain_Lab11	Alarm Pic Config
+__TAG__Main_tain_Lab12	Password
+__TAG__Main_tain_Lab13	Upload failed. Please check the platform configuration.
+__TAG__Main_tain_Lab14	Get parameter error. Please check the platform configuration.
+__TAG__Main_tain_SysCob0	Building intercom system 
+__TAG__Main_tain_SysCob1	Perimeter alarm system
+__TAG__Main_tain_SysCob2	Networking Alarm system
+__TAG__Main_tain_SysCob3	Local alarm system
+__TAG__Main_tain_SysCob4	Video security monitoring
+__TAG__Main_tain_SysCob5	Access control system
+__TAG__Main_tain_SysCob6	Electronic Patrol System
+__TAG__Main_tain_SysCob7	Other security system
+__TAG__Main_tain_StyCob0	Front end fault
+__TAG__Main_tain_StyCob1	Terminal fault
+__TAG__Main_tain_StyCob2	System fault
+__TAG__Main_tain_SerCob0	Normal
+__TAG__Main_tain_SerCob1	Abnormal repaired
+__TAG__Main_tain_SerCob2	Abnormal unrepaired
+__TAG__Main_tain_SerCob3	Not choose
+__TAG__Main_tain_TestCob0	Test pictures upload
+__TAG__Main_tain_TestCob1	Maintenance pictures upload
+__TAG__Main_tain_Cbx0	Enable Running State
+__TAG__Main_tain_Cbx1	Enable Alarm Linkage
+__TAG__Main_tain_Cbx2	Enable Daily Pictures
+__TAG__Main_tain_Cbx3	Time point 1
+__TAG__Main_tain_Cbx4	Time point 2
+__TAG__Main_PUset_Icon	PU Set
+__TAG__Main_PUset_Lab0	Registration server
+__TAG__Main_PUset_Lab1	Heartbeat server
+__TAG__Main_PUset_Lab2	Alarm server
+__TAG__Main_PUset_Lab3	Device ID
+__TAG__Main_PUset_Lab4	Device Name
+__TAG__Main_PUset_Lab5	PU parameter update
+__TAG__Main_PUset_Lab6	PU parameter changing needs to reboot to take effect, Do you want to reboot now?
+__TAG__Main_Sure	Confirm
+__TAG__Main_Cacl	Cancel
+__TAG__Main_Cacl1	Cancel
+__TAG__Main_Exit	Exit
+__TAG__Main_Exit1	Exit
+__TAG__Main_Back	Back
+__TAG__Main_Copy	Copy
+__TAG__Main_Copy1	Copy
+__TAG__Main_Clng	Paste
+__TAG__Main_CpTo	Copy to
+__TAG__Main_CpPort	Copy to Port
+__TAG__Main_Chan	Channel
+__TAG__Main_All	All
+__TAG__Main_All_Week	Whole Week
+__TAG__Main_Del	Delete
+__TAG__Main_Del_All	Delete All
+
+__TAG__Main_Close	Close
+__TAG__Main_Var1	Local Preview & Video Parameter Setting
+__TAG__Main_Var1.0	Video Recording Quick Setting
+__TAG__Main_Var2	Record File Management & Record Arming Setting
+
+__TAG__Main_Var5	System Advanced Parameters Setting
+__TAG__Main_Var6	User Permission & Password Management
+__TAG__Main_Var7	Exit System/User Logout
+
+__TAG__Main_Var10	Main Menu
+__TAG__Main_Var11	Start Switch
+__TAG__Main_Var12	Stop Switch
+
+__TAG__Main_Icn1	Image
+
+__TAG__Main_Icn7	Cameras
+
+__TAG__Main_Icn11	Playback
+__TAG__Main_Icn12	Backup
+
+__TAG__Main_Exit_Pic	Exit GUI
+__TAG__Main_Exit_Pic_Msg	Are you sure to exit GUI?
+__TAG__Main_Confirm	Confirm
+__TAG__Main_Cancel	Cancel
+__TAG__Main_System_Inform	System message
+__TAG__Main_System_Inform1	System message.
+__TAG__Main_System_DonotRemind	Don't remind me.
+__TAG__Main_NextItem	Next
+__TAG__Main_PopMenu	Quick Menu
+__TAG__Main_Preview	Preview Setting
+__TAG__Main_Zoom	Digital Zoom
+__TAG__Main_PopChan	Quick Channel
+__TAG__Main_PopChannel1	Channel 1
+__TAG__Main_PopChannel2	Channel 2
+__TAG__Main_PopChannel3	Channel 3
+__TAG__Main_PopChannel4	Channel 4
+__TAG__Main_PopChannel5	Channel 5
+__TAG__Main_PopChannel6	Channel 6
+__TAG__Main_PopChannel7	Channel 7
+__TAG__Main_PopChannel8	Channel 8
+__TAG__Main_PopChannel9	Channel 9
+__TAG__Main_PopChannel10	Channel 10
+__TAG__Main_PopChannel11	Channel 11
+__TAG__Main_PopChannel12	Channel 12
+__TAG__Main_PopChannel13	Channel 13
+__TAG__Main_PopChannel14	Channel 14
+__TAG__Main_PopChannel15	Channel 15
+__TAG__Main_PopChannel16	Channel 16
+__TAG__Main_PopChannel17	Channel 17
+__TAG__Main_PopChannel18	Channel 18
+__TAG__Main_PopChannel19	Channel 19
+__TAG__Main_PopChannel20	Channel 20
+__TAG__Main_PopChannel21	Channel 21
+__TAG__Main_PopChannel22	Channel 22
+__TAG__Main_PopChannel23	Channel 23
+__TAG__Main_PopChannel24	Channel 24
+__TAG__Main_PopChannel25	Channel 25
+__TAG__Main_PopChannel26	Channel 26
+__TAG__Main_PopChannel27	Channel 27
+__TAG__Main_PopChannel28	Channel 28
+__TAG__Main_PopChannel29	Channel 29
+__TAG__Main_PopChannel30	Channel 30
+__TAG__Main_PopChannel31	Channel 31
+__TAG__Main_PopChannel32	Channel 32
+__TAG__Main_MultiPic	Multi-screen
+__TAG__Main_MultiPic1	Single-screen
+
+__TAG__Main_MultiPic4	4 Screens
+
+__TAG__Main_MultiPic6	6 Screens
+__TAG__Main_MultiPic8	8 Screens
+__TAG__Main_MultiPic9	9 Screens
+__TAG__Main_MultiPic16	16 Screens
+__TAG__Main_MultiPic24	24 Screens
+__TAG__Main_MultiPic32	32 Screens
+__TAG__Main_Pre_Page	Prev Page
+__TAG__Main_Next_Page	Next Page
+__TAG__Main_Start_Switch	Start switch
+
+__TAG__Main_System_Info	System Information
+
+__TAG__Main_Cancel_Alarm	Clear All Alarm
+__TAG__Main_Logout	Logout
+__TAG__Main_Fukou	Auxiliary Port
+__TAG__Main_MainPort	Mainport
+__TAG__Main_Set_MainPort	Set As Mainport
+
+__TAG__Main_Control_Panel	Control Panel
+__TAG__Main_LedCheck	Hide recording status lamp
+__TAG__Main_PreviewLimit	Limited by the performance, some channels have been automatically stop previewing
+__TAG__Main_PreviewLimit1	Preview limited
+__TAG__Main_PreviewLimit2	Auto Dropframe
+__TAG__Main_PreviewLimit3	Hand Dropframe
+__TAG__Main_PreviewLimit4	Ignore
+
+__TAG__Main_Short_Cut	My Panel
+
+__TAG__Main_Short_Cut_Change	Change
+__TAG__Main_Order	No.
+
+__TAG__Main_Log_Var1	Please select an item.
+__TAG__Main_Log_Var2	Halt system and turn power off
+__TAG__Main_Log_Var3	Reboot system
+__TAG__Main_Log_Var4	Sign out current user
+__TAG__Main_Log_Var5	Reboot GUI
+__TAG__Main_Log_Var6	Use another username to login
+__TAG__Main_Log_Out1	Logout
+__TAG__Main_Log_Out2	Action
+__TAG__Main_Log_Out3	Shutdown
+__TAG__Main_Log_Out4	Reboot
+__TAG__Main_Log_Out5	Logout
+
+__TAG__Main_Log_Out10	Shutdown
+
+__TAG__Main_Log_Out13	Are you sure to shutdown system?
+__TAG__Main_Log_Out14	Are you sure to reboot system?
+__TAG__Main_Len_Var1	Decoder Parameters Setting
+__TAG__Main_Len_Var2	PTZ Control Setting
+__TAG__Main_Len_Var3	PTZ Protocol Management
+__TAG__Main_Len_Var4	PTZ Control
+__TAG__Main_Len_Var5	Start
+__TAG__Main_Len_Var6	Stop
+__TAG__Main_Len_Var7	Start Pattern
+__TAG__Main_Len_Var8	Stop Pattern
+__TAG__Main_Len_Var9	Call
+__TAG__Main_Len_Var10	Stop
+__TAG__Main_Len_Var11	Enable
+__TAG__Main_Len_Var12	Disable
+
+__TAG__Main_Len_Dec1	Decoder Setting
+__TAG__Main_Len_Dec2	Channel
+__TAG__Main_Len_Dec3	Protocol
+__TAG__Main_Len_Dec5	Pelco_P
+__TAG__Main_Len_Dec6	Pelco_D
+__TAG__Main_Len_Dec7	615_P
+__TAG__Main_Len_Dec8	615_D
+__TAG__Main_Len_Dec9	Address
+__TAG__Main_Len_Dec10	Serial Port
+__TAG__Main_Len_Dec11	Serial Port
+__TAG__Main_Len_Dec12	Baud Rate
+__TAG__Main_Len_Dec22	Data Bits
+__TAG__Main_Len_Dec23	7 bits
+__TAG__Main_Len_Dec24	8 bits
+__TAG__Main_Len_Dec25	Stop Bit
+__TAG__Main_Len_Dec26	1 bit
+__TAG__Main_Len_Dec27	2 bit
+__TAG__Main_Len_Dec28	Check Bit
+__TAG__Main_Len_Dec29	None
+__TAG__Main_Len_Dec30	Odd check
+__TAG__Main_Len_Dec31	Even check
+
+
+__TAG__Main_Len_Ctl7	Iris
+__TAG__Main_Len_Ctl8	Focus
+__TAG__Main_Len_Ctl9	Zoom
+
+__TAG__Main_Len_Ctl12	Wiper
+
+__TAG__Main_Len_Ctl15	Preset
+__TAG__Main_Len_Ctl16	Call
+__TAG__Main_Len_Ctl17	Setting
+__TAG__Main_Len_Ctl18	Speed
+
+__TAG__Main_Len_Ctl23	Start
+__TAG__Main_Len_Ctl24	Pattern
+__TAG__Main_Len_Ctl25	Cruise
+__TAG__Main_Len_Ctl26	Cruise Setting
+__TAG__Main_Len_Ctl27	Cruise No.
+__TAG__Main_Len_Ctl28	Enable
+__TAG__Main_Len_Ctl29	Call
+__TAG__Main_Len_Ctl30	Stop
+__TAG__Main_Len_Ctl31	Cruise Point
+
+__TAG__Main_Len_Ctl36	Delete
+__TAG__Main_Len_Ctl37	Attribute
+__TAG__Main_Len_Ctl38	Preset
+
+__TAG__Main_Len_Ctl43	Time(s)
+__TAG__Main_Len_Ctl43.1	(1~60)
+
+__TAG__Main_Len_Ctl45	New
+__TAG__Main_Len_Ctl46	Setting
+__TAG__Main_Len_Ctl47	Apply
+
+__TAG__Guide1	Quick Setup Wizard
+__TAG__Guide2	The quick setup wizard will help guide you through quickly configuring your device for use.  Would you like to run the wizard now?
+__TAG__Guide3	Yes
+__TAG__Guide4	No
+__TAG__Guide5	Never
+__TAG__Guide6	Permission Identification
+__TAG__Guide7	Login as Administrator
+__TAG__Guide8	ID
+
+__TAG__Guide11	MAC Address
+__TAG__Guide12	Auto obtain IP address via DHCP
+
+__TAG__Guide14	IP Address
+__TAG__Guide15	Subnet Mask
+__TAG__Guide16	Gateway
+__TAG__Guide17	Manual DNS Setting
+__TAG__Guide18	Preferred DNS
+__TAG__Guide19	Reserved DNS
+
+__TAG__Guide21	Next
+
+__TAG__Guide23	Device
+__TAG__Guide24	Size
+__TAG__Guide25	Used
+__TAG__Guide26	Free
+
+__TAG__Guide28	Sleep
+__TAG__Guide29	Format
+__TAG__Guide31	Back
+
+__TAG__Guide34	Format disk will erase all the data, continue?
+__TAG__Guide38	Disk formatting...
+__TAG__Guide40	Disk format done!
+
+
+__TAG__Guide_49	Language
+
+__TAG__Guide_Set	Apply
+
+__TAG__Guide_53	Next
+__TAG__Guide_54	Wizard Setting
+__TAG__Guide_55	Adaptive best resolution
+__TAG__Guide_56	Resolution
+__TAG__Guide_57	%s
+__TAG__Main_File_Diag1	Resource Management
+__TAG__Main_File_Diag2	USB Device
+__TAG__Main_File_Diag3	Remaining Space
+__TAG__Main_File_Diag4	Name
+__TAG__Main_File_Diag5	Size
+__TAG__Main_File_Diag6	Type
+__TAG__Main_File_Diag7	Modification Time
+
+__TAG__Main_File_Diag9	Delete
+__TAG__Main_File_Diag10	Confirm
+__TAG__Main_File_Diag11	Cancel
+__TAG__Main_File_Diag12	Refresh
+__TAG__Main_File_Diag13	New Folder
+__TAG__Main_File_Diag14	Please rename the New Folder:
+__TAG__Main_File_Diag15	Delete File
+__TAG__Main_File_Diag16	Are you sure you want to delete the directory or files?
+__TAG__Main_File_Diag17	Error: 
+__TAG__Main_File_Diag18	The file name already exists. Please choose a different name.
+__TAG__Main_File_Diag20	Device
+__TAG__Main_File_Diag21	Remaining Space
+__TAG__Main_Diag1	Error
+__TAG__Main_Diag2	Question
+__TAG__Main_Diag3	Notes
+__TAG__Main_Diag4	Warning
+__TAG__Main_ColrPat1	Color Plate
+__TAG__Main_TouchPadInput1	TouchPad Input
+__TAG__Main_Chn_Var1	Device Address
+__TAG__Main_Chn_Var2	Domain
+__TAG__Main_Chn_Var3	Series Number 
+__TAG__Main_Chn_Mng1	Channels
+__TAG__Main_Chn_Mng2	Added Devices
+__TAG__Main_Chn_Mng3	Channel
+__TAG__Main_Chn_Mng4	Device
+__TAG__Main_Chn_Mng5	Attribute
+__TAG__Main_Chn_Mng6	Status
+__TAG__Main_Chn_Mng7	Edit
+__TAG__Main_Chn_Mng8	Enable
+__TAG__Main_Chn_Mng9	Disable
+__TAG__Main_Chn_Mng10	Plug-and-Play
+__TAG__Main_Chn_Mng11	Disable
+__TAG__Main_Chn_Mng12	Discover
+__TAG__Main_Chn_Mng13	Automatic
+__TAG__Main_Chn_Mng15	Connection Status
+__TAG__Main_Chn_Mng16	Enable All
+__TAG__Main_Chn_Mng17	Disable All
+__TAG__Main_Chn_Mng18	Remaining Bandwidth
+__TAG__Main_Chn_Mng20	Version
+__TAG__Main_Chn_Mng21	Reboot IPC
+__TAG__Main_Chn_Mng22	Import
+__TAG__Main_Chn_Mng23	Export
+__TAG__Main_Chn_Mng24	Update
+__TAG__Main_Chn_Mng25	Display
+__TAG__Main_Chn_Mng26	IPC
+__TAG__Main_Chn_Mng27	NVR
+__TAG__Main_Chn_Mng28	Advanced
+__TAG__Main_Chn_Mng30	Edit
+__TAG__Main_Chn_Mng31	Channel alias
+__TAG__Main_Chn_Edit1	Edit Type
+__TAG__Main_Chn_Edit2	Channel
+__TAG__Main_Chn_Edit3	Type
+__TAG__Main_Chn_Edit4	IPC
+__TAG__Main_Chn_Edit5	Analog Channel
+__TAG__Main_Chn_Edit6	Virtual Channel
+__TAG__Main_Log_Type1	Channel Type Setting
+__TAG__Main_Chn_Type2	Channel type change will take effect after reboot. Would you like to reboot now?
+__TAG__Main_Chn_Type3	Yes
+__TAG__Main_Chn_Type4	No
+__TAG__Main_Chn_Type5	Channel Type Setting
+__TAG__Main_Chn_Type6	Setting error!
+__TAG__Main_Log_Dig1	Digital Channel
+__TAG__Main_Chn_Dig2	Channel No.
+__TAG__Main_Chn_Dig3	Connect Mode
+__TAG__Main_Chn_Dig4	IP
+__TAG__Main_Chn_Dig5	DDNS
+__TAG__Main_Chn_Dig6	Initiative
+__TAG__Main_Chn_Dig7	Device Address
+__TAG__Main_Chn_Dig7.0	URL Address
+__TAG__Main_Chn_Dig8	Proxy IP
+__TAG__Main_Chn_Dig9	Device Channel
+__TAG__Main_Chn_Dig10	Port No.
+__TAG__Main_Chn_Dig11	Stream
+__TAG__Main_Chn_Dig12	Mainstream
+__TAG__Main_Chn_Dig13	Substream
+__TAG__Main_Chn_Dig14	Network Connection
+__TAG__Main_Chn_Dig15	TCP
+__TAG__Main_Chn_Dig16	UDP
+__TAG__Main_Chn_Dig17	BC
+__TAG__Main_Chn_Dig18	Protocol
+__TAG__Main_Chn_Dig19	PelcoD
+__TAG__Main_Chn_Dig20	PelcoP
+__TAG__Main_Chn_Dig22	Address
+__TAG__Main_Chn_Dig23	User
+__TAG__Main_Chn_Dig24	Admin
+__TAG__Main_Chn_Dig25	Password
+__TAG__Main_Chn_Dig26	State
+__TAG__Main_Chn_Dig27	Enable
+__TAG__Main_Chn_Dig28	Disable
+__TAG__Main_Chn_Dig29	Decryption
+__TAG__Main_Chn_Dig30	Search
+__TAG__Main_Chn_DevType	Device Type
+__TAG__Main_Chn_Dev1	Private
+__TAG__Main_Chn_Dev2	ONVIF
+__TAG__Main_Chn_Dev3	RTSP
+__TAG__Main_Chn_AptAdd	Smart Adding
+__TAG__Main_Chn_Add_type1	IP address ascending
+__TAG__Main_Chn_Add_type2	Channel number ascending
+__TAG__Main_Chn_Add_Target	Target Channel
+__TAG__Main_Chn_Add	Batch Add
+__TAG__Main_Chn_Srch1	Server Search
+__TAG__Main_Chn_Srch2	IP Address
+
+__TAG__Main_Chn_Srch6	Serial Number
+
+__TAG__Main_Chn_Srch9	Jump to
+
+__TAG__Main_Chn_Srch19	Search
+__TAG__Main_Chn_Srch21	Add
+__TAG__Main_Chn_Srch22	Modify IP 
+__TAG__Main_Chn_Srch23	Manual Add
+__TAG__Main_Chn_IPC1	IPC Central Management
+
+__TAG__Main_Cbl_Icn2	Realtime Burning
+
+__TAG__Main_Cbl_Rtm2	Basic
+
+__TAG__Main_Cbl_Pssd2	Password
+__TAG__Main_Cbl_Pssd4	Stop
+__TAG__Main_Cbl_Srch1	Search Failed!
+
+__TAG__Main_Delay_Set4.10	1 Hour
+
+__TAG__Main_Car_Info	Device Status
+
+__TAG__Main_Caldar1	Calendar
+
+__TAG__Main_Caldar4	Jan
+__TAG__Main_Caldar5	Feb
+__TAG__Main_Caldar6	Mar
+__TAG__Main_Caldar7	Apr
+__TAG__Main_Caldar8	May
+__TAG__Main_Caldar9	Jun
+__TAG__Main_Caldar10	Jul
+__TAG__Main_Caldar11	Aug
+__TAG__Main_Caldar12	Sep
+__TAG__Main_Caldar13	Oct
+__TAG__Main_Caldar14	Nov
+__TAG__Main_Caldar15	Dec
+
+__TAG__Main_CardOSD_Set1	ATM Setting
+
+__TAG__Main_CardOSD_Set13	View
+
+__TAG__Main_Alm_Chn0	--
+
+
+__TAG__Main_Alm_Type1	Port Alarm
+__TAG__Main_Alm_Type2	Motion
+__TAG__Main_Alm_Type4	VCA
+
+__TAG__Main_Alm_Type6	Video Mask
+__TAG__Main_Alm_Set	Schedule
+__TAG__Main_Alm_StTm	Date
+__TAG__Main_Alm_Cldr	Date
+__TAG__Main_Alm_Week1	Mon
+__TAG__Main_Alm_Week2	Tue
+__TAG__Main_Alm_Week3	Wed
+__TAG__Main_Alm_Week4	Thu
+__TAG__Main_Alm_Week5	Fri
+__TAG__Main_Alm_Week6	Sat
+__TAG__Main_Alm_Week7	Sun
+
+__TAG__Main_Alm_Time5	Left-click drag to set arm time period
+__TAG__Main_Alm_Time6	Left-click drag to remove arm time period
+__TAG__Main_Alm_Var1	Alarm Input Setting
+
+__TAG__Main_Alm_Var11	VCA Setting
+__TAG__Main_Alm_Icn1	Alarm
+__TAG__Main_Alm_Icn2	Alarm Input
+__TAG__Main_Alm_Icn3	Alarm Output
+
+__TAG__Main_Alm_Icn5	Video Loss
+__TAG__Main_Alm_Icn6	Clear Alarm
+__TAG__Main_Alm_Icn7	Alarm Host
+__TAG__Main_Alm_Icn8	PTZ Linkage
+__TAG__Main_Alm_Icn9	Mask Alarm
+__TAG__Main_Alm_Icn11	Manual Alarm
+
+__TAG__Main_Alm_AlmIn1	Alarm Input Setting
+__TAG__Main_Alm_AlmIn2	Input Port
+__TAG__Main_Alm_AlmIn3	Circuit Type
+__TAG__Main_Alm_AlmIn4	Normally close
+__TAG__Main_Alm_AlmIn5	Normally open
+
+__TAG__Main_Alm_AlmIn6	Enable
+
+__TAG__Main_Alm_AlmIn9	Buzzer
+__TAG__Main_Alm_AlmIn10	On-Screen Display
+__TAG__Main_Alm_AlmIn13	Record
+__TAG__Main_Alm_AlmIn14	Alarm Output
+__TAG__Main_Alm_AlmIn15	Snapshot
+__TAG__Main_Alm_AlmIn16	Single Screen
+__TAG__Main_Alm_AlmIn17	Image Attachment
+
+__TAG__Main_Alm_LkAout1	Trigger alarm output
+
+__TAG__Main_Alm_AlmOut1	Alarm Output Setting
+__TAG__Main_Alm_AlmOut2	Port
+__TAG__Main_Alm_AlmOut3	Type
+__TAG__Main_Alm_AlmOut4	Normally close
+__TAG__Main_Alm_AlmOut5	Normally open
+__TAG__Main_Alm_AlmOut6	Delay
+__TAG__Main_Alm_AlmOut7	None
+__TAG__Main_Alm_AlmOut13	Manual Stop
+
+__TAG__Main_Alm_Ptz5	Mode
+__TAG__Main_Alm_Md1	Motion Detection
+__TAG__Main_Alm_Md2	Channel
+__TAG__Main_Alm_Md3	Sensitivity
+__TAG__Main_Alm_Md4	Enable
+__TAG__Main_Alm_Md13	Copy to
+__TAG__Main_Alm_Lost2	Enable
+__TAG__Main_Alm_Cover2	Enable
+__TAG__Main_Alm_Host2	Network Alarm Host
+__TAG__Main_Alm_Host3	Alarm Server
+__TAG__Main_Alm_Host4	Enable
+__TAG__Main_Alm_Host5	IP Address
+__TAG__Main_Alm_Host6	Port
+__TAG__Main_Alm_Host7	Alarm Input
+__TAG__Main_Alm_Host8	Alarm Output
+__TAG__Main_Alm_Host9	Serial
+__TAG__Main_Alm_Host10	Alarm Server
+__TAG__Main_Alm_Host11	Enable
+__TAG__Main_Alm_Host12	Com
+__TAG__Main_Alm_Host17	Protocol
+__TAG__Main_Alm_Host19	Address
+__TAG__Main_Alm_Host20	Alarm Input
+__TAG__Main_Alm_Host21	Alarm Output
+__TAG__Main_Alm_Hand1	Manual Alarm
+__TAG__Main_Alm_Hand2	Alarm Output Port
+__TAG__Main_Alm_Hand3	Alarm Name
+__TAG__Main_Alm_Hand4	IP Address
+__TAG__Main_Alm_Hand5	Status
+__TAG__Main_Alm_Hand6	Activate
+__TAG__Main_Alm_Hand7	Clear
+__TAG__Main_Alm_Hand8	Activate All
+__TAG__Main_Alm_Hand9	Clear All
+__TAG__Main_Alm_Hand10	Refresh
+
+__TAG__Main_Alm_Time	Video Recording Setting Guidance
+
+__TAG__Main_Video_Qry18.0	File Format
+__TAG__Main_Video_Qry18.1	Backup Video Player
+__TAG__Main_Video_Qry18.2	Start Backup Identification
+__TAG__Video_Play_Interval	Play Interval
+__TAG__Main_Pic_Vlay5.3	Custom Location
+__TAG__Main_Pic_Vlay13.0	Additional
+__TAG__Main_Pic_Vlay54	OSD Size
+__TAG__Main_Pic_Vlay55	Self-Adaptive
+__TAG__Main_User_Icn9	Permission
+__TAG__Main_Var8	Camera Parameter Setting
+__TAG__Main_Video_Var44	Edit Management
+__TAG__Main_Video_Var45	Zoom In
+__TAG__Main_Video_Var46	Zoom Out
+__TAG__Main_Video_Var47	Stop Search
+__TAG__Main_VP_Vp1	Event
+__TAG__Main_VP_Vp2	Smart Search
+__TAG__Main_VP_Vp3	Picture
+__TAG__Main_VP_Vp4	Play All
+__TAG__Main_VP_Vp5	Cancel
+__TAG__Main_Pic_Var15	Audio/Video Parameter
+__TAG__Main_Pic_Var16	ROI
+__TAG__Main_Pic_Var17	Delete Area
+__TAG__Main_Pic_Var18	Audio Control Type
+
+__TAG__Main_Vca_Line82	Event Parameter
+__TAG__Main_Icn3	PTZ Setting
+__TAG__Main_Vca_ClearLine	Clear Line
+__TAG__Main_Pic_Dsp119	Keep the last frame
+__TAG__Main_Video_Qry12.0	Pictures
+__TAG__Main_Video_Clip_Save	Save the video clip?
+__TAG__Main_Sys_Continue	Continue
+__TAG__Main_Sys_OtherSet	Other Setting
+__TAG__Main_Vca_Drawline	Draw detection area
+__TAG__Main_Sys_SMTP	Email Setting
+__TAG__Main_Sys_Disk49.2	There is an uninitialized disk, disk data will be lost during disk initializing, Do you want to initialize now?
+__TAG__PseNet_Interface	POE LAN Card
+__TAG__Main_Chn_Add_type	Add Method
+__TAG__Main_BackupMsg	Video & Picture backup and query
+__TAG__Main_AlarmMsg	Alarm Configuration & Manual alarm/disalarm
+__TAG__Main_Chn_IpcUpdate	IPC Upgrade
+__TAG__POE_UsedPw	Actual Power:
+__TAG__POE_UnUsedPw	Surplus Power:
+__TAG__POE_Head	POE Power Information
+__TAG__POE_Msg1	Notice:
+__TAG__POE_Msg3	Each POE port power range: 0~%d.00W.
+__TAG__POE_Msg4	When actual power exceed rated power, system will close POE port by port number by descending, till the actual power go lower than rated power.
+__TAG__Main_Chn_ChnSet	Channels
+
+__TAG__Main_Video_SnapSet5.1	Multiple Pictures
+__TAG__Main_Sys_BakDev11	Deleting a working device may stop the Backup/Sync-record, Do you want to continue?
+__TAG__Video_Backup	Recorded
+__TAG__Dev_Added	Added
+__TAG__Main_Mobile	Mobile Monitoring
+__TAG__USER_AUTO_LOGON	Save Password
+__TAG__Main_VDEC_LIMIT	Send warning if device decoding performance reaches up limit
+__TAG__Chn_Balance	Bandwidth Balance
+__TAG__Video_ANR	Enable ANR
+__TAG__Login_PassWord	Password Strength
+__TAG__Main_Sys_Err19.1	Email Alarm
+__TAG__Main_Alm_AImIn11	Send Email
+__TAG__VCA__AlgorithmEnable	Enable Arithmetic
+__TAG__VCA__EnableArith	Enable Arithmetic
+__TAG__VCA__Behavior	Behavior Analysis
+__TAG__VCA__Track	Intelligent Tracking
+__TAG__VCA__License	License Plate Recognition
+__TAG__VCA__VoiceDiag	Audio Abnormal Detection
+__TAG__VCA__Post	On Duty Detection
+__TAG__VCA__Crowd	Crowd Detection
+__TAG__VCA__PeopleCnt	People Counting
+__TAG__VCA__FaceDet	Face Detection
+__TAG__VCA__SaveAlgorithm	Save
+__TAG__VCA__AlgorithmCfg	Arithmetic Configuration
+__TAG__VCA__DoubleTrip	Double Tripwire
+__TAG__VCA__ItemsLeft	Object Abandon
+__TAG__VCA__Wander	Loiter
+__TAG__VCA__Running	Running
+__TAG__VCA__Parking	Parking
+__TAG__VCA__DoubleAlarm	Two-way Event
+__TAG__VCA__Proportion	Percentage
+__TAG__VCA__MaxTime	Tripwire max time interval
+__TAG__VCA__MinTime	Tripwire min time interval
+__TAG__VCA__InvadeTime	Invasion Time(s)
+__TAG__VCA__AlarmTime	Alarm Time(s)
+__TAG__VCA__MinArea	Minimum Area
+__TAG__VCA__MinDistance	Min migration per second
+__TAG__VCA__SpeedThreshold	Speed Threshold
+__TAG__VCA__FirstChi	First Word
+__TAG__VCA__FirstAlpha	First Letter
+__TAG__VCA__MaxFaceSize	Max Face Size
+__TAG__VCA__MinFaceSize	Min Face Size
+__TAG__VCA__FaceSnap	Face Snapshot
+__TAG__VCA__DetectionType	Detection Type
+__TAG__VCA__Mode	Event Type
+__TAG__VCA__MaxTargetSize	Target Max Size
+__TAG__VCA__MinTargetSize	Target Min Size
+__TAG__VCA__PostNum	On-duty number
+__TAG__VCA__LeaveAlarmTime	Absences Alarm Time
+__TAG__VCA__VideoVirtual	Lens Diagnose
+__TAG__VCA__SceneChange	Screen Switch Diagnose
+__TAG__VCA__SignLost	Signal Abnormal Detection
+__TAG__VCA__SignAbnormal	Signal Loss Detection
+__TAG__VCA__FirstChi0	Chuan(Sichuan)
+__TAG__VCA__FirstChi1	E(Hubei)
+__TAG__VCA__FirstChi2	Gan（Jiangxi）
+__TAG__VCA__FirstChi3	Gan（Gansu）
+__TAG__VCA__FirstChi4	Gua
+__TAG__VCA__FirstChi5	Gui（Guangxi）
+__TAG__VCA__FirstChi6	Gui（Guizhou）
+__TAG__VCA__FirstChi7	Hei（Heilongjiang）
+__TAG__VCA__FirstChi8	Hu（Hanghai）
+__TAG__VCA__FirstChi9	Ji（Hebei）
+__TAG__VCA__FirstChi10	Ji（Jilin）
+__TAG__VCA__FirstChi11	Jin（Shanxi）
+__TAG__VCA__FirstChi12	Jin（Tianj）
+__TAG__VCA__FirstChi13	Jing（Beijing）
+__TAG__VCA__FirstChi14	Jing
+__TAG__VCA__FirstChi15	Jun
+__TAG__VCA__FirstChi16	Kong
+__TAG__VCA__FirstChi17	Liao（Liaoning）
+__TAG__VCA__FirstChi18	Lu（Shandong）
+__TAG__VCA__FirstChi19	Meng（Neimenggu）
+__TAG__VCA__FirstChi20	Min（Fujian）
+__TAG__VCA__FirstChi21	Ning（Ningxia）
+__TAG__VCA__FirstChi22	Qian（Guizhou）
+__TAG__VCA__FirstChi23	Qing（Qinghai）
+__TAG__VCA__FirstChi24	Qiong（Hainan）
+__TAG__VCA__FirstChi25	Shan（Shanxi）
+__TAG__VCA__FirstChi26	Shu（Sichuan）
+__TAG__VCA__FirstChi27	Su（Jiangsu）
+__TAG__VCA__FirstChi28	Tai（Taiwan）
+__TAG__VCA__FirstChi29	Wan（Anhui）
+__TAG__VCA__FirstChi30	Xiang（Hunan）
+__TAG__VCA__FirstChi31	Xin（Xinjiang）
+__TAG__VCA__FirstChi32	Yu（Chongqing）
+__TAG__VCA__FirstChi33	Yu（Henan）
+__TAG__VCA__FirstChi34	Yue（Guangdong）
+__TAG__VCA__FirstChi35	Yun（Yunnan）
+__TAG__VCA__FirstChi36	Zang（Xizang）
+__TAG__VCA__FirstChi37	Zhe（Zhejiang）
+__TAG__VCA__FirstChi_0	Chuan
+__TAG__VCA__FirstChi_1	E
+__TAG__VCA__FirstChi_2	Gan
+__TAG__VCA__FirstChi_3	Gan
+__TAG__VCA__FirstChi_4	Gua
+__TAG__VCA__FirstChi_5	Gui
+__TAG__VCA__FirstChi_6	Gui
+__TAG__VCA__FirstChi_7	Hei
+__TAG__VCA__FirstChi_8	Hu
+__TAG__VCA__FirstChi_9	Ji
+__TAG__VCA__FirstChi_10	Ji
+__TAG__VCA__FirstChi_11	Jin
+__TAG__VCA__FirstChi_12	Jin
+__TAG__VCA__FirstChi_13	Jing
+__TAG__VCA__FirstChi_14	Jing
+__TAG__VCA__FirstChi_15	Jun
+__TAG__VCA__FirstChi_16	Kong
+__TAG__VCA__FirstChi_17	Liao
+__TAG__VCA__FirstChi_18	Lu
+__TAG__VCA__FirstChi_19	Meng
+__TAG__VCA__FirstChi_20	Min
+__TAG__VCA__FirstChi_21	Ning
+__TAG__VCA__FirstChi_22	Qian
+__TAG__VCA__FirstChi_23	Qing
+__TAG__VCA__FirstChi_24	Qiong
+__TAG__VCA__FirstChi_25	Shan
+__TAG__VCA__FirstChi_26	Shu
+__TAG__VCA__FirstChi_27	Su
+__TAG__VCA__FirstChi_28	Tai
+__TAG__VCA__FirstChi_29	Wan
+__TAG__VCA__FirstChi_30	Xiang
+__TAG__VCA__FirstChi_31	Xin
+__TAG__VCA__FirstChi_32	Yu
+__TAG__VCA__FirstChi_33	Yu
+__TAG__VCA__FirstChi_34	Yue
+__TAG__VCA__FirstChi_35	Yun
+__TAG__VCA__FirstChi_36	Zang
+__TAG__VCA__FirstChi_37	Zhe
+__TAG__VCA__DetectionArea	Detective Area
+__TAG__VCA__DetectionLine	Detective Line
+__TAG__VCA__VPeopleCnt	Vertical People Counting
+__TAG__VCA__LPeopleCnt	Horizontal People Counting
+__TAG__Main_MobileTips1	1. Scan the first QR code to download the mobile app.
+__TAG__Main_MobileTips2	2. Make sure the device is connected to the internet.
+__TAG__Main_MobileTips3	3. Open the downloaded app, and scan the second QR code to add the device.
+__TAG__Main_Pic_Vin97	Shutter
+__TAG__Main_Pic_Vin98	Gain
+__TAG__Main_Pic_Vin99	Brightness
+__TAG__Main_Pic_Vin100	Auto Aperture
+__TAG__Main_Pic_Vin101	White Balance
+__TAG__Main_Pic_Vin102	Denoise Level
+__TAG__Main_Common_Close	Disable
+__TAG__Main_Common_Open	Enable
+__TAG__Main_Pic_Vin103	Semi-auto
+__TAG__Main_Pic_Vin104	Sunshine
+__TAG__Main_Pic_Vin105	Daylight Lamp
+__TAG__Main_Pic_Vin106	Warmlight Lamp
+__TAG__Main_Pic_Vin107	Filament Lamp
+__TAG__Main_Pic_Vin108	Nature Light
+__TAG__Main_Pic_Vin109	Lock White Balance
+__TAG__Main_Pic_Vin110	Manual
+__TAG__Main_Pic_Vin111	WDR 
+__TAG__Main_Pic_Vin112	WDR Auto
+__TAG__Main_Pic_Vin113	WDR Handle
+__TAG__Main_Pic_Vin114	Super-Wide Dynamic Grade
+__TAG__Main_Pic_Vin115	Digital Noise Reduction
+__TAG__Main_Pic_Vin116	Expert Mode
+__TAG__Main_Pic_Vin117	Space-Domain Denoise
+__TAG__Main_Pic_Vin118	Time-Domain Denoise
+__TAG__Main_Pic_Vin119	One-key Focus
+__TAG__Main_Pic_Vin120	Realtime Brightness
+__TAG__Main_Pic_Vin121	Sunrise Time
+__TAG__Main_Pic_Vin122	Sunset Time
+__TAG__Main_Pic_Vin123	Color to B/W Type
+__TAG__Main_Pic_Vin124	B/W to Color Delay (s)
+__TAG__Main_Pic_Vin125	Color to B/W Delay (s)
+__TAG__Main_Pic_Vin126	Day Range
+__TAG__Main_Pic_Vin127	Night Range
+__TAG__Main_Pic_Vin128	Image
+__TAG__Main_Pic_Vin129	Day/Night
+__TAG__Main_Pic_Vin130	Day
+__TAG__Main_Pic_Vin131	Night
+__TAG__VP_VCA_PLATE	Plates List
+__TAG__VP_VCA_PLATE1	License
+__TAG__Main_Var14	Channel Adjustment
+__TAG__Main_Var15	Stop Adjustment
+__TAG__Main_Sys_Disk75	HDD Strategy
+
+__TAG__Main_Sys_Disk77	Hot-swap
+__TAG__Main_Sys_Disk78	Hot swap operation will change the disk status to be offline, reboot or swap it again to switch it online.
+__TAG__Login_Pwd_Safe	Password safety tips
+__TAG__Login_Pwd_Hint	Please revise the password to ensure safety!
+__TAG__Login_User_Admin	Administrator
+__TAG__Main_Sys_SMTP8	Encryption
+__TAG__Main_Sys_SMTP9	Main Email Address
+__TAG__Main_Sys_SMTP10	Email Address 1
+__TAG__Main_Sys_SMTP11	Email Address 2
+__TAG__Main_Sys_SMTP12	Email Address 3
+__TAG__Main_Sys_Err25	Disk Overload
+__TAG__Main_Sys_Disk79	Prompt: The max bitrate for one single disk group is %dMbps, there might be a risk of losing recorded video if the actual bitrate is higher than this limit.
+
+__TAG__Main_Camera_MoveCover0	PTZ Privacy Mask
+__TAG__Main_Camera_MoveCover1	Edit the shielding ratio
+__TAG__Main_Camera_MoveCover2	Privacy Area List
+__TAG__Main_Camera_MoveCover3	Area No.
+__TAG__Main_Camera_MoveCover4	Shielding Factor
+__TAG__Main_Camera_MoveCover5	Add Area
+__TAG__Main_Sys_Msg16	SDK Version
+__TAG__Main_Sys_Msg17	Access Module
+__TAG__Camera_DigChn0	Multicast
+__TAG__Camera_DigChn1	Multicast IP
+__TAG__Camera_DigChn2	Multicast port number
+__TAG__Main_VP_PERIOD	Time-phased
+__TAG__Main_VP_PERIOD1	screen
+__TAG__Main_Video_List	List 
+__TAG__Main_Video_Graph	Chart
+
+__TAG__Main_MultiPic10	10 Screens
+__TAG__Main_MultiPic20	20 Screens A
+__TAG__Main_MultiPic20.1	20 Screens B
+__TAG__Main_MultiPic20.2	20 Screens C
+__TAG__Main_MultiPic20.3	20 Screens D
+__TAG__Main_MultiPic40	40 Screens﻿
+__TAG__Main_LinkDouble_Light	Activate DualLight
+__TAG__Main_DayNight_Model	Day/Night Mode
+__TAG__Main_Color_Model	Color Mode
+__TAG__Main_MobileNet	Network Status
+__TAG__Main_Mobile_Connected	Connected
+__TAG__Main_Mobile_Disconnected	Disconnected
+__TAG__Main_Required_Disksize	Total:
+__TAG__Alarm_Message	The alarm happened in a period of %s to %s, click "details" to see the alarm log.
+__TAG__Main_Video_Clip_Annul	Cancel clip
+__TAG__Main_Pic_MoreSet	More Setting…
+__TAG__VCA_SEARCH_PEOPLE	Report Type
+__TAG__VCA_SEARCH_PEOPLE1	Statistical Time
+__TAG__VCA_SEARCH_PEOPLE2	Annual Report
+__TAG__VCA_SEARCH_PEOPLE3	Monthly Report
+__TAG__VCA_SEARCH_PEOPLE4	Weekly Report
+__TAG__VCA_SEARCH_PEOPLE5	Daily Report
+__TAG__VCA_SEARCH_PEOPLE6	Statistics
+__TAG__VCA_SEARCH_PEOPLE7	Total In
+__TAG__VCA_SEARCH_PEOPLE8	Total Out
+__TAG__Sys_Record_Err	Recording Exception
+__TAG__VCA_REPORT	VCA Report
+__TAG__Main_Sys_Var29	System upgrade done.
+__TAG__Main_GraphPsw	Pattern Unlock
+__TAG__GraphPsw_MSG1	Please draw a pattern to unlock
+__TAG__GraphPsw_MSG2	Please draw the pattern again
+__TAG__GraphPsw_MSG3	It must be connected with more than 4 points, please try again!
+__TAG__GraphPsw_MSG4	The password doesn't match, please try again!
+__TAG__GraphPsw_MSG5	Password set successfully, please confirm.
+__TAG__GraphPsw_MSG6	Please release to complete drawing
+__TAG__GraphPsw_PswLogin	Password Login
+__TAG__GraphPsw_Setbtn	Pattern Setting
+__TAG__OpenGraphPswChx	Enable Pattern Unlock
+__TAG__User_ChangePsw	Change Password
+__TAG__User_OriginalPsw	Old Password
+__TAG__User_LoginFail	Pattern unlocking failed 5 times in a row, please use your password to log in.
+__TAG__Play_FileType	File Type
+__TAG__Passwd_Visual	Channel Password
+__TAG__Main_User_Passwd_Check	Administrator Password Verification
+__TAG__VCA__Alert	EW
+__TAG__VCA__DetainTime	Detain Time (s)
+__TAG__VCA__FaceSearch	Facial Search
+__TAG__VCA__LicenseSearch	Plate license
+__TAG__VCA__AlertSearch	Early-warning search
+__TAG__VCA__Search	Search
+__TAG__Main_CodeProtect	Security Questions
+__TAG__CodeProtect_Findbtn	Forgot Password?
+__TAG__CodeProtect_Setbtn	Set Security Questions
+__TAG__CodeProtect_SetCode	Set Security Question
+__TAG__CodeProtect_Test	Code Protection Verification
+__TAG__CodeProtect_MSG1	Question 1
+__TAG__CodeProtect_MSG2	Question 2
+__TAG__CodeProtect_MSG3	Customized
+__TAG__CodeProtect_MSG4	The security question is successfully set, if you need to modify it, please delete it first.
+__TAG__CodeProtect_MSG5	The security question was answered incorrectly! Please try again.
+__TAG__CodeProtect_MSG6	Security question and answer cannot be empty!
+__TAG__CodeProtect_Answer	Answer
+__TAG__CodeProtect_Problem1	Which is your favorite book?
+__TAG__CodeProtect_Problem2	What is your first phone number?
+__TAG__CodeProtect_Problem4	Which is the first dish you made?
+__TAG__CodeProtect_Problem5	What name is your best friend?
+__TAG__Preview_ViewConfig	View Configuration
+__TAG__Preview_DefViewConfig	Customized Preview
+__TAG__Preview_ViewBoard	Preview Template
+__TAG__Preview_BoardNumber	Template Number
+__TAG__Preview_BoardName	Template Name
+__TAG__Preview_PicNumber	Screen Number
+__TAG__Preview_BoardStore	Storage Template
+__TAG__Main_Sys_Smart21	Do not use this hard disk if self-evaluation is not passed
+__TAG__Main_Sys_Cnf25	Factory Defaults
+__TAG__Main_Sys_Cnf26	Storage
+__TAG__Main_Sys_SMTP13	Send Email
+
+__TAG__Main_Sys_GeneralSet	General Setting
+__TAG__Main_Sys_DailyMaintain	Maintenance
+__TAG__Sys_GeneralSet_NetErr	Network Exception
+__TAG__Sys_GeneralSet_StoreErr	Storage Exception
+__TAG__Main_Pic_ResolutionOut	Output Resolution
+__TAG__Main_MultiPic3	3 Screens
+
+__TAG__Main_Sys_Usb_Name	Name
+__TAG__Main_Sys_Usb_CapacityName	Capacity
+__TAG__Main_Sys_Usb_LogExport	Log Export
+__TAG__Main_Sys_Usb_Capacity	%s/%s(Balance Capacity/Total Capacity)
+__TAG__Main_User_Rig25	Local Preview
+
+__TAG__CodeProtect_Question	Question
+__TAG__Main_ADD	Add
+__TAG__Main_Sys_BakDev12	Synchronization Progress
+__TAG__User_AutoLogin	Auto login
+__TAG__User_DefPswNoHint	Do not remind again
+__TAG__Sys_DiskStyle	File System
+__TAG__Vca__BW_List	IP Filter
+__TAG__Vca__Link_Talk	Link to talk
+__TAG__Vca__Alert_Laser	Laser
+__TAG__Vca__Alert_Sound	Alert sound
+__TAG__Vca__Link_WordPlan	Word Plan
+__TAG__Vca__WordPlan_Set	Plan Setting
+__TAG__Vca__Link_WhiteLight	IPC White Light
+__TAG__Vca__Example	Example
+__TAG__Sys_TmZome1	(GMT-12:00)West to date line
+__TAG__Sys_TmZome2	(GMT-11:00)Midway Islands,samoa islands
+__TAG__Sys_TmZome3	(GMT-10:00)Hawaii
+__TAG__Sys_TmZome4	(GMT-09:00)Alaska
+__TAG__Sys_TmZome5	(GMT-08:00)Pacific time(USA and Canada)
+__TAG__Sys_TmZome6	(GMT-07:00)Mountain Time(USA and Canada)
+__TAG__Sys_TmZome7	(GMT-06:00)Central Time(USA and Canada)
+__TAG__Sys_TmZome8	(GMT-05:00)East time(USA and Canada)
+__TAG__Sys_TmZome9	(GMT-04:30)Caracas
+__TAG__Sys_TmZome10	(GMT-04:00)Atlantic Time(Canada),Georgetown
+__TAG__Sys_TmZome11	(GMT-03:30)Newfoundland
+__TAG__Sys_TmZome12	(GMT-03:00)Greenland,Brasilia
+__TAG__Sys_TmZome13	(GMT-02:00)mid-Atlantic
+__TAG__Sys_TmZome14	(GMT-01:00)Cape Verde Islands,Azores Islands
+__TAG__Sys_TmZome15	(GMT+00:00)Dublin,Edinburgh,London
+__TAG__Sys_TmZome16	(GMT+01:00)Amsterdam,Berlin,Rome,Paris
+__TAG__Sys_TmZome17	(GMT+02:00)Athens,Jerusalem
+__TAG__Sys_TmZome18	(GMT+03:00)Moscow,St.Petersburg,Kuwait,Istanbul,Baghdad
+__TAG__Sys_TmZome19	(GMT+03:30)Teheran
+__TAG__Sys_TmZome20	(GMT+04:00)Abu Dhabi
+__TAG__Sys_TmZome21	(GMT+04:30)Kabul
+__TAG__Sys_TmZome22	(GMT+05:00)Islamabad,Karachi,Tashkent
+__TAG__Sys_TmZome23	(GMT+05:30)Madras,Mumbai,New Delhi
+__TAG__Sys_TmZome24	(GMT+05:45)Kathmandu
+__TAG__Sys_TmZome25	(GMT+06:00)Alma-Ata,Novosibirsk,Dhaka,Bangladesh
+__TAG__Sys_TmZome26	(GMT+06:30)Rangoon
+__TAG__Sys_TmZome27	(GMT+07:00)Bangkok,Hanoi, Jakarta
+__TAG__Sys_TmZome28	(GMT+08:00)Beijing,Urumqi,Singapore
+__TAG__Sys_TmZome29	(GMT+09:00)Seoul,Tokyo,Osaka,sapporo
+__TAG__Sys_TmZome30	(GMT+09:30)Adelaide,Darwin
+__TAG__Sys_TmZome31	(GMT+10:00)Melbourne,Sydney,Canberra
+__TAG__Sys_TmZome32	(GMT+11:00)Solomon Islands
+__TAG__Sys_TmZome33	(GMT+12:00)Auckland,Wellington,Fiji,Magadan
+__TAG__Sys_TmZome34	(GMT+13:00)Nukualofa
+__TAG__Sys_TmZome35	(GMT+14:00)Kiribati, Line Islands
+__TAG__Net_RTSPPort	RTSP Port
+__TAG__Net_RTSPMsg1	channel:channel,1 to N;stream:Stream type,Main stream 1,Sub-stream 2,third stream 3.
+__TAG__Net_RTSPMsg2	Example:rtsp://admin:admin@192.168.1.3:554/1/1
+__TAG__Sys_DiskSpace	%s/%s(Free/Total Capacity)
+__TAG__Main_Ad_InputType	Audio Output Type
+__TAG__Main_Extern_VolResource	External Audio Source
+__TAG__Main_Inter_Clouder	Built-in Speaker
+__TAG__Disk_BadBlock_Test	Bad Track Detection
+__TAG__Disk_BadBlock_Test_Full	Complete Detection
+__TAG__Disk_BadBlock_Test_Area	Critical Area Detection
+__TAG__Disk_BadBlock_Test_Msg1	Test
+__TAG__Disk_BadBlock_Test_Msg2	Good Condition
+__TAG__Disk_BadBlock_Test_Msg3	Damage
+__TAG__Disk_BadBlock_Test_Msg4	Shield 
+__TAG__Disk_BadBlock_Test_Msg5	Resume
+__TAG__Disk_BadBlock_Test_Msg6	Unit Capacity
+__TAG__Disk_BadBlock_Test_Msg7	Hard Disk Capacity
+__TAG__Disk_BadBlock_Test_Msg8	Error Number
+__TAG__Disk_BadBlock_Test_Msg9	Error Message
+__TAG__Disk_BadBlock_Test_Msg10	in Detecting 
+__TAG__Disk_BadBlock_Test_Msg11	Undetected
+__TAG__Disk_BadBlock_Test_Msg12	Finished
+__TAG__Disk_BadBlock_Test_Msg13	Paused
+__TAG__Disk_BadBlock_Test_Msg14	Hard disk sectors with a bad track:
+__TAG__Disk_BadBlock_Test_Msg15	Canceled
+__TAG__Vca_Similar	Similarity
+__TAG__Vca_Backup_Image	Image Backup
+__TAG__Vca_Backup_Video	Recording backup
+__TAG__Vca_Backup_All	All backup
+__TAG__VideoSet_Norm_Snap	Snapshot
+__TAG__VideoSet_Alm_Snap	Alert Snapshot
+__TAG__Main_Chn_MainRTSP_URL	Main-Stream URL
+__TAG__Main_Chn_RTSP_URL	Sub-Stream URL
+__TAG__Main_Alm_AlmIn_Name	Port Name
+__TAG__Main_Alm_AlmOut_Name	Output Port Alias
+__TAG__Main_ReworkIp_Msg1	Username and Password can not be empty!
+__TAG__Play_LockFile	Lock File
+__TAG__Play_FileMan	File Management
+__TAG__Main_Update_Files	Upgrade file list
+__TAG__Sys_ChannelState	Channel Status
+__TAG__Sys_VedioState	Recording Status
+__TAG__Sys_AlarmState	Alert status
+__TAG__Sys_DiskState	Disk Status
+__TAG__Sys_CompressCnf	Compression Status
+__TAG__Chn_ChnSetxls	Configuration Import/Export
+__TAG__Sys_ActVideoChn	Channels in Recording
+__TAG__CodeProtect_MSG7	new code is null, it will be no login code !
+__TAG__Sys_GeneralSet_Manage	Plan Management
+__TAG__Sys_Manage_Name	Plan Name
+__TAG__Sys_Manage_Matter	Plan Information
+__TAG__Sys_Manage_name	Name is null, please enter name
+__TAG__Sys_Manage_matter	Content is null, please enter content
+__TAG__Main_Sys_In_Out	Import/Export
+__TAG__VCA_BW_PlateList	Black and white list of licence plate
+__TAG__Main_In_Out_Path	Import/Export to
+__TAG__Main_BW_List_In_Out	Import/Export black and white list
+__TAG__VCA_PlateList_Enable	Enable Blacklist/Whitelist
+__TAG__VCA__LinkFollow	Linkage tracking
+__TAG__Main_Vca_MaxFollowTime	Max. tracking time (s)
+__TAG__Main_Vca_BallDevHeight	Height of PTZ (m)
+__TAG__Main_Vca_DesStopTime	Statistic Tracking Time (s)
+__TAG__Main_Vca_AstLocat	Limit
+__TAG__Main_Vca_Up_AstLocat	Up Limit
+__TAG__Main_Vca_Down_AstLocat	Down Limit
+__TAG__Main_Vca_Left_AstLocat	Left Limit
+__TAG__Main_Vca_Right_AstLocat	Right Limit
+__TAG__Main_Vca_Start_AstLocat	Enable Limit
+__TAG__Main_Vca_Start_RepelCover	Enable Anti-Occlusion
+__TAG__Sys_NetStaMsg1	Enable PPPOE or Not
+__TAG__Sys_NetStaMsg2	PPPOE IP Address
+__TAG__Sys_NetStaMsg3	PPPOE Subnet Mask
+__TAG__Sys_NetStaMsg4	PPPOE Default Gateway
+__TAG__Sys_NetStaMsg5	PPPOE Connection Status
+__TAG__Sys_NetStaMsg6	Network Information
+__TAG__VCA__BehaviorSearch	Behaviour Retrieval
+__TAG__VCA__BehaviorType	Behaviour Type
+__TAG__Mobile_QQweb	QQ Internet of Things
+__TAG__Main_MobileTips4	1. Please confirm the device can be connected to the Internet successfully
+__TAG__Main_MobileTips5	2. Please use QQ of the mobile phone version to scan the above 2D barcode and operate according to tips in the mobile phone
+__TAG__Main_Video_SnapInterval	Interval
+__TAG__Main_Always_White	Always on
+__TAG__VCA__Config	VCA Config
+__TAG__LINKTALK__Msg	Talking will be stopped when exiting the single picture
+__TAG__Main_Disk_SMART_ERR	Abnormality found in Smart check
+__TAG__VCA__PanorFollow	Panorama Tracking
+__TAG__Main_DevLock	It is locked
+__TAG__Main_LockTmCntDown	Lock the remaining time %d:%.2d
+__TAG__Main_Sys_MoveDev_Insert	Discover Mobile Devices
+__TAG__LINKTALK__Stop	Do you want to close %s message?
+__TAG__BackUp_NoFile	No backup file available
+__TAG__Main_Sys_Video_Its	Bayonet Video
+__TAG__Main_MD_Alm	A motion detection alarm occurs
+__TAG__Main_VLost_Alm	Video loss alarm occurs
+__TAG__Main_Port_Alm	Port alarm occurs
+__TAG__Main_VShelter_Alm	Video occlusion alarm occurs
+__TAG__Main_Vca_Alm	Intelligent analysis alarm occurs
+__TAG__Main_Its_Alm	Bayonet alarm occurs
+__TAG__Main_ChkAll_Chan	Select All Channels In This Page
+__TAG__Video_SubStreamRec	Max substream record number is %d !
+__TAG__VCA__AlPark	Illegal Parking
+__TAG__VCA__AlPark_AreaName	No-parking Area Name
+__TAG__VCA__AlPark_Time	No Parking Time
+__TAG__VCA__AlPark_Time1	(1-7200s)
+__TAG__VCA__AlPark_Time2	The no-stop time needs a value between 1 and 7200
+__TAG__SnapSet_Intv_Hour	Interval time value need between 1 to 2 hours!
+__TAG__SnapSet_Intv_Minute	Interval time value need between 1 and 166!
+__TAG__SnapSet_Intv_Second	Interval time value between 5 and 9999!
+__TAG__Main_Camera_Colour	Color
+__TAG__Main_Camera_Mosaic	Mosaic
+__TAG__Main_ReworkIp_Succeed	Modify IP Successfully
+__TAG__Main_ReworkIp_Fail	Modify IP Failed
+__TAG__Main_Sys_PortMap	Port Mapping
+__TAG__Main_Sys_MapType	Mapping Type
+__TAG__Main_Sys_PortType	Port Type
+__TAG__Main_Sys_OutSidePort	External Port
+__TAG__Main_Sys_OutSideIP	External IP Address
+__TAG__Main_Sys_UPNPState	UPNP Status
+__TAG__Main_Sys_ServPort	Server Port
+__TAG__Main_Sys_HTTPS	HTTPS Port
+__TAG__Main_Sys_OutPortCfg	External Port Configuration
+__TAG__Main_Sys_PortEffect	Effective
+__TAG__Main_Sys_PortNotEffect	Inactive
+__TAG__Main_Sys_PortIllegal	The range of external port numbers is %d-%d!
+__TAG__Main_Sys_PortRepeat	External port numbers cannot be repeated!
+__TAG__Main_Backup_MaxFile	The maximum number of optional files is %d!
+__TAG__Main_Sys_Mtu	MTU (bytes)
+__TAG__Main_Net_Mtu_Msg	The valid value range of MTU (bytes) is %d-%d, please reset!
+__TAG__Main_Sys_PassWord	The user password is invalid!
+__TAG__Main_Sys_PassWordLevel	Please use a password of 8-15 characters, two or more combinations of numbers, lowercase letters, uppercase letters, and special characters (special characters cannot be quotation marks, colons, semicolons, # symbols, spaces, and backslashes).
+__TAG__Main_Sys_AddHint	One-click "Quick Add" will automatically search and activate the IPC with the NVR password, then add it to the free channel!
+__TAG__Main_Sys_UpdateHint	The upgrade process takes 1-10 minutes. Please do not cut off power or network. The device will restart after the upgrade is completed.
+__TAG__VCA_LinkLoc	Activation
+__TAG__VCA_LinkIpc	Activate Camera
+__TAG__Main_Sys_Address	Server ID
+__TAG__Main_Sys_Account	User Name
+__TAG__Main_Sys_Register	Register Validity
+__TAG__Main_Sys_RegisterHint	The registration validity period ranges from 1-2000000000!
+__TAG__Main_Sys_Heart	Heartbeat Interval
+__TAG__Main_Sys_ID	Device ID
+__TAG__Main_Sys_HeartTime	Heart Rate
+__TAG__Main_Sys_fill	Auto Filling
+__TAG__Main_Sys_ChnChoose	Select Channel
+__TAG__Main_Sys_ChnNum	Channel ID
+__TAG__Main_Alm_InNum	Alarm Input No.
+__TAG__VCA_HeatMap	Heat Map
+__TAG__VCA_SpaceHeatMap	Heatmap-Space
+__TAG__VCA_TimeHeatMap	Heatmap-Time
+__TAG__VCA_HeatMapValue	Heat value
+__TAG__VCA_HeatMapSec	second
+__TAG__VCA_HeatMapMin	minute
+__TAG__VCA_HeatMapHour	hour
+__TAG__VCA_HeatMapDay	day
+__TAG__VCA_HeatMapExample	Spatial density:
+__TAG__VCA_AlertTemplate_Set	Early-warning Setting
+__TAG__VCA_Template_Plan	Plan
+__TAG__VCA_Alert_Plan1	White Light + Sound Alarm (Once)
+__TAG__VCA_Alert_Plan2	Laser + Sound Alarm (Cycling)
+__TAG__VCA_Alert_Plan3	Laser + White Line + Sound Alarm (Cycling)
+__TAG__VCA_Alert_Plan4	White Light + Sound Alarm (Cycling)
+__TAG__VCA_Alert_Plan5	Sound Alarm (Once)
+__TAG__VCA_Alert_Plan6	Sound Alarm (Cycling)
+__TAG__VCA_Alert_Plan7	Multi-level Warning
+__TAG__VCA_AlertMode	Alert Mode
+__TAG__VCA_AlertMode_Violate	Violation
+__TAG__VCA_AlertMode_EarlyWarn	Pre-warning
+__TAG__VCA_AlertMode_DefPara	Customized Parameter
+__TAG__VCA_Alert_Rank	Warning Level
+__TAG__VCA_Alert_Rank1	Grade I
+__TAG__VCA_Alert_Rank2	Grade II
+__TAG__VCA_Alert_Rank3	Grade III
+__TAG__VCA_Alert_WiteLight1	Flashing %d time(s)
+__TAG__VCA_Alert_WiteLight2	Strobe
+__TAG__VideoSet_Double_Stream	Dual-stream
+__TAG__VCA_ParkGuard	Parking guard
+__TAG__VCA_ParkGuard_WhiteList	White list of license plate
+__TAG__VCA_ParkGuard_Time	No Parking Time(s)
+__TAG__Main_VP_Summary	Video Concentration
+__TAG__Main_VP_NoResult	No search results!
+__TAG__Main_Chn_Addition	Quick Add
+__TAG__VCA_Time_UnLimitBig	Infinity
+__TAG__VCA_Alert_Rule	Rules
+__TAG__NetCard_MultipleMode	Multiple Access Mode
+__TAG__Main_Sys_NetCardNum	Network Card
+__TAG__Net_Interface	Network Card
+__TAG__Main_Sys_UpdateHit	The device is upgrading, please do not cut off power; the device will restart automatically after upgrading.
+__TAG__Vca__Alert_Sound1	Waring Voice
+__TAG__Vca_WhiteList_In_Out	Import and export of white list
+__TAG__Main_Vlay_Locked	The video has been locked
+__TAG__Main_Import_Fail	Invalid imported content or format
+__TAG__VCA_Alert_Time_Msg	The retention time must be an integer between 5 and 60!
+__TAG__VCA__LimitTime_Msg	A value between %d and %d is required!
+__TAG__Main_VideoSetting_ExBox	Expansion Drawer
+__TAG__HDMI1_VGA_Cognate_Enable	Start HDMI1/VGA.
+__TAG__Main_Interface_Err	Interface board abnormality
+__TAG__Sys_GeneralSet_OtherErr	Other Exceptions
+__TAG__Sys_CPU_Used	CPU Usage
+__TAG__Sys_MEM_Used	Memory Usage
+__TAG__Sys_Fan_Rate	Fan Speed
+__TAG__Sys_CPU_Temp	CPU Temperature
+__TAG__Sys_SerBord_Temp	Temperature of the business board
+__TAG__Sys_BackDisk_Small	The hot spare disk capacity is smaller than the array disk, please select again.
+__TAG__Sys_BackDisk_Small0	The selected disk capacity is smaller than the array disk, please select again.
+__TAG__Main_Disk_Tem_ERR	Abnormal disk temperature
+__TAG__Main_Sys_RTMP	RTMP Port
+__TAG__Main_Sys_DATA	DATA Port
+__TAG__Vca_WhiteList_Repeat	There are duplicate license plates in the whitelist, please re-enter!
+__TAG__Main_Sys_Year	Every year
+__TAG__Main_Sys_Mon	Every month
+__TAG__Main_Sys_Week	Every week
+__TAG__Main_Sys_Day	Every day
+__TAG__Main_Video_Indx4	Rebuilding the index may be time-consuming. Do you want to continue?
+__TAG__VCA_ExposureLight	Face Exposure Brightness
+
+__TAG__VCA_PushMapMode	Picture Push Strategy
+__TAG__VCA_PushMapMode1	Fastest
+__TAG__VCA_PushMapMode2	Best
+__TAG__VCA_SnapMode_Full	Full Snapshot
+__TAG__VCA_SnapMode_HighQua	High Quality
+__TAG__VCA_SnapCnt	Number of Snapshots
+__TAG__VCA_MulQuality	Integrated Quality
+__TAG__VCA_PushMap_Leave1	Rapid
+__TAG__VCA_PushMap_Leave2	Slow
+__TAG__VCA__FaceCount	Face Statistics
+__TAG__VCA_PieMap	Pie Chart
+__TAG__VCA_LineMap	Line Chart
+__TAG__VCA_PostMap	Column Chart
+__TAG__VCA_FaceCnt_Type	Statistic Type
+__TAG__VCA_FaceCnt_Age	Age
+__TAG__VCA_FaceCnt_Age1	Junior
+__TAG__VCA_FaceCnt_Age2	Youth
+__TAG__VCA_FaceCnt_Age3	Middle Age
+__TAG__VCA_FaceCnt_Age4	Old Age
+__TAG__VCA_FaceCnt_Sex	Gender
+__TAG__VCA_FaceCnt_Sex1	Male
+__TAG__VCA_FaceCnt_Sex2	Female
+__TAG__VCA_FaceCnt_People	Number of People
+__TAG__VCA_FaceCnt_Nation	Ethnic Group
+__TAG__VCA_FaceCnt_Nation1	Han
+__TAG__VCA_FaceCnt_Nation2	Minority
+__TAG__VCA_Face_Exposure	Face Exposure
+__TAG__VCA_Face_ROI	Face ROI
+__TAG__VCA_ShowRule	Display Event Rules
+__TAG__VCA_User_Define	User Defined
+__TAG__VCA_Time_Minute	Min
+__TAG__VCA_Exposure_Time	Duration
+__TAG__VCA_Time_Commit	Value from %d to %d%s
+__TAG__VCA_Time_Commit1	Less than %d hour(s)
+__TAG__VCA_Time_Commit2	Can not be 0
+__TAG__VCA_FaceCnt_Sex3	Unidentified
+__TAG__VCA_PicStream_Accept	Receive Pictures
+__TAG__Main_Snamp_Tm1	Time point 1 
+__TAG__Main_Snamp_Tm2	Time point 2 
+__TAG__Main_Snamp_Tm3	Time point 3 
+__TAG__Main_Snamp_Tm4	Time point 4 
+__TAG__VCA_Show_MinFaceSize	Show Minimal Face Size
+__TAG__Dev_Active	Activation State
+__TAG__Dev_unActive_Point	Unactivated IPC will be activated using NVR password!
+__TAG__Dev_unActive_Hint	Unactivated IPC will be activated and added using NVR password!
+__TAG__Main_NVR_Activate	Device Activation
+__TAG__Main_SET_Password	Set Password
+__TAG__Main_SET_GraphPassword	Pattern Lock
+__TAG__USER_Activate_Jump	Skip
+__TAG__USER_NotNull	Input can not be empty!
+__TAG__Main_BroadCast_Video	Import Broadcast Sounds
+__TAG__Main_Start_BroadCast	Start Broadcasting
+__TAG__Main_Stop_BroadCast	Stop Broadcasting
+__TAG__Main_sys_Net_Search	Enable intranet search
+__TAG__Main_Pic_Point	pixels
+__TAG__Main_Sys_Test	Test
+__TAG__Main_Sys_Test_Ing	In Testing...
+__TAG__Main_Sys_Test_Succeed	Test success
+__TAG__Main_Sys_Test_Fail	Test failure
+__TAG__Main_Nvr_Err	The device may be abnormal, please try to restart
+
+__TAG__Main_SysMaint	Maintenance
+__TAG__sys_Custom_Add	Custom Adding
+__TAG__sys_Video_Guide	Note: Click option at the right side and start to draw related arming time.
+__TAG__Sys_Abnormal_Manage	Exception
+__TAG__sysMint_Auto_Preserve	Auto Maintenance
+__TAG__Net_InterfaceEx	Optical Port
+__TAG__Main_NetCheck_Msg	The IP and gateway are not in the same network segment.
+__TAG__Main_Gpu_Restart	The screen is abnormal and is recovering...
+__TAG__Sys_Mobel_ID	ID
+__TAG__User_Login_On	Login
+
+__TAG__VCA_Helmet	Safety Helmet Detection
+__TAG__VCA_Helmet_Monitor	Monitoring Area
+__TAG__VCA_Helmet_Monitor1	Entrance & Exit
+__TAG__VCA_Helmet_Monitor2	Construction Region
+__TAG__VCA_Helmet_Detection	Detect safety helmet color.
+__TAG__VCA_Helmet_Target	Mark Target
+__TAG__Sys_Cloud_Update	Cloud Update
+__TAG__Sys_Cloud_CurVersion	Current Version
+__TAG__Sys_Cloud_NewVersion	Latest Version
+__TAG__Sys_Cloud_Date	Release Date
+__TAG__Sys_Cloud_New	It is the latest version.
+__TAG__Sys_Hand_Check	Manual Check
+__TAG__Main_Sys_DownLoadHit	The downloading process takes 1-10 minutes. Please do not cut off power or network. The device will be upgraded after the download is completed.
+__TAG__Sys_Cloud_Down	Downloading…
+__TAG__Main_Sys_DownLoadErr	Failed to download, please try again.
+__TAG__Main_Sys_DownLoadHint	Don't cut off the power and internet during the download. The device will upgrade automatically after a successful download.
+__TAG__Main_Sys_Downing	The system is downloading, please wait…
+__TAG__Left_Total_Quota	Remaining Quota/Total Quota
+__TAG__Main_Mobile_App	APP
+__TAG__Main_Sys_SplusHint	Compression, Video Quality, I-frame rate and ROI will be disabled after S+ be enabled.
+__TAG__VCA_Helmet_Search	Safety helmet
+
+__TAG__Reserve_Phone	Reserved Mobile Number
+__TAG__Reserve_Email	Reserved Email
+__TAG__Reserve_Phone_Msg1	(For Password Reset)
+__TAG__Reserve_Phone_Msg2	A security code will be sent to your mobile phone after scanning the QR code.
+__TAG__Reserve_Phone_Msg3	Security Code
+__TAG__Reserve_Phone_Msg4	Note(Only for admin user):
+__TAG__Reserve_Phone_Msg5	1. Follow the WeChat public account "Tiandi Weiye Channel Distribution".
+__TAG__Reserve_Phone_Msg6	Go to "My Service"-"Password Reset" to scan QR code at left side.
+__TAG__Password_Ques_Msg1	Please set security question to chase back user(admin) password.
+__TAG__Reset_PassWord	Reset Password
+__TAG__Reset_PassWord_Lab	Reset Password(admin user)
+__TAG_Set_SecureCode_Msg	Security code is incorrect or invalid.
+__TAG_Wrong_Number_Msg	Wrong phone number format, please try entering it again.
+__TAG__Reserve_Email_Msg1	1. Please use the mobile APP to enter the password retrieval interface to scan the left QR code.
+__TAG__Reserve_Email_Msg2	2. Operation done, security code will be sent to your mail.
+__TAG__Sync_Phone_Msg	Do you want to sync the password to get reserved information to the connected IP camera?
+__TAG__Vca_Event_Select	Event Select
+__TAG__Vca_Event_Type	Event Type
+__TAG__Camera_Img_Setting	Image Adjustment
+__TAG__Camera_Exp_Setting	Exposure
+__TAG__Camera_BackLight_Setting	Backlight
+__TAG__Camera_Advanced_Setting	Image Enhancement
+__TAG__Sync_Phone_Msg1	Synchronize password to retrieve reserved information to IPC
+__TAG__Reserve_Phone_Number	Reserved Mobile Number
+__TAG__VCA_REPORT_Export	Intelligent retrieval backup 
+__TAG__VideoSata_Lab1	When the device doesn't record a video, please check: 
+__TAG__VideoSata_Lab2	1. Whether the video template is set correctly. 
+__TAG__VideoSata_Lab3	2. Whether the record policy is set correctly. 
+__TAG__VideoSata_Lab4	3. Whether the disk group or configuration is set correctly. 
+__TAG__VideoSata_Lab5	4. Whether the disk status is good. 
+__TAG__Dev_Deal_With	Processing 
+__TAG__Dev_Deal_Later	Later processing 
+__TAG__Dev_Abnormal_Notice1	Abnormal notice 
+__TAG__Dev_Abnormal_Notice2	There is a risk of losing video records, please handle it in time.
+__TAG__Camera_Splus_Err	Turning on S+ will turn off the Intelligent Analysis function, do you want to continue?
+
+__TAG__Pse_NetLan_Msg	Note: To select your network cable, simply check the box for a long-distance cable or uncheck it for a short-distance cable.
+__TAG__Main_VideoPlay_Hint1	File format unsupported
+__TAG__Main_VideoPlay_Hint2	Video resolution unsupported
+__TAG__Sys_Cloud_Updatehint	After the upgrade, the system will automatically restart, Do you want to continue?
+__TAG__Main_inquest_Clr31	Details
+__TAG__Main_inquest_Clr69	Address
+__TAG__Main_inquest_Clr70	Local
+__TAG__Main_inquest_Clr71	Network
+__TAG__Main_End_Clr1	Terminate
+__TAG__Main_BACKUP_STATE1	Backup in progress
+__TAG__Main_BACKUP_TODAY	Today
+__TAG__Main_BACKUP_YESTERDAY	Yesterday
+__TAG__Main_BACKUP_TWODAY	The last two days
+__TAG__Main_BACKUP_THREEDAY	The last three days
+__TAG__Main_BACKUP_ONEWEEK	The latest week
+__TAG__Main_BACKUP_TWOWEEK	The last two weeks
+__TAG__CLR_ALL_AREA	Clear All Areas
+
+__TAG__Main_Continue_Add	Continue to add
+__TAG__Main_Camera_Splus	Enable S+ (first access is valid)
+__TAG__Main_Sys_Msg18	Hardware Version
+__TAG__Main_Sys_UsbUpdate	USB Upgrade
+__TAG__Main_Camera_RefreshHint	Updating, please wait...
+__TAG__Main_Pic_Style	Image Style
+__TAG__Main_Pic_Nature	Natural
+__TAG__Main_Pic_brightness	Bright
+__TAG__Main_Pic_Scene	Indoor/Outdoor
+__TAG__Main_RECORD_NORMAL	Schedule
+__TAG__Main_CUSTOM_SEARCH	Custom Search
+__TAG__Main_Except_Alm	Abnormal Alarm
+__TAG__Main_Norm_Alm	Normal Alarm
+__TAG__Main_Lock_Taskbar	Lock taskbar
+__TAG__Main_Unlock_Taskbar	Hidden Taskbar
+__TAG__Main_Alert_IPC	Camera Configuration
+__TAG__Main_Alert_NVR	Local Configuration
+__TAG__Main_Alert_Enable	Enable
+__TAG__Main_Alert_Scne	Scene
+__TAG__Main_Alert_ScneTIme	Scene Cruise Time
+__TAG__Main_Alert_Type	Type
+__TAG__Main_Alert_Type1	Perimeter(EW)
+__TAG__Main_Alert_Type2	Tripwire(EW)
+__TAG__Main_Alert_Mode	Schedule
+__TAG__Main_Alert_Mode1	Plan
+__TAG__Main_Alert_Mode2	Customized
+__TAG__Main_Alert_Mode3	Snapshot and link with white light
+__TAG__Main_Alert_Mode4	Snapshot and link with white light and single alert sound
+__TAG__Main_Alert_Mode5	Snapshot and link with laser, white light, and recycling alert sound
+__TAG__Main_Alert_Mode6	Snapshot and link with bursting multi-stage sound and light
+__TAG__Main_Alert_Mode7	Snapshot and link with gradient multi-stage sound and light
+__TAG__Main_Alert_LinkSet	Linkage Action
+__TAG__Main_Alert_Para	Advanced Params
+__TAG__Main_Alert_WeekSet	Week Setting
+__TAG__Main_Alert_Para1	Invasion Retention time
+__TAG__Main_Alert_Para2	Trigger Alert Target
+__TAG__Main_Alert_Para3	Enter the lower-level alert time
+__TAG__Main_Alert_Link1	Common Link
+__TAG__Main_Alert_Grade1	Grade 1 alert
+__TAG__Main_Alert_Grade2	Grade 2 alert
+__TAG__Main_Alert_Grade3	Grade 3 alert
+__TAG__Main_Custom_Hint	Please perform a custom search first
+__TAG__Main_Sys_Update_Err2	System upgrade error
+__TAG__Main_Sys_Update_Err3	Upgrade package transmission successful
+__TAG__Main_Sys_Update_Err4	Chip type error
+__TAG__Main_Sys_Update_Err5	Major version number error
+__TAG__Main_Sys_Update_Err6	Minor version number error
+__TAG__Main_Sys_Update_Err7	Checksum Error
+__TAG__Main_Sys_Update_Err8	Save temporary package error
+__TAG__Main_Sys_Update_Err9	Data updating error
+__TAG__Main_Sys_Update_Err10	Small version number error
+__TAG__Main_Sys_Update_Err11	Incomplete upgrade file
+__TAG__Main_Chn_Fish_Method	Installation Methods
+__TAG__Main_Chn_Fish_Ceiling	Top-mounted
+__TAG__Main_Chn_Fish_Floor	Desktop
+__TAG__Main_Chn_Fish_Wall	Wall-mounted
+__TAG__Main_Sys_Update_Hint	The intercom will be turned off during the upgrade process. After the upgrade is completed, the IPC will automatically restart. Do you want to continue?
+__TAG__Main_DownLoad_Err_Hint	Download failed, please connect the hard drive and try again.
+__TAG__MAIN_FISH_HINT	Restore
+__TAG__MAIN_FISH_HINT1	180°panorama view
+__TAG__MAIN_FISH_HINT2	360°panorama view
+__TAG__MAIN_FISH_HINT3	PTZ expansion
+__TAG__MAIN_FISH_HINT4	Radial expansion
+__TAG__MAIN_FISH_HINT5	Fisheye correction
+__TAG__MAIN_FISH_HINT6	Fisheye+3PTZ
+__TAG__MAIN_FISH_HINT7	Fisheye+4PTZ
+__TAG__MAIN_FISH_HINT8	Fisheye+8PTZ
+__TAG__MAIN_FISH_HINT9	360°+1PTZ
+__TAG__MAIN_FISH_HINT10	360°+6PTZ
+__TAG__MAIN_FISH_HINT11	Panoramic
+__TAG__MAIN_FISH_HINT12	Panoramic+3PTZ
+__TAG__MAIN_FISH_HINT13	Panoramic+4PTZ
+__TAG__MAIN_FISH_HINT14	Panoramic+8PTZ
+__TAG__Main_Vca_Linee1	Intrude the perimeter
+__TAG__Main_Vca_Linee2	Leave the perimeter
+__TAG__Nain_Sys_Picture	Picture
+__TAG__Main_Alert_Set	EW
+__TAG__Main_SceneTime_Err	There is a conflict in the cruise time of the alert scene. Does it cover the cruise time of other alert scenes?
+__TAG__Common_Link_Tm	Schedule
+__TAG__MAIN_EXCLUDE_HINT	Opening %s will stop the following functions:%s,continue or not?
+__TAG__MAIN_ALERT_LASER	Laser warning
+__TAG__MAIN_ALERT_STRONGLIGHT	Strong light warning
+__TAG__MAIN_ALERT_SOUND	IPC Warning Voice
+__TAG__VCA_CLEAN_RULE	Rule Clear
+__TAG__MAIN_ALERT_LASER1	Laser
+__TAG__MAIN_ALERT_LASER2	IPC White Light
+__TAG__GUIDE_AUTO_DNS	Auto Get DNS
+__TAG__Main_Vca_Helmet	Not wearing
+__TAG__Main_Alert_Mode8	Capture and link white light strobe and cycle alarm sound
+__TAG__Vca_Sound_Report	Voice broadcast
+__TAG__Vca_Insert_Name	Insert name
+__TAG__Vca_Insert_NameInfo	Note: * is the person’s name
+__TAG__Vca_Face_Lib	Face library
+__TAG__Vca_Face_Lib1	Stranger
+__TAG__Vca_Face_LibSet	Management of face library
+__TAG__Vca_Face_Discern	Face Recognition
+__TAG__FaceDet_TYPE_LOC	NVR detection
+__TAG__FaceDet_TYPE_IPC	IPC detection
+__TAG__DISCERN_TYPE_LOC	NVR recognition
+__TAG__DISCERN_TYPE_IPC	IPC recognition
+
+__TAG__FACE_ALARMSET_LINK	Alarm Setting Link
+
+__TAG__FACE_ALARMSET_LINKSET	Setting of Alarm Setting Link
+__TAG__FACE_ALARMSET_TIMERANGE	Time range
+__TAG__FACE_ALARMSET_RATE	Rate
+__TAG__FACE_ALARMSET_RATE1	Times
+__TAG__VCA__FaceLibrary	Library Name
+__TAG__VCA__InputFaceLibrary	Input
+__TAG__VCA__OutputFaceLibrary	Output
+__TAG__VCA__FaceKu	Library
+__TAG__VCA__FacePicture	Picture
+__TAG__VCA__Lookup	Look up
+__TAG__VCA__LookupPicture	Look up by picture
+__TAG__VCA__FaceAdd	Create Face Library
+__TAG__VCA__FaceSet	Set Face Library
+
+__TAG__VCA__Describe	Describe
+__TAG__VCA_FaceCnt_Name	Name
+__TAG__VCA_FaceCnt_Place	Native Place
+__TAG__VCA_FaceCnt_Province	Province
+__TAG__VCA_FaceCnt_City	City
+__TAG__Main_Video_Birthday	Birthday
+
+__TAG__Main_Video_Choose	Choose Sample
+__TAG__Main_Video_PaperType	Certificate Type
+__TAG__Main_Video_ChooseNo	Certificate No.
+__TAG__Main_Video_idCard	ID Card
+__TAG__Main_Video_offerCard	Military ID
+__TAG__Main_Face_ModeFlg	State of modeling
+__TAG__Main_Face_Mode1	Modeled
+__TAG__Main_Face_Mode2	Not modeled
+__TAG__Main_Face_Mode3	Modeling failed
+__TAG__Main_Vca_FaceSet	Facial Configuration
+__TAG__FACE_LIB_WHITE	Library of white list
+
+__TAG__Main_Face_Event	Search by Event
+__TAG__Main_Face_Pic	Search by Image
+__TAG__Main_Face_Feature	Search by Feature
+__TAG__Main_Local_Upload	Upload sample locally
+__TAG__Main_FaceLib_Upload	Upload sample from face library
+__TAG__Main_Face_Cache	The maximum number of sample cache images is 5
+__TAG__Main_Vca_Glasses1	Wearing Glasses
+__TAG__Main_Vca_Glasses2	Not Wearing Glasses
+__TAG__Main_Vca_Mask1	Wearing Mask
+__TAG__Main_Vca_Mask2	Not Wearing Mask
+__TAG__Main_Upload_Sample	Upload Sample
+__TAG__Main_Feature_Count	Feature Statistics
+__TAG__Main_Aim_Count	Target Alarm Statistics
+__TAG__Main_ChnAlm_Count	Channel Alarm Statistics
+__TAG__Main_Target_Library	Target Library
+__TAG__Main_Target_Pic	Target Image
+__TAG__Main_Alm_TotalCnt	Total Alarms
+__TAG__Main_Detail_View	View
+__TAG__Main_Alm_Details	Alarm Details
+__TAG__Main_Capture_Pic	Capture Picture
+__TAG__Main_Sys_PicTO_ipc	Sync to Camera
+__TAG__Main_Face_Age	Age Range
+__TAG__Main_VCA_TARGET	Target Detection
+__TAG__Main_SENSE_MODE1	Real-time
+__TAG__Main_SENSE_MODE2	Historical
+__TAG__VCA_FaceCnt_Event1	Discerning Alarm
+__TAG__VCA_FaceCnt_Event2	Stranger Alarm
+__TAG__VCA_FaceCnt_Event4	Rate Alarm
+__TAG__VCA_FaceCnt_Event5	Detention Alarm
+__TAG__VCA_FaceLib_Hint	Are you sure you want to delete the selected face library?
+__TAG__VCA_ADD_FaceLib_Hint	The original face library will be overwritten. Do you want to continue?
+__TAG__VCA_Input_FaceLib	Inputting…
+__TAG__VCA_Output_FaceLib	Outputting…
+__TAG__VCA_FaceLib_Input	Input face library
+__TAG__VCA_FaceLib_Output	Output face library
+__TAG__VCA_FaceDiscern_Enable1	Enable discerning
+__TAG__VCA_FaceDiscern_Enable2	Enable stranger
+__TAG__VCA_FaceDiscern_Enable3	Enable rate
+__TAG__VCA_FaceDiscern_Enable4	Enable detention
+__TAG__VCA_Upload_DiscernMsg	Upload recognition information
+__TAG__VCA_Detained_Time	Duration of detention 
+__TAG__Main_CpToLib	Copy to Library
+__TAG__VCA_Search_Progress	Search progress
+__TAG__Vca_Sound_IPC	Front-end sound
+__TAG__Vca_Sound_LocReport	Local sound report
+__TAG__Vca_Copy_HintMsg	Channel %s is inconsistent with the current channel configuration, and the parameter copy was unsuccessful!
+__TAG__Vca_ChnCount_Hint	Drag the mouse left and right to see more
+__TAG__Face_synchronize	Synchronize
+__TAG__Face_synchronize1	Not synchronized
+__TAG__Face_synchronize2	Synchronizing
+
+__TAG__Face_synchronize5	To be synchronized
+__TAG__Face_synchronize6	Success: %d photos, Fail: %d photos
+__TAG__Play_Vca_Type	Smart type
+__TAG__Vca_Discern_HInt1	Face detection is not enabled for this channel. Do you want to enable face detection?
+__TAG__Vca_Discern_HInt2	NVR performance reaches the upper limit and NVR recognition fails to enable!
+__TAG__Main_Preview_DspBmp	Hide recording, alarm and face recognition icons in preview interface
+__TAG__Main_SelSample_Hint	Select at least one sample image
+__TAG__Main_Face_SnapPara	Snapshot
+__TAG__Main_Face_PixArea	Range
+__TAG__Vca_NoFaceLib_Hint	No face library
+__TAG__Sel_FaceSample_Hint	Select up to 5 samples
+__TAG__Main_Face_CP_Progress	Copying progress
+__TAG__Main_Face_CP_Succeed	Copying success
+__TAG__Main_Face_CP_Failed	Copy fails
+__TAG__Main_Face_CP_Lib	Please choose library
+__TAG__Main_Face_OutPut_Progress	Export progress
+__TAG__Main_Face_OutPut_Succeed	Export success
+__TAG__Main_Face_OutPut_Failed	Export fails
+__TAG__Main_Face_Age_Hint	The age range is 0-200!
+__TAG__Main_Face_Age_Hint1	Wrong age range
+__TAG__Main_Face_Name_Hint	Name cannot be empty
+__TAG__Main_FacePic_ADD_Hint	Added
+__TAG__Main_FacePic_DEL	Are you sure you want to delete the selected images?
+__TAG__Main_FacePic_DEL_Hint	Deleted
+__TAG__Main_FacePic_DEL_Hint1	add failed
+__TAG__Main_FacePic_ADD_Hint1	Added %d success, failed %d
+__TAG__Main_FacePic_ADD_Hint2	No face
+__TAG__Main_FacePic_ADD_Hint4	Please select an image to add
+__TAG__Main_FaceLib_ADD_Hint	Supports up to 32 libraries
+__TAG__Main_FaceLib_ADD_Hint3	Support up to %d base maps
+__TAG__Main_FaceLib_Mode	Modeling all
+__TAG__Main_FaceLib_Mode_Hint	After all are modeled, all basemaps will be remodeled. Do you want to continue?
+__TAG__Main_FaceLib_Mode_Hint1	Modeling failed
+__TAG__Main_Sense_PreHint	Target detection does not support more than %d screens!
+__TAG__SHM_Disk_Vibration	Hard disk vibration
+__TAG__SHM_Driver_Vibration	Excessive vibration of the drive
+__TAG__SHM_Disk_ConectFail	The hard disk connection is abnormal.
+__TAG__SHM_Host_Reset	Host reset
+__TAG__SHM_Disk_Abnormal	Hard disk abnormality
+__TAG__SHM_Disk_Normal	Hard disk health
+__TAG__SHM_Health_Status	Health status test
+__TAG__SHM_Tem_Curve	Temperature curve
+__TAG__SHM_Shock_Curve	Vibration curve
+__TAG__SHM_Health_SataLink	SATA link
+__TAG__SHM_Tem_Normal	Normal temperature
+__TAG__SHM_Tem_TooHigh	Temperature is too high
+__TAG__SHM_SataLink_ErrHint	SATA link failure
+__TAG__SHM_Tem_High	High temperature
+__TAG__Main_Face_RefreshHint	In the picture, please wait...
+__TAG__Main_FacePic_Lookup_Hint	Please select the image you are looking for
+__TAG__SHM_Check_Abnormal	SHM detection is abnormal
+__TAG__SHM_Check_Hint	Only valid for Seagate hard drives
+__TAG__Main_FaceLib_Input_Hint	Only support for importing box packages
+__TAG__Main_FaceLib_AddLib	Face library creation failed
+__TAG__Vca_Perty_Hint1	Enabling %s will turn off IPC face detection. Do you want to continue?
+__TAG__Vca_Perty_Hint2	Enabling IPC detection will turn off %s. Do you want to continue?
+__TAG__Vca_DelLib_Hint	Failed to delete
+__TAG__Vca_FaceLib_Hint	Please do not operate the face database being synchronized!
+__TAG__Vca_FaceLib_Hint1	The front-end face detection algorithm will be paused during synchronization to the front-end!
+__TAG__Main_Video_PassPort	Passport
+__TAG__Main_Sys_Msg19	Intelligent module
+__TAG__Main_Sys_Msg20	Algorithm version
+__TAG__Main_FaceLib_Mode_Num	Modeled
+__TAG__Vca_FaceDet_Hint1	The NVR performance reaches the upper limit, and the NVR detection fails to be enabled!
+__TAG__Health_Test_TemSymbol	℃
+__TAG__Vca_DelFaceLib_Title	Delete library
+__TAG__Vca_DelFaceLib_Hint	deleting...
+__TAG__Vca_DelFaceLib_Hint1	The library that was operating before is being deleted
+__TAG__Vca_DelFaceLib_Hint2	The selected library has been deleted
+__TAG__Vca_AddFaceLib_Hint	Name is required
+__TAG__Main_FacePic_ADD_Hint3	Image size cannot be greater than 1080*1920, not less than 100*100
+__TAG__Vca_AddTo_FaceLib	Add to library
+__TAG__Vca_Add_FaceLib1	The number of imported images is greater than the number of remaining images in the face database!
+__TAG__Vca_Creat_FaceLib	Create
+__TAG__Vca_FaceLib_Identify	Enable Authentication
+__TAG__Vca_FaceLib_Psw	6-16 digits or letters, not case-sensitive.
+__TAG__Vca_EveryLib_FaceNum	Picture Number
+__TAG__Vca_FaceLib_Synchronize	Face database is syncing
+__TAG__Vca_FaceLib_Synchronize1	Synchronization completed
+__TAG__Vca_FacePic_Idcard	Please enter a valid ID number
+__TAG__Vca_AddPic_Hint1	Face analysis failed
+__TAG__Vca_AddPic_Hint2	This image resolution is not supported
+
+__TAG__Vca_FaceDet_Hint	Turning on corridor mode will affect face detection results.
+__TAG__Vca_FacePic_Lookup	No results found!
+__TAG__Vca_AlmLink_IpcOut	Linkage Front End output
+__TAG__Main_Pic_Pssd5	Please enter the imported password box
+__TAG__Main_Pic_Pssd6	Please enter the exported box password
+__TAG__Main_Face_Name_Hint1	Supports selecting up to 150 files
+__TAG__Main_FacePic_ADD_Hint5	The image size cannot be larger than 800*800 and not smaller than 100*100
+__TAG__Main_FacePic_ADD_Hint6	The basemap name cannot exceed 60 characters
+
+__TAG__Main_FacePic_ATTR_Hint0	Unknown
+__TAG__Main_FacePic_ATTR_Hint1	Company
+__TAG__Main_FacePic_ATTR_Hint2	Address
+__TAG__Main_FacePic_ATTR_Hint3	Country
+__TAG__Main_FacePic_ATTR_Hint4	Stuff ID
+__TAG__Main_Video_Icn13	Storage
+__TAG__Main_Video_PicSet1	Picture Setting
+__TAG__Main_Video_PicSet2	Picture Storage
+__TAG__Main_Video_PicSet6	Face Image
+
+__TAG__Main_Video_PicSet4	Face Underlay
+__TAG__Main_Video_PicSet5	Face Background Image
+__TAG__Main_Sense_AlarmType1	Comparison
+__TAG__Main_Sense_AlarmType2	Stagnation
+__TAG__Main_Face_LiveBody	Bioassay
+__TAG__Vca_Face_Basemap_LibSet	Management of Face Underlay Library
+__TAG__Main_Select_Facelib	Select the face library
+__TAG__Main_Video_PicSet7	Face snapshot
+__TAG__Main_Video_PicSet8	No pictures
+__TAG__Vca_Property_Hint1	NVR performance reaches the upper limit and IPC identification fails to enable!
+__TAG__Vca_Property_Hint3	Supports up to 32 face library linkage settings!
+__TAG__Vca_Property_Hint4	Please enable the algorithm first!
+__TAG__Main_Count_Success	Statistical Success
+__TAG__Main_Count_Faild	Statistical Failure
+__TAG__Main_Count_TargetLimit	Target alarm statistics support a maximum of %d target libraries.
+__TAG__Main_Sys_Net88	Renewal center
+__TAG__Main_Sys_Net89	Center number
+__TAG__Main_Sys_Net90	Center address
+__TAG__Main_FaceLib_ADD_Hint4	Support for up to %d libraries
+__TAG__Vca_Discern_HInt3	Face detection is not enabled for this channel. Please enable IPC detection manually first.
+
+__TAG__Main_Sys_Cnf27	Statistics timed out, please try again.
+__TAG__Main_Sys_Cnf28	The path is too long, Please re-export it
+__TAG__AUTOADD_ASK	The device is not connected to IPC. Do you want to add it automatically?
+__TAG__AUTOADD_CONFLICT	The device IP conflicts and the IPC cannot be added. Please reset the device network.
+__TAG__AUTOADD_CONFLICTIP	Conflicting IP: %s
+__TAG__AUTOADD_SUC	%d IPCs have been searched and added.
+__TAG__AUTOADD_TABLE	%d IPCs have been searched and added. %d IPCs crossing the network segments have been found. Please add manually.
+__TAG__AUTOADD_ING	It is added automatically, please wait…
+__TAG__Main_PREVIEW_NOCNF	Unconfigured preview
+__TAG__Main_Preview_Alarm_Hint	Exit single screen?
+__TAG__Add_IpList_Hint1	Inputting Device IP onto the list is prohibited.
+__TAG__Search_Limit_Hint	Supports querying up to 10,000 pieces of data. Please adjust the query time for the remaining data.
+__TAG__Main_Pic_Vin132	Schedule
+__TAG__Main_Pic_Vin133	Current Template
+__TAG__Main_Sys_ExpandChn	Channel Expansion
+__TAG__Main_Sys_ExpandChn1	road
+__TAG__Main_Pic_Vin133.2	Traffic
+__TAG__Main_Pic_Vin133.3	WDR
+__TAG__Main_Pic_Vin133.4	Motion
+__TAG__Main_Pic_Five	5 Screens
+__TAG__Main_Pic_Seven	7 Screens
+
+__TAG__Main_Pic_Vin133.5	low light
+__TAG__Main_Pic_Vin133.6	Low illumination
+__TAG__Main_Vca_Setting	Smart Motion
+__TAG__Main_Vca_Setting1	Smart Encoding
+__TAG__Main_Vca_Setting2	Smart Image
+__TAG__Main_Smart_Alarm	VCA
+__TAG__Main_Smart_Set	Front-end Three Smarts
+__TAG__Main_Smart_AlarmPara	Intelligent Alarm Parameters
+__TAG__Main_VcaMd_Alarm	Smart alarm occurs
+__TAG__Main_Tyoe_VcaMd	Smart Motion Alarm
+__TAG__Main_Reg_Port	The port number is the numerical value between 81-65535. 
+__TAG__Main_Reg_IP	The IP address cannot be empty.
+__TAG__Main_Daylight_Enable	Daylight-Saving Time
+__TAG__Main_Daylight_First	First
+__TAG__Main_Daylight_End	Last
+__TAG__Main_Daylight_Second	Second
+__TAG__Main_Daylight_Third	Third
+__TAG__Main_Daylight_Fourth	Fourth
+__TAG__Main_Daylight_OffsetTm	DST Bias
+__TAG__Main_Daylight_Hour	O'clock
+__TAG__Main_Pic_Dsp125	The output resolution will be adaptive to %s, do you use this resolution?
+__TAG__Main_Pic_Dsp126	Modify Manually
+__TAG__Main_Pic_Dsp124	No more prompt
+__TAG__Main_Pic_Dsp120	Enable auto access of third-party IPC 
+__TAG__Main_Pic_Dsp121	Allow access of third-party IPC's H265
+__TAG__Main_Pic_Dsp122	Enable screen resolution adaptive reminder
+__TAG__Main_Len_Ctl48	Dome Setting
+__TAG__Main_Len_Ctl49	Standby Action
+__TAG__Main_Len_Ctl52	AutoCruise
+__TAG__Main_Len_Ctl53	Mode path
+__TAG__Main_Len_Ctl54	Standby Time(s)
+__TAG__Main_App_Hint4	The mobile phone is connected
+__TAG__Main_App_Hint5	not connected to server
+__TAG__Main_App_Hint6	not connected to mobile terminal
+__TAG__Main_App_Hint7	Not connected to the public network
+__TAG__Main_Pic_Dsp123	Resolution Notification
+__TAG__Main_User_Grp43	Password cannot contain username
+__TAG__Main_AutoTime_IPC	IPC Timing
+__TAG__Main_Clude_Hint1	The device has detected a new version. Do you want to upgrade?
+__TAG__Main_Clude_Hint2	No new version device found!
+__TAG__Main_Clude_Hint3	Upgrade IPC
+__TAG__Main_Clude_Hint4	Upgrade NVR
+__TAG__Main_Clude_Hint5	Automatically detect new IPC versions
+__TAG__Main_Clude_Hint6	Automatically detect new NVR versions
+__TAG__Main_ChangeIP_Hint1	User name error
+__TAG__Main_ChangeIP_Hint2	Password error
+__TAG__Main_ChangeIP_Hint3	The IP address is illegal.
+__TAG__Main_ChangeIP_Hint4	The IP address and gateway are not in the same network segment. 
+__TAG__Main_ChangeIP_Hint5	The DNS address is illegal.
+__TAG__Main_ChangeIP_Hint6	The user has no authority.
+
+__TAG__Main_SysErr_Hint	The disk performance is overloaded. Please contact the administrator to modify the disk pack configuration or reduce the video code stream.
+__TAG__Main_Disk_Repair	Disk recovery
+__TAG__Main_Sys_Msg21	Factory ID 
+__TAG__Main_NET_Hint1	IPv4 Address
+__TAG__Main_NET_Hint2	IPv4 Subnet Mask
+__TAG__Main_NET_Hint3	IPv4 Default Gateway
+__TAG__Main_NET_Hint4	DHCP(IPv4)
+__TAG__Main_NET_Hint5	Link Local Address
+__TAG__Main_NET_Hint6	IPv6 Address
+__TAG__Main_NET_Hint7	IPv6 Subnet Prefix Length
+__TAG__Main_NET_Hint8	IPv6 Default Gateway
+__TAG__Main_NET_Hint9	Manual
+__TAG__Main_NET_Hint10	Router Announcement
+__TAG__Main_NET_Hint11	IPv4 Setting
+__TAG__Main_NET_Hint12	IPv6 Setting
+__TAG__Main_NET_Hint13	IPv6 Mode
+
+__TAG__Main_Voltage_Err	IPC Voltage Abnormal
+__TAG__Main_Chn_Dig32	Network type
+__TAG__Main_Voltage_Err1	Low-voltage alarm 
+__TAG__Main_Voltage_Err2	Over-voltage alarm 
+__TAG__Main_NET_Hint15	Invalid IPv6. Please reset. 
+__TAG__Main_NET_Hint16	IPv6 and gateway must be within the same network segment!
+__TAG__Main_NET_Hint17	%s valid range is %d-%d. Please reset!
+__TAG__Main_DDNS_Hint1	Off-line
+__TAG__Main_DDNS_Hint2	Device domain name is being detected
+__TAG__Main_DDNS_Hint3	Device domain name available
+__TAG__Main_DDNS_Hint4	Device domain name is not available
+__TAG__Main_DDNS_Hint5	Device domain name already in use
+__TAG__Main_DDNS_Hint6	Check timeout
+__TAG__Main_DDNS_Hint7	DDNS Type
+__TAG__Main_DDNS_Hint8	General Domain Name
+__TAG__Main_System_Hint	Language Settings
+__TAG__Main_System_Hint1	Device Type
+__TAG__VCA__PeopleCompar	Passenger flow comparison
+__TAG__Main_NET_Hint18	View IPv6 address
+__TAG__Main_NET_Hint19	Keep at least one IP in the whitelist
+__TAG__VCA__Compare_Type	Display type
+__TAG__VCA__MAXCHN	Only up to 5 channels can be selected
+__TAG__VCA_SEARCH_PEOPLE11	Channel %s doesn’t have data
+__TAG__Main_Vca_Setting3	Smart Scene
+__TAG__Main_Pic_Vin141	White LED Control
+__TAG__Main_Pic_Vin134	Manual Open
+__TAG__Main_Pic_Vin135	Manual Close
+__TAG__Main_Pic_Vin136	Luminance of white light
+__TAG__Main_Pic_Vin137	Close White Light Time
+__TAG__Main_Pic_Vin138	Open White Light Time
+__TAG__Main_Pic_Vin139	IR Control Mode
+__TAG__Main_Pic_Vin140	Infrared Lamp Power
+__TAG__Main_Pic_Vin142	Close white light time must be earlier than open white light time
+__TAG__Main_NET_Hint20	Internal Port 
+__TAG__Main_NET_Hint21	UPNP Type
+__TAG__Main_Video_Hint	Note: AVI does not support recording in H.265 format
+__TAG__Main_DDNS_Hint9	Detecting, please do it later
+__TAG__Main_Device_Num	Device ID
+__TAG__Main_Preview_DspWifiBmp	Hide the video, alarm and WIFI icons in the preview screen
+__TAG__Main_WIFI_Workchn	Service path
+__TAG__Main_WIFI_Authmed	Authentication method
+__TAG__Main_WIFI_stat	Wi-Fi status
+__TAG__Main_WIFI_Match	Wi-Fi matching
+__TAG__Main_WIFI_Seach	Searching for camera, %d seconds remaining.
+__TAG__Main_WIFI_Chn	Signal channel
+__TAG__Main_WIFI_BandWidth	Bandwidth
+__TAG__Main_WIFI_EncryptionMed	Way of encryption
+__TAG__Main_WIFI_EncryptionKey	Encryption key
+__TAG__Main_WIFI_BridgeToLan	Bridged to LAN port
+__TAG__Main_WIFI_AsyncSet	Setting Wi-Fi parameters...
+__TAG__Main_WIFI_SetSuccess	Setting completed
+__TAG__Main_WIFI_Location	Region/country
+__TAG__Main_WIFI_China	China
+__TAG__Main_WIFI_NorthAmerica	North America 
+__TAG__Main_WIFI_Japen	Japan
+__TAG__Main_WIFI_Europe	Europe
+__TAG__Main_WIFI_Reboot	Wi-Fi module is restarting, please try again later!
+__TAG__Main_WIFI_MatchTip	The device is not connected to IPC. Do you want to perform Wi-Fi matching?
+__TAG__Main_WIFI_Matching	Wi-Fi matching in progress.
+__TAG__Main_WIFI_KenLen	The key length is 8 ~ 63
+__TAG__Main_WIFI_SSIDLen	The SSID length is 1 ~ 31
+__TAG__Main_WIFI_WiFiTitle	Wireless Network
+__TAG__Main_Vca_Hottemp1	Human body temperature measurement
+__TAG__Main_Vca_Hottemp2	Abnormal Body Temperature Alarm
+__TAG__Main_Vca_Hottemp3	Start body temp detection 
+__TAG__Main_Vca_Hottemp4	Max. body temp
+__TAG__Main_Vca_Hottemp5	Body temp
+__TAG__Main_Vca_Hottemp6	Abnormal body temp
+__TAG__Main_Vca_Hottemp7	Basic Parameter
+__TAG__Main_Vca_Hottemp9	℃
+__TAG__Main_Vca_Hottemp10	℉
+__TAG__Main_Vca_Hottemp11	Please enter a correct temp.
+__TAG__Main_Alm_HndClr3	Alarm type
+__TAG__Main_Vca_Hottemp12	Invalid temperature
+
+__TAG__VCA_DetTarget	Detect target
+__TAG__VCA_HumanFace	Face
+__TAG__VCA_HumanForm	Body shape
+__TAG__VCA_TimeDelay1	Delay time of first picture
+__TAG__VCA_TimeDelay2	Time Interval
+__TAG__Main_Vca_BodyTemp1	Body Temperature Measurement Settings
+__TAG__Main_Vca_BodyTemp2	Temperature scale selection
+__TAG__Main_Vca_BodyTemp3	Centigrade
+__TAG__Main_Vca_BodyTemp4	Fahrenheit
+__TAG__Main_Vca_BodyTemp5	Black-body correction
+__TAG__Main_Vca_BodyTemp6	Body temp. conversion
+__TAG__Main_Vca_BodyTemp7	Intelligent correction
+__TAG__Main_Vca_BodyTemp8	Black-body temp.(°C)
+__TAG__Main_Vca_BodyTemp9	Black-body distance(m)
+__TAG__Main_Vca_BodyTemp10	Way of correction
+__TAG__Main_Vca_BodyTemp11	Manual correction
+__TAG__Main_Vca_BodyTemp12	Continuous correction
+__TAG__Main_Vca_BodyTemp13	Black-body temp.(°F)
+__TAG__Main_Vca_BodyTemp14	Compensation coefficient
+__TAG__Main_Vca_BodyTemp16	Please enter a correct distance
+__TAG__Main_Vca_BodyTemp17	Correction done
+__TAG__Main_Vca_BodyTemp18	Sure to change thermometric scale?
+__TAG__Main_Vca_BodyTemp19	Please mark black-body location first
+__TAG__Main_Vca_BodyTemp20	Clear mark
+__TAG__Main_Vca_BodyTemp21	Mark the location of black body
+__TAG__Main_Vca_BodyTemp22	Celsius temperature(°C)
+__TAG__Main_Vca_BodyTemp23	Fahrenheit (°F)
+__TAG__Main_Vca_BodyTemp24	Kelvin temperature (K)
+
+__TAG__Main_Vca_Face1	Face character Alarm
+__TAG__Main_Vca_Msg1	Coordinated intelligence
+__TAG__Main_Vca_Msg2	Fireworks Detection
+__TAG__Main_Vca_Msg3	Temperature Check
+__TAG__Main_Vca_Msg4	Display of face character from target detection
+__TAG__Main_Vca_Msg5	Face Character
+__TAG__Main_Vca_Msg6	Max. 4 face characters to be displayed
+__TAG__Main_Vca_Msg7	Image formats only support jpg, png and jpeg
+__TAG__Main_Vca_Msg8	Wearing mask
+__TAG__Main_Vca_Msg9	Not wearing mask
+__TAG__Main_Vca_BlackBodyMsg1	Blackbody Abnormality Alarm
+__TAG__Main_Vca_BlackBodyMsg2	Debounce time (seconds)
+__TAG__Main_Vca_Msg10	Enabling %s will turn off other intelligent analysis functions on the front end. Do you want to continue?
+__TAG__Search_Limit_Hint1	Supports querying up to %d pieces of data. Please adjust the query time for the remaining data.
+__TAG__Search_Thermal_Img	Thermographic
+
+__TAG__Main_Alert_Mode9	Snapshot and enable the alarm light as well
+__TAG__Main_Alert_Mode10	Snapshot and enable the alarm light, and single alarm sounds
+__TAG__Main_Alert_Mode11	Snapshot and enable the alarm light, and cycle alarm sounds
+__TAG__Main_Alert_Mode12	Snapshot and enable the burst type multistage acousto-optic as well 
+__TAG__Main_Alert_Mode13	Snapshot and enable the gradient type multistage acousto-optic (alarm light) as well 
+__TAG__Main_WIFI_Bridging	There are other Wi-Fi NVR devices in the LAN to enable the bridge mode
+__TAG__Main_WIFI_IPValid	The host ID cannot be set to %d-%d, please set it again!
+
+__TAG__Main_FaceLib_Lock	Lock-out status
+
+__TAG__Main_cloudUpdata_Msg	New version identified 
+__TAG__Main_App_Hint8	Server connected 
+__TAG__Main_Link_Hint1	Humanoid white light 
+__TAG__Main_RTC_Err	RTC Failure
+__TAG__Main_Vca_Msg11	Daily statistics 
+__TAG__Main_Vca_Msg12	Intelligent detection 
+__TAG__Main_Vca_Msg13	Local intelligent enabled 
+__TAG__Main_Vca_Msg14	Front-end intelligent enabled 
+__TAG__Main_Vca_Msg15	Algorithm resources are limited, please turn off %s first and then enable this function.
+__TAG__Main_Vca_Msg16	%s enabling failed. The upper limit of machine's intelligent analysis capability has been reached. 
+__TAG__Main_Vca_Msg17	NVR detection or NVR identification 
+__TAG__Main_WIFI_Mode	Search completed. Switch to wireless operation mode now. Please wait ...
+__TAG__Main_WifiMatch_Fail	Matching failed
+__TAG__Main_page_Total	Total
+__TAG__Main_VideoPlay_Hint3	Current: Intelligent Rule Display
+__TAG__Main_VideoPlay_Hint4	Current: Intelligent Rule Hiding
+__TAG__Main_Smart_Duty_Post	Duty
+__TAG__Main_PeopleCount_Hint1	Passenger flow
+__TAG__Main_PeopleCount_Hint2	Passenger flow matching
+__TAG__Main_PeopleCount_Hint3	Area configuration
+__TAG__Main_PeopleCount_Hint4	Over-limit alarm
+__TAG__Main_PeopleCount_Hint5	Area
+__TAG__Main_PeopleCount_Hint6	Area name
+__TAG__Main_PeopleCount_Hint7	no.s of existing people
+__TAG__Main_PeopleCount_Hint8	Over-limit alarm people counts
+__TAG__Main_PeopleCount_Hint9	Time to reset the count
+__TAG__Main_PeopleCount_Hint10	Reset Count
+__TAG__Main_PeopleCount_Hint11	Front-end export
+__TAG__Main_PeopleCount_Hint12	no.s of people passing
+__TAG__Main_PeopleCount_Hint13	Passing
+__TAG__Main_PeopleCount_Hint14	Passenger flow data
+__TAG__Main_PeopleCount_Hint16	Current time
+__TAG__Main_PeopleCount_Hint17	Time of statistics 
+__TAG__Main_PeopleCount_Hint18	Real-time no.s of people 
+__TAG__Main_PeopleCount_Hint19	no.s of people allowed to enter
+__TAG__Main_PeopleCount_Hint20	Max. %d channel allowing simultaneous response in each area 
+__TAG__Main_PeopleCount_Hint22	Time starting statistics 
+__TAG__VCA__FaceCount_Alarm	Face alarm statistics
+__TAG__VCA__FaceCountAlarm_Snap	Snapshot 
+__TAG__Main_Vca_Mask	Mask
+__TAG__Main_Vca_Glasses	Glasses 
+__TAG__Main_Vca_Hottemp13	Try again 
+__TAG__Main_Chn_Expan	Channel expansion requires restarting the device to take effect. Do you want to restart the system now?
+__TAG__Main_Chn_Expan2	Tip: After modifying the channel expansion parameters, please rebind the mobile client.
+__TAG__Main_Pic_Ten	10 Screens
+__TAG__Main_Pic_Twelve	12 Screens
+__TAG__Main_Pic_Vin143	The white light must be turned on earlier than the dark time
+__TAG__Main_Pic_Vin144	The time to turn off the white light must be later than the time of dawn
+__TAG__Main_page_Refresh_Total	Total number of queries
+__TAG__Main_Shamsi_Enable	Persian Calendar
+
+__TAG__Main_Video_Snap18	Snapshot Method
+__TAG__Main_Video_Snap_IPC	IPC Snapshot
+__TAG__Main_Video_Snap_NVR	NVR Snapshot
+__TAG__Main_ReworkIp_Msg2	The new password cannot be empty
+__TAG__CPt_Msg_SCode_Emp	The security code cannot be empty.
+__TAG__CPt_Msg_Pwd_Err	New password error
+__TAG__CPt_Msg_Tim_12_ERR	Less than 12 hours have passed since the last password modification
+__TAG__CPt_Msg_Count_Max_ERR	The number of failures exceeds the limit
+__TAG__CPt_Msg_Tim_Near_ERR	The operation time of applying for ciphertext string and changing password is too short
+__TAG__CPt_Msg_Count_Tim_ERR	%s, lock %d minutes remaining
+__TAG__CPt_Msg_Count_ERR	%s, %d time remaining
+
+__TAG__Main_EBike_Vca	Electric vehicle testing
+__TAG__Main_EBike_Vca1	Electric vehicle
+__TAG__VCA__RectPeopleCnt	Statistics of staffs in the area
+__TAG__VCA__LinePeopleCnt	Line drawing people statistics
+__TAG__VCA__QuePeopleCnt	Queue population statistics
+
+__TAG__Main_TopSee_LightMode	Light Mode
+__TAG__Main_TopSee_LightMode1	Auto dual light
+__TAG__Main_TopSee_LightMode2	Infrared Mode
+__TAG__Main_TopSee_LightMode3	White light mode
+__TAG__Main_TopSee_LightControl	Light control
+__TAG__Main_TopSee_LightBright	Brightness
+__TAG__Main_TopSee_HumanDetect	Human detection
+__TAG__Main_TopSee_MarkDetect	Mark detection
+__TAG__Main_TopSee_LightWarn	Light warning
+__TAG__Main_TopSee_VoiceWarn	Audio warning
+__TAG__Main_TopSee_Refresh	Refresh
+
+__TAG__Main_Cloud_Timing	Enable cloud Synchronize
+
+__TAG__Main_Mobile_Unbind	Unbind
+__TAG__Main_Unbind_Hint	Processing, please wait
+__TAG__Main_Unbind_Hint2	No unbinding task
+__TAG__Main_Unbind_Hint3	Unbind timeout
+__TAG__VCA__LightMode	Light supplement mode
+__TAG__VCA__LightMode1	Infrared Mode
+__TAG__VCA__LightMode2	Full color
+__TAG__Main_Link_Hint2	Human voice
+
+__TAG__Main_Sys_FTP_Enable	Enable FTP
+__TAG__Main_Sys_FTP_Info	(Note: There may be security risks after enabling FTP)
+__TAG__Main_Video_ANR_Info	(Note: The ANR function requires FTP to be enabled to take effect)
+__TAG__Main_Sys_BakDev_Info	Note: 1. After enabling the N+M function, the working device must be added to the hot standby device, otherwise the hot standby function will be invalid. 2. The backup function can work normally after FTP is turned on.
+__TAG__Main_Daylight_Hint	The time interval between the start and end of daylight saving time cannot be less than one week!
+
+__TAG__Main_Alm_Icn31	Disarm
+__TAG__Main_Undefend_Mode	Type
+__TAG__Main_Undefend_Manual	Manual Disarm
+__TAG__Main_Undefend_Period	Schedule Disarm
+__TAG__Main_Undefend_IOInput	AlarmIn Disarm
+__TAG__Main_Undefend_LinkageItem	Linkage Disarm
+__TAG__Main_Undefend_Time	Schedule
+__TAG__Main_Undefend_IO_Index	Event
+__TAG__Main_Undefend_IO_Mode	Trigger method
+__TAG__Main_Undefend_IO_EnStat	Status
+__TAG__Main_Alm_Mode	Application
+__TAG__Main_Alm_Mode_Undefend	Disarm
+__TAG__Main_Alm_Mode_Open	Disconnect
+__TAG__Main_Alm_Mode_Close	Turn on
+__TAG__Main_Alm_Soud_Inter	Alarm time(second)
+__TAG__Main_Undefend_Hint.1	After disarming, the selected linkage function will be invalid. Continue?
+__TAG__Main_Undefend_Set_Time	Left-click drag and drop to set the disarming period
+__TAG__Main_Undefend_Clear_Time	Left-click drag and drop to clear the disarming period
+__TAG__Main_Undefend_Set	Disarm set
+__TAG__Main_Video_PageUp	Page Up
+__TAG__Main_Video_PageDown	Page Down
+__TAG__Main_Chn_CamPass	Change The Camera Password
+__TAG__Main_Admin_Right_Check	NVR Administrator password verification
+__TAG__Dev_unActive_Pass_Point	Inactive IPC will be activated with camera password!
+__TAG__Dev_unActive_Pass_Hint	Inactive IPC will be activated and added with camera password!
+__TAG__Main_Sys_Pass_AddHint	One click Add will automatically search and activate the IPC with the camera password, and then add it to the idle channel!
+__TAG__Main_BackUp_Notify	During the backup process, please do not perform other operations!
+__TAG__Main_New_Version_Hint	New version reminder interval
+__TAG__Stream_Cur_Type_Main	Mode: Main-Stream
+__TAG__Stream_Cur_Type_Sub	Mode: Sub-Stream
+__TAG__Wide_Dynamic_Open	Mode: Super-Wide Dynamic Range Open
+__TAG__Wide_Dynamic_close	Mode: Super-Wide Dynamic Range Close
+__TAG__Main_Sys_DiskEstimate1	Recording time estimates
+__TAG__Main_Sys_DiskEstimate2	Video estimation
+__TAG__Main_Sys_DiskEstimate3	Disk space(T)
+__TAG__Main_Sys_DiskEstimate4	Recording time(day)
+__TAG__Main_Sys_DiskEstimate5	Estimate
+__TAG__Main_Pic_Vec115	Digital Watermark
+__TAG__MAIN_ALERT_LASER3	Intelligent white light
+__TAG__Main_Sys_DiskEstimateInfo	Please check the disk (get the total disk capacity) or manually enter the disk size to estimate. This recording time is an estimated value for reference only.
+__TAG__Main_Sys_Disk73NEW	Modifying the storage mode will delete the hard disk data. Please backup it in advance. This operation will take effect after restarting. Do you want to restart now?
+__TAG__Main_Alarm_Threshold	Pre-warning threshold (GB)
+__TAG__Main_Alarm_Threshold2	Please set alert threshold first
+__TAG__Main_Alarm_Threshold3	Alert threshold
+__TAG__Main_Alarm_Threshold4	Invalid value, please re-enter
+__TAG__Main_Alarm_Threshold5	Disk group space alert
+__TAG__Main_Disk_IsFull	Disk full
+__TAG__Main_Pic_NotChange	Do not modify
+__TAG__Main_Sys_NetCheck14	Ping Packet Number
+__TAG__Main_Sys_NetCheck15	Ping Packet Size(B)
+__TAG__Main_Alm_AlmIn18	Upload APP
+__TAG__Main_Alm_Undefend_Hint.2	This operation will enable the alarm input disarm function, close other disarm methods, and the selected linkage function will be invalid after disarm. Do you want to continue?
+__TAG__Main_Alm_Undefend_Hint.3	Alarm input disarm is not enabled
+__TAG__Main_Alm_Undefend_Hint.4	This operation will enable the alarm input disarm function, and the selected linkage function will be invalid after disarm. Continue?
+__TAG__Main_MdSet_Confirm_Txt	Mobile detection and linkage video recording will be enabled for all online channels. Continue?
+__TAG__Main_Alm_Close_Undefend	Close Disarm
+__TAG__Main_Pic_Dsp94.2	80 Screens
+__TAG__Main_Sys_Dormant	Hibernation mode. Turning off hibernation mode will affect disk life and increase power consumption. Please be careful when setting non-sleep mode.
+__TAG__Main_More	Menu
+__TAG__Main_DoubleLight_Set	Dual Light Setting
+__TAG__Main_ChnLogin_Pswd	Batch Edit Login Password
+__TAG__Camera_Active_Hint1	Use this password as the activation password
+__TAG__Main_Camera_Login_Pswd	Camera Login Password
+__TAG__Main_Camera_Modify_Pswd	Modify camera password
+__TAG__Main_Camera_Hint1	When adding an activated camera, this password will be used to try to connect
+__TAG__Main_Camera_Hint2	(Cameras that fail to connect will try to connect with this password)
+__TAG__Main_Camera_Hint3	(This operation will modify the online camera password of the current private protocol connection.)
+__TAG__Main_Sound	Sound
+__TAG__Main_User_Onvif	ONVIF Permissions
+__TAG__Onvif_Operator	Operator
+__TAG__Onvif_User	User
+__TAG__Main_Other_Occupied	Other clients are doing smart playback
+
+__TAG__VCA_FallingObj	High-altitude drops
+__TAG__VCA_Fall_OSD	Overlay Text Tips
+__TAG__VCA_Fall_ValidRg	Draw detection area
+__TAG__VCA_Fall_MaskRg	Draw masked area
+__TAG__Main_FallObj_Vca1	High altitude parabolic retrieval
+__TAG__Main_MultiPic2_B	2 Screens B
+__TAG__Main_Video_Date11	0 means unrestricted
+
+__TAG__VCA_Scene	Scene
+__TAG__VCA_Scene_Name	Scene Name
+__TAG__VCA_Condition	Condition
+__TAG__VCA_Condition_Set	Condition Settings
+__TAG__VCA_Mask_Region	Shield Area
+__TAG__VCA_Trigger_Condition	Trigger Conditions
+__TAG__VCA_Other_Color	Other colors
+__TAG__VCA_Area_Color	Area color
+__TAG__VCA_Strategy_NotNull	The condition cannot be empty
+__TAG__VCA_Strategy_Hint1	At the same time satisfied
+__TAG__VCA_Strategy_Hint2	The following conditions are also met:
+__TAG__VCA_Strategy_Hint3	Personnel
+__TAG__VCA_Strategy_Hint4	Vehicle
+__TAG__VCA_Strategy_Hint5	Low volume detection
+__TAG__VCA_Strategy_Hint6	High volume detection
+__TAG__VCA_Strategy_Hint7	Condition 1 (Human)
+__TAG__VCA_Strategy_Hint8	Condition 2 (Humanl)
+__TAG__VCA_Strategy_Hint9	Condition 3 (Vehicle)
+__TAG__VCA_Strategy_Hint10	Condition 4 (Vehicle)
+__TAG__VCA_Strategy_Hint11	Condition 5 (Color)
+__TAG__VCA_Strategy_Hint12	Condition 6 (Color)
+__TAG__VCA_Strategy_Hint13	Condition 7 (Sound)
+__TAG__VCA_Strategy_Hint14	Condition 8 (Sound)
+__TAG__VCA_Strategy_Hint15	Policy configuration
+__TAG__VCA_Strategy_Hint16	The condition you selected has been duplicated
+__TAG__VCA_Strategy_Hint17	Picture coloring
+__TAG__VCA_Strategy_Hint18	(Black and white images cannot recognize color, and the algorithm does not take effect. If color filtering is set, it is recommended to set the fill light mode to the full color mode for use together)
+__TAG__VCA_Strategy_Hint19	This function is not supported in the current mode
+__TAG__VCA_Strategy_Search	Smart scene retrieval
+
+__TAG__VCA_Meastemp_Set	Environmental temperature measurement
+__TAG__VCA_Meastemp_Aoto	Auto Scan
+__TAG__VCA_Meastemp_1	Temperature measurement unit
+__TAG__VCA_Meastemp_2	Temperature measurement range
+__TAG__VCA_Meastemp_3	Temperature measurement information location display
+__TAG__VCA_Meastemp_4	Displays temperature bar
+__TAG__VCA_Meastemp_5	The thermal image channel displays temperature information
+__TAG__VCA_Meastemp_6	The visible channel displays temperature information
+__TAG__VCA_Meastemp_7	Maximum temperature
+__TAG__VCA_Meastemp_8	Minimum temperature
+__TAG__VCA_Meastemp_9	Average temperature
+__TAG__VCA_Meastemp_10	Sunlight reflection filtering is on
+__TAG__VCA_Meastemp_11	Reflective filter sensitivity
+__TAG__VCA_Meastemp_13	Rule perimeter
+__TAG__VCA_Meastemp_14	Upper-left corner of the image
+
+
+__TAG__Main_Pic_Mode	Image Effects
+__TAG__Main_Pic_Mode1	Auto(REC)
+__TAG__Main_Pic_Mode2	Pro Mode
+__TAG__VCA_Temp_Hint1	Temperature Difference Alarm
+__TAG__VCA_Temp_Hint2	Temperature Threshold (° C)
+__TAG__VCA_Temp_Hint3	High Temperature Alarm
+__TAG__VCA_Temp_Hint4	High Temperature Threshold (° C)
+__TAG__VCA_Temp_Hint5	Display the highest and lowest temperature position
+__TAG__VCA_Fire_Hint1	Designated fire point
+__TAG__VCA_Fire_Hint2	Specified smoke
+__TAG__VCA_Fire_Hint3	Fire point or smoke
+__TAG__VCA_Fire_Hint4	Fire point and smoke
+__TAG__VCA_Fire_Hint5	Smoking testing
+__TAG__VCA_Fire_Hint6	Fire point detection sensitivity
+__TAG__VCA_Fire_Hint7	Smoke detection sensitivity
+__TAG__VCA_Fire_Hint8	Waiting time for alarm occurrence (seconds)
+__TAG__VCA_Fire_HintMsg	Do you want to zoom visible light to the recommended viewing angle?
+
+__TAG__VCA_Alg_HintMsg	The camera has limited computing power, please ensure that the intelligent analysis algorithm for other channels of the camera is turned off, otherwise the algorithm will fail to enable.
+__TAG__Main_Vca_Line77	Display Track
+
+__TAG__Main_Sys_Net92	Web Server Address
+__TAG__Main_Sys_Net93	Site Number
+__TAG__Main_Sys_Net95	Web server address or Heartbeat Interval cannot be null!
+__TAG__Main_Sys_Net96	Web server address cannot be null!
+__TAG__Main_Chn_Mng40	Current Version
+__TAG__Main_Chn_Mng41	Latest Version
+__TAG__Main_Chn_Mng42	Upgrade Status
+__TAG__Main_Chn_Mng43	Downloading:%d
+__TAG__Main_Chn_Mng44	Stop Upgrade
+__TAG__Main_Chn_Mng45	Upgrading:%d
+__TAG__Main_Chn_Mng46	Waiting for upgrade
+__TAG__Main_Chn_Mng47	Upgrade completed
+__TAG__Main_Chn_Mng49	Upgrade in progress, please do not perform any operation on the device!
+__TAG__Main_Chn_Mng50	IPC batch upgrade is in progress. Use the back button or right-click for video preview!
+__TAG__Main_Chn_Mng48	IPC batch upgrade is in progress. After logging in, you can view the IPC upgrade status!
+__TAG__Main_Chn_Mng51	Please select an IPC that supports upgrade!
+__TAG__Main_Chn_Mng52	Upgrade failed
+
+__TAG__Main_Chn_Mng60	Sort Mode
+__TAG__Main_Chn_Mng61	Please select the drag sorting mode
+__TAG__Main_Chn_Mng62	Preview sorting
+__TAG__Main_Chn_Mng63	Channel sorting
+__TAG__Main_Chn_Mng64	Note: Selecting channel sorting and dragging will modify the channel number of IPC, which will result in the device reconnecting to IPC!
+__TAG__Main_Chn_Mng65	Do you want to save the sorting operation?
+__TAG__Main_Chn_Mng66	Right click to exit the current sorting mode
+
+__TAG__Main_Refresh_Finish	Detection complete
+__TAG__Main_Onekey_Detect1	OneKey Detection
+__TAG__Main_Onekey_Detect2	Channel Detection
+__TAG__Main_Onekey_Detect4	Client
+__TAG__Main_Onekey_Detect5	Camera
+__TAG__Main_Onekey_Detect6	Router
+__TAG__Main_Onekey_Detect7	Operator
+__TAG__Main_Onekey_Detect8	Cloud server
+__TAG__Main_Onekey_Detect9	The channel is in use
+__TAG__Main_Onekey_Detect11	An offline channel currently exists
+__TAG__Main_Onekey_Detect12	All channels are online
+__TAG__Main_Onekey_Detect13	Online
+__TAG__Main_Onekey_Detect14	Offline
+__TAG__Main_Onekey_Detect15	Disks
+__TAG__Main_Onekey_Detect16	Coverage period
+__TAG__Main_Onekey_Detect17	Disk capacity
+__TAG__Main_Onekey_Detect18	The channel is idle
+__TAG__Main_Onekey_Detect19	Disk not connected
+__TAG__Main_Onekey_Detect20	Disk access normal
+__TAG__Main_Onekey_Detect21	Sufficient disk space remaining
+__TAG__Main_Onekey_Detect22	Disk space exception
+__TAG__Main_Onekey_Detect23	The disk is in good health
+__TAG__Main_Onekey_Detect24	The NIC connection is normal
+__TAG__Main_Onekey_Detect25	The NIC connection is abnormal
+__TAG__Main_Onekey_Detect26	Internet disconnected
+__TAG__Main_Onekey_Detect27	Internet connected
+__TAG__Main_Onekey_Detect28	The cloud server cannot be accessed
+__TAG__Main_Onekey_Detect29	The cloud server is connected
+__TAG__Main_Onekey_Detect30	Insufficient remaining bandwidth for network reception
+__TAG__Main_Onekey_Detect31	Sufficient remaining bandwidth for network reception
+__TAG__Main_Onekey_Detect32	Channel is not connected, please check the channel configuration or network environment!
+__TAG__Main_Onekey_Detect33	Disk not connected, please handle it promptly to prevent video loss
+__TAG__Main_Onekey_Detect34	Please check if the NVR is connected to the router
+__TAG__Main_Onekey_Detect35	Please try replacing the network cable
+__TAG__Main_Onekey_Detect36	Please check that the router can connect to the Internet
+__TAG__Main_Onekey_Detect37	Please check if the DNS configuration of the NVR is correct
+__TAG__Main_Onekey_Detect38	Please check if the configuration of the router restricts NVR access to the Internet
+__TAG__Main_Onekey_Detect39	Please try lowering the MTU of your NVR
+__TAG__Main_Onekey_Detect40	Please try reducing the bitrate or the number of access paths
+__TAG__Main_Onekey_Detect41	Network receiving bandwidth usage exceeded limit
+__TAG__Main_Recv_BindWidth_Total	Total receiving bandwidth
+__TAG__Main_Recv_BindWidth	Remaining receiving bandwidth
+__TAG__Main_Send_BindWidth_Total	Total transmission bandwidth
+__TAG__Main_Send_BindWidth	Remaining transmission bandwidth
+__TAG__Main_Remote_Play_Cnt	Number of video connections
+__TAG__Main_Chn_Detect_Detail	Maximum support for accessing %d channels, %d channels have been connected, %d channels are offline. The following is the abnormal channel information:
+__TAG__Main_Chn_Detect_Inf	Detailed information
+__TAG__Main_Disk_Detect_Detail	There are a total of%d hard drive slots, and%d hard drives have been connected
+__TAG__Main_Disk_Detect1	Health status
+__TAG__Main_Disk_Detect2	Unformatted
+__TAG__Main_Disk_Detect3	Formatted
+__TAG__Main_Disk_Detect4	Mounted
+__TAG__Main_Disk_Detect5	S.M.A.R.T. detection is not enabled.
+__TAG__Main_Video_TM_5	Enabling frame extraction recording will affect the continuity of the recording. Are you sure to check this option
+__TAG__Main_Sys_Msg22	Network ID
+__TAG__Main_App_Hint9	Not connected to server: configuration exception
+__TAG__Main_App_Hint10	Not connected to server: network exception
+__TAG__Main_App_Hint11	Not connected to server: permission exception
+
+__TAG__Main_Chn_IPC2	Basic Reset
+__TAG__Main_Chn_IPC3	Factory Defaults
+__TAG__Main_Chn_IPC4	Caution: all setting will be lost after reset to factory default
+__TAG__Main_Chn_IPC5	Please be cautious when using it, the data of all original setting and IP info will be lost after restoring to factory default
+__TAG__Main_Chn_Mng32	Added Channel
+__TAG__Main_Chn_IPC0	Select restore default mode
+__TAG__Main_Chn_Dig33	Change the resolution, the camera will restart, please determine whether to continue to modify?
+__TAG__Main_Chn_Dig34	Change the resolution, some cameras will restart, please determine whether to continue to modify?
+__TAG__Main_Chn_Dig35	IPC Password
+
+__TAG__Main_Pic_Vlay56	年
+__TAG__Main_Pic_Vlay57	月
+__TAG__Main_Pic_Vlay58	日
+
+__TAG__Main_Chn_Dig36	Reminder: Select at least one intelligent alarm in alert mode. If you want to cancel, please change the fill light mode.
+__TAG__Main_Chn_Dig36.0	Smart Alarm selects at least one option in alert mode
+__TAG__Main_Chn_Dig36.1	Reminder: Smart alarm is forcibly checked in alert mode, if you need to cancel, please change the fill mode
+__TAG__Main_Chn_Dig36.2	Some cameras select at least one alarm type in alert mode, if you need to continue, such cameras will not change the current configuration, do you want to continue?
+__TAG__Main_Chn_Dig37	The camera will restart.Do you want to continue?
+
+__TAG__Main_Chn_Overlay1	Enable overlays
+__TAG__Main_Chn_Overlay2	Overlay clocks
+__TAG__Main_Chn_Overlay3	Overlay custom images
+__TAG__Main_Chn_Overlay4	Select the image
+__TAG__Main_Chn_Overlay5	If the image is not uploaded, the image overlay cannot be turned on, please open it after uploading, do you want to upload?
+__TAG__Main_Chn_Overlay6	The image is read from the root directory of the USB drive, and the uploaded image format is %s. The file size cannot exceed %dKB, otherwise it cannot be uploaded
+__TAG__Main_Chn_Overlay7	Upload an image
+__TAG__Main_Chn_Overlay8	Upload failed because the picture failed to open
+__TAG__Main_Chn_Overlay9	Upload failed because image verification failed
+__TAG__Main_Chn_Overlay10	Upload failed. It is recommended to use BMP images with a depth of 8, 16, or 24 bits
+__TAG__Main_Chn_Overlay11	The upload is successful
+__TAG__Main_Chn_Overlay12	Window custom overlay
+__TAG__Main_Chn_Overlay13	Upload failed because the image size does not meet the specification
+
+__TAG__Main_Sys_NetSnmp1	Enable SNMPv1
+__TAG__Main_Sys_NetSnmp2	Enable SNMPv2
+__TAG__Main_Sys_NetSnmp3	Enable SNMPv3
+__TAG__Main_Sys_NetSnmp4	SNMP type
+__TAG__Main_Sys_NetSnmp5	SNMP port
+__TAG__Main_Sys_NetSnmp6	Read Community Name
+__TAG__Main_Sys_NetSnmp7	Write Community Name
+__TAG__Main_Sys_NetSnmp8	Trap address
+__TAG__Main_Sys_NetSnmp9	Trap port
+__TAG__Main_Sys_NetSnmp10	Trap group name
+__TAG__Main_Sys_NetSnmp11	Read Security Name
+__TAG__Main_Sys_NetSnmp12	Write Security Name
+__TAG__Main_Sys_NetSnmp13	Security level
+__TAG__Main_Sys_NetSnmp14	Authentication algorithm
+__TAG__Main_Sys_NetSnmp15	Authentication password
+__TAG__Main_Sys_NetSnmp16	Private key algorithm
+__TAG__Main_Sys_NetSnmp17	Private key password
+__TAG__Main_Sys_NetSnmp18	There is a risk of information leakage when using SNMP V1 and V2. It is recommended to use SNMP V3.
+__TAG__Main_Sys_NetSnmp19	Read and write security names cannot be the same
+__TAG__Main_Sys_NetSnmp20	Read and write community names cannot be the same
+__TAG__Main_Sys_NetSnmp21	Password length
+
+__TAG__Main_Play_CustomClip	Custom time period clips
+__TAG__Main_Play_Clip	Clip
+__TAG__Main_Sense_OpenHint	Do you want to continue if the number of target detection preview screens is turned on automatically to %d screens?
+__TAG__Main_Play_OpenQst	Whether to enable target detection
+__TAG__Main_Next_Screen	Next Screen
+__TAG__Main_Pre_Screen	Previous Screen
+__TAG__Main_Start_Cruise	Start the rotation
+__TAG__Main_Stop_Cruise	Stop the rotation
+__TAG__Main_All_Behavior	All Vca type
+__TAG__Main_Chn_Dig31	Main stream resolution exceeded
+__TAG__Main_Play_CantClip	Recording not played
+__TAG__Main_Select_Template1	Select template
+__TAG__Main_Select_Template2	Save the custom template first
+
+__TAG__Main_Sys_UPNPHint	Note: When mapping service ports on the router, please set internal port %d and external port %d
+__TAG__Main_Sys_MultiCast	Multi-cast search
+__TAG__Main_Connection	Connection 
+__TAG__Main_Network_Mode	Network Mode
+__TAG__Main_Picture_Stream	Picture Stream
+__TAG__Main_User_PrevPerm1	Preview permission settings when locking the screen locally
+__TAG__Main_User_PrevPerm2	Preview Permission
+__TAG__Main_AccessPlatform1	Access Platform
+__TAG__Main_AccessPlatform2	Platform Enabled
+__TAG__Main_Intelligent_ALM	Intelligent(Motion) Alarm
+__TAG__Main_Chn_CamPwd	Camera Password
+__TAG__Main_Pic_2Screen	2 Screens
+__TAG__VCA_Flashing	Flashing
+__TAG__Main_Sys_NotClearLog	Keep logs. To keep logs when initializing the disk, please check the box.
+__TAG__Main_ChangeIP_Hint10	Unsupported the ONVIF protocol!
+__TAG__Main_Chn_BatchIp00	Changing IP addresses in batches
+__TAG__Main_Chn_BatchIp01	Number of selected devices:%d
+__TAG__Main_Chn_BatchIp02	Static IP
+__TAG__Main_Chn_BatchIp03	Start IP(increments 1)
+__TAG__Main_Chn_BatchIp04	Result 
+__TAG__Main_Chn_BatchIp05	When changing IP addresses in batches, wait for......
+__TAG__Main_Chn_BatchIp06	Changing IP addresses in batches is complete!
+__TAG__Main_Chn_BatchIp07	Only IPV4 address IPC can be modified!
+__TAG__Main_Chn_BatchIp08	Batch enabling DHCP
+__TAG__Main_Chn_BatchIp09	When enabling DHCP in batches, wait for......
+__TAG__Main_Chn_BatchIp10	Batch DHCP enabled complete!
+__TAG__Main_Chn_BatchIp11	Set timeout!
+
+__TAG__Main_ChangeIP_Hint8	Unsupported encryption algorithm
+__TAG__Main_ChangeIP_Hint9	Account locked.
+__TAG__Main_Pic_Vin145	Max Exposure Time
+__TAG__Main_Pic_Vin146	Min Exposure Time
+__TAG__Main_Pic_Vin147	Exposure Mode
+__TAG__Main_Pic_Vin148	Anti Flicker
+__TAG__Main_Pic_Vin149	Shutter Priority
+__TAG__Main_Pic_Vin150	Iris Priority
+__TAG__Main_Target_Mustache	Beard
+
+
+__TAG__Main_NetPort1_HINT	Attention: Network port 1 is an external network port.
+__TAG__Main_Enable_Menuwin	Enable shortcut menu
+__TAG__Main_Close_Menuwin	Disable shortcut menu

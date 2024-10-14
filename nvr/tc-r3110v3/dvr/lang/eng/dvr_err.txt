@@ -1,0 +1,153 @@
+﻿#common
+[0]{Operation failed: system busy or parameter error.}
+#storage 1000
+[1001]{Operation succeeded.}
+[1002]{This channel is recording with other recording types now.}
+[1003]{The remaining disk space is not enough.}
+[1004]{No available disk.}
+[1005]{The recording type is disabled.}
+[1006]{Port alarm recording is disabled.}
+[1007]{Video recording is unabled.}
+[1008]{This channel is not recording now.}
+[1009]{The recording type to be stopped is wrong.}
+[1010]{Wrong parameter.}
+[1011]{Open database file failed.}
+[1012]{Create index table failed.}
+[1013]{No database file.}
+[1014]{Close database failed.}
+[1015]{Write index file failed.}
+[1016]{Open disk device file failed.}
+[1017]{IO operation error.}
+[1018]{Read disk MBR failed.}
+[1019]{Illegal disk MBR.}
+[1020]{Open interactive file failed.}
+[1021]{Delete disk partition failed.}
+[1022]{Create disk partition failed.}
+[1023]{Search index file failed.}
+[1024]{Get query result counts failed.}
+[1025]{Get query result failed.}
+[1026]{No file.}
+[1027]{No directory.}
+[1028]{Unmount NFS failed.}
+[1029]{Mount NFS failed.}
+[1030]{Not enough disk space for recording.}
+[1031]{Not enough disk space for snapshot.}
+[1032]{Illegal frame header.}
+[1033]{Open file failed.}
+[1034]{Switch to post-alarm recording.}
+[1035]{No index file.}
+[1036]{The index table does not exist.}
+[1037]{Some channels are recording now.}
+[1038]{Illegal file name.}
+[1039]{Allocate RAM failed, RAM space is not enough.}
+[1040]{Write file error.}
+[1041]{Not I frame.}
+[1042]{The specified record does not exist.}
+[1043]{Rebuilding index.}
+[1044]{The directory is not empty.}
+[1045]{Read file error.}
+[1046]{Create directory failed.}
+[1047]{The disk to be formatted/partitioned is being used now.}
+[1048]{Abnormal quit of system call.}
+[1049]{The disk is invalid, or its setting is wrong.}
+[1050]{Formatting other disks.}
+[1051]{Can not support more USB devices.}
+[1052]{VOD connection reach upper limit.}
+[1053]{This file is a backup file,it can only be backup again on USB device.}
+[1054]{This Disk can not be used for backup.}
+[1055]{Please make sure the SATA HDD was mounted in the first tub.}
+[1056]{Files are not ready for burning.}
+[1057]{CD burner is not ready.}
+[1058]{No disk in the CD burner or disk is broken.}
+[1059]{Files size exceed 4200M, please choose files again.}
+[1061]{Burning is in process, please try again after it is finished.}
+[1062]{Packing is in process, please wait...}
+[1063]{Please select channel first.}
+[1064]{Not available to find video files, please check CD driver and insert CD!}
+[1065]{Device error, failed to start burning!}
+[1066]{Some channels are burning, failed to stop manual recording!}
+[1067]{Channel selected was duplicated in both CD1 and CD2, please re-select!}
+[1068]{Formatting is prohibited during burning process!}
+[1069]{Formatting is prohibited during rebuilding index!}
+[1071]{Files under recording can not be deleted!}
+[1072]{this application not allowed by the disk type}
+[1073]{Formatting is prohibited during hot-spare uploading !}
+[1099]{Operation failed.}
+[1101]{Total recorded files number exceeded 512, please select again.}
+[1113]{Operation failed, containing hard disks that do not support the formation of an array.}
+[1117]{The hard disk is not allowed to be formatted during client playback.}
+#alarm 2000
+#ptz 3000
+[3001]{Operation succeeded.}
+[3002]{Wrong parameter.}
+[3003]{Open file failed.}
+[3004]{Read file failed.}
+[3005]{Write file failed.}
+[3006]{Unsupported PTZ protocol.}
+[3007]{Create control code failed.}
+[3008]{Write data to the serial port failed.}
+[3009]{The function is disabled.}
+[3010]{The protocol is in use, can not be deleted.}
+[3011]{The device support max 64 protocols.}
+[3999]{Operation failed due to system busy.}
+#log 4000
+#system 5000
+[5001]{Operation succeeded.}
+[5002]{Wrong parameter.}
+[5003]{Open file error.}
+[5004]{Write file error.}
+[5005]{Read file error.}
+[5006]{Hardware communication error.}
+[5007]{No usable USB device.}
+[5008]{Can not connect to specified FTP server.}
+[5009]{Can not find available upgrade file.}
+[5010]{Some other clients are upgrading.}
+[5011]{Failed to get upgrade files from FTP server.}
+[5012]{Only Chinese Characters, letters and figures are allowed in file name.}
+[5025]{Local recording template setting.}
+#exception 6000
+[6001]{TWinPlayer has been deleted, please upload again}
+#serial 7000
+#user  9000
+[9001]{No permission, operation failed!}
+#view 10000
+[10001]{Max screens number is 32.}
+[10002]{Preview performance is limited.}
+#media 11000
+[11001]{The bit-rate should be less than 500kbps when framerate is less than 5.}
+[11002]{The bit-rate sum of all channels should be less than 40960kbps.}
+[11003]{OSD is illegal or overlapped!Please check the channel name and the position setting of channel name,date,time and text.}
+[11004]{Unsupported stream type.}
+[11005]{Unsupported audio compression mode.}
+[11006]{Audio encoding mode is not available for amendment when talkback.}
+[11007]{The channel is disable.}
+[11008]{The channel is disconnected.}
+[11009]{Video Analytics is not available on current channel video resolution}
+[11010]{Decoding performance reached limit, please disable some channels.}
+[11011]{NVR VCA is not available when VC channel is opened.}
+[11012]{NVR video analytics is not available}
+[11014]{NVR VCA is not supported encoding mode.}
+[11015]{IPC is not available}
+[11016]{Decoding performance reach limit,NVR video analytics is not available}
+[11017]{IPC doesn't support simultaneous enabling of smart analysis and communication business}
+#network 12000
+[12001]{The first field of IP address is not among 1 to 223.}
+[12002]{It is not a valid combination for network address and  mask.}
+[12003]{IP address exceeded 255.}
+[12004]{Illegal NTP parameter setting.}
+[12005]{NTP timing gap is not among 1 to 720.}
+[12006]{Network retransmission.}
+[12008]{IP address and gateway are not in the same segment.}
+[12009]{Illegal subnet mask.}
+[12010]{IP address of two NICs can not be in the same network segment.}
+[12011]{You cannot modify the dialing method while dialing.}
+[12013]{IPv6 network addresses are not valid}
+[12100]{The user name is incorrect.}
+[12101]{The password is incorrect.}
+[12102]{Account lockout.}
+[12103]{The maximum number of connections has been reached.}
+#vcaface 14000
+[14001]{NVR face detection performance upper limit.}
+[14002]{NVR face recognition performance upper limit.}
+[1074]{Don't allow formatting of the hard drive during the upload of the basemap!}
+[1075]{HDD formatting not allowed during raid5 fast initialization!}
